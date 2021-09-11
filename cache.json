@@ -12,22 +12,22 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "http://libreelec.tv/2021/08/26/libreelec-matrix-10-0/",
+          "author": null,
+          "description": "Comments",
+          "link": "http://libreelec.tv/2021/08/26/libreelec-matrix-10-0/",
+          "publishedOn": "2021-09-11T01:26:12.000Z",
+          "wordCount": 829,
+          "title": "LibreELEC 10.0.0"
+        },
+        {
           "id": "https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/",
           "author": null,
           "description": "Comments",
           "link": "https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/",
           "publishedOn": "2021-09-10T22:59:53.000Z",
-          "wordCount": 973,
+          "wordCount": 992,
           "title": "PalmOS on Raspberry Pi"
-        },
-        {
-          "id": "https://www.drorpoleg.com/pulling-a-bezos/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.drorpoleg.com/pulling-a-bezos/",
-          "publishedOn": "2021-09-10T22:49:07.000Z",
-          "wordCount": 1004,
-          "title": "Andreessen Pulls a Bezos"
         },
         {
           "id": "https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/",
@@ -37,15 +37,6 @@
           "publishedOn": "2021-09-10T22:36:29.000Z",
           "wordCount": 6384,
           "title": "Indra – Hackers Behind Recent Attacks on Iran"
-        },
-        {
-          "id": "https://tracingwoodgrains.medium.com/how-one-tight-knit-circle-of-internet-troublemakers-convinced-professional-journalists-they-were-ac05459aa4c5",
-          "author": null,
-          "description": "Comments",
-          "link": "https://tracingwoodgrains.medium.com/how-one-tight-knit-circle-of-internet-troublemakers-convinced-professional-journalists-they-were-ac05459aa4c5",
-          "publishedOn": "2021-09-10T22:29:59.000Z",
-          "wordCount": 1992,
-          "title": "Trolls convinced journalists they were “abortion bounty hunters”"
         },
         {
           "id": "https://www.lunarvim.org",
@@ -64,15 +55,6 @@
           "publishedOn": "2021-09-10T21:49:32.000Z",
           "wordCount": 655,
           "title": "Wait, Did AS8003 just disappear?"
-        },
-        {
-          "id": "https://git.sequentialread.com/forest/pow-captcha",
-          "author": null,
-          "description": "Comments",
-          "link": "https://git.sequentialread.com/forest/pow-captcha",
-          "publishedOn": "2021-09-10T21:09:09.000Z",
-          "wordCount": 4323,
-          "title": "POW Captcha: a lightweight, self-hosted proof-of-work captcha"
         },
         {
           "id": "https://careers.atob.com/",
@@ -134,7 +116,7 @@
           "description": "Comments",
           "link": "https://www.atlasobscura.com/articles/radioactive-atomic-gardening",
           "publishedOn": "2021-09-10T18:05:51.000Z",
-          "wordCount": 2694,
+          "wordCount": 2689,
           "title": "Atomic Gardening"
         },
         {
@@ -246,6 +228,24 @@
           "title": "A.I. can now write its own computer code – that’s good news for humans"
         },
         {
+          "id": "https://www.macrumors.com/2021/09/10/revamped-apple-maps-rolls-out-italy/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.macrumors.com/2021/09/10/revamped-apple-maps-rolls-out-italy/",
+          "publishedOn": "2021-09-10T10:30:19.000Z",
+          "wordCount": 2316,
+          "title": "Revamped Apple Maps Rolls Out Across Italy"
+        },
+        {
+          "id": "https://june.so/template/retention",
+          "author": null,
+          "description": "Comments",
+          "link": "https://june.so/template/retention",
+          "publishedOn": "2021-09-10T10:08:12.000Z",
+          "wordCount": 2152,
+          "title": "User Retention"
+        },
+        {
           "id": "http://www.mattmillman.com/why-that-thunderbolt-add-in-card-doesnt-work-properly-in-your-unsupported-pc/",
           "author": null,
           "description": "Comments",
@@ -255,13 +255,13 @@
           "title": "Why that Thunderbolt add-in card doesn't work properly in your unsupported PC"
         },
         {
-          "id": "https://about.scarf.sh/post/direct-downloads-via-scarf-gateway",
+          "id": "https://www.youtube.com/watch?v=6w9dFNRtqlg",
           "author": null,
           "description": "Comments",
-          "link": "https://about.scarf.sh/post/direct-downloads-via-scarf-gateway",
-          "publishedOn": "2021-09-09T16:00:03.000Z",
-          "wordCount": 589,
-          "title": "Show HN: Measure downloads and commercial adoption of any file you distribute"
+          "link": "https://www.youtube.com/watch?v=6w9dFNRtqlg",
+          "publishedOn": "2021-09-09T23:23:52.000Z",
+          "wordCount": null,
+          "title": "A Battery Spot Welder Made from an Old Microwave and Excessive Mahogany [video]"
         },
         {
           "id": "https://www.bryanbraun.com/checkboxland/docs/demos/webcam-test/",
@@ -278,7 +278,7 @@
           "description": "Comments",
           "link": "https://hyperallergic.com/672345/vermeer-restoration-finally-complete-reveals-a-painting-within-a-painting/",
           "publishedOn": "2021-09-09T12:15:11.000Z",
-          "wordCount": 1379,
+          "wordCount": 1396,
           "title": "Vermeer Restoration Reveals a Painting Within a Painting"
         }
       ]
@@ -649,7 +649,7 @@
           "description": "Intel-owned Habana Labs now has the most open software stack among AI accelerators! While Habana Labs has long provided an open-source, upstream kernel driver for their Gaudi AI training and Goya AI inference accelerators, the user-space portions including their code compiler and run-time library have been closed-source. This has been a thorn for upstream kernel developers and their standards, but now Habana Labs has open-sourced their user-space components too...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Hababa-Labs-Open-Compiler-AI",
           "publishedOn": "2021-09-10T10:00:00.000Z",
-          "wordCount": 909,
+          "wordCount": 989,
           "title": "Habana Labs Opens Up The Code To Their AI Compiler, SynapseAI Core"
         },
         {
@@ -658,7 +658,7 @@
           "description": "Last week a number of patches were merged in the quest to provide the kernel with comprehensive compile-time and run-time detection of buffer overflows. Another patch series was sent out today while still for this cycle they are expected to enable the compiler warnings around array-bounds and zero-length-bounds...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-More-BO-Detection",
           "publishedOn": "2021-09-10T09:29:40.000Z",
-          "wordCount": 810,
+          "wordCount": 808,
           "title": "Linux 5.15 Readies More Code For Compile & Run-Time Detection Of Buffer Overflows"
         },
         {
@@ -685,7 +685,7 @@
           "description": "At the moment when running the X.Org Server in a multi-monitor configuration with displays of different refresh rates, it can lead to a poor experience with a variety of visual deficiencies when running an unredirected full-screen window with page-flipping for DRI3/Present. There is now a change that was merged into the X.Org Server with a new \"AsyncFlipSecondaries\" to improve that experience when running multiple displays of varying refresh rates...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=X.Org-AsyncFlipSecondaries",
           "publishedOn": "2021-09-09T20:00:55.000Z",
-          "wordCount": 920,
+          "wordCount": 1000,
           "title": "X.Org Server Adds \"AsyncFlipSecondaries\" To Deal With Crappy Multi-Monitor Experience"
         },
         {
@@ -694,7 +694,7 @@
           "description": "While now into September, Microsoft just published its \"August 2021\" update to their CBL-Mariner Linux distribution with a variety of changes...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=CBL-Mariner-August-2021",
           "publishedOn": "2021-09-09T19:21:12.000Z",
-          "wordCount": 847,
+          "wordCount": 801,
           "title": "Microsoft Releases Its August Update For The CBL-Mariner Linux Distribution"
         },
         {
@@ -703,7 +703,7 @@
           "description": "The Intel-led open-source Cloud-Hypervisor project building off Linux's KVM (and also supporting Microsoft MSHV) and being cloud-focused and leveraging the Rust programming language for greater security is out with its newest major release...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Cloud-Hypervisor-18",
           "publishedOn": "2021-09-09T18:37:01.000Z",
-          "wordCount": 770,
+          "wordCount": 850,
           "title": "Intel's Cloud-Hypervisor 18.0 Brings AArch64 Improvements, VHDX Disk Image Support"
         },
         {
@@ -757,7 +757,7 @@
           "description": "One of the nice low-level improvements we've seen with Linux 5.15 is a number of pieces falling into place in the quest of upstreaming the real-time (RT) patches for Linux. The latest merge makes SLUB RT-compatible...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=SLUB-Linux-RT-Compatible",
           "publishedOn": "2021-09-09T04:00:00.000Z",
-          "wordCount": 816,
+          "wordCount": 896,
           "title": "SLUB Adapted To Be Real-Time Linux Compatible (PREEMPT_RT)"
         },
         {
@@ -784,7 +784,7 @@
           "description": "For those wondering how the upcoming Ubuntu 21.10 release is looking for Intel \"Rocket Lake\" owners, here are some Ubuntu 21.04 versus 21.10 development benchmarks across dozens of different tests...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-21.10-Rocket-Lake",
           "publishedOn": "2021-09-08T19:15:22.000Z",
-          "wordCount": 923,
+          "wordCount": 843,
           "title": "Ubuntu 21.10 Delivering Some Performance Gains On The Intel Core i9 11900K"
         },
         {
@@ -820,7 +820,7 @@
           "description": "Facebook last week formally announced CacheLib as their new open-source caching engine designed for web scale services and to make for effective non-volatile memory caching to offset the increasing costs of DRAM...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Facebook-Open-Source-CacheLib",
           "publishedOn": "2021-09-08T10:22:22.000Z",
-          "wordCount": 847,
+          "wordCount": 767,
           "title": "Facebook Opens Up CacheLib As Their New Caching Engine"
         },
         {
@@ -838,7 +838,7 @@
           "description": "In addition to Linus Torvalds dealing with the -Werror fallout, separately in kernel land there were also some significant performance regressions introduced during the Linux 5.15 that led to Linus reverting some of the changes...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-Memcg-Regressions",
           "publishedOn": "2021-09-08T09:37:14.000Z",
-          "wordCount": 879,
+          "wordCount": 888,
           "title": "Linux 5.15 Hit By Some Early Performance Regressions But Quickly Reverted"
         },
         {
@@ -847,7 +847,7 @@
           "description": "Landing this past weekend was the surprise move by Linus Torvalds to enable \"-Werror\" behavior by default for all kernel builds. That compiler flag addition makes all warnings be treated as errors, which in turn stops the kernel build. As expected, this change has led to quite a mess...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-Werror-Pain",
           "publishedOn": "2021-09-08T00:48:10.000Z",
-          "wordCount": 1170,
+          "wordCount": 1161,
           "title": "Linux 5.15's New \"-Werror\" Behavior Is Causing A Lot Of Pain"
         },
         {
@@ -865,7 +865,7 @@
           "description": "The Linux 5.15 Kernel-based Virtual Machine (KVM) changes this cycle are quite exciting on the x86 (x86_64) front with several prominent additions...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-KVM",
           "publishedOn": "2021-09-07T18:43:51.000Z",
-          "wordCount": 995,
+          "wordCount": 1029,
           "title": "Linux 5.15 KVM Defaults To The New x86 TDP MMU, Enables AMD SVM 5-Level Paging"
         },
         {
@@ -874,7 +874,7 @@
           "description": "While The Khronos Group previously hosted in-person Vulkan events, due to the ongoing COVID-19 pandemic their \"Vulkanised 2021\" event next month has morphed into a free virtual event...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Vulkanised-2021-Next-Month",
           "publishedOn": "2021-09-07T17:23:04.000Z",
-          "wordCount": 768,
+          "wordCount": 688,
           "title": "The Khronos Group Is Hosting A Virtual Vulkan Event Next Month"
         },
         {
@@ -883,7 +883,7 @@
           "description": "Recently with my Linux benchmarks of the Ryzen 5 5600G and Ryzen 7 5700G Zen 3 APUs with Radeon Vega graphics I touched on the GPU graphics/compute performance in some of the basic benchmarks while in this article are a number of Steam Play and native Linux gaming benchmarks for looking at the potential for these latest-generation desktop APUs for Linux gaming.",
           "link": "https://www.phoronix.com/vr.php?view=30505",
           "publishedOn": "2021-09-07T13:20:00.000Z",
-          "wordCount": 794,
+          "wordCount": 748,
           "title": "AMD Ryzen 5 5600G / Ryzen 7 5700G Linux Gaming Benchmarks"
         },
         {
@@ -1197,6 +1197,12 @@
           "title": "What’s new in Grafana Enterprise Metrics 1.5: Per-tenant usage metrics and a wildcard tenant for queries"
         }
       ]
+    },
+    {
+      "title": "the morning paper",
+      "feedUrl": "https://blog.acolyer.org/feed/",
+      "siteUrl": "https://blog.acolyer.org",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.0"

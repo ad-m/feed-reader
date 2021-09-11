@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-11T01:35:35.230Z</id>
+    <id>urn:2021-09-11T04:00:36.062Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-11T01:35:35.230Z</updated>
+    <updated>2021-09-11T04:00:36.062Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -20,6 +20,16 @@
                                                                                               96                                                                               table { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }             .mj-outlook-group-fix { width:100% !important; }             .block-grid-outlook .button-container a {background: transparent !important;}                  …]]></summary>
         <author>
             <name>Infrastructure as a Newsletter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LibreELEC 10.0.0]]></title>
+        <id>http://libreelec.tv/2021/08/26/libreelec-matrix-10-0/</id>
+        <link href="http://libreelec.tv/2021/08/26/libreelec-matrix-10-0/"/>
+        <updated>2021-09-11T01:26:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -236,30 +246,10 @@ Create another inbox]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Andreessen Pulls a Bezos]]></title>
-        <id>https://www.drorpoleg.com/pulling-a-bezos/</id>
-        <link href="https://www.drorpoleg.com/pulling-a-bezos/"/>
-        <updated>2021-09-10T22:49:07.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Indra – Hackers Behind Recent Attacks on Iran]]></title>
         <id>https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/</id>
         <link href="https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/"/>
         <updated>2021-09-10T22:36:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trolls convinced journalists they were “abortion bounty hunters”]]></title>
-        <id>https://tracingwoodgrains.medium.com/how-one-tight-knit-circle-of-internet-troublemakers-convinced-professional-journalists-they-were-ac05459aa4c5</id>
-        <link href="https://tracingwoodgrains.medium.com/how-one-tight-knit-circle-of-internet-troublemakers-convinced-professional-journalists-they-were-ac05459aa4c5"/>
-        <updated>2021-09-10T22:29:59.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -280,16 +270,6 @@ Create another inbox]]></summary>
         <id>https://www.kentik.com/blog/wait-did-as8003-just-disappear/</id>
         <link href="https://www.kentik.com/blog/wait-did-as8003-just-disappear/"/>
         <updated>2021-09-10T21:49:32.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POW Captcha: a lightweight, self-hosted proof-of-work captcha]]></title>
-        <id>https://git.sequentialread.com/forest/pow-captcha</id>
-        <link href="https://git.sequentialread.com/forest/pow-captcha"/>
-        <updated>2021-09-10T21:09:09.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -566,6 +546,26 @@ discussion on the merits of the folio approach.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Revamped Apple Maps Rolls Out Across Italy]]></title>
+        <id>https://www.macrumors.com/2021/09/10/revamped-apple-maps-rolls-out-italy/</id>
+        <link href="https://www.macrumors.com/2021/09/10/revamped-apple-maps-rolls-out-italy/"/>
+        <updated>2021-09-10T10:30:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[User Retention]]></title>
+        <id>https://june.so/template/retention</id>
+        <link href="https://june.so/template/retention"/>
+        <updated>2021-09-10T10:08:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Habana Labs Opens Up The Code To Their AI Compiler, SynapseAI Core]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Hababa-Labs-Open-Compiler-AI</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Hababa-Labs-Open-Compiler-AI"/>
@@ -627,6 +627,16 @@ Starting with the Time series panel, we’ve added a new graph style option call
 Here’s a line chart with the Gradient mod…]]></summary>
         <author>
             <name>Grafana Labs Blog on Grafana Labs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Battery Spot Welder Made from an Old Microwave and Excessive Mahogany [video]]]></title>
+        <id>https://www.youtube.com/watch?v=6w9dFNRtqlg</id>
+        <link href="https://www.youtube.com/watch?v=6w9dFNRtqlg"/>
+        <updated>2021-09-09T23:23:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -693,16 +703,6 @@ the solution to a lot of low-level programming problems:
         <summary type="html"><![CDATA[Akin to FUSE for file-systems in user-space, VDUSE is set to be merged for Linux 5.15 in adding support for vDPA devices in user-space...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Measure downloads and commercial adoption of any file you distribute]]></title>
-        <id>https://about.scarf.sh/post/direct-downloads-via-scarf-gateway</id>
-        <link href="https://about.scarf.sh/post/direct-downloads-via-scarf-gateway"/>
-        <updated>2021-09-09T16:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
