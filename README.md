@@ -2,6 +2,8 @@
 
 This is repository hosts the UI and content of an RSS feed reader.
 
+To see content, visit [ad-m.github.io/feed-reader/](https://ad-m.github.io/feed-reader/) .
+
 ## Links and references
 
 - [How does it work?](https://github.com/osmoscraft/osmosfeed#osmosfeed)
