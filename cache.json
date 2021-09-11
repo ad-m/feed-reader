@@ -622,7 +622,7 @@
           "description": "Wine 6.17 is out as the latest bi-weekly development release as we move closer towards the Wine 7.0 release around the start of the new year...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Wine-6.17-Released",
           "publishedOn": "2021-09-10T20:30:43.000Z",
-          "wordCount": 828,
+          "wordCount": 748,
           "title": "Wine 6.17 Released With Better HiDPI Support For Built-In Apps"
         },
         {
@@ -640,7 +640,7 @@
           "description": "With less than one month out from the official release of Microsoft Windows 11, I was curious to run some fresh benchmarks of the latest Windows 11 Insider Preview build against Windows 10 21H1 to see how the performance is looking. Of course, also to see how Windows 11 is shaping up against Ubuntu 21.10 also due for release in October.",
           "link": "https://www.phoronix.com/vr.php?view=30514",
           "publishedOn": "2021-09-10T11:55:19.000Z",
-          "wordCount": 880,
+          "wordCount": 846,
           "title": "Ubuntu 21.10 Performance Still Pushing Ahead Of Windows 10, Latest Windows 11 Build"
         },
         {
@@ -649,7 +649,7 @@
           "description": "Intel-owned Habana Labs now has the most open software stack among AI accelerators! While Habana Labs has long provided an open-source, upstream kernel driver for their Gaudi AI training and Goya AI inference accelerators, the user-space portions including their code compiler and run-time library have been closed-source. This has been a thorn for upstream kernel developers and their standards, but now Habana Labs has open-sourced their user-space components too...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Hababa-Labs-Open-Compiler-AI",
           "publishedOn": "2021-09-10T10:00:00.000Z",
-          "wordCount": 955,
+          "wordCount": 909,
           "title": "Habana Labs Opens Up The Code To Their AI Compiler, SynapseAI Core"
         },
         {
@@ -667,7 +667,7 @@
           "description": "While Vulkan is quickly taking over as the dominant graphics API for Linux gamers especially with the likes of DXVK and VKD3D-Proton mapping Direct3D atop Vulkan, OpenGL remains widely used by workstation software. It's also for workstation software where AMD's \"PRO\" closed-source OpenGL Linux driver has traditionally competed well (and outperformed) the open-source Mesa driver. But with all the recent changes, that's either a matter of the past or close to not being relevant with the latest Mesa enhancements...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=RadeonSI-VBO-DLIST-Opt",
           "publishedOn": "2021-09-10T07:00:00.000Z",
-          "wordCount": 1015,
+          "wordCount": 935,
           "title": "AMD Just Squeezed More Workstation Performance Out Of Its RadeonSI Driver"
         },
         {
@@ -676,7 +676,7 @@
           "description": "Over the past two years we have seen work around bringing up privacy screen support on Linux whereby an increasing number of laptops can reduce the amount of visible light when viewed at wide angles to try to block the screen contents from anyone potentially snooping at the screen. Ready to go now is the DRM/KMS user-space interface and the Intel graphics driver support now that there is a user-space \"client\" ready...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Privacy-Screen-DRM-Ready",
           "publishedOn": "2021-09-10T04:00:00.000Z",
-          "wordCount": 970,
+          "wordCount": 1050,
           "title": "Privacy-Screen DRM API With Intel Support Ready Now That GNOME Is Prepared To Use It"
         },
         {
@@ -694,7 +694,7 @@
           "description": "While now into September, Microsoft just published its \"August 2021\" update to their CBL-Mariner Linux distribution with a variety of changes...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=CBL-Mariner-August-2021",
           "publishedOn": "2021-09-09T19:21:12.000Z",
-          "wordCount": 801,
+          "wordCount": 847,
           "title": "Microsoft Releases Its August Update For The CBL-Mariner Linux Distribution"
         },
         {
@@ -757,7 +757,7 @@
           "description": "One of the nice low-level improvements we've seen with Linux 5.15 is a number of pieces falling into place in the quest of upstreaming the real-time (RT) patches for Linux. The latest merge makes SLUB RT-compatible...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=SLUB-Linux-RT-Compatible",
           "publishedOn": "2021-09-09T04:00:00.000Z",
-          "wordCount": 896,
+          "wordCount": 816,
           "title": "SLUB Adapted To Be Real-Time Linux Compatible (PREEMPT_RT)"
         },
         {
@@ -766,7 +766,7 @@
           "description": "Ahead of the official GNOME 41 release later this month, the release candidate is now available to facilitate more testing...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=GNOME-41-RC",
           "publishedOn": "2021-09-08T23:05:04.000Z",
-          "wordCount": 907,
+          "wordCount": 836,
           "title": "GNOME 41 Release Candidate Arrives With Many Improvements"
         },
         {
@@ -775,7 +775,7 @@
           "description": "The DAMON kernel functionality developed by Amazon engineers has successfully landed in the Linux 5.15 tree...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=DAMON-Merged-Linux-5.15",
           "publishedOn": "2021-09-08T20:22:39.000Z",
-          "wordCount": 952,
+          "wordCount": 1032,
           "title": "Amazon's DAMON Merged Into Linux 5.15 For Data Access Monitoring Framework"
         },
         {
@@ -784,7 +784,7 @@
           "description": "For those wondering how the upcoming Ubuntu 21.10 release is looking for Intel \"Rocket Lake\" owners, here are some Ubuntu 21.04 versus 21.10 development benchmarks across dozens of different tests...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-21.10-Rocket-Lake",
           "publishedOn": "2021-09-08T19:15:22.000Z",
-          "wordCount": 843,
+          "wordCount": 923,
           "title": "Ubuntu 21.10 Delivering Some Performance Gains On The Intel Core i9 11900K"
         },
         {
@@ -793,7 +793,7 @@
           "description": "Since last year AMD has been working to get its s2idle / suspend-to-idle S0ix sleep state code in order for supporting this lowest power platform idle state on newer AMD laptops and there has also been other AMD suspend/resume improvements in recent times. Now with the Linux 5.15 kernel cycle is an important fix for the AMD s2idle code...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=AMD-S2idle-Fix-Linux-5.15",
           "publishedOn": "2021-09-08T18:47:10.000Z",
-          "wordCount": 970,
+          "wordCount": 890,
           "title": "AMD Has An Important Suspend/Resume Fix With Linux 5.15"
         },
         {
@@ -811,7 +811,7 @@
           "description": "OverlayFS continues to be used by Linux IoT/embedded devices and other use-cases as a union mount file-system. With Linux 5.15 the OverlayFS file-system continues to improve...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-OverlayFS",
           "publishedOn": "2021-09-08T11:02:28.000Z",
-          "wordCount": 724,
+          "wordCount": 804,
           "title": "OverlayFS On Linux 5.15 Improves Performance, Copies Up More Attributes"
         },
         {
@@ -820,7 +820,7 @@
           "description": "Facebook last week formally announced CacheLib as their new open-source caching engine designed for web scale services and to make for effective non-volatile memory caching to offset the increasing costs of DRAM...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Facebook-Open-Source-CacheLib",
           "publishedOn": "2021-09-08T10:22:22.000Z",
-          "wordCount": 767,
+          "wordCount": 847,
           "title": "Facebook Opens Up CacheLib As Their New Caching Engine"
         },
         {
@@ -838,7 +838,7 @@
           "description": "In addition to Linus Torvalds dealing with the -Werror fallout, separately in kernel land there were also some significant performance regressions introduced during the Linux 5.15 that led to Linus reverting some of the changes...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-Memcg-Regressions",
           "publishedOn": "2021-09-08T09:37:14.000Z",
-          "wordCount": 888,
+          "wordCount": 879,
           "title": "Linux 5.15 Hit By Some Early Performance Regressions But Quickly Reverted"
         },
         {
@@ -847,7 +847,7 @@
           "description": "Landing this past weekend was the surprise move by Linus Torvalds to enable \"-Werror\" behavior by default for all kernel builds. That compiler flag addition makes all warnings be treated as errors, which in turn stops the kernel build. As expected, this change has led to quite a mess...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-Werror-Pain",
           "publishedOn": "2021-09-08T00:48:10.000Z",
-          "wordCount": 1161,
+          "wordCount": 1170,
           "title": "Linux 5.15's New \"-Werror\" Behavior Is Causing A Lot Of Pain"
         },
         {
@@ -865,7 +865,7 @@
           "description": "The Linux 5.15 Kernel-based Virtual Machine (KVM) changes this cycle are quite exciting on the x86 (x86_64) front with several prominent additions...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-KVM",
           "publishedOn": "2021-09-07T18:43:51.000Z",
-          "wordCount": 949,
+          "wordCount": 995,
           "title": "Linux 5.15 KVM Defaults To The New x86 TDP MMU, Enables AMD SVM 5-Level Paging"
         },
         {
@@ -883,7 +883,7 @@
           "description": "Recently with my Linux benchmarks of the Ryzen 5 5600G and Ryzen 7 5700G Zen 3 APUs with Radeon Vega graphics I touched on the GPU graphics/compute performance in some of the basic benchmarks while in this article are a number of Steam Play and native Linux gaming benchmarks for looking at the potential for these latest-generation desktop APUs for Linux gaming.",
           "link": "https://www.phoronix.com/vr.php?view=30505",
           "publishedOn": "2021-09-07T13:20:00.000Z",
-          "wordCount": 828,
+          "wordCount": 794,
           "title": "AMD Ryzen 5 5600G / Ryzen 7 5700G Linux Gaming Benchmarks"
         },
         {
@@ -996,6 +996,205 @@
           "publishedOn": "2021-09-11T01:21:06.000Z",
           "wordCount": 45,
           "title": "“DevOps'ish” inbox created"
+        }
+      ]
+    },
+    {
+      "title": "Cloud Native Computing Foundation",
+      "feedUrl": "https://www.cncf.io/feed/",
+      "siteUrl": "https://www.cncf.io",
+      "articles": [
+        {
+          "id": "https://www.cncf.io/?p=64511",
+          "author": "Jessie",
+          "description": "Guest post originally published on InfraCloud’s blog by Tayyab Jamadar Prometheus has been the flag bearer for monitoring the systems for a long time now. It has proved itself as a go-to...",
+          "link": "https://www.cncf.io/blog/2021/09/10/prometheus-ha-with-thanos-sidecar-or-receiver/",
+          "publishedOn": "2021-09-10T15:00:00.000Z",
+          "wordCount": 1888,
+          "title": "Prometheus HA with Thanos sidecar or receiver?"
+        },
+        {
+          "id": "https://www.cncf.io/?p=64488",
+          "author": "Jessie",
+          "description": "Guest post originally published on Logiq’s blog by Ajit Chelat, Citrix Kubernetes is one of the leaders in the container orchestration market. A recent survey by Cloud Native Computing Foundation (CNCF) suggests that 84%...",
+          "link": "https://www.cncf.io/blog/2021/09/09/how-to-detect-runtime-threats-in-kubernetes/",
+          "publishedOn": "2021-09-09T15:00:00.000Z",
+          "wordCount": 1512,
+          "title": "How to detect runtime threats in Kubernetes"
+        },
+        {
+          "id": "https://www.cncf.io/?p=64499",
+          "author": "Katie Meinders",
+          "description": "With global data creation predicted to hit 180 zettabytes by 2025, leading data storage provider Seagate needed to introduce greater automation at immense scale to its operations, to ensure it could keep...",
+          "link": "https://www.cncf.io/blog/2021/09/08/how-seagate-runs-real-time-analytics-at-the-edge/",
+          "publishedOn": "2021-09-08T15:01:00.000Z",
+          "wordCount": 797,
+          "title": "How Seagate runs real-time analytics at the Edge"
+        },
+        {
+          "id": "https://www.cncf.io/?p=64496",
+          "author": "Jessie",
+          "description": "Guest post from SUSE originally published on the SUSE community page In Episode 1 of the OCTOpod, Alan Clark talks with Thierry Carrez about open source communities: what they are, how they...",
+          "link": "https://www.cncf.io/blog/2021/09/08/octopod-episode-1-what-is-an-open-source-community/",
+          "publishedOn": "2021-09-08T15:00:00.000Z",
+          "wordCount": 4454,
+          "title": "Octopod Episode 1: What is an open source community?",
+          "enclosure": {
+            "url": "https://episodes.buzzsprout.com/x3fb1kpqf50yl06v52ww8x2543dp",
+            "length": "16680266",
+            "type": ""
+          }
+        },
+        {
+          "id": "https://www.cncf.io/?p=64483",
+          "author": "Jessie",
+          "description": "Guest post originally published on Flux’s blog by Daniel Holback, Flux maintainer As the Flux family of projects and its communities are growing, we strive to inform you each month about what...",
+          "link": "https://www.cncf.io/blog/2021/09/07/flux-september-2021-update/",
+          "publishedOn": "2021-09-07T15:00:00.000Z",
+          "wordCount": 1862,
+          "title": "Flux: September 2021 update"
+        },
+        {
+          "id": "https://www.cncf.io/?p=64473",
+          "author": "Jessie",
+          "description": "Guest post originally published on the New Relic blog by Alan West and Lavanya Chockalingam This blog post is part of the Understand OpenTelemetry series. Part 1 provided an overview to OpenTelemetry and why it is the future...",
+          "link": "https://www.cncf.io/blog/2021/09/06/understand-opentelemetry-part-3-data-sources/",
+          "publishedOn": "2021-09-06T15:00:00.000Z",
+          "wordCount": 1505,
+          "title": "Understand OpenTelemetry part 3: data sources"
+        },
+        {
+          "id": "https://www.cncf.io/?p=64455",
+          "author": "Jessie",
+          "description": "Guest post originally published on the ARMO blog by Ben Hirschberg, VP R&D & Co-founder, ARMO The National Security Agency (NSA) and the Cybersecurity and Infrastructure Security Agency (CISA) have published comprehensive...",
+          "link": "https://www.cncf.io/blog/2021/09/03/kubescape-the-first-open-source-tool-for-running-nsa-and-cisa-kubernetes-hardening-tests/",
+          "publishedOn": "2021-09-03T15:00:00.000Z",
+          "wordCount": 623,
+          "title": "Kubescape: The first open source tool for running NSA and CISA Kubernetes hardening tests"
+        },
+        {
+          "id": "https://www.cncf.io/?p=64432",
+          "author": "Jessie",
+          "description": "Guest post originally published on Snapt’s blog by Craig Risi More organizations are using containers as a mechanism for driving their cloud-native applications. Some organizations have hundreds of small containers across many...",
+          "link": "https://www.cncf.io/blog/2021/09/02/best-practices-for-load-balancing-kubernetes-containers/",
+          "publishedOn": "2021-09-02T15:00:00.000Z",
+          "wordCount": 1776,
+          "title": "Best practices for load balancing Kubernetes containers"
+        },
+        {
+          "id": "https://www.cncf.io/?p=64429",
+          "author": "Jessie",
+          "description": "Guest post originally published on PingCAP’s blog by Zhiqiang Zhou, Research Scientist at Alibaba Group On July 23, 2021, Chaos Mesh 2.0 was made generally available! It’s an exciting release, marking a...",
+          "link": "https://www.cncf.io/blog/2021/09/01/chaos-mesh-2-0-ga-to-a-chaos-engineering-ecology/",
+          "publishedOn": "2021-09-01T15:00:00.000Z",
+          "wordCount": 1219,
+          "title": "Chaos Mesh 2.0 GA: To a chaos engineering ecology"
+        },
+        {
+          "id": "https://www.cncf.io/?p=64343",
+          "author": "Jessie",
+          "description": "Guest post by KubeEdge Maintainers Introduction KubeEdge is an open-source edge computing platform. Based on the native container orchestration and scheduling capabilities of Kubernetes, KubeEdge achieves functionalities such as cloud-edge synergy, edge...",
+          "link": "https://www.cncf.io/blog/2021/08/31/harmonycloud-promotes-edge-computing-implementation/",
+          "publishedOn": "2021-08-31T15:00:00.000Z",
+          "wordCount": 1207,
+          "title": "HarmonyCloud promotes edge computing implementation"
+        }
+      ]
+    },
+    {
+      "title": "Grafana Labs Blog on Grafana Labs",
+      "feedUrl": "https://grafana.com/blog/index.xml",
+      "siteUrl": "https://grafana.com/blog/",
+      "articles": [
+        {
+          "id": "https://grafana.com/blog/2021/09/10/new-in-grafana-8.1-gradient-mode-for-time-series-visualizations-and-dynamic-panel-configuration/",
+          "author": null,
+          "description": "Grafana 8 brought with it many exciting new features, including the launch of a new alerting system and the expansion of Grafana’s live and streaming data functionality. \nWe didn’t stop there. In Grafana 8.1, alongside new additions like the Geomap and Annotations panel, we introduced some new features to the Time series panel as well as two transformations to help make panel configuration more dynamic.\nGradient mode for Time series panels\nStarting with the Time series panel, we’ve added a new graph style option called Gradient mode. This option enables you to color a line or bar by using the values set in the Thresholds settings or a predefined color scale. As your data crosses the defined threshold(s), the color of the line will change to match. \nHere’s a line chart with the Gradient mod…",
+          "link": "https://grafana.com/blog/2021/09/10/new-in-grafana-8.1-gradient-mode-for-time-series-visualizations-and-dynamic-panel-configuration/",
+          "publishedOn": "2021-09-10T00:00:00.000Z",
+          "wordCount": 1096,
+          "title": "New in Grafana 8.1: Gradient mode for Time series visualizations and dynamic panel configuration"
+        },
+        {
+          "id": "https://grafana.com/blog/2021/09/09/how-to-use-aws-iot-sitewise-edge-and-grafana-to-collect-and-monitor-industrial-data-on-premises/",
+          "author": null,
+          "description": "Tajammal is passionate about developing delightful zero to one experiences. He is currently a Product Manager on AWS IoT SiteWise, focusing on SiteWise Edge to empower industrial customers with operational insights. You can connect with him on LinkedIn.\nThe AWS IoT SiteWise plugin for Grafana was created to enable AWS IoT SiteWise customers to visualize and monitor industrial equipment data using Grafana dashboards. Industrial customers use AWS IoT SiteWise to collect, process, and monitor their industrial data at scale. This plugin allows them to use Grafana dashboards to monitor this data, stored by AWS IoT SiteWise in the AWS Cloud. We are now adding support for the SiteWise Edge feature to the AWS IoT SiteWise plugin, which will enable Grafana users to monitor industrial data processed…",
+          "link": "https://grafana.com/blog/2021/09/09/how-to-use-aws-iot-sitewise-edge-and-grafana-to-collect-and-monitor-industrial-data-on-premises/",
+          "publishedOn": "2021-09-09T00:00:00.000Z",
+          "wordCount": 2410,
+          "title": "How to use AWS IoT SiteWise Edge and Grafana to collect and monitor industrial data on-premises"
+        },
+        {
+          "id": "https://grafana.com/blog/2021/09/08/dont-miss-the-live-webinar-on-getting-started-with-grafana-8-at-800-utc-on-sept.-9/",
+          "author": null,
+          "description": "We’re excited to host a live webinar on getting started with Grafana 8 for Europe, Middle East, and Africa time zones tomorrow, Sept. 9, at 08:00 UTC.\n\n\t\t\n\t\t\t\n\t\t\n\t\n\n\nJoin Developer Advocate Marcus Olsson for a demo of the new and updated visualizations and themes and data source improvements in our latest major release. Marcus will also walk through how to set up monitoring for a web service that uses Prometheus and Loki to store metrics and logs using the Grafana 8 user interface.\nYou can still register for this intro-level webinar. We’ve been working on scheduling webinars at different times that are convenient for our users around the world. Stay tuned for more!\nYou can get started with Grafana in minutes with Grafana Cloud. We have free and paid Grafana Cloud plans to suit every use case — sign up for free now.",
+          "link": "https://grafana.com/blog/2021/09/08/dont-miss-the-live-webinar-on-getting-started-with-grafana-8-at-800-utc-on-sept.-9/",
+          "publishedOn": "2021-09-08T00:00:00.000Z",
+          "wordCount": 865,
+          "title": "Don't miss the live webinar on getting started with Grafana 8 at 8:00 UTC on Sept. 9"
+        },
+        {
+          "id": "https://grafana.com/blog/2021/09/07/introducing-the-lightstep-metrics-plugin-for-grafana/",
+          "author": null,
+          "description": "Chris Sackes is a Software Engineer at Lightstep. A New Yorker by birth, he loves public transportation, architecture photography, and urban exploration. He’s spent the last five years engineering delightful user experiences for a variety of applications.\nLightstep’s powerful metrics reporting and analysis are now available for Grafana users. Using the new Lightstep Metrics plugin for Grafana, you can view metrics data reported to Lightstep directly in your Grafana instance. When you notice a change in your system, you’ll be able to investigate what caused it by clicking in a chart to navigate to Lightstep’s Change Intelligence. Today we’ll look at how we created this new tool.\n\n\t\t\n\t\t\t\n\t\t\n\t\n\n\nCreating the plugin\nIn order to show metrics data reported to Lightstep in Grafana, we created a d…",
+          "link": "https://grafana.com/blog/2021/09/07/introducing-the-lightstep-metrics-plugin-for-grafana/",
+          "publishedOn": "2021-09-07T00:00:00.000Z",
+          "wordCount": 1528,
+          "title": "Introducing the Lightstep Metrics plugin for Grafana"
+        },
+        {
+          "id": "https://grafana.com/blog/2021/09/02/reduce-costs-and-increase-performance-with-query-caching-in-grafana-cloud/",
+          "author": null,
+          "description": "We are excited to announce the launch of query caching in Grafana Cloud, which can significantly reduce load times and costs of your most popular Grafana dashboards. \nNow, when the same query is submitted repeatedly, the results will come back from the cache rather than the data source itself. This not only lowers load times for popular dashboards, but will also reduce API costs for your data sources and decrease the likelihood that those APIs will rate-limit or throttle requests. \nHere’s one common scenario in which query caching can have a great impact on organizations. For many of our users, Black Friday and Cyber Monday are the busiest days of the year, when dashboards are being viewed by everyone across the org. On these mission-critical days, it’s vital that time is not lost waiting …",
+          "link": "https://grafana.com/blog/2021/09/02/reduce-costs-and-increase-performance-with-query-caching-in-grafana-cloud/",
+          "publishedOn": "2021-09-02T00:00:00.000Z",
+          "wordCount": 1204,
+          "title": "Reduce costs and increase performance with query caching in Grafana Cloud"
+        },
+        {
+          "id": "https://grafana.com/blog/2021/09/01/grafana-observabilitycon-is-returning-november-8-10-cfp-is-open-now/",
+          "author": null,
+          "description": "Observability fans, rejoice: Grafana ObservabilityCON 2021 will be happening online this year November 8-10! \n\n\t\t\n\t\t\t\n\t\t\n\t\n\n\nLast year over 9,000 observability practitioners and enthusiasts from around the globe joined us virtually for our first-ever Grafana ObservabilityCON. We had a blast bringing the community together to share their observability success stories, strategies, open source projects, and lessons learned! The Grafana Labs team also packed the event with some pretty game-changing Grafana Stack announcements: Grafana Loki 2.0, and Grafana 7.3’s exemplar support, and the introduction of our open source tracing backend, Grafana Tempo. \nAt Grafana Labs, we believe observability is a journey, not a destination. And that’s what Grafana ObservabilityCON is all about. Whether you’re…",
+          "link": "https://grafana.com/blog/2021/09/01/grafana-observabilitycon-is-returning-november-8-10-cfp-is-open-now/",
+          "publishedOn": "2021-09-01T00:00:00.000Z",
+          "wordCount": 1045,
+          "title": "Grafana ObservabilityCON is returning November 8-10! CFP is open now"
+        },
+        {
+          "id": "https://grafana.com/blog/2021/08/31/how-istio-tempo-and-loki-speed-up-debugging-for-microservices/",
+          "author": null,
+          "description": "Antonio Berben is a Field Engineer working for solo.io on Gloo Mesh (with Istio) and Gloo Edge (with Envoy). He is a Kubernetes enthusiast and his favorite quote is: “I will go anywhere, provided it be forward” from David Livingstone. You can find and follow Antonio on Twitter.\n“How am I supposed to debug this?\"\nJust imagine: Late Friday, you are about to shut down your laptop and … an issue comes up. Warnings, alerts, red colors. Everything that we, developers, hate the most.\nThe architect decided to develop that system based on microservices. Hundreds of them! You, as a developer, think why? Why does the architect hate me so much? And then, the main question of the moment: How am I supposed to debug this?\nOf course, we all understand the benefits of a microservice architecture. But we al…",
+          "link": "https://grafana.com/blog/2021/08/31/how-istio-tempo-and-loki-speed-up-debugging-for-microservices/",
+          "publishedOn": "2021-08-31T04:00:00.000Z",
+          "wordCount": 2298,
+          "title": "How Istio, Tempo, and Loki speed up debugging for microservices"
+        },
+        {
+          "id": "https://grafana.com/blog/2021/08/30/introducing-the-honeycomb-plugin-for-grafana/",
+          "author": null,
+          "description": "Over the years, we’ve heard many versions of the same familiar story: large businesses struggling with observability data living in several different systems. At Grafana Labs, our “big tent” philosophy is based on the belief that our users should determine their own observability strategy and choose their own tools. Grafana allows them to bring together and understand all their data, no matter where it lives. \nRecently, there’s been interest in our community in Honeycomb, an observability tool focused on debugging high-cardinality and high-dimensionality data. One of our customers in particular wanted to use Honeycomb Query Data, now accessible with a new API, to monitor application performance in conjunction with other observability tools and Grafana features such as annotations. Since th…",
+          "link": "https://grafana.com/blog/2021/08/30/introducing-the-honeycomb-plugin-for-grafana/",
+          "publishedOn": "2021-08-30T04:00:00.000Z",
+          "wordCount": 1110,
+          "title": "Introducing the Honeycomb plugin for Grafana"
+        },
+        {
+          "id": "https://grafana.com/blog/2021/08/27/grafana-tempo-1.1-released-new-hedged-requests-reduce-latency-by-45/",
+          "author": null,
+          "description": "Grafana Tempo 1.1 has been released, and like our major version suggests, there are no breaking changes. If you’d like, please check out the release notes. But if you find that release notes can sometimes be difficult to decode, fret not! All the highlights are below.\nFeatures\nThere are a number of features and enhancements detailed in the docs, but here are a few you should be paying attention to if you are running a high-volume Tempo cluster.\nHedged requests\nFirst, hedged requests allow you to retry a request to your backend a second time when it exceeds a configurable threshold. If this threshold is set to your backend’s p99, then Tempo will retry the slowest 1% of all backend requests. This can have an amazing impact on Tempo’s overall long tail:\n\n\t\t\n\t\t\t\n\t\t\n\t\n\n\nAs this graph shows, p99…",
+          "link": "https://grafana.com/blog/2021/08/27/grafana-tempo-1.1-released-new-hedged-requests-reduce-latency-by-45/",
+          "publishedOn": "2021-08-27T04:00:00.000Z",
+          "wordCount": 1371,
+          "title": "Grafana Tempo 1.1 released: New hedged requests reduce latency by 45%"
+        },
+        {
+          "id": "https://grafana.com/blog/2021/08/26/whats-new-in-grafana-enterprise-metrics-1.5-per-tenant-usage-metrics-and-a-wildcard-tenant-for-queries/",
+          "author": null,
+          "description": "We’re thrilled to announce the release of Grafana Enterprise Metrics (GEM) 1.5. While this release packs in a ton of enhancements and bug fixes, we’d like to dive into two particularly exciting features: per-tenant usage metrics and a wildcard tenant for queries.\nPer-tenant usage metrics\nOne of the things that makes GEM great for observability teams trying to offer Prometheus-as-a-service at their companies is its native support for multi-tenancy. This enables observability teams to run one GEM cluster to support multiple teams, but give each team the experience of having a dedicated metrics database. Because teams are each assigned their own tenant, their data and queries are isolated from one another. Operators can also set limits on each tenant to ensure that the cluster’s resources are…",
+          "link": "https://grafana.com/blog/2021/08/26/whats-new-in-grafana-enterprise-metrics-1.5-per-tenant-usage-metrics-and-a-wildcard-tenant-for-queries/",
+          "publishedOn": "2021-08-26T04:00:00.000Z",
+          "wordCount": 1626,
+          "title": "What’s new in Grafana Enterprise Metrics 1.5: Per-tenant usage metrics and a wildcard tenant for queries"
         }
       ]
     }
