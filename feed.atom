@@ -1,8 +1,1054 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-11T01:06:48.002Z</id>
+    <id>urn:2021-09-11T01:08:59.032Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-11T01:06:48.002Z</updated>
+    <updated>2021-09-11T01:08:59.032Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[PalmOS on Raspberry Pi]]></title>
+        <id>https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/</id>
+        <link href="https://pmig96.wordpress.com/2021/04/29/palmos-on-raspberry-pi/"/>
+        <updated>2021-09-10T22:59:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andreessen Pulls a Bezos]]></title>
+        <id>https://www.drorpoleg.com/pulling-a-bezos/</id>
+        <link href="https://www.drorpoleg.com/pulling-a-bezos/"/>
+        <updated>2021-09-10T22:49:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indra – Hackers Behind Recent Attacks on Iran]]></title>
+        <id>https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/</id>
+        <link href="https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/"/>
+        <updated>2021-09-10T22:36:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trolls convinced journalists they were “abortion bounty hunters”]]></title>
+        <id>https://tracingwoodgrains.medium.com/how-one-tight-knit-circle-of-internet-troublemakers-convinced-professional-journalists-they-were-ac05459aa4c5</id>
+        <link href="https://tracingwoodgrains.medium.com/how-one-tight-knit-circle-of-internet-troublemakers-convinced-professional-journalists-they-were-ac05459aa4c5"/>
+        <updated>2021-09-10T22:29:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: LunarVim – An opinionated, extensible, and fast IDE layer for Neovim]]></title>
+        <id>https://www.lunarvim.org</id>
+        <link href="https://www.lunarvim.org"/>
+        <updated>2021-09-10T21:55:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wait, Did AS8003 just disappear?]]></title>
+        <id>https://www.kentik.com/blog/wait-did-as8003-just-disappear/</id>
+        <link href="https://www.kentik.com/blog/wait-did-as8003-just-disappear/"/>
+        <updated>2021-09-10T21:49:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POW Captcha: a lightweight, self-hosted proof-of-work captcha]]></title>
+        <id>https://git.sequentialread.com/forest/pow-captcha</id>
+        <link href="https://git.sequentialread.com/forest/pow-captcha"/>
+        <updated>2021-09-10T21:09:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AtoB (YC S20) – Stripe for Transportation – hiring early engineers and operators]]></title>
+        <id>https://careers.atob.com/</id>
+        <link href="https://careers.atob.com/"/>
+        <updated>2021-09-10T21:00:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A second hexagon in the stratosphere of Saturn]]></title>
+        <id>https://mesonstars.com/inteteresting/they-find-a-second-hexagon-in-the-stratosphere-of-saturn/</id>
+        <link href="https://mesonstars.com/inteteresting/they-find-a-second-hexagon-in-the-stratosphere-of-saturn/"/>
+        <updated>2021-09-10T20:41:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Index bloat reduced in PostgreSQL v14]]></title>
+        <id>https://www.cybertec-postgresql.com/en/index-bloat-reduced-in-postgresql-v14/</id>
+        <link href="https://www.cybertec-postgresql.com/en/index-bloat-reduced-in-postgresql-v14/"/>
+        <updated>2021-09-10T20:39:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wine 6.17 Released With Better HiDPI Support For Built-In Apps]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-6.17-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-6.17-Released"/>
+        <updated>2021-09-10T20:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Wine 6.17 is out as the latest bi-weekly development release as we move closer towards the Wine 7.0 release around the start of the new year...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windy.com]]></title>
+        <id>https://windy.com</id>
+        <link href="https://windy.com"/>
+        <updated>2021-09-10T20:15:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Windows Subsystem for Linux GUI]]></title>
+        <id>https://github.com/microsoft/wslg</id>
+        <link href="https://github.com/microsoft/wslg"/>
+        <updated>2021-09-10T19:45:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google illegally underpaid thousands of workers]]></title>
+        <id>https://www.theguardian.com/technology/2021/sep/10/google-underpaid-workers-illegal-pay-disparity-documents</id>
+        <link href="https://www.theguardian.com/technology/2021/sep/10/google-underpaid-workers-illegal-pay-disparity-documents"/>
+        <updated>2021-09-10T19:19:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atomic Gardening]]></title>
+        <id>https://www.atlasobscura.com/articles/radioactive-atomic-gardening</id>
+        <link href="https://www.atlasobscura.com/articles/radioactive-atomic-gardening"/>
+        <updated>2021-09-10T18:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Habana Labs AI Driver Updates Submitted For Linux 5.15]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Habana-Labs-Linux-5.15-Changes</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Habana-Labs-Linux-5.15-Changes"/>
+        <updated>2021-09-10T17:57:29.000Z</updated>
+        <summary type="html"><![CDATA[While last week was the main "char/misc" pull request for the Linux 5.15 merge window, the Habana Labs driver changes were previously reverted from there due to opposition from the upstream kernel developers in the Direct Rendering Manager  space. The concerning patches around DMA-BUF have now been removed and a new pull request submitted with updates to this AI driver for Linux 5.15...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coalton: How to Have Our (Typed) Cake and (Safely) Eat It Too, in Common Lisp]]></title>
+        <id>https://coalton-lang.github.io/20211010-introducing-coalton/</id>
+        <link href="https://coalton-lang.github.io/20211010-introducing-coalton/"/>
+        <updated>2021-09-10T17:42:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WhatsApp – Security of End-to-End Encrypted Backups [pdf]]]></title>
+        <id>https://www.whatsapp.com/security/WhatsApp_Security_Encrypted_Backups_Whitepaper.pdf</id>
+        <link href="https://www.whatsapp.com/security/WhatsApp_Security_Encrypted_Backups_Whitepaper.pdf"/>
+        <updated>2021-09-10T17:28:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YOLOv5 on CPUs: Sparsifying to Achieve GPU-Level Performance]]></title>
+        <id>https://neuralmagic.com/blog/benchmark-yolov5-on-cpus-with-deepsparse/</id>
+        <link href="https://neuralmagic.com/blog/benchmark-yolov5-on-cpus-with-deepsparse/"/>
+        <updated>2021-09-10T17:04:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPDX Becomes Internationally Recognized Standard for Software Bill of Materials]]></title>
+        <id>https://lwn.net/Articles/868882/rss</id>
+        <link href="https://lwn.net/Articles/868882/rss"/>
+        <updated>2021-09-10T16:31:01.000Z</updated>
+        <summary type="html"><![CDATA[The Linux Foundation has announced that  Software Package Data Exchange (SPDX) has become an international standard (ISO/IEC 5962:2021).  SPDX has been used in the kernel and other projects to identify the licenses and attach other metadata to  software components.
+
+Between eighty and ninety percent (80%-90%) of a modern application is assembled from open source software components. An SBOM [software bill of materials] accounts for the software components contained in an application — open source, proprietary, or third-party — and details their provenance, license, and security attributes. SBOMs are used as a part of a foundational practice to track and trace components across software supply chains. SBOMs also help to proactively identify software issues and risks and establish a starting point for their remediation.
+
+SPDX results from ten years of collaboration from representatives across industries, including the leading Software Composition Analysis (SCA) vendors – making it the most robust, mature, and adopted SBOM standard.]]></summary>
+        <author>
+            <name>jake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Write More, but Shorter]]></title>
+        <id>https://blog.kewah.com/2021/write-more-but-shorter/</id>
+        <link href="https://blog.kewah.com/2021/write-more-but-shorter/"/>
+        <updated>2021-09-10T16:16:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Court issues permanent injunction in Epic vs. Apple case]]></title>
+        <id>https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store</id>
+        <link href="https://www.theverge.com/2021/9/10/22662320/epic-apple-ruling-injunction-judge-court-app-store"/>
+        <updated>2021-09-10T15:26:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Work on interesting problems. Not interesting tech]]></title>
+        <id>https://ruky.me/2021/09/10/work-on-interesting-problems-not-interesting-technologies/</id>
+        <link href="https://ruky.me/2021/09/10/work-on-interesting-problems-not-interesting-technologies/"/>
+        <updated>2021-09-10T14:39:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[$] The folio pull-request pushback]]></title>
+        <id>https://lwn.net/Articles/868598/rss</id>
+        <link href="https://lwn.net/Articles/868598/rss"/>
+        <updated>2021-09-10T14:27:26.000Z</updated>
+        <summary type="html"><![CDATA[When we last caught up with the page folio patch set, it appeared to be on
+track to be pulled into the mainline during the 5.15 merge window.  Matthew
+Wilcox duly sent a pull
+request in August to make that happen.  While it is possible that
+folios could still end up in 5.15, that has not happened as of this writing
+and appears increasingly unlikely.  What we got instead was a lengthy
+discussion on the merits of the folio approach.]]></summary>
+        <author>
+            <name>corbet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Travel planning software: The most common bad startup idea (2012)]]></title>
+        <id>https://blog.garrytan.com/travel-planning-software-the-most-common-bad</id>
+        <link href="https://blog.garrytan.com/travel-planning-software-the-most-common-bad"/>
+        <updated>2021-09-10T14:23:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wide-ranging SolarWinds probe sparks fear in Corporate America]]></title>
+        <id>https://www.reuters.com/technology/exclusive-wide-ranging-solarwinds-probe-sparks-fear-corporate-america-2021-09-10/</id>
+        <link href="https://www.reuters.com/technology/exclusive-wide-ranging-solarwinds-probe-sparks-fear-corporate-america-2021-09-10/"/>
+        <updated>2021-09-10T14:20:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Medusa – Open-source alternative to Shopify]]></title>
+        <id>https://medusa-commerce.com</id>
+        <link href="https://medusa-commerce.com"/>
+        <updated>2021-09-10T14:19:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security updates for Friday]]></title>
+        <id>https://lwn.net/Articles/868863/rss</id>
+        <link href="https://lwn.net/Articles/868863/rss"/>
+        <updated>2021-09-10T14:10:55.000Z</updated>
+        <summary type="html"><![CDATA[Security updates have been issued by Debian (firefox-esr, ghostscript, ntfs-3g, and postorius), Fedora (java-1.8.0-openjdk-aarch32, libtpms, and salt), openSUSE (libaom, libtpms, and openssl-1_0_0), Red Hat (openstack-neutron), SUSE (grilo, java-1_7_0-openjdk, libaom, libtpms, mariadb, openssl-1_0_0, openssl-1_1, and php74-pear), and Ubuntu (firefox and ghostscript).]]></summary>
+        <author>
+            <name>corbet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nuclear War Survival Skills (1987)]]></title>
+        <id>https://www.oism.org/nwss/</id>
+        <link href="https://www.oism.org/nwss/"/>
+        <updated>2021-09-10T14:07:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I want a better shell (2019)]]></title>
+        <id>https://matklad.github.io/2019/11/16/a-better-shell.html</id>
+        <link href="https://matklad.github.io/2019/11/16/a-better-shell.html"/>
+        <updated>2021-09-10T13:39:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A.I. can now write its own computer code – that’s good news for humans]]></title>
+        <id>https://www.nytimes.com/2021/09/09/technology/codex-artificial-intelligence-coding.html</id>
+        <link href="https://www.nytimes.com/2021/09/09/technology/codex-artificial-intelligence-coding.html"/>
+        <updated>2021-09-10T12:53:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 21.10 Performance Still Pushing Ahead Of Windows 10, Latest Windows 11 Build]]></title>
+        <id>https://www.phoronix.com/vr.php?view=30514</id>
+        <link href="https://www.phoronix.com/vr.php?view=30514"/>
+        <updated>2021-09-10T11:55:19.000Z</updated>
+        <summary type="html"><![CDATA[With less than one month out from the official release of Microsoft Windows 11, I was curious to run some fresh benchmarks of the latest Windows 11 Insider Preview build against Windows 10 21H1 to see how the performance is looking. Of course, also to see how Windows 11 is shaping up against Ubuntu 21.10 also due for release in October.]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Habana Labs Opens Up The Code To Their AI Compiler, SynapseAI Core]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Hababa-Labs-Open-Compiler-AI</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Hababa-Labs-Open-Compiler-AI"/>
+        <updated>2021-09-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Intel-owned Habana Labs now has the most open software stack among AI accelerators! While Habana Labs has long provided an open-source, upstream kernel driver for their Gaudi AI training and Goya AI inference accelerators, the user-space portions including their code compiler and run-time library have been closed-source. This has been a thorn for upstream kernel developers and their standards, but now Habana Labs has open-sourced their user-space components too...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why that Thunderbolt add-in card doesn't work properly in your unsupported PC]]></title>
+        <id>http://www.mattmillman.com/why-that-thunderbolt-add-in-card-doesnt-work-properly-in-your-unsupported-pc/</id>
+        <link href="http://www.mattmillman.com/why-that-thunderbolt-add-in-card-doesnt-work-properly-in-your-unsupported-pc/"/>
+        <updated>2021-09-10T09:31:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.15 Readies More Code For Compile & Run-Time Detection Of Buffer Overflows]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-More-BO-Detection</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-More-BO-Detection"/>
+        <updated>2021-09-10T09:29:40.000Z</updated>
+        <summary type="html"><![CDATA[Last week a number of patches were merged in the quest to provide the kernel with comprehensive compile-time and run-time detection of buffer overflows. Another patch series was sent out today while still for this cycle they are expected to enable the compiler warnings around array-bounds and zero-length-bounds...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Just Squeezed More Workstation Performance Out Of Its RadeonSI Driver]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-VBO-DLIST-Opt</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-VBO-DLIST-Opt"/>
+        <updated>2021-09-10T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While Vulkan is quickly taking over as the dominant graphics API for Linux gamers especially with the likes of DXVK and VKD3D-Proton mapping Direct3D atop Vulkan, OpenGL remains widely used by workstation software. It's also for workstation software where AMD's "PRO" closed-source OpenGL Linux driver has traditionally competed well (and outperformed) the open-source Mesa driver. But with all the recent changes, that's either a matter of the past or close to not being relevant with the latest Mesa enhancements...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Privacy-Screen DRM API With Intel Support Ready Now That GNOME Is Prepared To Use It]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Privacy-Screen-DRM-Ready</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Privacy-Screen-DRM-Ready"/>
+        <updated>2021-09-10T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Over the past two years we have seen work around bringing up privacy screen support on Linux whereby an increasing number of laptops can reduce the amount of visible light when viewed at wide angles to try to block the screen contents from anyone potentially snooping at the screen. Ready to go now is the DRM/KMS user-space interface and the Intel graphics driver support now that there is a user-space "client" ready...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X.Org Server Adds "AsyncFlipSecondaries" To Deal With Crappy Multi-Monitor Experience]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=X.Org-AsyncFlipSecondaries</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=X.Org-AsyncFlipSecondaries"/>
+        <updated>2021-09-09T20:00:55.000Z</updated>
+        <summary type="html"><![CDATA[At the moment when running the X.Org Server in a multi-monitor configuration with displays of different refresh rates, it can lead to a poor experience with a variety of visual deficiencies when running an unredirected full-screen window with page-flipping for DRI3/Present. There is now a change that was merged into the X.Org Server with a new "AsyncFlipSecondaries" to improve that experience when running multiple displays of varying refresh rates...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Releases Its August Update For The CBL-Mariner Linux Distribution]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=CBL-Mariner-August-2021</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=CBL-Mariner-August-2021"/>
+        <updated>2021-09-09T19:21:12.000Z</updated>
+        <summary type="html"><![CDATA[While now into September, Microsoft just published its "August 2021" update to their CBL-Mariner Linux distribution with a variety of changes...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cro: Maintain it With Zig]]></title>
+        <id>https://lwn.net/Articles/868781/rss</id>
+        <link href="https://lwn.net/Articles/868781/rss"/>
+        <updated>2021-09-09T19:15:41.000Z</updated>
+        <summary type="html"><![CDATA[This blog post by
+Loris Cro makes the claim that the Zig
+language  is
+the solution to a lot of low-level programming problems:
+
+
+	Freeing the art of systems programming from the grips of C/C++
+	cruft is the only way to push for real change in our industry, but
+	rewriting everything is not the answer. In the Zig project we’re
+	making the C/C++ ecosystem more fun and productive. Today we have a
+	compiler, a linker and a build system, and soon we’ll also have a
+	package manager, making Zig a complete toolchain that can fetch
+	dependencies and build C/C++/Zig projects from any target, for any
+	target.
+
+
+(LWN looked at Zig last year).]]></summary>
+        <author>
+            <name>corbet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's Cloud-Hypervisor 18.0 Brings AArch64 Improvements, VHDX Disk Image Support]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Cloud-Hypervisor-18</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Cloud-Hypervisor-18"/>
+        <updated>2021-09-09T18:37:01.000Z</updated>
+        <summary type="html"><![CDATA[The Intel-led open-source Cloud-Hypervisor project building off Linux's KVM (and also supporting Microsoft MSHV) and being cloud-focused and leveraging the Rust programming language for greater security is out with its newest major release...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.15 Adds VDUSE For vDPA Devices In User-Space]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-VDUSE-vDPA</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-VDUSE-vDPA"/>
+        <updated>2021-09-09T18:12:06.000Z</updated>
+        <summary type="html"><![CDATA[Akin to FUSE for file-systems in user-space, VDUSE is set to be merged for Linux 5.15 in adding support for vDPA devices in user-space...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Measure downloads and commercial adoption of any file you distribute]]></title>
+        <id>https://about.scarf.sh/post/direct-downloads-via-scarf-gateway</id>
+        <link href="https://about.scarf.sh/post/direct-downloads-via-scarf-gateway"/>
+        <updated>2021-09-09T16:00:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[$] Extended attributes for special files]]></title>
+        <id>https://lwn.net/Articles/868505/rss</id>
+        <link href="https://lwn.net/Articles/868505/rss"/>
+        <updated>2021-09-09T14:32:09.000Z</updated>
+        <summary type="html"><![CDATA[The Linux extended-attribute mechanism allows the attachment of metadata to
+files within a filesystem.  It tends to be little used — at least, in the
+absence of a security module like SELinux.  There is interest in how these
+attributes work, though, as evidenced by the discussions that have
+followed the posting of revisions of this
+patch by Vivek Goyal, which seeks to make a seemingly small change to
+the rules regarding extended attributes and special files.]]></summary>
+        <author>
+            <name>corbet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Open Source Initiative's new executive director]]></title>
+        <id>https://lwn.net/Articles/868744/rss</id>
+        <link href="https://lwn.net/Articles/868744/rss"/>
+        <updated>2021-09-09T14:09:35.000Z</updated>
+        <summary type="html"><![CDATA[The Open Source Initiative has announced the
+appointment of Stefano Maffulli as its executive director.
+"'Bringing Stefano Maffulli on board as OSI’s first Executive
+Director is the culmination of a years-long march toward
+professionalization, so that OSI can be a stronger and more responsive
+advocate for open source,' says Joshua Simmons, Board Chair of OSI."]]></summary>
+        <author>
+            <name>corbet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security updates for Thursday]]></title>
+        <id>https://lwn.net/Articles/868743/rss</id>
+        <link href="https://lwn.net/Articles/868743/rss"/>
+        <updated>2021-09-09T14:03:43.000Z</updated>
+        <summary type="html"><![CDATA[Security updates have been issued by Fedora (lynx, matrix-synapse, and proftpd), openSUSE (ntfs-3g_ntfsprogs), Oracle (kernel), Red Hat (RHV-H), Scientific Linux (kernel), and Ubuntu (libapache2-mod-auth-mellon, linux, linux-aws, linux-aws-5.11, linux-azure, linux-azure-5.11, linux-gcp, linux-hwe-5.11, linux-kvm, linux-oracle, linux-oracle-5.11, linux-raspi, linux, linux-aws, linux-aws-5.4, linux-azure, linux-azure-5.4, linux-gcp, linux-gcp-5.4, linux-gke, linux-gke-5.4, linux-gkeop, linux-gkeop-5.4, linux-kvm, linux-oracle, linux-oracle-5.4, and linux-azure-5.8, linux-oem-5.10).]]></summary>
+        <author>
+            <name>jake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: A webcam made out of HTML checkboxes]]></title>
+        <id>https://www.bryanbraun.com/checkboxland/docs/demos/webcam-test/</id>
+        <link href="https://www.bryanbraun.com/checkboxland/docs/demos/webcam-test/"/>
+        <updated>2021-09-09T13:25:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vermeer Restoration Reveals a Painting Within a Painting]]></title>
+        <id>https://hyperallergic.com/672345/vermeer-restoration-finally-complete-reveals-a-painting-within-a-painting/</id>
+        <link href="https://hyperallergic.com/672345/vermeer-restoration-finally-complete-reveals-a-painting-within-a-painting/"/>
+        <updated>2021-09-09T12:15:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Posts New "AMD-PSTATE" CPUFreq Driver Leveraging CPPC For Better Perf-Per-Watt]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-PSTATE-2021</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-PSTATE-2021"/>
+        <updated>2021-09-09T11:48:38.000Z</updated>
+        <summary type="html"><![CDATA[At last! AMD has posted the Linux kernel driver patches for their new "AMD-PSTATE" driver! This driver with modern AMD Zen CPUs (initially limited to Zen 3) to achieve greater performance per Watt / power efficiency on Linux than the conventional ACPI CPUFreq driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMDVLK 2021.Q3.6 Brings New Extensions, Valheim Shader Optimization]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMDVLK-2021.Q3.6</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMDVLK-2021.Q3.6"/>
+        <updated>2021-09-09T10:51:37.000Z</updated>
+        <summary type="html"><![CDATA[AMDVLK 2021.Q3.6 is out as the latest routine open-source code drop for this official AMD Radeon Vulkan Linux driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Branch Sampling Support Being Worked On For Linux]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-BRS-Branch-Sampling</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-BRS-Branch-Sampling"/>
+        <updated>2021-09-09T10:00:54.000Z</updated>
+        <summary type="html"><![CDATA[A new kernel patch series was posted this morning working on AMD Branch Sampling "BRS" support...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD PTDMA Driver Landing For Linux 5.15 After Two Years In The Works]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-PTDMA-For-Linux-5.15</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-PTDMA-For-Linux-5.15"/>
+        <updated>2021-09-09T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Going back to September 2019 was work on the AMD PTDMA driver for supporting this controller found on modern AMD processors for high bandwidth memory-to-memory and I/O copy operations. With the Linux 5.15 cycle the AMD PTDMA driver is finally being merged to the mainline kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLUB Adapted To Be Real-Time Linux Compatible (PREEMPT_RT)]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=SLUB-Linux-RT-Compatible</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=SLUB-Linux-RT-Compatible"/>
+        <updated>2021-09-09T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[One of the nice low-level improvements we've seen with Linux 5.15 is a number of pieces falling into place in the quest of upstreaming the real-time (RT) patches for Linux. The latest merge makes SLUB RT-compatible...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[$] LWN.net Weekly Edition for September 9, 2021]]></title>
+        <id>https://lwn.net/Articles/868156/rss</id>
+        <link href="https://lwn.net/Articles/868156/rss"/>
+        <updated>2021-09-09T01:06:13.000Z</updated>
+        <summary type="html"><![CDATA[The LWN.net Weekly Edition for September 9, 2021 is available.]]></summary>
+        <author>
+            <name>corbet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GNOME 41 Release Candidate Arrives With Many Improvements]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GNOME-41-RC</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GNOME-41-RC"/>
+        <updated>2021-09-08T23:05:04.000Z</updated>
+        <summary type="html"><![CDATA[Ahead of the official GNOME 41 release later this month, the release candidate is now available to facilitate more testing...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Elasticsearch Service Is Now Amazon OpenSearch Service and Supports OpenSearch 1.0]]></title>
+        <id>46d5dfdf2f6a6027732ce521a1c8a044fc3a93ef</id>
+        <link href="https://aws.amazon.com/blogs/aws/amazon-elasticsearch-service-is-now-amazon-opensearch-service-and-supports-opensearch-10/"/>
+        <updated>2021-09-08T21:54:41.000Z</updated>
+        <summary type="html"><![CDATA[In 2015, we launched Amazon Elasticsearch Service (Amazon ES), a fully managed service that makes it easy for you to perform interactive log analytics, real-time application monitoring, website search, and more. Amazon ES has been a popular service for log analytics because of its ability to ingest high volumes of log data. Additionally, with UltraWarm […]]]></summary>
+        <author>
+            <name>Channy Yun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[$] Applying PEP 8]]></title>
+        <id>https://lwn.net/Articles/868490/rss</id>
+        <link href="https://lwn.net/Articles/868490/rss"/>
+        <updated>2021-09-08T21:32:15.000Z</updated>
+        <summary type="html"><![CDATA[Two recent threads on the python-ideas mailing list have overlapped to a
+certain extent; both referred to Python's style guide, but the discussion
+indicates that the advice in it may have been stretched further than intended.   PEP 8
+("Style Guide for Python Code") is the longstanding set of
+guidelines and suggestions for code that is going into the standard
+library, but the "rules" in the PEP have been applied in settings and tools well outside of that
+realm.  There may be reasons to update the PEP—some unrelated work of that nature is
+ongoing, in fact—but Pythonistas need to remember that the suggestions in
+it are not carved in stone.]]></summary>
+        <author>
+            <name>jake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon's DAMON Merged Into Linux 5.15 For Data Access Monitoring Framework]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=DAMON-Merged-Linux-5.15</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=DAMON-Merged-Linux-5.15"/>
+        <updated>2021-09-08T20:22:39.000Z</updated>
+        <summary type="html"><![CDATA[The DAMON kernel functionality developed by Amazon engineers has successfully landed in the Linux 5.15 tree...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 21.10 Delivering Some Performance Gains On The Intel Core i9 11900K]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-21.10-Rocket-Lake</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-21.10-Rocket-Lake"/>
+        <updated>2021-09-08T19:15:22.000Z</updated>
+        <summary type="html"><![CDATA[For those wondering how the upcoming Ubuntu 21.10 release is looking for Intel "Rocket Lake" owners, here are some Ubuntu 21.04 versus 21.10 development benchmarks across dozens of different tests...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Has An Important Suspend/Resume Fix With Linux 5.15]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-S2idle-Fix-Linux-5.15</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-S2idle-Fix-Linux-5.15"/>
+        <updated>2021-09-08T18:47:10.000Z</updated>
+        <summary type="html"><![CDATA[Since last year AMD has been working to get its s2idle / suspend-to-idle S0ix sleep state code in order for supporting this lowest power platform idle state on newer AMD laptops and there has also been other AMD suspend/resume improvements in recent times. Now with the Linux 5.15 kernel cycle is an important fix for the AMD s2idle code...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon EKS Anywhere – Now Generally Available to Create and Manage Kubernetes Clusters on Premises]]></title>
+        <id>e680ae7d1d3fd575e2fc991fb49ed3be879bc876</id>
+        <link href="https://aws.amazon.com/blogs/aws/amazon-eks-anywhere-now-generally-available-to-create-and-manage-kubernetes-clusters-on-premises/"/>
+        <updated>2021-09-08T18:08:39.000Z</updated>
+        <summary type="html"><![CDATA[At AWS re:Invent 2020, we preannounced new deployment options of Amazon Elastic Container Service (Amazon ECS) Anywhere and Amazon Elastic Kubernetes Service (Amazon EKS) Anywhere in your own data center. Today, I am happy to announce the general availability of Amazon EKS Anywhere, a deployment option for Amazon EKS that enables you to easily create […]]]></summary>
+        <author>
+            <name>Channy Yun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stable kernel updates]]></title>
+        <id>https://lwn.net/Articles/868660/rss</id>
+        <link href="https://lwn.net/Articles/868660/rss"/>
+        <updated>2021-09-08T14:45:39.000Z</updated>
+        <summary type="html"><![CDATA[Stable kernels 5.14.2, 5.13.15, and 5.10.63 have been released. As usual, there
+are important fixes and users should upgrade.]]></summary>
+        <author>
+            <name>ris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security updates for Wednesday]]></title>
+        <id>https://lwn.net/Articles/868659/rss</id>
+        <link href="https://lwn.net/Articles/868659/rss"/>
+        <updated>2021-09-08T14:38:57.000Z</updated>
+        <summary type="html"><![CDATA[Security updates have been issued by Debian (haproxy), Fedora (libguestfs, ntfs-3g, ntfs-3g-system-compression, partclone, testdisk, vim, and wimlib), Mageia (kernel and kernel-linus), openSUSE (haproxy), Oracle (kernel), Red Hat (kernel, kernel-rt, and kpatch-patch), SUSE (haproxy), and Ubuntu (cpio, haproxy, libapache2-mod-auth-mellon, libgd2, linux, linux-aws, linux-kvm, linux-lts-xenial, openvswitch, python-pysaml2, and sssd).]]></summary>
+        <author>
+            <name>ris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not All Of The IBM POWER10 Firmware Is Currently Open-Source]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=IBM-POWER10-Not-All-Open-FW</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=IBM-POWER10-Not-All-Open-FW"/>
+        <updated>2021-09-08T12:00:43.000Z</updated>
+        <summary type="html"><![CDATA[Power E1080 server as their first in a new family of servers based on the IBM POWER10 processor. Sadly though not all of the POWER10 firmware is open-source...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OverlayFS On Linux 5.15 Improves Performance, Copies Up More Attributes]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-OverlayFS</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-OverlayFS"/>
+        <updated>2021-09-08T11:02:28.000Z</updated>
+        <summary type="html"><![CDATA[OverlayFS continues to be used by Linux IoT/embedded devices and other use-cases as a union mount file-system. With Linux 5.15 the OverlayFS file-system continues to improve...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook Opens Up CacheLib As Their New Caching Engine]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Facebook-Open-Source-CacheLib</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Facebook-Open-Source-CacheLib"/>
+        <updated>2021-09-08T10:22:22.000Z</updated>
+        <summary type="html"><![CDATA[Facebook last week formally announced CacheLib as their new open-source caching engine designed for web scale services and to make for effective non-volatile memory caching to offset the increasing costs of DRAM...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Working On DP 2.0 Panel Replay Power Savings For Linux]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-DP-2.0-Panel-Replay</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-DP-2.0-Panel-Replay"/>
+        <updated>2021-09-08T09:57:16.000Z</updated>
+        <summary type="html"><![CDATA[Last month Intel's open-source Linux graphics driver engineers began posting patches working on DisplayPort 2.0 support for their driver with DG2/Alchemist now set to be Intel's first GPU supporting the newest DP standard. DP 2.0 enablement work continues with Panel Replay being the latest feature being worked on for their Linux driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.15 Hit By Some Early Performance Regressions But Quickly Reverted]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-Memcg-Regressions</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-Memcg-Regressions"/>
+        <updated>2021-09-08T09:37:14.000Z</updated>
+        <summary type="html"><![CDATA[In addition to Linus Torvalds dealing with the -Werror fallout, separately in kernel land there were also some significant performance regressions introduced during the Linux 5.15 that led to Linus reverting some of the changes...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.15's New "-Werror" Behavior Is Causing A Lot Of Pain]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-Werror-Pain</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-Werror-Pain"/>
+        <updated>2021-09-08T00:48:10.000Z</updated>
+        <summary type="html"><![CDATA[Landing this past weekend was the surprise move by Linus Torvalds to enable "-Werror" behavior by default for all kernel builds. That compiler flag addition makes all warnings be treated as errors, which in turn stops the kernel build. As expected, this change has led to quite a mess...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GhostBSD 21.09.06 Released For This FreeBSD-Based Desktop OS]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GhostBSD-21.09.06-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GhostBSD-21.09.06-Released"/>
+        <updated>2021-09-07T22:07:33.000Z</updated>
+        <summary type="html"><![CDATA[GhostBSD 21.09.06 is now available as the latest release of this desktop-minded, FreeBSD-based operating system...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox 92.0 and Firefox ESR]]></title>
+        <id>https://lwn.net/Articles/868603/rss</id>
+        <link href="https://lwn.net/Articles/868603/rss"/>
+        <updated>2021-09-07T20:29:43.000Z</updated>
+        <summary type="html"><![CDATA[Firefox 92.0 has been released. In
+this version Firefox can now automatically upgrade to HTTPS using HTTPS RR
+as Alt-Svc headers, support full-range color levels for video playback on
+many systems, and more.
+
+Firefox
+78.14.0 ESR and Firefox
+91.1.0 have also been released.  ESR78 will reach end-of-life in
+November.]]></summary>
+        <author>
+            <name>ris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[$] FOSS for amateur radio]]></title>
+        <id>https://lwn.net/Articles/868309/rss</id>
+        <link href="https://lwn.net/Articles/868309/rss"/>
+        <updated>2021-09-07T19:07:33.000Z</updated>
+        <summary type="html"><![CDATA[Amateur ("ham") radio operators have been experimenting with ways to use
+computers in their hobby since PCs became widely available—perhaps even
+before then. While many
+people picture hams either talking into a microphone or tapping a telegraph
+key, many hams now type on a keyboard or even click buttons on a computer screen to make
+contacts.  Even hams who still prefer to talk or use Morse code may still
+use computers for some things, such as logging contacts or predicting
+radio conditions. While most hams use Windows, there is no shortage of ham
+radio software for Linux.]]></summary>
+        <author>
+            <name>jake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.15 KVM Defaults To The New x86 TDP MMU, Enables AMD SVM 5-Level Paging]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-KVM</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-KVM"/>
+        <updated>2021-09-07T18:43:51.000Z</updated>
+        <summary type="html"><![CDATA[The Linux 5.15 Kernel-based Virtual Machine (KVM) changes this cycle are quite exciting on the x86 (x86_64) front with several prominent additions...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Khronos Group Is Hosting A Virtual Vulkan Event Next Month]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkanised-2021-Next-Month</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Vulkanised-2021-Next-Month"/>
+        <updated>2021-09-07T17:23:04.000Z</updated>
+        <summary type="html"><![CDATA[While The Khronos Group previously hosted in-person Vulkan events, due to the ongoing COVID-19 pandemic their "Vulkanised 2021" event next month has morphed into a free virtual event...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security updates for Tuesday]]></title>
+        <id>https://lwn.net/Articles/868569/rss</id>
+        <link href="https://lwn.net/Articles/868569/rss"/>
+        <updated>2021-09-07T15:08:22.000Z</updated>
+        <summary type="html"><![CDATA[Security updates have been issued by openSUSE (apache2, java-11-openjdk, libesmtp, nodejs10, ntfs-3g_ntfsprogs, openssl-1_1, xen, and xerces-c), Red Hat (kernel-rt and kpatch-patch), and SUSE (ntfs-3g_ntfsprogs and openssl-1_1).]]></summary>
+        <author>
+            <name>ris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL 3.0.0 released]]></title>
+        <id>https://lwn.net/Articles/868536/rss</id>
+        <link href="https://lwn.net/Articles/868536/rss"/>
+        <updated>2021-09-07T13:53:08.000Z</updated>
+        <summary type="html"><![CDATA[Version 3.0 of the OpenSSL TLS library has been released; the large
+version-number jump (from 1.1.1) reflects a new versioning scheme.
+
+
+	Most applications that worked with OpenSSL 1.1.1 will still work
+	unchanged and will simply need to be recompiled (although you may
+	see numerous compilation warnings about using deprecated
+	APIs). Some applications may need to make changes to compile and
+	work correctly, and many applications will need to be changed to
+	avoid the deprecations warnings. We have put together a migration 
+	guide to describe the major differences in OpenSSL 3.0 compared to
+	previous releases.
+
+
+OpenSSL has also been relicensed to Apache 2.0, which should end the era of
+"special exceptions" needed to use OpenSSL in GPL-licensed applications.
+See this
+blog entry and the changelog for
+more information.]]></summary>
+        <author>
+            <name>corbet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Ryzen 5 5600G / Ryzen 7 5700G Linux Gaming Benchmarks]]></title>
+        <id>https://www.phoronix.com/vr.php?view=30505</id>
+        <link href="https://www.phoronix.com/vr.php?view=30505"/>
+        <updated>2021-09-07T13:20:00.000Z</updated>
+        <summary type="html"><![CDATA[Recently with my Linux benchmarks of the Ryzen 5 5600G and Ryzen 7 5700G Zen 3 APUs with Radeon Vega graphics I touched on the GPU graphics/compute performance in some of the basic benchmarks while in this article are a number of Steam Play and native Linux gaming benchmarks for looking at the potential for these latest-generation desktop APUs for Linux gaming.]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSSL 3.0 Officially Released]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenSSL-3.0-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenSSL-3.0-Released"/>
+        <updated>2021-09-07T13:08:50.000Z</updated>
+        <summary type="html"><![CDATA[After many development snapshots and three years worth of work, OpenSSL 3.0 is now available as a major update to this widely-used SSL library...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X.Org DMX Dropped After More Than A Decade Of Crashes]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=X.Org-DMX-Dropped</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=X.Org-DMX-Dropped"/>
+        <updated>2021-09-07T11:53:56.000Z</updated>
+        <summary type="html"><![CDATA[The X.Org Distributed Multihead X (DMX) DDX driver has been dropped from the X.Org Server source tree due to its rather broken state for more than one decade...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decoding the Social Effects Of Media with Machine Learning]]></title>
+        <id>2c845d4a4cf1093ef98aefca06818fc77382f5a6</id>
+        <link href="https://aws.amazon.com/blogs/aws/decoding-the-social-effects-of-media-with-machine-learning/"/>
+        <updated>2021-09-03T16:30:42.000Z</updated>
+        <summary type="html"><![CDATA[What if media were optimized to benefit people? This thought-provoking question is at the core of Harmony Labs‘ mission. A nonprofit organization headquartered in New York City, Harmony Labs strives to better understand the impact of media on society, and build communities and tools to reform and transform media systems. As Brian Wanieswki, Executive Director […]]]></summary>
+        <author>
+            <name>Julien Simon</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to AWS Storage Day 2021]]></title>
+        <id>9bf2734a9a0cc7f9b62f12302a109d0a15a0eacb</id>
+        <link href="https://aws.amazon.com/blogs/aws/welcome-to-aws-storage-day-2021/"/>
+        <updated>2021-09-02T15:57:49.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the third annual AWS Storage Day 2021! During Storage Day 2020 and the first-ever Storage Day 2019 we made many impactful announcements for our customers and this year will be no different. The one-day, free AWS Storage Day 2021 virtual event will be hosted on the AWS channel on Twitch. You’ll hear from […]]]></summary>
+        <author>
+            <name>Marcia Villalba</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New – Amazon EFS Intelligent-Tiering Optimizes Costs for Workloads with Changing Access Patterns]]></title>
+        <id>31eeed91f20d84c8371d02185b6434cfd36818f1</id>
+        <link href="https://aws.amazon.com/blogs/aws/new-amazon-efs-intelligent-tiering-optimizes-costs-for-workloads-with-changing-access-patterns/"/>
+        <updated>2021-09-02T15:41:02.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Elastic File System (Amazon EFS) offers four storage classes: two Standard storage classes, Amazon EFS Standard and Amazon EFS Standard-Infrequent Access (EFS Standard-IA), and two One Zone storage classes, Amazon EFS One Zone, and Amazon EFS One Zone-Infrequent Access (EFS One Zone-IA). Standard storage classes store data within and across multiple availability zones (AZ). […]]]></summary>
+        <author>
+            <name>Channy Yun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Accelerate Performance and Availability of Multi-region Applications with Amazon S3 Multi-Region Access Points]]></title>
+        <id>d0cb27424372f775619510a8c1582fa4f2daf084</id>
+        <link href="https://aws.amazon.com/blogs/aws/s3-multi-region-access-points-accelerate-performance-availability/"/>
+        <updated>2021-09-02T15:40:33.000Z</updated>
+        <summary type="html"><![CDATA[Building multi-region applications allows you to improve latency for end users, achieve higher availability and resiliency in case of unexpected disasters, and adhere to business requirements related to data durability and data residency. For example, you might want to reduce the overall latency of dynamic API calls to your backend services . Or you might […]]]></summary>
+        <author>
+            <name>Alex Casalboni</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon S3 Intelligent-Tiering – Improved Cost Optimizations for Short-Lived and Small Objects]]></title>
+        <id>da2cf10e52b4ea77d701c365a9ec8802a7030f84</id>
+        <link href="https://aws.amazon.com/blogs/aws/amazon-s3-intelligent-tiering-further-automating-cost-savings-for-short-lived-and-small-objects/"/>
+        <updated>2021-09-02T15:39:39.000Z</updated>
+        <summary type="html"><![CDATA[In 2018, we first launched Amazon S3 Intelligent-Tiering (S3 Intelligent-Tiering). For customers managing data across business units, teams, and products, unpredictable access patterns are often the norm. With the S3 Intelligent-Tiering storage class, S3 automatically optimizes costs by moving data between access tiers as access patterns change. Today, we’re pleased to announce two updates to […]]]></summary>
+        <author>
+            <name>Sean M. Tracey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New – Amazon FSx for NetApp ONTAP]]></title>
+        <id>a1241623aa1b9528784bc5782f30c04e5f265286</id>
+        <link href="https://aws.amazon.com/blogs/aws/new-amazon-fsx-for-netapp-ontap/"/>
+        <updated>2021-09-02T15:38:56.000Z</updated>
+        <summary type="html"><![CDATA[Back in 2018 I wrote about the first two members of the Amazon FSx family of fully-managed, highly-reliable, and highly-performant file systems, Amazon FSx for Lustre and Amazon FSx for Windows File Server. Both of these services give you the ability to use popular open source and commercially-licensed file systems without having to deal with […]]]></summary>
+        <author>
+            <name>Jeff Barr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Managed Grafana Is Now Generally Available with Many New Features]]></title>
+        <id>27dd22094272f325d6756471d5bfa893d3d13b25</id>
+        <link href="https://aws.amazon.com/blogs/aws/amazon-managed-grafana-is-now-generally-available-with-many-new-features/"/>
+        <updated>2021-09-01T01:17:06.000Z</updated>
+        <summary type="html"><![CDATA[In December, we introduced the preview of Amazon Managed Grafana, a fully managed service developed in collaboration with Grafana Labs that makes it easy to use the open-source and the enterprise versions of Grafana to visualize and analyze your data from multiple sources. With Amazon Managed Grafana, you can analyze your metrics, logs, and traces […]]]></summary>
+        <author>
+            <name>Danilo Poccia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon VPC Routing Enhancements Allow You to Inspect Traffic Between Subnets In a VPC]]></title>
+        <id>77e52244f6e9441bcc3b1c7bc019a835f69a5973</id>
+        <link href="https://aws.amazon.com/blogs/aws/inspect-subnet-to-subnet-traffic-with-amazon-vpc-more-specific-routing/"/>
+        <updated>2021-08-30T23:41:02.000Z</updated>
+        <summary type="html"><![CDATA[Since December 2019, Amazon Virtual Private Cloud (VPC) has allowed you to route all ingress traffic (also known as north – south traffic) to a specific network interface. You might use this capability for a number of reasons. For example, to inspect incoming traffic using an intrusion detection system (IDS) appliance or to route ingress […]]]></summary>
+        <author>
+            <name>Sébastien Stormacq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New for AWS CloudFormation – Quickly Retry Stack Operations from the Point of Failure]]></title>
+        <id>1e4059819a26a3d337726ce8dcdb1a2df847c827</id>
+        <link href="https://aws.amazon.com/blogs/aws/new-for-aws-cloudformation-quickly-retry-stack-operations-from-the-point-of-failure/"/>
+        <updated>2021-08-30T19:46:51.000Z</updated>
+        <summary type="html"><![CDATA[One of the great advantages of cloud computing is that you have access to programmable infrastructure. This allows you to manage your infrastructure as code and apply the same practices of application code development to infrastructure provisioning. AWS CloudFormation gives you an easy way to model a collection of related AWS and third-party resources, provision […]]]></summary>
+        <author>
+            <name>Danilo Poccia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing the latest AWS Heroes – August 2021]]></title>
+        <id>ab1095ff6e13f6a555a78d4d5bb69e424da604a3</id>
+        <link href="https://aws.amazon.com/blogs/aws/announcing-the-latest-aws-heroes-august-2021/"/>
+        <updated>2021-08-26T18:28:12.000Z</updated>
+        <summary type="html"><![CDATA[AWS Heroes go above and beyond to share knowledge with the community and help others build better and faster on AWS. Last month we launched the AWS Heroes Content Library, a centralized place where Builders can find inspiration and learn from AWS Hero authored educational content including blogs, videos, slide presentations, podcasts, open source projects, […]]]></summary>
+        <author>
+            <name>Ross Barich</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Textract Updates: Up to 32% Price Reduction in 8 AWS Regions and Up to 50% Reduction in Asynchronous Job Processing Times]]></title>
+        <id>8a88d0376f1e7e50dc00438841148100887bbdaf</id>
+        <link href="https://aws.amazon.com/blogs/aws/amazon-textract-updates-up-to-32-price-reduction-in-8-aws-regions-and-up-to-50-reduction-in-asynchronous-job-processing-times/"/>
+        <updated>2021-08-26T16:03:49.000Z</updated>
+        <summary type="html"><![CDATA[Introduced at AWS re:Invent 2018, Amazon Textract is a machine learning service that automatically extracts text, handwriting and data from scanned documents that goes beyond simple optical character recognition (OCR) to identify, understand, and extract data from forms and tables. In the past few months, we introduced specialized support for processing invoices and receipts and […]]]></summary>
+        <author>
+            <name>Channy Yun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sponsored Post: Pinecone, Kinsta, Bridgecrew, IP2Location, StackHawk, InterviewCamp.io, Educative, Stream, Fauna, Triplebyte]]></title>
+        <id>426227:4867632:36376927</id>
+        <link href="http://feedproxy.google.com/~r/HighScalability/~3/RgCMWjYL0LY/sponsored-post-pinecone-kinsta-bridgecrew-ip2location-stackh.html"/>
+        <updated>2021-08-24T15:17:44.000Z</updated>
+        <summary type="html"><![CDATA[Who's Hiring? 
+
+
+DevOps Engineer: At Kinsta, we set out to create the best managed hosting platform in the world. If you are an experienced DevOps Engineer who is constantly looking for ways to innovate and improve, we might just be the place for you! As Kinsta’s DevOps Engineer, you will be instrumental in making sure that our infrastructure is always on the bleeding edge of technology, remaining stable and high-performing at all times. If you love working with Linux, have a background in PHP, and have worked with cutting-edge technologies, such as Ansible and LXC, check us out and apply here. 
+
+
+ SysOps Engineer: As Kinsta’s SysOps Engineer, you’ll play a key role in caring for the health of our servers, preventing issues, and responding immediately to mitigate any problems in our in…]]></summary>
+        <author>
+            <name>Todd Hoff</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Monitor, Evaluate, and Demonstrate Backup Compliance with AWS Backup Audit Manager]]></title>
+        <id>67850536ae98d21f4ff66429ee314dfdad639c1c</id>
+        <link href="https://aws.amazon.com/blogs/aws/monitor-evaluate-and-demonstrate-backup-compliance-with-aws-backup-audit-manager/"/>
+        <updated>2021-08-24T13:50:02.000Z</updated>
+        <summary type="html"><![CDATA[Today, I’m happy to announce the availability of AWS Backup Audit Manager, a new feature of AWS Backup that helps you monitor and evaluate the compliance status of your backups to meet business and regulatory requirements, and enables you to generate reports that help demonstrate compliance to auditors and regulators. AWS Backup is a fully […]]]></summary>
+        <author>
+            <name>Steve Roberts</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happy 15th Birthday Amazon EC2]]></title>
+        <id>26d642d9945ef477f9a2c6443e79a0d085ddbfad</id>
+        <link href="https://aws.amazon.com/blogs/aws/happy-15th-birthday-amazon-ec2/"/>
+        <updated>2021-08-23T15:09:54.000Z</updated>
+        <summary type="html"><![CDATA[Fifteen years ago today I wrote the blog post that launched the Amazon EC2 Beta. As I recall, the launch was imminent for quite some time as we worked to finalize the feature set, the pricing model, and innumerable other details. The launch date was finally chosen and it happened to fall in the middle […]]]></summary>
+        <author>
+            <name>Jeff Barr</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Amazon MemoryDB for Redis – A Redis-Compatible, Durable, In-Memory Database Service]]></title>
+        <id>c0f4c867c6984fe656087db346b578b038cd1735</id>
+        <link href="https://aws.amazon.com/blogs/aws/introducing-amazon-memorydb-for-redis-a-redis-compatible-durable-in-memory-database-service/"/>
+        <updated>2021-08-19T17:42:09.000Z</updated>
+        <summary type="html"><![CDATA[Interactive applications need to process requests and respond very quickly, and this requirement extends to all the components of their architecture. That is even more important when you adopt microservices and your architecture is composed of many small independent services that communicate with each other. For this reason, database performance is critical to the success […]]]></summary>
+        <author>
+            <name>Danilo Poccia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New – Amazon EC2 M6i Instances Powered by the Latest-Generation Intel Xeon Scalable Processors]]></title>
+        <id>f37eb47e4e2a70fab81aae10293c94725350cb8a</id>
+        <link href="https://aws.amazon.com/blogs/aws/new-amazon-ec2-m6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/"/>
+        <updated>2021-08-16T21:27:10.000Z</updated>
+        <summary type="html"><![CDATA[Last year, we introduced the sixth generation of EC2 instances powered by AWS-designed Graviton2 processors. We’re now expanding our sixth-generation offerings to include x86-based instances, delivering price/performance benefits for workloads that rely on x86 instructions. Today, I am happy to announce the availability of the new general purpose Amazon EC2 M6i instances, which offer up to […]]]></summary>
+        <author>
+            <name>Danilo Poccia</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cross-Account Data Sharing for Amazon Redshift]]></title>
+        <id>903ccd8fce8570d9ea1622cb7649dffac71ba65f</id>
+        <link href="https://aws.amazon.com/blogs/aws/cross-account-data-sharing-for-amazon-redshift/"/>
+        <updated>2021-08-13T16:38:16.000Z</updated>
+        <summary type="html"><![CDATA[To be successful in today’s fast-moving world, businesses need to analyze data quickly and take meaningful action. Many of our customers embrace this concept to become data-driven organizations. Data-driven organizations treat data as an asset and use it to improve their insights and make better decisions. They unleash the power of data by using secure […]]]></summary>
+        <author>
+            <name>Martin Beeby</name>
+        </author>
+    </entry>
 </feed>
