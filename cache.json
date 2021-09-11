@@ -631,7 +631,7 @@
           "description": "While last week was the main \"char/misc\" pull request for the Linux 5.15 merge window, the Habana Labs driver changes were previously reverted from there due to opposition from the upstream kernel developers in the Direct Rendering Manager  space. The concerning patches around DMA-BUF have now been removed and a new pull request submitted with updates to this AI driver for Linux 5.15...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Habana-Labs-Linux-5.15-Changes",
           "publishedOn": "2021-09-10T17:57:29.000Z",
-          "wordCount": 957,
+          "wordCount": 1037,
           "title": "Habana Labs AI Driver Updates Submitted For Linux 5.15"
         },
         {
@@ -640,7 +640,7 @@
           "description": "With less than one month out from the official release of Microsoft Windows 11, I was curious to run some fresh benchmarks of the latest Windows 11 Insider Preview build against Windows 10 21H1 to see how the performance is looking. Of course, also to see how Windows 11 is shaping up against Ubuntu 21.10 also due for release in October.",
           "link": "https://www.phoronix.com/vr.php?view=30514",
           "publishedOn": "2021-09-10T11:55:19.000Z",
-          "wordCount": 881,
+          "wordCount": 880,
           "title": "Ubuntu 21.10 Performance Still Pushing Ahead Of Windows 10, Latest Windows 11 Build"
         },
         {
@@ -649,7 +649,7 @@
           "description": "Intel-owned Habana Labs now has the most open software stack among AI accelerators! While Habana Labs has long provided an open-source, upstream kernel driver for their Gaudi AI training and Goya AI inference accelerators, the user-space portions including their code compiler and run-time library have been closed-source. This has been a thorn for upstream kernel developers and their standards, but now Habana Labs has open-sourced their user-space components too...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Hababa-Labs-Open-Compiler-AI",
           "publishedOn": "2021-09-10T10:00:00.000Z",
-          "wordCount": 980,
+          "wordCount": 955,
           "title": "Habana Labs Opens Up The Code To Their AI Compiler, SynapseAI Core"
         },
         {
@@ -658,7 +658,7 @@
           "description": "Last week a number of patches were merged in the quest to provide the kernel with comprehensive compile-time and run-time detection of buffer overflows. Another patch series was sent out today while still for this cycle they are expected to enable the compiler warnings around array-bounds and zero-length-bounds...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-More-BO-Detection",
           "publishedOn": "2021-09-10T09:29:40.000Z",
-          "wordCount": 890,
+          "wordCount": 810,
           "title": "Linux 5.15 Readies More Code For Compile & Run-Time Detection Of Buffer Overflows"
         },
         {
@@ -667,7 +667,7 @@
           "description": "While Vulkan is quickly taking over as the dominant graphics API for Linux gamers especially with the likes of DXVK and VKD3D-Proton mapping Direct3D atop Vulkan, OpenGL remains widely used by workstation software. It's also for workstation software where AMD's \"PRO\" closed-source OpenGL Linux driver has traditionally competed well (and outperformed) the open-source Mesa driver. But with all the recent changes, that's either a matter of the past or close to not being relevant with the latest Mesa enhancements...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=RadeonSI-VBO-DLIST-Opt",
           "publishedOn": "2021-09-10T07:00:00.000Z",
-          "wordCount": 935,
+          "wordCount": 1015,
           "title": "AMD Just Squeezed More Workstation Performance Out Of Its RadeonSI Driver"
         },
         {
@@ -685,7 +685,7 @@
           "description": "At the moment when running the X.Org Server in a multi-monitor configuration with displays of different refresh rates, it can lead to a poor experience with a variety of visual deficiencies when running an unredirected full-screen window with page-flipping for DRI3/Present. There is now a change that was merged into the X.Org Server with a new \"AsyncFlipSecondaries\" to improve that experience when running multiple displays of varying refresh rates...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=X.Org-AsyncFlipSecondaries",
           "publishedOn": "2021-09-09T20:00:55.000Z",
-          "wordCount": 1000,
+          "wordCount": 920,
           "title": "X.Org Server Adds \"AsyncFlipSecondaries\" To Deal With Crappy Multi-Monitor Experience"
         },
         {
@@ -694,7 +694,7 @@
           "description": "While now into September, Microsoft just published its \"August 2021\" update to their CBL-Mariner Linux distribution with a variety of changes...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=CBL-Mariner-August-2021",
           "publishedOn": "2021-09-09T19:21:12.000Z",
-          "wordCount": 867,
+          "wordCount": 801,
           "title": "Microsoft Releases Its August Update For The CBL-Mariner Linux Distribution"
         },
         {
@@ -712,7 +712,7 @@
           "description": "Akin to FUSE for file-systems in user-space, VDUSE is set to be merged for Linux 5.15 in adding support for vDPA devices in user-space...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-VDUSE-vDPA",
           "publishedOn": "2021-09-09T18:12:06.000Z",
-          "wordCount": 962,
+          "wordCount": 882,
           "title": "Linux 5.15 Adds VDUSE For vDPA Devices In User-Space"
         },
         {
@@ -721,7 +721,7 @@
           "description": "At last! AMD has posted the Linux kernel driver patches for their new \"AMD-PSTATE\" driver! This driver with modern AMD Zen CPUs (initially limited to Zen 3) to achieve greater performance per Watt / power efficiency on Linux than the conventional ACPI CPUFreq driver...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=AMD-PSTATE-2021",
           "publishedOn": "2021-09-09T11:48:38.000Z",
-          "wordCount": 1077,
+          "wordCount": 1011,
           "title": "AMD Posts New \"AMD-PSTATE\" CPUFreq Driver Leveraging CPPC For Better Perf-Per-Watt"
         },
         {
@@ -748,7 +748,7 @@
           "description": "Going back to September 2019 was work on the AMD PTDMA driver for supporting this controller found on modern AMD processors for high bandwidth memory-to-memory and I/O copy operations. With the Linux 5.15 cycle the AMD PTDMA driver is finally being merged to the mainline kernel...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=AMD-PTDMA-For-Linux-5.15",
           "publishedOn": "2021-09-09T07:00:00.000Z",
-          "wordCount": 782,
+          "wordCount": 862,
           "title": "AMD PTDMA Driver Landing For Linux 5.15 After Two Years In The Works"
         },
         {
@@ -766,7 +766,7 @@
           "description": "Ahead of the official GNOME 41 release later this month, the release candidate is now available to facilitate more testing...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=GNOME-41-RC",
           "publishedOn": "2021-09-08T23:05:04.000Z",
-          "wordCount": 836,
+          "wordCount": 907,
           "title": "GNOME 41 Release Candidate Arrives With Many Improvements"
         },
         {
@@ -775,7 +775,7 @@
           "description": "The DAMON kernel functionality developed by Amazon engineers has successfully landed in the Linux 5.15 tree...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=DAMON-Merged-Linux-5.15",
           "publishedOn": "2021-09-08T20:22:39.000Z",
-          "wordCount": 1032,
+          "wordCount": 952,
           "title": "Amazon's DAMON Merged Into Linux 5.15 For Data Access Monitoring Framework"
         },
         {
@@ -784,7 +784,7 @@
           "description": "For those wondering how the upcoming Ubuntu 21.10 release is looking for Intel \"Rocket Lake\" owners, here are some Ubuntu 21.04 versus 21.10 development benchmarks across dozens of different tests...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-21.10-Rocket-Lake",
           "publishedOn": "2021-09-08T19:15:22.000Z",
-          "wordCount": 914,
+          "wordCount": 843,
           "title": "Ubuntu 21.10 Delivering Some Performance Gains On The Intel Core i9 11900K"
         },
         {
@@ -793,7 +793,7 @@
           "description": "Since last year AMD has been working to get its s2idle / suspend-to-idle S0ix sleep state code in order for supporting this lowest power platform idle state on newer AMD laptops and there has also been other AMD suspend/resume improvements in recent times. Now with the Linux 5.15 kernel cycle is an important fix for the AMD s2idle code...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=AMD-S2idle-Fix-Linux-5.15",
           "publishedOn": "2021-09-08T18:47:10.000Z",
-          "wordCount": 890,
+          "wordCount": 970,
           "title": "AMD Has An Important Suspend/Resume Fix With Linux 5.15"
         },
         {
@@ -811,7 +811,7 @@
           "description": "OverlayFS continues to be used by Linux IoT/embedded devices and other use-cases as a union mount file-system. With Linux 5.15 the OverlayFS file-system continues to improve...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-OverlayFS",
           "publishedOn": "2021-09-08T11:02:28.000Z",
-          "wordCount": 804,
+          "wordCount": 724,
           "title": "OverlayFS On Linux 5.15 Improves Performance, Copies Up More Attributes"
         },
         {
@@ -829,7 +829,7 @@
           "description": "Last month Intel's open-source Linux graphics driver engineers began posting patches working on DisplayPort 2.0 support for their driver with DG2/Alchemist now set to be Intel's first GPU supporting the newest DP standard. DP 2.0 enablement work continues with Panel Replay being the latest feature being worked on for their Linux driver...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Intel-DP-2.0-Panel-Replay",
           "publishedOn": "2021-09-08T09:57:16.000Z",
-          "wordCount": 817,
+          "wordCount": 751,
           "title": "Intel Working On DP 2.0 Panel Replay Power Savings For Linux"
         },
         {
@@ -847,7 +847,7 @@
           "description": "Landing this past weekend was the surprise move by Linus Torvalds to enable \"-Werror\" behavior by default for all kernel builds. That compiler flag addition makes all warnings be treated as errors, which in turn stops the kernel build. As expected, this change has led to quite a mess...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-Werror-Pain",
           "publishedOn": "2021-09-08T00:48:10.000Z",
-          "wordCount": 1090,
+          "wordCount": 1161,
           "title": "Linux 5.15's New \"-Werror\" Behavior Is Causing A Lot Of Pain"
         },
         {
@@ -856,7 +856,7 @@
           "description": "GhostBSD 21.09.06 is now available as the latest release of this desktop-minded, FreeBSD-based operating system...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=GhostBSD-21.09.06-Released",
           "publishedOn": "2021-09-07T22:07:33.000Z",
-          "wordCount": 812,
+          "wordCount": 732,
           "title": "GhostBSD 21.09.06 Released For This FreeBSD-Based Desktop OS"
         },
         {
@@ -874,7 +874,7 @@
           "description": "While The Khronos Group previously hosted in-person Vulkan events, due to the ongoing COVID-19 pandemic their \"Vulkanised 2021\" event next month has morphed into a free virtual event...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Vulkanised-2021-Next-Month",
           "publishedOn": "2021-09-07T17:23:04.000Z",
-          "wordCount": 688,
+          "wordCount": 768,
           "title": "The Khronos Group Is Hosting A Virtual Vulkan Event Next Month"
         },
         {
@@ -883,7 +883,7 @@
           "description": "Recently with my Linux benchmarks of the Ryzen 5 5600G and Ryzen 7 5700G Zen 3 APUs with Radeon Vega graphics I touched on the GPU graphics/compute performance in some of the basic benchmarks while in this article are a number of Steam Play and native Linux gaming benchmarks for looking at the potential for these latest-generation desktop APUs for Linux gaming.",
           "link": "https://www.phoronix.com/vr.php?view=30505",
           "publishedOn": "2021-09-07T13:20:00.000Z",
-          "wordCount": 829,
+          "wordCount": 828,
           "title": "AMD Ryzen 5 5600G / Ryzen 7 5700G Linux Gaming Benchmarks"
         },
         {
@@ -892,7 +892,7 @@
           "description": "After many development snapshots and three years worth of work, OpenSSL 3.0 is now available as a major update to this widely-used SSL library...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=OpenSSL-3.0-Released",
           "publishedOn": "2021-09-07T13:08:50.000Z",
-          "wordCount": 811,
+          "wordCount": 731,
           "title": "OpenSSL 3.0 Officially Released"
         },
         {
@@ -903,6 +903,99 @@
           "publishedOn": "2021-09-07T11:53:56.000Z",
           "wordCount": 790,
           "title": "X.Org DMX Dropped After More Than A Decade Of Crashes"
+        }
+      ]
+    },
+    {
+      "title": "Infrastructure as a Newsletter",
+      "feedUrl": "https://kill-the-newsletter.com/feeds/mco7b04gbd5bu0hr.xml",
+      "siteUrl": "https://kill-the-newsletter.com/",
+      "articles": [
+        {
+          "id": "https://kill-the-newsletter.com/alternates/8suipdivitgqt8ch.html",
+          "author": null,
+          "description": "Infrastructure as a Newsletter: August 26, 2021\n\n\n\n\n\n#outlook a { padding:0; }           body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }           table { border-spacing:0;}           img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }           p { display:block;margin:13px 0; }\n                                                                                              96                                                                               table { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }             .mj-outlook-group-fix { width:100% !important; }             .block-grid-outlook .button-container a {background: transparent !important;}                  …",
+          "link": "https://kill-the-newsletter.com/alternates/8suipdivitgqt8ch.html",
+          "publishedOn": "2021-09-11T01:26:44.000Z",
+          "wordCount": 458,
+          "title": "Infrastructure as a Newsletter: August 26, 2021"
+        },
+        {
+          "id": "https://kill-the-newsletter.com/alternates/4xj9qj1qgqh01310.html",
+          "author": null,
+          "description": "Welcome to Infrastructure as a Newsletter\n\n\n\n\n\n#outlook a { padding:0; }           body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }           table { border-spacing:0;}           img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }           p { display:block;margin:13px 0; }\n                                                                                              96                                                                               table { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }             .mj-outlook-group-fix { width:100% !important; }             .block-grid-outlook .button-container a {background: transparent !important;}                        …",
+          "link": "https://kill-the-newsletter.com/alternates/4xj9qj1qgqh01310.html",
+          "publishedOn": "2021-09-11T01:16:42.000Z",
+          "wordCount": 272,
+          "title": "Welcome to Infrastructure as a Newsletter"
+        },
+        {
+          "id": "https://kill-the-newsletter.com/alternates/7gupkgrubjpa1jsc.html",
+          "author": null,
+          "description": "mco7b04gbd5bu0hr@kill-the-newsletter.com\n      \nhttps://kill-the-newsletter.com/feeds/mco7b04gbd5bu0hr.xml\n      \nDon’t share these addresses.\nEnjoy your readings!\nCreate another inbox",
+          "link": "https://kill-the-newsletter.com/alternates/7gupkgrubjpa1jsc.html",
+          "publishedOn": "2021-09-11T01:16:01.000Z",
+          "wordCount": 45,
+          "title": "“Infrastructure as a Newsletter” inbox created"
+        }
+      ]
+    },
+    {
+      "title": "Devops Weekly",
+      "feedUrl": "https://kill-the-newsletter.com/feeds/5nify6z9bnemncst.xml",
+      "siteUrl": "https://kill-the-newsletter.com/",
+      "articles": [
+        {
+          "id": "https://kill-the-newsletter.com/alternates/qq2hmyvared4czk9.html",
+          "author": null,
+          "description": "96\n            \n        \n        \n        Devops Weekly List\n        \n        \n        \n        \n        \n        \n    \n\t\tbody{\n\t\t\tfont:14px/20px 'Helvetica', Arial, sans-serif;\n\t\t\tmargin:0;\n\t\t\tpadding:75px 0 0 0;\n\t\t\ttext-align:center;\n\t\t\t-webkit-text-size-adjust:none;\n\t\t}\n\t\tp{\n\t\t\tpadding:0 0 10px 0;\n\t\t}\n\t\th1 img{\n\t\t\tmax-width:100%;\n\t\t\theight:auto !important;\n\t\t\tvertical-align:bottom;\n\t\t}\n\t\th2{\n\t\t\tfont-size:22px;\n\t\t\tline-height:28px;\n\t\t\tmargin:0 0 12px 0;\n\t\t}\n\t\th3{\n\t\t\tmargin:0 0 12px 0;\n\t\t}\n\t\t.headerBar{\n\t\t\tbackground:none;\n\t\t\tpadding:0;\n\t\t\tborder:none;\n\t\t}\n\t\t.wrapper{\n\t\t\twidth:600px;\n\t\t\tmargin:0 auto 10px auto;\n\t\t\ttext-align:left;\n\t\t}\n\t\tinput.formEmailButton{\n\t\t\tborder:none !important;\n\t\t}\n\t\t.formEmailButton{\n\t\t\tdisplay:inline-block;\n\t\t\tfont-weight:500;\n\t\t\tfont-size:16px;\n\t\t\tline-height:4…",
+          "link": "https://kill-the-newsletter.com/alternates/qq2hmyvared4czk9.html",
+          "publishedOn": "2021-09-11T01:18:41.000Z",
+          "wordCount": 57,
+          "title": "Devops Weekly List: Subscription Confirmed"
+        },
+        {
+          "id": "https://kill-the-newsletter.com/alternates/ff491bto1viokcvo.html",
+          "author": null,
+          "description": "96\n            \n        \n        \n        Devops Weekly List\n        \n        \n        \n        \n        \n        \n    \n\t\tbody{\n\t\t\tfont:14px/20px 'Helvetica', Arial, sans-serif;\n\t\t\tmargin:0;\n\t\t\tpadding:75px 0 0 0;\n\t\t\ttext-align:center;\n\t\t\t-webkit-text-size-adjust:none;\n\t\t}\n\t\tp{\n\t\t\tpadding:0 0 10px 0;\n\t\t}\n\t\th1 img{\n\t\t\tmax-width:100%;\n\t\t\theight:auto !important;\n\t\t\tvertical-align:bottom;\n\t\t}\n\t\th2{\n\t\t\tfont-size:22px;\n\t\t\tline-height:28px;\n\t\t\tmargin:0 0 12px 0;\n\t\t}\n\t\th3{\n\t\t\tmargin:0 0 12px 0;\n\t\t}\n\t\t.headerBar{\n\t\t\tbackground:none;\n\t\t\tpadding:0;\n\t\t\tborder:none;\n\t\t}\n\t\t.wrapper{\n\t\t\twidth:600px;\n\t\t\tmargin:0 auto 10px auto;\n\t\t\ttext-align:left;\n\t\t}\n\t\tinput.formEmailButton{\n\t\t\tborder:none !important;\n\t\t}\n\t\t.formEmailButton{\n\t\t\tdisplay:inline-block;\n\t\t\tfont-weight:500;\n\t\t\tfont-size:16px;\n\t\t\tline-height:4…",
+          "link": "https://kill-the-newsletter.com/alternates/ff491bto1viokcvo.html",
+          "publishedOn": "2021-09-11T01:18:15.000Z",
+          "wordCount": 46,
+          "title": "Devops Weekly List: Please Confirm Subscription"
+        },
+        {
+          "id": "https://kill-the-newsletter.com/alternates/cgsjynp9qh0yoxoe.html",
+          "author": null,
+          "description": "5nify6z9bnemncst@kill-the-newsletter.com\n      \nhttps://kill-the-newsletter.com/feeds/5nify6z9bnemncst.xml\n      \nDon’t share these addresses.\nEnjoy your readings!\nCreate another inbox",
+          "link": "https://kill-the-newsletter.com/alternates/cgsjynp9qh0yoxoe.html",
+          "publishedOn": "2021-09-11T01:17:43.000Z",
+          "wordCount": 45,
+          "title": "“Devops Weekly ” inbox created"
+        }
+      ]
+    },
+    {
+      "title": "DevOps'ish",
+      "feedUrl": "https://kill-the-newsletter.com/feeds/5xim7cr6c89gyeqh.xml",
+      "siteUrl": "https://kill-the-newsletter.com/",
+      "articles": [
+        {
+          "id": "https://kill-the-newsletter.com/alternates/ppezl8jr4cscshik.html",
+          "author": null,
+          "description": "Subscribe to DevOps'ish\n  \n ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ \nIf you received this email by mistake, simply delete it. You won't be subscribed unless you click the link above.\nFor questions about this list, please reply to this email.",
+          "link": "https://kill-the-newsletter.com/alternates/ppezl8jr4cscshik.html",
+          "publishedOn": "2021-09-11T01:21:44.000Z",
+          "wordCount": 98,
+          "title": "Subscribe to DevOps'ish"
+        },
+        {
+          "id": "https://kill-the-newsletter.com/alternates/5ensgyt9lda54xhn.html",
+          "author": null,
+          "description": "5xim7cr6c89gyeqh@kill-the-newsletter.com\n      \nhttps://kill-the-newsletter.com/feeds/5xim7cr6c89gyeqh.xml\n      \nDon’t share these addresses.\nEnjoy your readings!\nCreate another inbox",
+          "link": "https://kill-the-newsletter.com/alternates/5ensgyt9lda54xhn.html",
+          "publishedOn": "2021-09-11T01:21:06.000Z",
+          "wordCount": 45,
+          "title": "“DevOps'ish” inbox created"
         }
       ]
     }
