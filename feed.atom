@@ -1,25 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-12T02:05:14.709Z</id>
+    <id>urn:2021-09-12T08:00:40.056Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-12T02:05:14.709Z</updated>
+    <updated>2021-09-12T08:00:40.056Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)]]></title>
-        <id>https://news.ycombinator.com/item?id=28497623</id>
-        <link href="https://news.ycombinator.com/item?id=28497623"/>
-        <updated>2021-09-12T01:01:00.000Z</updated>
+        <title type="html"><![CDATA[Devops Weekly #559]]></title>
+        <id>https://kill-the-newsletter.com/alternates/nf73sjau9wd6feyq.html</id>
+        <link href="https://kill-the-newsletter.com/alternates/nf73sjau9wd6feyq.html"/>
+        <updated>2021-09-12T07:49:40.000Z</updated>
+        <summary type="html"><![CDATA[DEVOPS WEEKLY
+ISSUE #559 - 12th September 2021
+A few good hindsight design posts this week, both on API design and on data storage cost control. As with lots of decisions, you can apply some patterns too early, but knowing you’ll need to change later if you succeed is useful to remember.
+StackHawk sponsors Devops Weekly
+============================
+Trying to figure out how to keep your APIs secure? You're not the only one. See how DataRobot is automating API security testing with StackHawk.
+https://sthwk.com/DataRobot-API-Security
+News
+====
+A good post on the early decisions (in this case around data storage) that can lead to cost control discussions later. You can apply this to other systems as well.
+https://medium.com/riskified-technology/over-pay-as-you-go-for-your-datastore-11a29ae49a8…]]></summary>
+        <author>
+            <name>Devops Weekly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevOps'ish 234: Giving up on reopen dates, containers everywhere, Epic v. Apple, OWASP Top 10 changes, Kubernetes troubleshooting, Podman, and more]]></title>
+        <id>https://kill-the-newsletter.com/alternates/pank2znjrjflbwbn.html</id>
+        <link href="https://kill-the-newsletter.com/alternates/pank2znjrjflbwbn.html"/>
+        <updated>2021-09-12T07:16:00.000Z</updated>
+        <summary type="html"><![CDATA[* { font-family: sans-serif !important; }
+        
+    
+
+    
+        /* Box sizing. Gets decent support. */
+        
+        *,
+        *:after,
+        *:before {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        /* Prevents small text resizing. */
+        
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        /* Basic reset. Removes default spacing around emails in various clients.  */
+        
+        html,
+        body,
+        .document {
+            width: 100% !important;
+            height: 100% !important;
+            margin: 0;
+            padding: 0;
+        }
+        /* Improves text rendering when supported. */
+        
+        b…]]></summary>
+        <author>
+            <name>DevOps'ish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raycast (YC W20) Is Hiring macOS Engineers (Remote)]]></title>
+        <id>https://www.raycast.com/jobs/software-engineer-macos/</id>
+        <link href="https://www.raycast.com/jobs/software-engineer-macos/"/>
+        <updated>2021-09-12T07:00:28.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Samantha considering the prospect of being monitored for violations by OpenAI]]></title>
-        <id>https://twitter.com/jasonrohrer/status/1419795724217331716</id>
-        <link href="https://twitter.com/jasonrohrer/status/1419795724217331716"/>
-        <updated>2021-09-11T23:57:54.000Z</updated>
+        <title type="html"><![CDATA[Open source applications for macOS]]></title>
+        <id>https://github.com/serhii-londar/open-source-mac-os-apps</id>
+        <link href="https://github.com/serhii-londar/open-source-mac-os-apps"/>
+        <updated>2021-09-12T05:22:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Preparing To Slightly Loosen Its Spectre Defaults]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Spectre-V2-V4-Going-Prctl-Def</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Spectre-V2-V4-Going-Prctl-Def"/>
+        <updated>2021-09-12T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[A change first proposed last year to the Linux kernel's Spectre mitigation defaults looks like it will soon be sent in for the mainline kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xiaomi is disabling some phones devices imported to certain regions]]></title>
+        <id>https://www.androidauthority.com/import-xiaomi-phone-problem-3019867/</id>
+        <link href="https://www.androidauthority.com/import-xiaomi-phone-problem-3019867/"/>
+        <updated>2021-09-12T03:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Graduating CS soon, how do I find a job?]]></title>
+        <id>https://news.ycombinator.com/item?id=28498305</id>
+        <link href="https://news.ycombinator.com/item?id=28498305"/>
+        <updated>2021-09-12T03:10:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[macOS persistence – Beyond the good ol' LaunchAgents]]></title>
+        <id>https://theevilbit.github.io/beyond/</id>
+        <link href="https://theevilbit.github.io/beyond/"/>
+        <updated>2021-09-12T02:20:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Much less than, Much greater than symbols]]></title>
+        <id>https://www.johndcook.com/blog/2021/09/11/much-less-than-much-greater-than/</id>
+        <link href="https://www.johndcook.com/blog/2021/09/11/much-less-than-much-greater-than/"/>
+        <updated>2021-09-12T01:19:39.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -66,16 +178,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Epic vs. Apple injunction doesn't allow for alternative in-app payment mechanism]]></title>
-        <id>http://www.fosspatents.com/2021/09/no-epic-v-apple-injunction-absolutely.html</id>
-        <link href="http://www.fosspatents.com/2021/09/no-epic-v-apple-injunction-absolutely.html"/>
-        <updated>2021-09-11T21:52:56.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cross-Account Container Takeover in Azure Container Instances]]></title>
         <id>https://unit42.paloaltonetworks.com/azure-container-instances/</id>
         <link href="https://unit42.paloaltonetworks.com/azure-container-instances/"/>
@@ -86,7 +188,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AlphaGo: The Documentary]]></title>
+        <title type="html"><![CDATA[AlphaGo documentary (2020) [video]]]></title>
         <id>https://www.youtube.com/watch?v=WXuK6gekU1Y</id>
         <link href="https://www.youtube.com/watch?v=WXuK6gekU1Y"/>
         <updated>2021-09-11T21:43:17.000Z</updated>
@@ -146,16 +248,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The effects of a warmer world are visible in animals’ bodies]]></title>
-        <id>https://www.economist.com/science-and-technology/2021/09/11/the-effects-of-a-warmer-world-are-visible-in-animals-bodies</id>
-        <link href="https://www.economist.com/science-and-technology/2021/09/11/the-effects-of-a-warmer-world-are-visible-in-animals-bodies"/>
-        <updated>2021-09-11T17:33:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Another Batch Of RadeonSI Optimizations Land In Mesa 21.3]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-More-For-Mesa-21.3</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-More-For-Mesa-21.3"/>
@@ -206,16 +298,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interpretable Model-Based Hierarchical RL Using Inductive Logic Programming]]></title>
-        <id>https://arxiv.org/abs/2106.11417</id>
-        <link href="https://arxiv.org/abs/2106.11417"/>
-        <updated>2021-09-11T15:16:26.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Alder Lake Support Added To Intel's TCC Driver In Linux 5.15]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Alder-Lake-TCC-Linux-5.15</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Alder-Lake-TCC-Linux-5.15"/>
@@ -223,6 +305,16 @@
         <summary type="html"><![CDATA[While much of Intel's next-gen Alder Lake processor support appears to be in good shape for Linux 5.14, some remaining items are landing for the current Linux 5.15 cycle. The latest Alder Lake support hitting the kernel is for Intel's TCC cooling driver...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Pure Types-Driven real-world apps development approach]]></title>
+        <id>https://medium.com/superstringtheory/an-ideal-data-model-first-development-approach-34ee53599900</id>
+        <link href="https://medium.com/superstringtheory/an-ideal-data-model-first-development-approach-34ee53599900"/>
+        <updated>2021-09-11T12:13:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -256,6 +348,26 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Italy Braces for Pasta Inflation Amid Soaring Durum Wheat Prices]]></title>
+        <id>https://www.bloomberg.com/news/articles/2021-09-10/italy-braces-for-pasta-inflation-amid-soaring-durum-wheat-prices</id>
+        <link href="https://www.bloomberg.com/news/articles/2021-09-10/italy-braces-for-pasta-inflation-amid-soaring-durum-wheat-prices"/>
+        <updated>2021-09-11T06:50:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Checkboxland]]></title>
+        <id>https://www.bryanbraun.com/checkboxland/</id>
+        <link href="https://www.bryanbraun.com/checkboxland/"/>
+        <updated>2021-09-11T06:16:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Org Real]]></title>
         <id>https://blog.tygr.info/emacs/org-real.html</id>
         <link href="https://blog.tygr.info/emacs/org-real.html"/>
@@ -270,6 +382,16 @@
         <id>https://www.worldhistory.org/article/885/egyptian-gods---the-complete-list/</id>
         <link href="https://www.worldhistory.org/article/885/egyptian-gods---the-complete-list/"/>
         <updated>2021-09-11T05:12:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Jigsaw of Independence]]></title>
+        <id>https://tomcritchlow.com/2021/09/09/jigsaw/</id>
+        <link href="https://tomcritchlow.com/2021/09/09/jigsaw/"/>
+        <updated>2021-09-11T04:18:59.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -496,16 +618,6 @@ Create another inbox]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Details of rare bronze age coffin found in golf course pond revealed]]></title>
-        <id>https://www.theguardian.com/science/2021/sep/10/rare-bronze-age-coffin-found-golf-course-pond-axe</id>
-        <link href="https://www.theguardian.com/science/2021/sep/10/rare-bronze-age-coffin-found-golf-course-pond-axe"/>
-        <updated>2021-09-10T23:01:54.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Wine 6.17 Released With Better HiDPI Support For Built-In Apps]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-6.17-Released</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Wine-6.17-Released"/>
@@ -586,26 +698,6 @@ discussion on the merits of the folio approach.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A stranger secretly lived in my home]]></title>
-        <id>https://www.theguardian.com/lifeandstyle/2021/sep/10/experience-a-stranger-secretly-lived-in-my-home</id>
-        <link href="https://www.theguardian.com/lifeandstyle/2021/sep/10/experience-a-stranger-secretly-lived-in-my-home"/>
-        <updated>2021-09-10T11:18:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[User Retention]]></title>
-        <id>https://june.so/template/retention</id>
-        <link href="https://june.so/template/retention"/>
-        <updated>2021-09-10T10:08:12.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Habana Labs Opens Up The Code To Their AI Compiler, SynapseAI Core]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Hababa-Labs-Open-Compiler-AI</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Hababa-Labs-Open-Compiler-AI"/>
@@ -626,6 +718,26 @@ discussion on the merits of the folio approach.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Magic Behind the Scenes of Docker Desktop]]></title>
+        <id>https://www.docker.com/blog/the-magic-behind-the-scenes-of-docker-desktop/</id>
+        <link href="https://www.docker.com/blog/the-magic-behind-the-scenes-of-docker-desktop/"/>
+        <updated>2021-09-10T09:23:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Summary of Electronics]]></title>
+        <id>https://electroagenda.com/en/a-summary-of-electronics/</id>
+        <link href="https://electroagenda.com/en/a-summary-of-electronics/"/>
+        <updated>2021-09-10T07:17:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AMD Just Squeezed More Workstation Performance Out Of Its RadeonSI Driver]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-VBO-DLIST-Opt</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-VBO-DLIST-Opt"/>
@@ -633,36 +745,6 @@ discussion on the merits of the folio approach.]]></summary>
         <summary type="html"><![CDATA[While Vulkan is quickly taking over as the dominant graphics API for Linux gamers especially with the likes of DXVK and VKD3D-Proton mapping Direct3D atop Vulkan, OpenGL remains widely used by workstation software. It's also for workstation software where AMD's "PRO" closed-source OpenGL Linux driver has traditionally competed well (and outperformed) the open-source Mesa driver. But with all the recent changes, that's either a matter of the past or close to not being relevant with the latest Mesa enhancements...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Turbid: A High-Entropy Random Generator]]></title>
-        <id>http://www.av8n.com/turbid/paper/turbid.htm</id>
-        <link href="http://www.av8n.com/turbid/paper/turbid.htm"/>
-        <updated>2021-09-10T06:57:32.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Changing Venture Landscape]]></title>
-        <id>https://bothsidesofthetable.com/the-changing-venture-landscape-6b655c68e631</id>
-        <link href="https://bothsidesofthetable.com/the-changing-venture-landscape-6b655c68e631"/>
-        <updated>2021-09-10T06:21:50.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optical-Cavity-Induced Current]]></title>
-        <id>https://www.mdpi.com/2073-8994/13/3/517/htm</id>
-        <link href="https://www.mdpi.com/2073-8994/13/3/517/htm"/>
-        <updated>2021-09-10T06:05:36.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -697,16 +779,6 @@ Starting with the Time series panel, we’ve added a new graph style option call
 Here’s a line chart with the Gradient mod…]]></summary>
         <author>
             <name>Grafana Labs Blog on Grafana Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9000 years ago, funerals in China involved a lot of beer]]></title>
-        <id>https://arstechnica.com/science/2021/09/9000-years-ago-funerals-in-china-involved-a-lot-of-beer/</id>
-        <link href="https://arstechnica.com/science/2021/09/9000-years-ago-funerals-in-china-involved-a-lot-of-beer/"/>
-        <updated>2021-09-09T22:23:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -1062,16 +1134,6 @@ are important fixes and users should upgrade.]]></summary>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-DP-2.0-Panel-Replay"/>
         <updated>2021-09-08T09:57:16.000Z</updated>
         <summary type="html"><![CDATA[Last month Intel's open-source Linux graphics driver engineers began posting patches working on DisplayPort 2.0 support for their driver with DG2/Alchemist now set to be Intel's first GPU supporting the newest DP standard. DP 2.0 enablement work continues with Panel Replay being the latest feature being worked on for their Linux driver...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.15 Hit By Some Early Performance Regressions But Quickly Reverted]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-Memcg-Regressions</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-Memcg-Regressions"/>
-        <updated>2021-09-08T09:37:14.000Z</updated>
-        <summary type="html"><![CDATA[In addition to Linus Torvalds dealing with the -Werror fallout, separately in kernel land there were also some significant performance regressions introduced during the Linux 5.15 that led to Linus reverting some of the changes...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -1524,16 +1586,6 @@ DevOps Engineer: At Kinsta, we set out to create the best managed hosting platfo
         <summary type="html"><![CDATA[Last year, we introduced the sixth generation of EC2 instances powered by AWS-designed Graviton2 processors. We’re now expanding our sixth-generation offerings to include x86-based instances, delivering price/performance benefits for workloads that rely on x86 instructions. Today, I am happy to announce the availability of the new general purpose Amazon EC2 M6i instances, which offer up to […]]]></summary>
         <author>
             <name>Danilo Poccia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cross-Account Data Sharing for Amazon Redshift]]></title>
-        <id>903ccd8fce8570d9ea1622cb7649dffac71ba65f</id>
-        <link href="https://aws.amazon.com/blogs/aws/cross-account-data-sharing-for-amazon-redshift/"/>
-        <updated>2021-08-13T16:38:16.000Z</updated>
-        <summary type="html"><![CDATA[To be successful in today’s fast-moving world, businesses need to analyze data quickly and take meaningful action. Many of our customers embrace this concept to become data-driven organizations. Data-driven organizations treat data as an asset and use it to improve their insights and make better decisions. They unleash the power of data by using secure […]]]></summary>
-        <author>
-            <name>Martin Beeby</name>
         </author>
     </entry>
 </feed>
