@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-12T00:01:07.293Z</id>
+    <id>urn:2021-09-12T02:05:14.709Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-12T00:01:07.293Z</updated>
+    <updated>2021-09-12T02:05:14.709Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Pining for a De-Googled Smartphone]]></title>
-        <id>https://hackaday.com/2021/09/02/pining-for-a-de-googled-smartphone/</id>
-        <link href="https://hackaday.com/2021/09/02/pining-for-a-de-googled-smartphone/"/>
-        <updated>2021-09-11T23:36:46.000Z</updated>
+        <title type="html"><![CDATA[Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)]]></title>
+        <id>https://news.ycombinator.com/item?id=28497623</id>
+        <link href="https://news.ycombinator.com/item?id=28497623"/>
+        <updated>2021-09-12T01:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Samantha considering the prospect of being monitored for violations by OpenAI]]></title>
+        <id>https://twitter.com/jasonrohrer/status/1419795724217331716</id>
+        <link href="https://twitter.com/jasonrohrer/status/1419795724217331716"/>
+        <updated>2021-09-11T23:57:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honk: “An ActivityPub server with minimal setup and support costs”]]></title>
+        <id>https://humungus.tedunangst.com/r/honk</id>
+        <link href="https://humungus.tedunangst.com/r/honk"/>
+        <updated>2021-09-11T23:44:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Welcome to Cloudintosh]]></title>
+        <id>https://cloudintosh.sharedigm.com</id>
+        <link href="https://cloudintosh.sharedigm.com"/>
+        <updated>2021-09-11T23:31:55.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -66,16 +96,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[BuildZoom (better way to build custom homes) Is hiring a Growth Associate]]></title>
-        <id>https://jobs.lever.co/buildzoom</id>
-        <link href="https://jobs.lever.co/buildzoom"/>
-        <updated>2021-09-11T21:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Phony Diagnoses Hide High Rates of Drugging at Nursing Homes]]></title>
         <id>https://www.nytimes.com/2021/09/11/health/nursing-homes-schizophrenia-antipsychotics.html</id>
         <link href="https://www.nytimes.com/2021/09/11/health/nursing-homes-schizophrenia-antipsychotics.html"/>
@@ -116,16 +136,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stop Using Encrypted Email (2020)]]></title>
-        <id>https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html</id>
-        <link href="https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html"/>
-        <updated>2021-09-11T18:32:40.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Latest Progress On Rust For The Linux Kernel]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-Linux-Kernel-Linaro-2021</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-Linux-Kernel-Linaro-2021"/>
@@ -153,16 +163,6 @@
         <summary type="html"><![CDATA[Another batch of minor optimizations were merged to Mesa 21.3 for the RadeonSI Gallium3D driver...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No More Medium – Build Your Own Site (2019)]]></title>
-        <id>https://nomedium.dev/</id>
-        <link href="https://nomedium.dev/"/>
-        <updated>2021-09-11T16:47:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -256,20 +256,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[To Don't – The reverse to-do list]]></title>
-        <id>https://crazymarvin.com/to-dont/</id>
-        <link href="https://crazymarvin.com/to-dont/"/>
-        <updated>2021-09-11T10:13:27.000Z</updated>
+        <title type="html"><![CDATA[Org Real]]></title>
+        <id>https://blog.tygr.info/emacs/org-real.html</id>
+        <link href="https://blog.tygr.info/emacs/org-real.html"/>
+        <updated>2021-09-11T05:51:22.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Geizhals – Tech Product Price Comparison and Tracking]]></title>
-        <id>https://geizhals.eu</id>
-        <link href="https://geizhals.eu"/>
-        <updated>2021-09-11T09:43:03.000Z</updated>
+        <title type="html"><![CDATA[Egyptian Gods – The Complete List]]></title>
+        <id>https://www.worldhistory.org/article/885/egyptian-gods---the-complete-list/</id>
+        <link href="https://www.worldhistory.org/article/885/egyptian-gods---the-complete-list/"/>
+        <updated>2021-09-11T05:12:33.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1349,6 +1349,16 @@ Last year over 9,000 observability practitioners and enthusiasts from around the
 At Grafana Labs, we believe observability is a journey, not a destination. And that’s what Grafana ObservabilityCON is all about. Whether you’re…]]></summary>
         <author>
             <name>Grafana Labs Blog on Grafana Labs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[September Meetups]]></title>
+        <id>http://papers-we-love.github.io/2021/news/september-meetups/</id>
+        <link href="http://papers-we-love.github.io/2021/news/september-meetups/"/>
+        <updated>2021-09-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[We have another great line-up of meet-ups scheduled for September across a number of our chapters:]]></summary>
+        <author>
+            <name>Papers We Love</name>
         </author>
     </entry>
     <entry>

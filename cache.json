@@ -12,13 +12,40 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://hackaday.com/2021/09/02/pining-for-a-de-googled-smartphone/",
+          "id": "https://news.ycombinator.com/item?id=28497623",
           "author": null,
           "description": "Comments",
-          "link": "https://hackaday.com/2021/09/02/pining-for-a-de-googled-smartphone/",
-          "publishedOn": "2021-09-11T23:36:46.000Z",
-          "wordCount": 10693,
-          "title": "Pining for a De-Googled Smartphone"
+          "link": "https://news.ycombinator.com/item?id=28497623",
+          "publishedOn": "2021-09-12T01:01:00.000Z",
+          "wordCount": 145,
+          "title": "Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)"
+        },
+        {
+          "id": "https://twitter.com/jasonrohrer/status/1419795724217331716",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/jasonrohrer/status/1419795724217331716",
+          "publishedOn": "2021-09-11T23:57:54.000Z",
+          "wordCount": 196,
+          "title": "Samantha considering the prospect of being monitored for violations by OpenAI"
+        },
+        {
+          "id": "https://humungus.tedunangst.com/r/honk",
+          "author": null,
+          "description": "Comments",
+          "link": "https://humungus.tedunangst.com/r/honk",
+          "publishedOn": "2021-09-11T23:44:53.000Z",
+          "wordCount": 523,
+          "title": "Honk: “An ActivityPub server with minimal setup and support costs”"
+        },
+        {
+          "id": "https://cloudintosh.sharedigm.com",
+          "author": null,
+          "description": "Comments",
+          "link": "https://cloudintosh.sharedigm.com",
+          "publishedOn": "2021-09-11T23:31:55.000Z",
+          "wordCount": 2,
+          "title": "Welcome to Cloudintosh"
         },
         {
           "id": "https://www.ryanliptak.com/blog/code-coverage-zig-callgrind/",
@@ -66,15 +93,6 @@
           "title": "AlphaGo: The Documentary"
         },
         {
-          "id": "https://jobs.lever.co/buildzoom",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jobs.lever.co/buildzoom",
-          "publishedOn": "2021-09-11T21:00:52.000Z",
-          "wordCount": 101,
-          "title": "BuildZoom (better way to build custom homes) Is hiring a Growth Associate"
-        },
-        {
           "id": "https://www.nytimes.com/2021/09/11/health/nursing-homes-schizophrenia-antipsychotics.html",
           "author": null,
           "description": "Comments",
@@ -111,15 +129,6 @@
           "title": "The effects of remote work on collaboration among information workers"
         },
         {
-          "id": "https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://latacora.micro.blog/2020/02/19/stop-using-encrypted.html",
-          "publishedOn": "2021-09-11T18:32:40.000Z",
-          "wordCount": 1724,
-          "title": "Stop Using Encrypted Email (2020)"
-        },
-        {
           "id": "https://www.economist.com/science-and-technology/2021/09/11/the-effects-of-a-warmer-world-are-visible-in-animals-bodies",
           "author": null,
           "description": "Comments",
@@ -127,15 +136,6 @@
           "publishedOn": "2021-09-11T17:33:06.000Z",
           "wordCount": 941,
           "title": "The effects of a warmer world are visible in animals’ bodies"
-        },
-        {
-          "id": "https://nomedium.dev/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://nomedium.dev/",
-          "publishedOn": "2021-09-11T16:47:39.000Z",
-          "wordCount": 203,
-          "title": "No More Medium – Build Your Own Site (2019)"
         },
         {
           "id": "https://storybook.js.org/",
@@ -179,26 +179,26 @@
           "description": "Comments",
           "link": "https://arxiv.org/abs/2106.11417",
           "publishedOn": "2021-09-11T15:16:26.000Z",
-          "wordCount": 551,
+          "wordCount": 592,
           "title": "Interpretable Model-Based Hierarchical RL Using Inductive Logic Programming"
         },
         {
-          "id": "https://crazymarvin.com/to-dont/",
+          "id": "https://blog.tygr.info/emacs/org-real.html",
           "author": null,
           "description": "Comments",
-          "link": "https://crazymarvin.com/to-dont/",
-          "publishedOn": "2021-09-11T10:13:27.000Z",
-          "wordCount": 166,
-          "title": "To Don't – The reverse to-do list"
+          "link": "https://blog.tygr.info/emacs/org-real.html",
+          "publishedOn": "2021-09-11T05:51:22.000Z",
+          "wordCount": 840,
+          "title": "Org Real"
         },
         {
-          "id": "https://geizhals.eu",
+          "id": "https://www.worldhistory.org/article/885/egyptian-gods---the-complete-list/",
           "author": null,
           "description": "Comments",
-          "link": "https://geizhals.eu",
-          "publishedOn": "2021-09-11T09:43:03.000Z",
-          "wordCount": 668,
-          "title": "Geizhals – Tech Product Price Comparison and Tracking"
+          "link": "https://www.worldhistory.org/article/885/egyptian-gods---the-complete-list/",
+          "publishedOn": "2021-09-11T05:12:33.000Z",
+          "wordCount": 17919,
+          "title": "Egyptian Gods – The Complete List"
         },
         {
           "id": "https://www.theguardian.com/science/2021/sep/10/rare-bronze-age-coffin-found-golf-course-pond-axe",
@@ -622,7 +622,7 @@
           "description": "While the Rust programming language support for usage within the kernel isn't landing for the Linux 5.15 merge window ending this weekend, that effort remains ongoing. A status update on the effort was shared this week about Rust usage for the Linux kernel...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Rust-Linux-Kernel-Linaro-2021",
           "publishedOn": "2021-09-11T18:30:14.000Z",
-          "wordCount": 746,
+          "wordCount": 826,
           "title": "The Latest Progress On Rust For The Linux Kernel"
         },
         {
@@ -631,7 +631,7 @@
           "description": "Another batch of minor optimizations were merged to Mesa 21.3 for the RadeonSI Gallium3D driver...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=RadeonSI-More-For-Mesa-21.3",
           "publishedOn": "2021-09-11T17:15:07.000Z",
-          "wordCount": 805,
+          "wordCount": 885,
           "title": "Another Batch Of RadeonSI Optimizations Land In Mesa 21.3"
         },
         {
@@ -658,7 +658,7 @@
           "description": "Released in August was the big OpenShot 2.6 video editor update while this weekend has been succeeded by its first point release...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=OpenShot-2.6.1",
           "publishedOn": "2021-09-11T10:37:52.000Z",
-          "wordCount": 803,
+          "wordCount": 789,
           "title": "OpenShot 2.6.1 Released For This Open-Source Video Editor"
         },
         {
@@ -676,7 +676,7 @@
           "description": "Wine 6.17 is out as the latest bi-weekly development release as we move closer towards the Wine 7.0 release around the start of the new year...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Wine-6.17-Released",
           "publishedOn": "2021-09-10T20:30:43.000Z",
-          "wordCount": 813,
+          "wordCount": 733,
           "title": "Wine 6.17 Released With Better HiDPI Support For Built-In Apps"
         },
         {
@@ -694,7 +694,7 @@
           "description": "With less than one month out from the official release of Microsoft Windows 11, I was curious to run some fresh benchmarks of the latest Windows 11 Insider Preview build against Windows 10 21H1 to see how the performance is looking. Of course, also to see how Windows 11 is shaping up against Ubuntu 21.10 also due for release in October.",
           "link": "https://www.phoronix.com/vr.php?view=30514",
           "publishedOn": "2021-09-10T11:55:19.000Z",
-          "wordCount": 797,
+          "wordCount": 877,
           "title": "Ubuntu 21.10 Performance Still Pushing Ahead Of Windows 10, Latest Windows 11 Build"
         },
         {
@@ -703,7 +703,7 @@
           "description": "Intel-owned Habana Labs now has the most open software stack among AI accelerators! While Habana Labs has long provided an open-source, upstream kernel driver for their Gaudi AI training and Goya AI inference accelerators, the user-space portions including their code compiler and run-time library have been closed-source. This has been a thorn for upstream kernel developers and their standards, but now Habana Labs has open-sourced their user-space components too...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Hababa-Labs-Open-Compiler-AI",
           "publishedOn": "2021-09-10T10:00:00.000Z",
-          "wordCount": 896,
+          "wordCount": 967,
           "title": "Habana Labs Opens Up The Code To Their AI Compiler, SynapseAI Core"
         },
         {
@@ -721,7 +721,7 @@
           "description": "While Vulkan is quickly taking over as the dominant graphics API for Linux gamers especially with the likes of DXVK and VKD3D-Proton mapping Direct3D atop Vulkan, OpenGL remains widely used by workstation software. It's also for workstation software where AMD's \"PRO\" closed-source OpenGL Linux driver has traditionally competed well (and outperformed) the open-source Mesa driver. But with all the recent changes, that's either a matter of the past or close to not being relevant with the latest Mesa enhancements...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=RadeonSI-VBO-DLIST-Opt",
           "publishedOn": "2021-09-10T07:00:00.000Z",
-          "wordCount": 913,
+          "wordCount": 979,
           "title": "AMD Just Squeezed More Workstation Performance Out Of Its RadeonSI Driver"
         },
         {
@@ -730,7 +730,7 @@
           "description": "Over the past two years we have seen work around bringing up privacy screen support on Linux whereby an increasing number of laptops can reduce the amount of visible light when viewed at wide angles to try to block the screen contents from anyone potentially snooping at the screen. Ready to go now is the DRM/KMS user-space interface and the Intel graphics driver support now that there is a user-space \"client\" ready...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Privacy-Screen-DRM-Ready",
           "publishedOn": "2021-09-10T04:00:00.000Z",
-          "wordCount": 1035,
+          "wordCount": 955,
           "title": "Privacy-Screen DRM API With Intel Support Ready Now That GNOME Is Prepared To Use It"
         },
         {
@@ -748,7 +748,7 @@
           "description": "While now into September, Microsoft just published its \"August 2021\" update to their CBL-Mariner Linux distribution with a variety of changes...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=CBL-Mariner-August-2021",
           "publishedOn": "2021-09-09T19:21:12.000Z",
-          "wordCount": 784,
+          "wordCount": 855,
           "title": "Microsoft Releases Its August Update For The CBL-Mariner Linux Distribution"
         },
         {
@@ -757,7 +757,7 @@
           "description": "The Intel-led open-source Cloud-Hypervisor project building off Linux's KVM (and also supporting Microsoft MSHV) and being cloud-focused and leveraging the Rust programming language for greater security is out with its newest major release...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Cloud-Hypervisor-18",
           "publishedOn": "2021-09-09T18:37:01.000Z",
-          "wordCount": 801,
+          "wordCount": 755,
           "title": "Intel's Cloud-Hypervisor 18.0 Brings AArch64 Improvements, VHDX Disk Image Support"
         },
         {
@@ -793,7 +793,7 @@
           "description": "A new kernel patch series was posted this morning working on AMD Branch Sampling \"BRS\" support...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=AMD-BRS-Branch-Sampling",
           "publishedOn": "2021-09-09T10:00:54.000Z",
-          "wordCount": 827,
+          "wordCount": 907,
           "title": "AMD Branch Sampling Support Being Worked On For Linux"
         },
         {
@@ -802,7 +802,7 @@
           "description": "Going back to September 2019 was work on the AMD PTDMA driver for supporting this controller found on modern AMD processors for high bandwidth memory-to-memory and I/O copy operations. With the Linux 5.15 cycle the AMD PTDMA driver is finally being merged to the mainline kernel...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=AMD-PTDMA-For-Linux-5.15",
           "publishedOn": "2021-09-09T07:00:00.000Z",
-          "wordCount": 847,
+          "wordCount": 838,
           "title": "AMD PTDMA Driver Landing For Linux 5.15 After Two Years In The Works"
         },
         {
@@ -811,7 +811,7 @@
           "description": "One of the nice low-level improvements we've seen with Linux 5.15 is a number of pieces falling into place in the quest of upstreaming the real-time (RT) patches for Linux. The latest merge makes SLUB RT-compatible...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=SLUB-Linux-RT-Compatible",
           "publishedOn": "2021-09-09T04:00:00.000Z",
-          "wordCount": 867,
+          "wordCount": 847,
           "title": "SLUB Adapted To Be Real-Time Linux Compatible (PREEMPT_RT)"
         },
         {
@@ -820,7 +820,7 @@
           "description": "Ahead of the official GNOME 41 release later this month, the release candidate is now available to facilitate more testing...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=GNOME-41-RC",
           "publishedOn": "2021-09-08T23:05:04.000Z",
-          "wordCount": 821,
+          "wordCount": 901,
           "title": "GNOME 41 Release Candidate Arrives With Many Improvements"
         },
         {
@@ -829,7 +829,7 @@
           "description": "The DAMON kernel functionality developed by Amazon engineers has successfully landed in the Linux 5.15 tree...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=DAMON-Merged-Linux-5.15",
           "publishedOn": "2021-09-08T20:22:39.000Z",
-          "wordCount": 1003,
+          "wordCount": 937,
           "title": "Amazon's DAMON Merged Into Linux 5.15 For Data Access Monitoring Framework"
         },
         {
@@ -838,7 +838,7 @@
           "description": "For those wondering how the upcoming Ubuntu 21.10 release is looking for Intel \"Rocket Lake\" owners, here are some Ubuntu 21.04 versus 21.10 development benchmarks across dozens of different tests...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-21.10-Rocket-Lake",
           "publishedOn": "2021-09-08T19:15:22.000Z",
-          "wordCount": 908,
+          "wordCount": 828,
           "title": "Ubuntu 21.10 Delivering Some Performance Gains On The Intel Core i9 11900K"
         },
         {
@@ -847,7 +847,7 @@
           "description": "Since last year AMD has been working to get its s2idle / suspend-to-idle S0ix sleep state code in order for supporting this lowest power platform idle state on newer AMD laptops and there has also been other AMD suspend/resume improvements in recent times. Now with the Linux 5.15 kernel cycle is an important fix for the AMD s2idle code...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=AMD-S2idle-Fix-Linux-5.15",
           "publishedOn": "2021-09-08T18:47:10.000Z",
-          "wordCount": 875,
+          "wordCount": 941,
           "title": "AMD Has An Important Suspend/Resume Fix With Linux 5.15"
         },
         {
@@ -865,7 +865,7 @@
           "description": "OverlayFS continues to be used by Linux IoT/embedded devices and other use-cases as a union mount file-system. With Linux 5.15 the OverlayFS file-system continues to improve...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-OverlayFS",
           "publishedOn": "2021-09-08T11:02:28.000Z",
-          "wordCount": 789,
+          "wordCount": 709,
           "title": "OverlayFS On Linux 5.15 Improves Performance, Copies Up More Attributes"
         },
         {
@@ -892,7 +892,7 @@
           "description": "In addition to Linus Torvalds dealing with the -Werror fallout, separately in kernel land there were also some significant performance regressions introduced during the Linux 5.15 that led to Linus reverting some of the changes...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-Memcg-Regressions",
           "publishedOn": "2021-09-08T09:37:14.000Z",
-          "wordCount": 859,
+          "wordCount": 793,
           "title": "Linux 5.15 Hit By Some Early Performance Regressions But Quickly Reverted"
         },
         {
@@ -901,7 +901,7 @@
           "description": "Recently with my Linux benchmarks of the Ryzen 5 5600G and Ryzen 7 5700G Zen 3 APUs with Radeon Vega graphics I touched on the GPU graphics/compute performance in some of the basic benchmarks while in this article are a number of Steam Play and native Linux gaming benchmarks for looking at the potential for these latest-generation desktop APUs for Linux gaming.",
           "link": "https://www.phoronix.com/vr.php?view=30505",
           "publishedOn": "2021-09-07T13:20:00.000Z",
-          "wordCount": 811,
+          "wordCount": 825,
           "title": "AMD Ryzen 5 5600G / Ryzen 7 5700G Linux Gaming Benchmarks"
         }
       ]
@@ -1203,6 +1203,22 @@
       "feedUrl": "https://blog.acolyer.org/feed/",
       "siteUrl": "https://blog.acolyer.org",
       "articles": []
+    },
+    {
+      "title": "Papers We Love",
+      "feedUrl": "https://paperswelove.org/feed.xml",
+      "siteUrl": "http://papers-we-love.github.io/",
+      "articles": [
+        {
+          "id": "http://papers-we-love.github.io/2021/news/september-meetups/",
+          "author": null,
+          "description": "We have another great line-up of meet-ups scheduled for September across a number of our chapters:",
+          "link": "http://papers-we-love.github.io/2021/news/september-meetups/",
+          "publishedOn": "2021-09-01T00:00:00.000Z",
+          "wordCount": 70,
+          "title": "September Meetups"
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.0"
