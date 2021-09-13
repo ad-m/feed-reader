@@ -1,25 +1,166 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-13T00:00:42.783Z</id>
+    <id>urn:2021-09-13T08:00:43.774Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-13T00:00:42.784Z</updated>
+    <updated>2021-09-13T08:00:43.774Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[9/11 Material Released in Response to Executive Order 14040]]></title>
-        <id>https://vault.fbi.gov/9-11-attacks-investigation-and-related-materials/9-11-material-released-in-response-to-executive-order-14040</id>
-        <link href="https://vault.fbi.gov/9-11-attacks-investigation-and-related-materials/9-11-material-released-in-response-to-executive-order-14040"/>
-        <updated>2021-09-12T22:27:13.000Z</updated>
+        <title type="html"><![CDATA[Hrmpf rescue system, built on Void Linux]]></title>
+        <id>https://github.com/leahneukirchen/hrmpf</id>
+        <link href="https://github.com/leahneukirchen/hrmpf"/>
+        <updated>2021-09-13T05:31:46.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Australian gov to use facial recognition and GPS tracking to enforce quarantine]]></title>
-        <id>https://www.geospatialworld.net/news/australian-government-to-develop-a-smartphone-app-for-facial-recognition-and-gps-tracking-for-covid-19/</id>
-        <link href="https://www.geospatialworld.net/news/australian-government-to-develop-a-smartphone-app-for-facial-recognition-and-gps-tracking-for-covid-19/"/>
-        <updated>2021-09-12T22:11:30.000Z</updated>
+        <title type="html"><![CDATA[Hyperbaric oxygen therapy reverses hallmarks of Alzheimer’s disease and dementia]]></title>
+        <id>https://www.technology.org/2021/09/10/hyperbaric-oxygen-therapy-reverses-hallmarks-of-alzheimers-disease-and-dementia/</id>
+        <link href="https://www.technology.org/2021/09/10/hyperbaric-oxygen-therapy-reverses-hallmarks-of-alzheimers-disease-and-dementia/"/>
+        <updated>2021-09-13T05:17:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roblox Exploits Young Game Developers]]></title>
+        <id>https://www.youtube.com/watch?v=_gXlauRB1EQ&amp;t=662s</id>
+        <link href="https://www.youtube.com/watch?v=_gXlauRB1EQ&amp;t=662s"/>
+        <updated>2021-09-13T04:48:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer's Porn Stash Gets Banned from Steam]]></title>
+        <id>https://steamcommunity.com/groups/Sentinels_of_the_Store/announcements/detail/2990942216950569314</id>
+        <link href="https://steamcommunity.com/groups/Sentinels_of_the_Store/announcements/detail/2990942216950569314"/>
+        <updated>2021-09-13T04:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Won a Battle to Lose the War]]></title>
+        <id>https://500ish.com/apple-won-a-battle-to-lose-the-war-3ce6c3701918</id>
+        <link href="https://500ish.com/apple-won-a-battle-to-lose-the-war-3ce6c3701918"/>
+        <updated>2021-09-13T04:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Has AI found a new foundation?]]></title>
+        <id>https://thegradient.pub/has-ai-found-a-new-foundation/</id>
+        <link href="https://thegradient.pub/has-ai-found-a-new-foundation/"/>
+        <updated>2021-09-13T03:06:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kernel prepatch 5.15-rc1]]></title>
+        <id>https://lwn.net/Articles/869031/rss</id>
+        <link href="https://lwn.net/Articles/869031/rss"/>
+        <updated>2021-09-13T02:53:45.000Z</updated>
+        <summary type="html"><![CDATA[Linus has released 5.15-rc1 and closed the
+merge window for this development cycle.
+
+
+	So 5.15 isn't shaping up to be a particularly large release, at
+	least in number of commits. At only just over 10k non-merge
+	commits, this is in fact the smallest rc1 we have had in the 5.x
+	series. We're usually hovering in the 12-14k commit range.
+
+	That said, counting commits isn't necessarily the best measure, and
+	that might be particularly true this time around. We have a few new
+	subsystems, with NTFSv3 and ksmbd standing out.]]></summary>
+        <author>
+            <name>corbet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Epiousios]]></title>
+        <id>https://en.wikipedia.org/wiki/Epiousios</id>
+        <link href="https://en.wikipedia.org/wiki/Epiousios"/>
+        <updated>2021-09-13T02:47:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HashiCorp Terraform and Community Contributions]]></title>
+        <id>https://www.hashicorp.com/blog/terraform-community-contributions</id>
+        <link href="https://www.hashicorp.com/blog/terraform-community-contributions"/>
+        <updated>2021-09-13T02:18:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eleven proofs of the Gaussian integral [pdf]]]></title>
+        <id>https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf</id>
+        <link href="https://kconrad.math.uconn.edu/blurbs/analysis/gaussianintegral.pdf"/>
+        <updated>2021-09-13T02:05:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jerry (YC S17) Is Hiring Senior Software Engineer]]></title>
+        <id>https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8</id>
+        <link href="https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8"/>
+        <updated>2021-09-13T01:00:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Laion-400M: open-source dataset of 400M image-text pairs]]></title>
+        <id>https://laion.ai/laion-400-open-dataset/</id>
+        <link href="https://laion.ai/laion-400-open-dataset/"/>
+        <updated>2021-09-13T00:28:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genny – Generate Nim library bindings for many languages]]></title>
+        <id>https://github.com/treeform/genny</id>
+        <link href="https://github.com/treeform/genny"/>
+        <updated>2021-09-13T00:26:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.15-rc1 Brings New NTFS Driver, In-Kernel SMB3 Server, AMD Changes, Intel DG2]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-rc1</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-rc1"/>
+        <updated>2021-09-13T00:22:40.000Z</updated>
+        <summary type="html"><![CDATA[As expected this evening the Linux 5.15-rc1 kernel was released to top off the two week merge window that saw many changes to the kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixie – A full-featured 2D graphics library for Nim]]></title>
+        <id>https://github.com/treeform/pixie</id>
+        <link href="https://github.com/treeform/pixie"/>
+        <updated>2021-09-12T23:43:15.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -36,7 +177,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reverse-Engineering Apple Dictionary]]></title>
+        <title type="html"><![CDATA[Reverse-Engineering Apple Dictionary (2020)]]></title>
         <id>https://fmentzer.github.io/posts/2020/dictionary/</id>
         <link href="https://fmentzer.github.io/posts/2020/dictionary/"/>
         <updated>2021-09-12T21:57:14.000Z</updated>
@@ -46,50 +187,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Man wins $65K after being fired for refusing to be fingerprinted]]></title>
-        <id>https://www.startribune.com/mound-man-wins-65k-after-being-fired-for-refusing-to-be-fingerprinted-due-to-christian-faith/600095353/</id>
-        <link href="https://www.startribune.com/mound-man-wins-65k-after-being-fired-for-refusing-to-be-fingerprinted-due-to-christian-faith/600095353/"/>
-        <updated>2021-09-12T21:54:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Had Removed Google Analytics and Google Services from My Website Why I Did It?]]></title>
-        <id>https://donislawdev.com/i-had-removed-google-analytics-google-services-from-my-website-why-i-did-it/</id>
-        <link href="https://donislawdev.com/i-had-removed-google-analytics-google-services-from-my-website-why-i-did-it/"/>
-        <updated>2021-09-12T21:42:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMule 2.3.3 – The “delayed too many times, but still not too late” version]]></title>
+        <title type="html"><![CDATA[AMule 2.3.3]]></title>
         <id>https://github.com/amule-project/amule/releases/tag/2.3.3</id>
         <link href="https://github.com/amule-project/amule/releases/tag/2.3.3"/>
         <updated>2021-09-12T21:17:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adam Smith didn't accept inequality as a necessary trade-off for a rich economy]]></title>
-        <id>https://blogs.lse.ac.uk/politicsandpolicy/adam-smith-and-inequality/</id>
-        <link href="https://blogs.lse.ac.uk/politicsandpolicy/adam-smith-and-inequality/"/>
-        <updated>2021-09-12T21:07:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ergo IRC Server]]></title>
-        <id>https://ergo.chat</id>
-        <link href="https://ergo.chat"/>
-        <updated>2021-09-12T20:38:49.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -119,26 +220,6 @@ stable kernel updates have been released; each contains another set of
 important fixes.]]></summary>
         <author>
             <name>corbet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Reconstruct Major Branches in the Tree of Language]]></title>
-        <id>https://www.santafe.edu/news-center/news/researchers-reconstruct-major-branches-tree-language</id>
-        <link href="https://www.santafe.edu/news-center/news/researchers-reconstruct-major-branches-tree-language"/>
-        <updated>2021-09-12T20:09:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[17Bn life years could be saved if air pollution was reduced to WHO standards]]></title>
-        <id>https://tribunemag.co.uk/2021/09/fossil-fuel-capitalism-is-cutting-our-lives-short</id>
-        <link href="https://tribunemag.co.uk/2021/09/fossil-fuel-capitalism-is-cutting-our-lives-short"/>
-        <updated>2021-09-12T19:01:52.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -172,100 +253,10 @@ important fixes.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Explaining how the MASM 2-pass assembler works]]></title>
-        <id>https://www.os2museum.com/wp/learn-something-old-every-day-part-iii/</id>
-        <link href="https://www.os2museum.com/wp/learn-something-old-every-day-part-iii/"/>
-        <updated>2021-09-12T17:04:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Germany's federal police agency purchased and used 'Pegasus' spyware]]></title>
-        <id>https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html</id>
-        <link href="https://www.techspot.com/news/91174-germany-federal-police-agency-secretly-purchased-used-controversial.html"/>
-        <updated>2021-09-12T16:58:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comp.lang.c Frequently Asked Questions]]></title>
-        <id>http://c-faq.com/</id>
-        <link href="http://c-faq.com/"/>
-        <updated>2021-09-12T16:20:54.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Many People Can Someone Lead?]]></title>
-        <id>https://www.patkua.com/blog/how-many-people-can-someone-lead/</id>
-        <link href="https://www.patkua.com/blog/how-many-people-can-someone-lead/"/>
-        <updated>2021-09-12T16:13:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beam/Erlang/Elixir Concept Explanations]]></title>
-        <id>http://beam-wisdoms.clau.se/en/latest/index.html</id>
-        <link href="http://beam-wisdoms.clau.se/en/latest/index.html"/>
-        <updated>2021-09-12T14:33:42.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emulating AMD Approximate Arithmetic Instructions on Intel]]></title>
-        <id>https://robert.ocallahan.org/2021/09/emulating-amd-rsqrtss-etc-on-intel.html</id>
-        <link href="https://robert.ocallahan.org/2021/09/emulating-amd-rsqrtss-etc-on-intel.html"/>
-        <updated>2021-09-12T14:25:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physics-Based Deep Learning Book]]></title>
-        <id>https://physicsbaseddeeplearning.org/intro.html</id>
-        <link href="https://physicsbaseddeeplearning.org/intro.html"/>
-        <updated>2021-09-12T12:36:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaded Gas Was a Known Poison the Day It Was Invented (2016)]]></title>
+        <title type="html"><![CDATA[Leaded gas was a known poison the day it was invented (2016)]]></title>
         <id>https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/</id>
         <link href="https://www.smithsonianmag.com/smart-news/leaded-gas-poison-invented-180961368/"/>
         <updated>2021-09-12T12:22:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infracost (YC W21) Is Hiring Principal Software Engineer: Love Your Cloud Bills]]></title>
-        <id>https://www.ycombinator.com/companies/infracost/jobs/Epvol5L-principal-software-engineer</id>
-        <link href="https://www.ycombinator.com/companies/infracost/jobs/Epvol5L-principal-software-engineer"/>
-        <updated>2021-09-12T12:00:52.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The World’s Oldest Active Torrent Turns 18 Soon]]></title>
-        <id>https://torrentfreak.com/the-worlds-oldest-active-torrent-turns-18-210912/</id>
-        <link href="https://torrentfreak.com/the-worlds-oldest-active-torrent-turns-18-210912/"/>
-        <updated>2021-09-12T11:36:01.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -279,26 +270,6 @@ important fixes.]]></summary>
         <summary type="html"><![CDATA[The Apache Software Foundation recently published their FY2021 report for their year-ended 30 April. Even with the ongoing pandemic, the Apache Software Foundation managed to raise more than $3M USD and enjoyed a host of software successes...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is IRC distributed across multiple servers?]]></title>
-        <id>https://gist.github.com/rain-1/c4be54e6506116c7b99e8f474a3b1ca8</id>
-        <link href="https://gist.github.com/rain-1/c4be54e6506116c7b99e8f474a3b1ca8"/>
-        <updated>2021-09-12T10:56:36.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New alternatives to HSL and HSV that better match color perception]]></title>
-        <id>https://bottosson.github.io/posts/colorpicker/</id>
-        <link href="https://bottosson.github.io/posts/colorpicker/"/>
-        <updated>2021-09-12T10:49:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -319,6 +290,26 @@ important fixes.]]></summary>
         <summary type="html"><![CDATA[In addition to the RISC-V changes merged last week for the Linux 5.15 kernel, a second batch of patches was merged this weekend...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pinky and the Brain]]></title>
+        <id>https://fantheories.fandom.com/wiki/Pinky_and_the_Brain</id>
+        <link href="https://fantheories.fandom.com/wiki/Pinky_and_the_Brain"/>
+        <updated>2021-09-12T08:49:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Conversation with Guido van Rossum (2003)]]></title>
+        <id>https://www.artima.com/intv/guido.html</id>
+        <link href="https://www.artima.com/intv/guido.html"/>
+        <updated>2021-09-12T08:27:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -394,6 +385,26 @@ https://medium.com/riskified-technology/over-pay-as-you-go-for-your-datastore-11
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Road to Self-Reproducing Machines]]></title>
+        <id>https://www.wsj.com/articles/the-road-to-self-reproducing-machines-11630605493</id>
+        <link href="https://www.wsj.com/articles/the-road-to-self-reproducing-machines-11630605493"/>
+        <updated>2021-09-12T03:55:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wireless Charging Power Side-Channel Attacks]]></title>
+        <id>https://arxiv.org/abs/2105.12266</id>
+        <link href="https://arxiv.org/abs/2105.12266"/>
+        <updated>2021-09-11T19:07:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Latest Progress On Rust For The Linux Kernel]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-Linux-Kernel-Linaro-2021</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Rust-Linux-Kernel-Linaro-2021"/>
@@ -414,10 +425,20 @@ https://medium.com/riskified-technology/over-pay-as-you-go-for-your-datastore-11
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Usenet Archives Collected by Norman Yarvin]]></title>
+        <title type="html"><![CDATA[Usenet Archives Collected by Norman Yarvin (2005-2011)]]></title>
         <id>https://yarchive.net/</id>
         <link href="https://yarchive.net/"/>
         <updated>2021-09-11T16:52:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drugs mimicking effects of cigarette smoke reduce Covid's ability to enter cells]]></title>
+        <id>https://medicalxpress.com/news/2021-09-drugs-mimic-effects-cigarette-sars-cov-.html</id>
+        <link href="https://medicalxpress.com/news/2021-09-drugs-mimic-effects-cigarette-sars-cov-.html"/>
+        <updated>2021-09-11T16:49:40.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -428,6 +449,26 @@ https://medium.com/riskified-technology/over-pay-as-you-go-for-your-datastore-11
         <id>https://bitbucket.org/blaze-lib/blaze/src/master/</id>
         <link href="https://bitbucket.org/blaze-lib/blaze/src/master/"/>
         <updated>2021-09-11T16:41:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Estimating the probabilities of causation via deep monotonic twin networks]]></title>
+        <id>https://arxiv.org/abs/2109.01904</id>
+        <link href="https://arxiv.org/abs/2109.01904"/>
+        <updated>2021-09-11T16:26:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Up and Down the Ladder of Abstraction (2011)]]></title>
+        <id>http://worrydream.com/LadderOfAbstraction/</id>
+        <link href="http://worrydream.com/LadderOfAbstraction/"/>
+        <updated>2021-09-11T16:08:47.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -804,16 +845,6 @@ discussion on the merits of the folio approach.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A universal system for decoding any type of data sent across a network]]></title>
-        <id>https://news.mit.edu/2021/grand-decoding-data-0909</id>
-        <link href="https://news.mit.edu/2021/grand-decoding-data-0909"/>
-        <updated>2021-09-10T07:57:31.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMD Just Squeezed More Workstation Performance Out Of Its RadeonSI Driver]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-VBO-DLIST-Opt</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-VBO-DLIST-Opt"/>
@@ -1094,16 +1125,6 @@ it are not carved in stone.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AMD Has An Important Suspend/Resume Fix With Linux 5.15]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-S2idle-Fix-Linux-5.15</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-S2idle-Fix-Linux-5.15"/>
-        <updated>2021-09-08T18:47:10.000Z</updated>
-        <summary type="html"><![CDATA[Since last year AMD has been working to get its s2idle / suspend-to-idle S0ix sleep state code in order for supporting this lowest power platform idle state on newer AMD laptops and there has also been other AMD suspend/resume improvements in recent times. Now with the Linux 5.15 kernel cycle is an important fix for the AMD s2idle code...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon EKS Anywhere – Now Generally Available to Create and Manage Kubernetes Clusters on Premises]]></title>
         <id>e680ae7d1d3fd575e2fc991fb49ed3be879bc876</id>
         <link href="https://aws.amazon.com/blogs/aws/amazon-eks-anywhere-now-generally-available-to-create-and-manage-kubernetes-clusters-on-premises/"/>
@@ -1208,16 +1229,6 @@ radio conditions. While most hams use Windows, there is no shortage of ham
 radio software for Linux.]]></summary>
         <author>
             <name>jake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security updates for Tuesday]]></title>
-        <id>https://lwn.net/Articles/868569/rss</id>
-        <link href="https://lwn.net/Articles/868569/rss"/>
-        <updated>2021-09-07T15:08:22.000Z</updated>
-        <summary type="html"><![CDATA[Security updates have been issued by openSUSE (apache2, java-11-openjdk, libesmtp, nodejs10, ntfs-3g_ntfsprogs, openssl-1_1, xen, and xerces-c), Red Hat (kernel-rt and kpatch-patch), and SUSE (ntfs-3g_ntfsprogs and openssl-1_1).]]></summary>
-        <author>
-            <name>ris</name>
         </author>
     </entry>
     <entry>
