@@ -1,10 +1,92 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-19T00:01:01.783Z</id>
+    <id>urn:2021-09-19T08:00:42.385Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-19T00:01:01.783Z</updated>
+    <updated>2021-09-19T08:00:42.385Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DevOps'ish 235: Data scientists shouldn’t need to know Kubernetes, Pay Transparency, ever popular PHP, Crossplane, Flux, Kubernetes Network Policies, kube-vip, and more]]></title>
+        <id>https://kill-the-newsletter.com/alternates/h0bq6eam6l0w8ws1.html</id>
+        <link href="https://kill-the-newsletter.com/alternates/h0bq6eam6l0w8ws1.html"/>
+        <updated>2021-09-19T07:16:00.000Z</updated>
+        <summary type="html"><![CDATA[* { font-family: sans-serif !important; }
+        
+    
+
+    
+        /* Box sizing. Gets decent support. */
+        
+        *,
+        *:after,
+        *:before {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        /* Prevents small text resizing. */
+        
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        /* Basic reset. Removes default spacing around emails in various clients.  */
+        
+        html,
+        body,
+        .document {
+            width: 100% !important;
+            height: 100% !important;
+            margin: 0;
+            padding: 0;
+        }
+        /* Improves text rendering when supported. */
+        
+        b…]]></summary>
+        <author>
+            <name>DevOps'ish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google classroom and Google docs can not be used when YouTube is blocked]]></title>
+        <id>https://support.google.com/edu/classroom/thread/43538350/how-can-i-block-youtube-without-blocking-google-classroom?hl=en</id>
+        <link href="https://support.google.com/edu/classroom/thread/43538350/how-can-i-block-youtube-without-blocking-google-classroom?hl=en"/>
+        <updated>2021-09-19T07:12:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An appeal for an objective, open, transparent debate re: the origin of Covid-19]]></title>
+        <id>https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02019-5/fulltext</id>
+        <link href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02019-5/fulltext"/>
+        <updated>2021-09-19T07:03:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KySync: A complete, modern C++ rewrite of Zsync with 3x-10x+ performance boost]]></title>
+        <id>https://kyall.notion.site/KySync-v1-0-29eaad446308449a8c9a2373850eed62</id>
+        <link href="https://kyall.notion.site/KySync-v1-0-29eaad446308449a8c9a2373850eed62"/>
+        <updated>2021-09-19T02:53:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)]]></title>
+        <id>https://news.ycombinator.com/item?id=28580769</id>
+        <link href="https://news.ycombinator.com/item?id=28580769"/>
+        <updated>2021-09-19T01:01:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Linux 5.15 Is Now Slightly Less Broken For The DEC Alpha "Jensen"]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-Less-Broken-Jensen</id>
@@ -16,19 +98,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mice don’t get Alzheimer’s, so why test Alzheimer's drugs on them?]]></title>
-        <id>https://massivesci.com/articles/mice-alzheimers-lab-grown-human-cells/</id>
-        <link href="https://massivesci.com/articles/mice-alzheimers-lab-grown-human-cells/"/>
-        <updated>2021-09-18T23:27:07.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon says it’s permanently banned 600 Chinese brands for review fraud]]></title>
-        <id>https://fintechzoom.com/fintech_news_amazon-nasdaq-amzn/amazon-says-its-permanently-banned-600-chinese-brands-for-review-fraud/</id>
-        <link href="https://fintechzoom.com/fintech_news_amazon-nasdaq-amzn/amazon-says-its-permanently-banned-600-chinese-brands-for-review-fraud/"/>
+        <id>https://www.theverge.com/2021/9/17/22680269/amazon-ban-chinese-brands-review-abuse-fraud-policy</id>
+        <link href="https://www.theverge.com/2021/9/17/22680269/amazon-ban-chinese-brands-review-abuse-fraud-policy"/>
         <updated>2021-09-18T22:26:15.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
@@ -36,7 +108,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Can You See the Republic of Ireland from England? – Menu]]></title>
+        <title type="html"><![CDATA[Can You See the Republic of Ireland from England?]]></title>
         <id>https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/</id>
         <link href="https://www.anglezarke.net/can-you-see-the-republic-of-ireland-from-england/"/>
         <updated>2021-09-18T21:04:24.000Z</updated>
@@ -46,20 +118,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Modern Treasury (YC S18) is hiring senior software engineers]]></title>
-        <id>https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd</id>
-        <link href="https://www.moderntreasury.com/careers?utm_source=yYPEbOqnBd"/>
-        <updated>2021-09-18T21:00:31.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpine Linux: Proposal to move Rust to main]]></title>
-        <id>https://gitlab.alpinelinux.org/alpine/tsc/-/issues/21</id>
-        <link href="https://gitlab.alpinelinux.org/alpine/tsc/-/issues/21"/>
-        <updated>2021-09-18T20:29:06.000Z</updated>
+        <title type="html"><![CDATA[Why the American shoe disappeared and why it's so hard to bring it back (2019)]]></title>
+        <id>https://www.npr.org/2019/06/19/731268823/why-the-american-shoe-disappeared-and-why-its-so-hard-to-bring-it-back</id>
+        <link href="https://www.npr.org/2019/06/19/731268823/why-the-american-shoe-disappeared-and-why-its-so-hard-to-bring-it-back"/>
+        <updated>2021-09-18T20:34:17.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -70,16 +132,6 @@
         <id>http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;</id>
         <link href="http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;"/>
         <updated>2021-09-18T20:10:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Write in JavaScript, Render in Flutter]]></title>
-        <id>https://openkraken.com/en-US</id>
-        <link href="https://openkraken.com/en-US"/>
-        <updated>2021-09-18T19:57:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -106,7 +158,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You don't (may not) need Moment.js]]></title>
+        <title type="html"><![CDATA[You may not need Moment.js]]></title>
         <id>https://github.com/you-dont-need/You-Dont-Need-Momentjs</id>
         <link href="https://github.com/you-dont-need/You-Dont-Need-Momentjs"/>
         <updated>2021-09-18T18:57:02.000Z</updated>
@@ -146,16 +198,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Building Less Flawed Metrics: Dodging Goodhart and Campbell's Laws]]></title>
-        <id>https://mpra.ub.uni-muenchen.de/98288/</id>
-        <link href="https://mpra.ub.uni-muenchen.de/98288/"/>
-        <updated>2021-09-18T17:21:05.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DRM Driver Posted For AI Processing Unit - Initially Focused On Mediatek SoCs]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=DRM-AI-APU-RFC</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=DRM-AI-APU-RFC"/>
@@ -176,20 +218,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Rapidly Improve at Any Programming Language (2016)]]></title>
+        <title type="html"><![CDATA[How to rapidly improve at any programming language (2016)]]></title>
         <id>https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/</id>
         <link href="https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/"/>
         <updated>2021-09-18T16:25:44.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi config for all things Internet]]></title>
-        <id>https://github.com/geerlingguy/internet-pi</id>
-        <link href="https://github.com/geerlingguy/internet-pi"/>
-        <updated>2021-09-18T16:25:24.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -212,80 +244,20 @@ series.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[How Marvel took over cinema and TV]]></title>
+        <id>https://www.economist.com/the-economist-explains/2021/09/17/how-marvel-took-over-cinema-and-tv</id>
+        <link href="https://www.economist.com/the-economist-explains/2021/09/17/how-marvel-took-over-cinema-and-tv"/>
+        <updated>2021-09-18T15:20:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sysz – An fzf terminal UI for systemctl]]></title>
         <id>https://github.com/joehillen/sysz</id>
         <link href="https://github.com/joehillen/sysz"/>
         <updated>2021-09-18T15:09:33.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Groundbreaking arm amputation surgery makes a ‘phantom’ hand seem real]]></title>
-        <id>https://www.statnews.com/2021/09/14/i-can-still-feel-it-new-arm-amputation-surgery-makes-a-phantom-hand-seem-real/</id>
-        <link href="https://www.statnews.com/2021/09/14/i-can-still-feel-it-new-arm-amputation-surgery-makes-a-phantom-hand-seem-real/"/>
-        <updated>2021-09-18T14:55:50.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The pitfalls of using SSH-agent, or how to use an agent safely]]></title>
-        <id>https://rabexc.org/posts/pitfalls-of-ssh-agents</id>
-        <link href="https://rabexc.org/posts/pitfalls-of-ssh-agents"/>
-        <updated>2021-09-18T14:40:49.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A collection of modern games for the TI-99/4A]]></title>
-        <id>http://tigameshelf.net/asm.htm</id>
-        <link href="http://tigameshelf.net/asm.htm"/>
-        <updated>2021-09-18T14:37:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ireland raises privacy question over Facebook smart glasses]]></title>
-        <id>https://www.reuters.com/technology/ireland-raises-privacy-question-over-facebook-smart-glasses-2021-09-17/</id>
-        <link href="https://www.reuters.com/technology/ireland-raises-privacy-question-over-facebook-smart-glasses-2021-09-17/"/>
-        <updated>2021-09-18T14:09:55.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reality Check for Cloudflare Wasm Workers and Rust]]></title>
-        <id>https://nickb.dev/blog/reality-check-for-cloudflare-wasm-workers-and-rust</id>
-        <link href="https://nickb.dev/blog/reality-check-for-cloudflare-wasm-workers-and-rust"/>
-        <updated>2021-09-18T13:55:13.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TrackerZapper Mac app silently removes tracking parameters from links you copy]]></title>
-        <id>https://github.com/rknightuk/TrackerZapper</id>
-        <link href="https://github.com/rknightuk/TrackerZapper"/>
-        <updated>2021-09-18T13:35:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAGI: WebAssembly Gateway Interface]]></title>
-        <id>https://github.com/deislabs/wagi</id>
-        <link href="https://github.com/deislabs/wagi"/>
-        <updated>2021-09-18T13:25:52.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -322,16 +294,6 @@ series.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Git Commands Explained with Cats (2017)]]></title>
-        <id>https://girliemac.com/blog/2017/12/26/git-purr/</id>
-        <link href="https://girliemac.com/blog/2017/12/26/git-purr/"/>
-        <updated>2021-09-18T12:01:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[AMD + Valve Focusing On P-State / CPPC Driver With Schedutil For Better Linux Efficiency]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-P-State-XDC2021</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-P-State-XDC2021"/>
@@ -339,6 +301,16 @@ series.]]></summary>
         <summary type="html"><![CDATA[As reported at the start of August, AMD and Valve have been working on Linux CPU performance/frequency scaling improvements with the Steam Deck being one of the leading motivators. As speculated at that time, their work would likely revolve around use of ACPI CPPC found with Zen 2 CPUs and newer. Published last week was that AMD P-State driver for Linux systems indeed now leveraging CPPC information. AMD formally presented this new driver yesterday at XDC2021...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Reason for Germany's Industrial Expansion in the 19th Century?]]></title>
+        <id>https://www.spiegel.de/international/zeitgeist/no-copyright-law-the-real-reason-for-germany-s-industrial-expansion-a-710976.html</id>
+        <link href="https://www.spiegel.de/international/zeitgeist/no-copyright-law-the-real-reason-for-germany-s-industrial-expansion-a-710976.html"/>
+        <updated>2021-09-18T10:08:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -359,6 +331,16 @@ series.]]></summary>
         <summary type="html"><![CDATA[Along with releasing Plasma 5.23 Beta this week, KDE developers have been busy on driving in a bunch of Plasma Wayland fixes and other refinements to their stack...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shellac]]></title>
+        <id>https://www.buildingconservation.com/articles/shellac/shellac.htm</id>
+        <link href="https://www.buildingconservation.com/articles/shellac/shellac.htm"/>
+        <updated>2021-09-18T04:17:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -540,6 +522,36 @@ to become familiar with Rust.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Crev is a code review system]]></title>
+        <id>https://github.com/crev-dev/crev/wiki/Proof-Repository</id>
+        <link href="https://github.com/crev-dev/crev/wiki/Proof-Repository"/>
+        <updated>2021-09-17T11:40:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to add ISSN metadata to a web page]]></title>
+        <id>https://shkspr.mobi/blog/2021/09/how-to-add-issn-metadata-to-a-web-page/</id>
+        <link href="https://shkspr.mobi/blog/2021/09/how-to-add-issn-metadata-to-a-web-page/"/>
+        <updated>2021-09-17T11:13:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Short History of Objective-C (2017)]]></title>
+        <id>https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd</id>
+        <link href="https://medium.com/chmcore/a-short-history-of-objective-c-aff9d2bde8dd"/>
+        <updated>2021-09-17T11:04:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KWinFT Continues Working On WLROOTS Render, Library Split]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=KWinFT-2021-WLROOTS-Continues</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=KWinFT-2021-WLROOTS-Continues"/>
@@ -547,6 +559,26 @@ to become familiar with Rust.]]></summary>
         <summary type="html"><![CDATA[KWinFT as a fork of KDE's KWin X11/Wayland compositor code continues making progress on driving fundamental display improvements and ironing out the Wayland support...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Tapestry of Tools (2020)]]></title>
+        <id>https://daneden.me/blog/2020/tapestry-of-tools</id>
+        <link href="https://daneden.me/blog/2020/tapestry-of-tools"/>
+        <updated>2021-09-17T09:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Land a ‘Completely Uncontrollable’ Passenger Jet (2018)]]></title>
+        <id>https://www.wired.com/story/air-astana-flight-1388-portugal-loss-control/</id>
+        <link href="https://www.wired.com/story/air-astana-flight-1388-portugal-loss-control/"/>
+        <updated>2021-09-17T09:04:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -560,10 +592,10 @@ to become familiar with Rust.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adorad Programming Language]]></title>
-        <id>https://github.com/adorad/adorad</id>
-        <link href="https://github.com/adorad/adorad"/>
-        <updated>2021-09-17T07:14:40.000Z</updated>
+        <title type="html"><![CDATA[Show HN: Forlater.email – an email-based bookmarking service]]></title>
+        <id>https://forlater.email</id>
+        <link href="https://forlater.email"/>
+        <updated>2021-09-17T06:25:25.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -574,16 +606,6 @@ to become familiar with Rust.]]></summary>
         <id>http://www.rskey.org/~mwsebastian/miscprj/forensics.htm</id>
         <link href="http://www.rskey.org/~mwsebastian/miscprj/forensics.htm"/>
         <updated>2021-09-17T04:44:26.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Art of the Title: West Side Story (1961)]]></title>
-        <id>https://www.artofthetitle.com/title/west-side-story/</id>
-        <link href="https://www.artofthetitle.com/title/west-side-story/"/>
-        <updated>2021-09-17T04:41:25.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -821,6 +843,16 @@ where some of the sticking points might be.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A search engine that favors text-heavy sites and punishes modern web design]]></title>
+        <id>https://search.marginalia.nu/</id>
+        <link href="https://search.marginalia.nu/"/>
+        <updated>2021-09-16T12:16:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Running Linux 5.15-rc1 Causing A New Slowdown... Here's A Look]]></title>
         <id>https://www.phoronix.com/vr.php?view=30531</id>
         <link href="https://www.phoronix.com/vr.php?view=30531"/>
@@ -848,6 +880,16 @@ where some of the sticking points might be.]]></summary>
         <summary type="html"><![CDATA[The latest work landing for Mesa 21.3 is supporting FP16 within the LLVM-based software driver code namely for the LLVMpipe Gallium3D OpenGL and Lavapipe Vulkan drivers...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bestline: Light self-contained readline alternative]]></title>
+        <id>https://github.com/jart/bestline</id>
+        <link href="https://github.com/jart/bestline"/>
+        <updated>2021-09-16T07:38:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
