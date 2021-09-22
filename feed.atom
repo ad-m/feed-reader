@@ -1,10 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-22T00:00:32.627Z</id>
+    <id>urn:2021-09-22T08:00:52.318Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-22T00:00:32.627Z</updated>
+    <updated>2021-09-22T08:00:52.318Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu Touch OTA-19 Released - Still Based On Ubuntu 16.04]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-Touch-OTA-19</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-Touch-OTA-19"/>
+        <updated>2021-09-22T07:40:00.000Z</updated>
+        <summary type="html"><![CDATA[UBports on Tuesday released Ubuntu Touch OTA-19 as the latest refinement to this Ubuntu Linux spin for smartphones and tablets...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taloflow (YC W21) Is Hiring a Front-End Developer (Contract / Project)]]></title>
+        <id>https://www.ycombinator.com/companies/taloflow/jobs/kG3E8h1-contract-front-end-developer-for-2-4-week-project</id>
+        <link href="https://www.ycombinator.com/companies/taloflow/jobs/kG3E8h1-contract-front-end-developer-for-2-4-week-project"/>
+        <updated>2021-09-22T07:01:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Below: A time travelling resource monitoring tool]]></title>
+        <id>https://developers.facebook.com/blog/post/2021/09/21/below-time-travelling-resource-monitoring-tool/</id>
+        <link href="https://developers.facebook.com/blog/post/2021/09/21/below-time-travelling-resource-monitoring-tool/"/>
+        <updated>2021-09-22T05:03:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The First Rule of Machine Learning: Start Without Machine Learning]]></title>
+        <id>https://eugeneyan.com/writing/first-rule-of-ml/</id>
+        <link href="https://eugeneyan.com/writing/first-rule-of-ml/"/>
+        <updated>2021-09-22T04:24:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mesa 21.2.2 Released "Late & Very Large"]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-21.2.2</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-21.2.2"/>
+        <updated>2021-09-22T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mesa point releases generally come every two weeks but for the past month have fallen off the wagon. Mesa 21.2.1 came in mid-August and on Tuesday was finally succeeded by Mesa 21.2.2 as a "late and very large" update...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The first and last time AIM was hacked]]></title>
+        <id>https://g.livejournal.com/8390.html</id>
+        <link href="https://g.livejournal.com/8390.html"/>
+        <updated>2021-09-22T02:47:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Open Book Project: open-hardware e-ink eBook reader]]></title>
         <id>https://github.com/joeycastillo/The-Open-Book</id>
@@ -36,26 +96,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Facebook’s Push to Defend Its Image]]></title>
-        <id>https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html</id>
-        <link href="https://www.nytimes.com/2021/09/21/technology/zuckerberg-facebook-project-amplify.html"/>
-        <updated>2021-09-21T21:48:19.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOJ sues to block domestic alliance between American Airlines and JetBlue]]></title>
-        <id>https://www.justice.gov/opa/pr/justice-department-sues-block-unprecedented-domestic-alliance-between-american-airlines-and</id>
-        <link href="https://www.justice.gov/opa/pr/justice-department-sues-block-unprecedented-domestic-alliance-between-american-airlines-and"/>
-        <updated>2021-09-21T21:20:43.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Confessions of a Michelin Star Inspector]]></title>
         <id>https://www.luxeat.com/blog/confessions-of-a-michelin-inspector/</id>
         <link href="https://www.luxeat.com/blog/confessions-of-a-michelin-inspector/"/>
@@ -77,16 +117,6 @@ conformance on Mali-G52 for OpenGL ES 3.1.
 This important milestone is a step forward for the open source driver, as it now certifies Panfrost for use in commercial products containing Mali G52 and paves the way for further conformance submissions on other Mali GPUs.]]></summary>
         <author>
             <name>ris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mux is looking for engineers with experience building WebRTC infrastructure]]></title>
-        <id>https://mux.com/jobs?hnj=real-time-video</id>
-        <link href="https://mux.com/jobs?hnj=real-time-video"/>
-        <updated>2021-09-21T21:00:05.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -130,16 +160,6 @@ This important milestone is a step forward for the open source driver, as it now
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Goats became an unconventional weapon against wildfires]]></title>
-        <id>https://www.nytimes.com/2021/09/18/business/wildfires-goats-prevention.html</id>
-        <link href="https://www.nytimes.com/2021/09/18/business/wildfires-goats-prevention.html"/>
-        <updated>2021-09-21T20:30:44.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[$] Weaponizing middleboxes]]></title>
         <id>https://lwn.net/Articles/869842/rss</id>
         <link href="https://lwn.net/Articles/869842/rss"/>
@@ -155,36 +175,6 @@ recently reported research, it turns out that middleboxes can be abused to
 inflict denial-of-service (DoS) attacks elsewhere on the net.]]></summary>
         <author>
             <name>jake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Age Verification]]></title>
-        <id>https://blog.roblox.com/2021/09/introducing-age-verification/</id>
-        <link href="https://blog.roblox.com/2021/09/introducing-age-verification/"/>
-        <updated>2021-09-21T19:59:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Django 4.0 alpha 1 released]]></title>
-        <id>https://www.djangoproject.com/weblog/2021/sep/21/django-40-alpha-1-released/</id>
-        <link href="https://www.djangoproject.com/weblog/2021/sep/21/django-40-alpha-1-released/"/>
-        <updated>2021-09-21T19:56:49.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIT study finds Tesla drivers become inattentive when Autopilot is activated]]></title>
-        <id>https://techcrunch.com/2021/09/20/mit-study-finds-tesla-drivers-become-inattentive-when-autopilot-is-activated/</id>
-        <link href="https://techcrunch.com/2021/09/20/mit-study-finds-tesla-drivers-become-inattentive-when-autopilot-is-activated/"/>
-        <updated>2021-09-21T19:41:13.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -208,7 +198,7 @@ inflict denial-of-service (DoS) attacks elsewhere on the net.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Taming Go’s Memory Usage, or How We Avoided Rewriting Our Client in Rust]]></title>
+        <title type="html"><![CDATA[Taming Go’s memory usage, or how we avoided rewriting our client in Rust]]></title>
         <id>https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust</id>
         <link href="https://www.akitasoftware.com/blog-posts/taming-gos-memory-usage-or-how-we-avoided-rewriting-our-client-in-rust"/>
         <updated>2021-09-21T18:25:28.000Z</updated>
@@ -278,26 +268,6 @@ inflict denial-of-service (DoS) attacks elsewhere on the net.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Incident Response to September 20th 2021]]></title>
-        <id>https://www.zerotier.com/2021/09/21/incident-response-to-september-20th-2021/</id>
-        <link href="https://www.zerotier.com/2021/09/21/incident-response-to-september-20th-2021/"/>
-        <updated>2021-09-21T16:41:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: How do I easily catalog a couple thousand physical books?]]></title>
-        <id>https://news.ycombinator.com/item?id=28605777</id>
-        <link href="https://news.ycombinator.com/item?id=28605777"/>
-        <updated>2021-09-21T15:08:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Security updates for Tuesday]]></title>
         <id>https://lwn.net/Articles/869923/rss</id>
         <link href="https://lwn.net/Articles/869923/rss"/>
@@ -308,30 +278,10 @@ inflict denial-of-service (DoS) attacks elsewhere on the net.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mathematician answers chess problem about attacking queens]]></title>
-        <id>https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/</id>
-        <link href="https://www.quantamagazine.org/mathematician-answers-chess-problem-about-attacking-queens-20210921/"/>
-        <updated>2021-09-21T14:17:56.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Software projects need heroes? lessons learned from 1100 projects]]></title>
         <id>https://neverworkintheory.org/2021/09/10/why-software-projects-need-heroes.html</id>
         <link href="https://neverworkintheory.org/2021/09/10/why-software-projects-need-heroes.html"/>
         <updated>2021-09-21T14:07:33.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Casio Watch Mods (2017)]]></title>
-        <id>https://n-o-d-e.net/watch_mods.html</id>
-        <link href="https://n-o-d-e.net/watch_mods.html"/>
-        <updated>2021-09-21T13:11:16.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -348,16 +298,6 @@ inflict denial-of-service (DoS) attacks elsewhere on the net.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google to Buy New York City Office Building for $2.1B]]></title>
-        <id>https://www.wsj.com/articles/google-to-buy-new-york-city-office-building-for-2-1-billion-11632225600</id>
-        <link href="https://www.wsj.com/articles/google-to-buy-new-york-city-office-building-for-2-1-billion-11632225600"/>
-        <updated>2021-09-21T12:19:33.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Canonical Extending Ubuntu 14.04/16.04 LTS Support To Ten Years]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-14.04-16.04-Ten-Years</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-14.04-16.04-Ten-Years"/>
@@ -365,6 +305,16 @@ inflict denial-of-service (DoS) attacks elsewhere on the net.]]></summary>
         <summary type="html"><![CDATA[Canonical is announcing this morning they are extending the Ubuntu 14.04 LTS "Trusty Tahr" and Ubuntu 16.04 LTS "Xenial Xerus" releases to a ten year lifespan...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scientists develop the next generation of reservoir computing]]></title>
+        <id>https://www.nature.com/articles/s41467-021-25801-2</id>
+        <link href="https://www.nature.com/articles/s41467-021-25801-2"/>
+        <updated>2021-09-21T11:02:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -378,6 +328,26 @@ inflict denial-of-service (DoS) attacks elsewhere on the net.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: Qodebeam - platform for data sharing between users and services]]></title>
+        <id>https://qodebeam.com</id>
+        <link href="https://qodebeam.com"/>
+        <updated>2021-09-21T10:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mister Rogers had a simple set of rules for talking to children (2018)]]></title>
+        <id>https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/</id>
+        <link href="https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/"/>
+        <updated>2021-09-21T09:49:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mesa 21.3 Lands Initial Radeon Ray-Tracing Support In Open-Source RADV Vulkan Driver]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-21.3-RADV-Ray-Tracing</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-21.3-RADV-Ray-Tracing"/>
@@ -385,6 +355,36 @@ inflict denial-of-service (DoS) attacks elsewhere on the net.]]></summary>
         <summary type="html"><![CDATA[Landing overnight into Mesa 21.3 was experimentally enabling the Vulkan ray-tracing extensions within the open-source Radeon "RADV" driver...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIY Manual to Building a Cloud Chamber (2020) [pdf]]]></title>
+        <id>https://scoollab.web.cern.ch/sites/scoollab.web.cern.ch/files/documents/20200521_JW_DIYManual_CloudChamber_v7.pdf</id>
+        <link href="https://scoollab.web.cern.ch/sites/scoollab.web.cern.ch/files/documents/20200521_JW_DIYManual_CloudChamber_v7.pdf"/>
+        <updated>2021-09-21T08:23:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Silicon Carbide Race Begins]]></title>
+        <id>https://semiengineering.com/the-silicon-carbide-race-begins/</id>
+        <link href="https://semiengineering.com/the-silicon-carbide-race-begins/"/>
+        <updated>2021-09-21T07:39:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Soviets put out a burning gas well with a nuclear explosion (1966) [video]]]></title>
+        <id>https://www.youtube.com/watch?v=2KJ6p4JVN4g</id>
+        <link href="https://www.youtube.com/watch?v=2KJ6p4JVN4g"/>
+        <updated>2021-09-21T05:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -405,6 +405,16 @@ inflict denial-of-service (DoS) attacks elsewhere on the net.]]></summary>
         <summary type="html"><![CDATA[While Oktoberfest was once again cancelled due to the COVID-19 pandemic (then again, due to the state of the ad industry / ad-block users we haven't had any European meet-up / open-source gathering in years), the wiesn would have kicked off this past weekend. So as is tradition, there is the Phoronix Premium Oktoberfest sale where you can join the ad-free service as a reduced rate. If you enjoy the daily, original Linux and open-source content on Phoronix with plenty of benchmarking, you can do so at a reduced rate...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[While posting to Tumblr, E and W keys just stopped working]]></title>
+        <id>https://twitter.com/foone/status/1440014690831126528</id>
+        <link href="https://twitter.com/foone/status/1440014690831126528"/>
+        <updated>2021-09-21T03:05:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -610,10 +620,10 @@ on alpha, after all these years? A slight change of pace ;)]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Splitting Your Data and App APIs Up: Going Deeper]]></title>
-        <id>https://htmx.org/essays/splitting-your-apis/</id>
-        <link href="https://htmx.org/essays/splitting-your-apis/"/>
-        <updated>2021-09-20T12:07:08.000Z</updated>
+        <title type="html"><![CDATA[Our evolved intuitions about privacy aren’t made for this era]]></title>
+        <id>https://psyche.co/ideas/our-evolved-intuitions-about-privacy-arent-made-for-this-era</id>
+        <link href="https://psyche.co/ideas/our-evolved-intuitions-about-privacy-arent-made-for-this-era"/>
+        <updated>2021-09-20T12:04:39.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -713,6 +723,16 @@ We would love to have a way to u…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Linux on the Desktop: Part Two]]></title>
+        <id>https://xn--gckvb8fzb.com/linux-on-the-desktop-part-two/</id>
+        <link href="https://xn--gckvb8fzb.com/linux-on-the-desktop-part-two/"/>
+        <updated>2021-09-19T15:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Project Myriagon: Cloudflare Passes 10,000 Connected Networks]]></title>
         <id>6145930f99308e02a7f6704d</id>
         <link href="https://blog.cloudflare.com/10000-networks-and-beyond/"/>
@@ -785,6 +805,16 @@ https://de…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Why Lo-Fi Music Draws Listeners In]]></title>
+        <id>https://www.discovermagazine.com/mind/why-lo-fi-music-draws-listeners-in</id>
+        <link href="https://www.discovermagazine.com/mind/why-lo-fi-music-draws-listeners-in"/>
+        <updated>2021-09-19T08:37:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DevOps'ish 235: Data scientists shouldn’t need to know Kubernetes, Pay Transparency, ever popular PHP, Crossplane, Flux, Kubernetes Network Policies, kube-vip, and more]]></title>
         <id>https://kill-the-newsletter.com/alternates/h0bq6eam6l0w8ws1.html</id>
         <link href="https://kill-the-newsletter.com/alternates/h0bq6eam6l0w8ws1.html"/>
@@ -827,26 +857,6 @@ https://de…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 5.15 Is Now Slightly Less Broken For The DEC Alpha "Jensen"]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-Less-Broken-Jensen</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-Less-Broken-Jensen"/>
-        <updated>2021-09-18T23:36:07.000Z</updated>
-        <summary type="html"><![CDATA[One has to wonder how much longer the Linux kernel will keep around some very old and known to be borked hardware support but at least for now the DECpc AXP 150 "Jensen" platform support is sticking around and with Linux 5.15 is no longer marked as "broken" outright...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An overview of the theory of overparameterized machine learning]]></title>
-        <id>https://arxiv.org/abs/2109.02355</id>
-        <link href="https://arxiv.org/abs/2109.02355"/>
-        <updated>2021-09-18T23:32:56.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is BI dead? – On dismantling data's ship of Theseus]]></title>
         <id>https://benn.substack.com/p/is-bi-dead</id>
         <link href="https://benn.substack.com/p/is-bi-dead"/>
@@ -854,16 +864,6 @@ https://de…]]></summary>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRM Driver Posted For AI Processing Unit - Initially Focused On Mediatek SoCs]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=DRM-AI-APU-RFC</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=DRM-AI-APU-RFC"/>
-        <updated>2021-09-18T17:12:27.000Z</updated>
-        <summary type="html"><![CDATA[BayLibre developer Alexandre Bailon has posted a "request for comments" of a new open-source Direct Rendering Manager (DRM) driver for AI Processing Unit (APU) functionality. Initially the driver is catering to Mediatek SoCs with an AI co-processor but this DRM "APU" driver could be adapted to other hardware too...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1887,16 +1887,6 @@ DevOps Engineer: At Kinsta, we set out to create the best managed hosting platfo
         <summary type="html"><![CDATA[Today, I’m happy to announce the availability of AWS Backup Audit Manager, a new feature of AWS Backup that helps you monitor and evaluate the compliance status of your backups to meet business and regulatory requirements, and enables you to generate reports that help demonstrate compliance to auditors and regulators. AWS Backup is a fully […]]]></summary>
         <author>
             <name>Steve Roberts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy 15th Birthday Amazon EC2]]></title>
-        <id>26d642d9945ef477f9a2c6443e79a0d085ddbfad</id>
-        <link href="https://aws.amazon.com/blogs/aws/happy-15th-birthday-amazon-ec2/"/>
-        <updated>2021-08-23T15:09:54.000Z</updated>
-        <summary type="html"><![CDATA[Fifteen years ago today I wrote the blog post that launched the Amazon EC2 Beta. As I recall, the launch was imminent for quite some time as we worked to finalize the feature set, the pricing model, and innumerable other details. The launch date was finally chosen and it happened to fall in the middle […]]]></summary>
-        <author>
-            <name>Jeff Barr</name>
         </author>
     </entry>
 </feed>
