@@ -1,10 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-24T00:00:53.037Z</id>
+    <id>urn:2021-09-24T03:04:20.855Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-24T00:00:53.037Z</updated>
+    <updated>2021-09-24T03:04:20.855Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Disclosure of three 0-day iOS vulnerabilities]]></title>
+        <id>https://habr.com/en/post/579714/</id>
+        <link href="https://habr.com/en/post/579714/"/>
+        <updated>2021-09-24T00:28:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discontinue Sourcetrail]]></title>
+        <id>https://sourcetrail.com/blog/discontinue_sourcetrail/</id>
+        <link href="https://sourcetrail.com/blog/discontinue_sourcetrail/"/>
+        <updated>2021-09-24T00:14:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple's Power Move to Kneecap Facebook Advertising Is Working]]></title>
+        <id>https://bigtechnology.substack.com/p/completely-running-blind-apples-power</id>
+        <link href="https://bigtechnology.substack.com/p/completely-running-blind-apples-power"/>
+        <updated>2021-09-23T23:53:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Know Labs unveils glucose monitor that swaps fingersticks for RF sensors]]></title>
+        <id>https://www.fiercebiotech.com/medtech/know-labs-unveils-pocket-sized-glucose-monitor-swaps-fingersticks-for-radiofrequency</id>
+        <link href="https://www.fiercebiotech.com/medtech/know-labs-unveils-pocket-sized-glucose-monitor-swaps-fingersticks-for-radiofrequency"/>
+        <updated>2021-09-23T23:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Amazon QuickSight Q – Business Intelligence Using Natural Language Questions]]></title>
         <id>701147b345634ef37f028239c154531da9dae71e</id>
@@ -26,40 +66,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Easy-ISLisp]]></title>
-        <id>https://github.com/sasagawa888/eisl</id>
-        <link href="https://github.com/sasagawa888/eisl"/>
-        <updated>2021-09-23T23:02:33.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Learning Helps Researchers Remove Clouds from Satellite Images]]></title>
-        <id>https://blogs.nvidia.com/blog/2021/09/23/gans-satellite-images/</id>
-        <link href="https://blogs.nvidia.com/blog/2021/09/23/gans-satellite-images/"/>
-        <updated>2021-09-23T22:56:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skia Shaders in Compose Desktop]]></title>
-        <id>https://www.pushing-pixels.org/2021/09/22/skia-shaders-in-compose-desktop.html</id>
-        <link href="https://www.pushing-pixels.org/2021/09/22/skia-shaders-in-compose-desktop.html"/>
-        <updated>2021-09-23T21:56:09.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“A Tour of Grant Imahara's Shop” left untouched since his passing]]></title>
-        <id>https://www.youtube.com/watch?v=hsCSTO8SaQU</id>
-        <link href="https://www.youtube.com/watch?v=hsCSTO8SaQU"/>
-        <updated>2021-09-23T21:06:46.000Z</updated>
+        <title type="html"><![CDATA[Show HN: Go playground powered by WASM that runs in the browser]]></title>
+        <id>https://go-playground-wasm.vercel.app/</id>
+        <link href="https://go-playground-wasm.vercel.app/"/>
+        <updated>2021-09-23T22:47:40.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -106,30 +116,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AWS SIGv4 and SIGv4A – How AWS signs and verifies API requests]]></title>
-        <id>https://shufflesharding.com/posts/aws-sigv4-and-sigv4a</id>
-        <link href="https://shufflesharding.com/posts/aws-sigv4-and-sigv4a"/>
-        <updated>2021-09-23T19:56:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tour of Grant Imahara’s Shop]]></title>
-        <id>https://www.tested.com/show-and-tell/a-tour-of-grant-imaharas-shop/</id>
-        <link href="https://www.tested.com/show-and-tell/a-tour-of-grant-imaharas-shop/"/>
+        <title type="html"><![CDATA[A Tour of Grant Imahara’s Shop [video]]]></title>
+        <id>https://www.youtube.com/watch?v=hsCSTO8SaQU</id>
+        <link href="https://www.youtube.com/watch?v=hsCSTO8SaQU"/>
         <updated>2021-09-23T18:58:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epic launches anti-cheat support for Linux, Mac, and Steam Deck]]></title>
-        <id>https://dev.epicgames.com/en-US/news/epic-online-services-launches-anti-cheat-support-for-linux-mac-and-steam-deck</id>
-        <link href="https://dev.epicgames.com/en-US/news/epic-online-services-launches-anti-cheat-support-for-linux-mac-and-steam-deck"/>
-        <updated>2021-09-23T18:56:54.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -230,6 +220,16 @@
         <id>https://thebrowser.com/notes/oliver-burkeman/#geek%2F%2F%2F%2F/</id>
         <link href="https://thebrowser.com/notes/oliver-burkeman/#geek%2F%2F%2F%2F/"/>
         <updated>2021-09-23T16:25:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep learning meets vector-symbolic AI]]></title>
+        <id>https://research.ibm.com/blog/deep-learning-meets-symbolic-ai</id>
+        <link href="https://research.ibm.com/blog/deep-learning-meets-symbolic-ai"/>
+        <updated>2021-09-23T16:24:21.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -437,16 +437,6 @@ have already found at least one vulnerability in the kernel.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Authenticated Boot and Disk Encryption on Linux]]></title>
-        <id>http://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html</id>
-        <link href="http://0pointer.net/blog/authenticated-boot-and-disk-encryption-on-linux.html"/>
-        <updated>2021-09-23T09:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[systemd OOMD Maturing Nicely, Adds Support For User Services]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=systemd-oomd-2021</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=systemd-oomd-2021"/>
@@ -504,6 +494,16 @@ For instance, consider an interaction from a user that results in an order being
         <id>https://www.lesswrong.com/posts/dtmmP4YdJEfK9y4Rc/book-review-the-checklist-manifesto</id>
         <link href="https://www.lesswrong.com/posts/dtmmP4YdJEfK9y4Rc/book-review-the-checklist-manifesto"/>
         <updated>2021-09-22T22:32:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quitting your dream job twice]]></title>
+        <id>https://t3.gg/blog/posts/quitting</id>
+        <link href="https://t3.gg/blog/posts/quitting"/>
+        <updated>2021-09-22T22:12:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -580,6 +580,16 @@ The new release also comes with significant improvements for developers, includi
         <id>https://www.outsideonline.com/outdoor-adventure/exploration-survival/my-drowning-and-other-inconveniences-2/</id>
         <link href="https://www.outsideonline.com/outdoor-adventure/exploration-survival/my-drowning-and-other-inconveniences-2/"/>
         <updated>2021-09-22T17:48:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cow Dung Capitalism (2016)]]></title>
+        <id>https://openthemagazine.com/cover-stories/cow-dung-capitalism-milking-the-holy-cow/</id>
+        <link href="https://openthemagazine.com/cover-stories/cow-dung-capitalism-milking-the-holy-cow/"/>
+        <updated>2021-09-22T17:47:30.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -751,6 +761,16 @@ important fixes and users should upgrade.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Elk: A low footprint JavaScript engine for embedded systems]]></title>
+        <id>https://github.com/cesanta/elk</id>
+        <link href="https://github.com/cesanta/elk"/>
+        <updated>2021-09-22T08:10:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ubuntu Touch OTA-19 Released - Still Based On Ubuntu 16.04]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-Touch-OTA-19</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-Touch-OTA-19"/>
@@ -905,16 +925,6 @@ inflict denial-of-service (DoS) attacks elsewhere on the net.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ludwig Wittgenstein: A Mind on Fire]]></title>
-        <id>https://www.newstatesman.com/culture/books/2021/09/ludwig-wittgenstein-a-mind-on-fire</id>
-        <link href="https://www.newstatesman.com/culture/books/2021/09/ludwig-wittgenstein-a-mind-on-fire"/>
-        <updated>2021-09-21T13:35:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Samba 4.15 Released With Improved CLI Experience, Modernized VFS Interface]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Samba-4.15</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Samba-4.15"/>
@@ -922,16 +932,6 @@ inflict denial-of-service (DoS) attacks elsewhere on the net.]]></summary>
         <summary type="html"><![CDATA[While there is now KSMBD with Linux 5.15 for offering an in-kernel SMB file server, its scope is much more limited than that of the Samba project in user-space. With that said, Samba 4.15 is out now with its latest batch of features and improvements for open-source SMB/CIFS support on Linux and other platforms...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FD 100]]></title>
-        <id>https://susam.in/blog/fd-100.html</id>
-        <link href="https://susam.in/blog/fd-100.html"/>
-        <updated>2021-09-21T12:08:15.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -1762,6 +1762,17 @@ Starting with the Time series panel, we’ve added a new graph style option call
 Here’s a line chart with the Gradient mod…]]></summary>
         <author>
             <name>Grafana Labs Blog on Grafana Labs</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS SIGv4 and SIGv4A]]></title>
+        <id>5e6d5df0123de724cda940b4:5e6da1c891b9d045dd802d28:6099d0631d06d626238dc81d</id>
+        <link href="https://shufflesharding.com/posts/aws-sigv4-and-sigv4a"/>
+        <updated>2021-09-09T21:09:10.000Z</updated>
+        <summary type="html"><![CDATA[In the time it takes to read this sentence, the AWS Identity and Access Management (IAM) service will handle several billion requests. Pretty close to every one of those requests is authenticated using the AWS SIGv4 protocol, before IAM authorization policy is applied to check if the request is allowed or not. 
+I didn’t have a hand in designing the AWS SIGv4 protocol so hopefully it’s not too biased to say that I dearly love how AWS SIGv4 works. SIGv4 rigorously authenticates every request individually and it’s reassuringly simple. It uses fast cryptography based on the HMAC algorithm to strongly authenticate every request. Customer’s secrets never appear in these requests directly, and there are neat properties built in that mean every request is finely scoped down and signed with a token…]]></summary>
+        <author>
+            <name>Colm MacCárthaigh</name>
         </author>
     </entry>
     <entry>
