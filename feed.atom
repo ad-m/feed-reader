@@ -1,45 +1,155 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-25T00:00:42.150Z</id>
+    <id>urn:2021-09-25T08:01:05.227Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-25T00:00:42.150Z</updated>
+    <updated>2021-09-25T08:01:05.227Z</updated>
     <generator>osmosfeed 1.11.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[XWayland GLX Path Enables sRGB Support]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=XWayland-sRGB-Support</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=XWayland-sRGB-Support"/>
+        <updated>2021-09-25T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Another item is now crossed off the XWayland TODO list with OpenGL sRGB support wired up...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“The most scarily/stunningly impressive linguistic feat I’ve ever seen“]]></title>
+        <id>https://twitter.com/mattgemmell/status/1441497498573545478</id>
+        <link href="https://twitter.com/mattgemmell/status/1441497498573545478"/>
+        <updated>2021-09-25T06:57:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New insights into the existing image encryption algorithms based on DNA coding]]></title>
+        <id>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584250/</id>
+        <link href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7584250/"/>
+        <updated>2021-09-25T06:21:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All businesses will eventually turn into subscriptions]]></title>
+        <id>https://blog.viveksrinivasan.com/p/subscriptions-learning-by-proxy</id>
+        <link href="https://blog.viveksrinivasan.com/p/subscriptions-learning-by-proxy"/>
+        <updated>2021-09-25T05:46:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Is the touch sensitive iPod going to be a reality? (2006)]]></title>
+        <id>https://web.archive.org/web/20060220062810/http://hrmpf.com/wordpress/54/touch-sensitive-ipod/</id>
+        <link href="https://web.archive.org/web/20060220062810/http://hrmpf.com/wordpress/54/touch-sensitive-ipod/"/>
+        <updated>2021-09-25T05:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Grommunio an open source Exchange replacement]]></title>
+        <id>https://grommunio.com/</id>
+        <link href="https://grommunio.com/"/>
+        <updated>2021-09-25T05:29:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Missions of Astronomy (2009)]]></title>
+        <id>https://nybooks.com/articles/2009/10/22/the-missions-of-astronomy/</id>
+        <link href="https://nybooks.com/articles/2009/10/22/the-missions-of-astronomy/"/>
+        <updated>2021-09-25T05:06:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Guide to the Georgian Coaching Inn]]></title>
+        <id>https://about1816.wordpress.com/2021/09/23/a-guide-to-the-georgian-coaching-inn/</id>
+        <link href="https://about1816.wordpress.com/2021/09/23/a-guide-to-the-georgian-coaching-inn/"/>
+        <updated>2021-09-25T05:03:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The grandfather of modern self-help]]></title>
+        <id>https://3quarksdaily.com/3quarksdaily/2021/09/the-grandfather-of-modern-self-help.html</id>
+        <link href="https://3quarksdaily.com/3quarksdaily/2021/09/the-grandfather-of-modern-self-help.html"/>
+        <updated>2021-09-25T04:52:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lessons learned from running GraphQL at scale]]></title>
+        <id>https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb</id>
+        <link href="https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb"/>
+        <updated>2021-09-25T04:38:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data scientists shouldn’t need to know Kubernetes]]></title>
+        <id>https://huyenchip.com/2021/09/13/data-science-infrastructure.html</id>
+        <link href="https://huyenchip.com/2021/09/13/data-science-infrastructure.html"/>
+        <updated>2021-09-25T01:15:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook is other people]]></title>
+        <id>https://kevinmunger.substack.com/p/facebook-is-other-people</id>
+        <link href="https://kevinmunger.substack.com/p/facebook-is-other-people"/>
+        <updated>2021-09-24T23:48:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tree-ring dating of musical instruments]]></title>
+        <id>https://doi.org/10.1126/science.abj3823</id>
+        <link href="https://doi.org/10.1126/science.abj3823"/>
+        <updated>2021-09-24T23:40:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD’s Lisa Su]]></title>
+        <id>https://spectrum.ieee.org/amds-lisa-su-breaks-through-the-silicon-ceiling</id>
+        <link href="https://spectrum.ieee.org/amds-lisa-su-breaks-through-the-silicon-ceiling"/>
+        <updated>2021-09-24T23:19:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A monk in 14th-century Italy wrote about the Americas]]></title>
         <id>https://www.economist.com/the-americas/2021/09/25/a-monk-in-14th-century-italy-wrote-about-the-americas</id>
         <link href="https://www.economist.com/the-americas/2021/09/25/a-monk-in-14th-century-italy-wrote-about-the-americas"/>
         <updated>2021-09-24T23:07:41.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As More Workers Go Solo, the Software Stack Is the New Firm – Future]]></title>
-        <id>https://future.a16z.com/solo-workers-software-stack/</id>
-        <link href="https://future.a16z.com/solo-workers-software-stack/"/>
-        <updated>2021-09-24T22:48:31.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ten Commandments of Salary Negotiation]]></title>
-        <id>https://www.lennysnewsletter.com/p/negotiating-comp</id>
-        <link href="https://www.lennysnewsletter.com/p/negotiating-comp"/>
-        <updated>2021-09-24T22:13:11.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wyoming natural gas flared for cryptocurrency mining exempt from taxation]]></title>
-        <id>https://oilcity.news/wyoming/legislature/2021/04/15/gordon-signs-bill-exempting-wyoming-natural-gas-flared-for-cryptocurrency-mining-from-taxation/</id>
-        <link href="https://oilcity.news/wyoming/legislature/2021/04/15/gordon-signs-bill-exempting-wyoming-natural-gas-flared-for-cryptocurrency-mining-from-taxation/"/>
-        <updated>2021-09-24T22:02:58.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -109,16 +219,6 @@ Corbet, Steven Rostedt, Ted Ts'o, and Sasha Levin) being re-elected. Of the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Deep Learning's Diminishing Returns]]></title>
-        <id>https://spectrum.ieee.org/deep-learning-computational-cost</id>
-        <link href="https://spectrum.ieee.org/deep-learning-computational-cost"/>
-        <updated>2021-09-24T18:41:34.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[200k-year-old hand art found near a Tibetan hot spring]]></title>
         <id>https://gizmodo.com/200-000-year-old-hand-art-found-near-a-tibetan-hot-spri-1847682046</id>
         <link href="https://gizmodo.com/200-000-year-old-hand-art-found-near-a-tibetan-hot-spri-1847682046"/>
@@ -139,10 +239,10 @@ Corbet, Steven Rostedt, Ted Ts'o, and Sasha Levin) being re-elected. Of the
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[John Stossel sues Facebook for allegedly defaming him with fact-check]]></title>
-        <id>https://www.hollywoodreporter.com/business/digital/john-stossel-sues-facebook-1235019248/</id>
-        <link href="https://www.hollywoodreporter.com/business/digital/john-stossel-sues-facebook-1235019248/"/>
-        <updated>2021-09-24T17:24:46.000Z</updated>
+        <title type="html"><![CDATA[Speculative prerendering in the browser]]></title>
+        <id>https://web.dev/speculative-prerendering/</id>
+        <link href="https://web.dev/speculative-prerendering/"/>
+        <updated>2021-09-24T17:34:27.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -186,40 +286,10 @@ the kernel community.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Understanding Startup Offers]]></title>
-        <id>https://withcompound.com/manual-company-equity/understanding-startup-offers</id>
-        <link href="https://withcompound.com/manual-company-equity/understanding-startup-offers"/>
-        <updated>2021-09-24T16:30:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Leaked grant proposal details high-risk coronavirus research]]></title>
         <id>https://theintercept.com/2021/09/23/coronavirus-research-grant-darpa/</id>
         <link href="https://theintercept.com/2021/09/23/coronavirus-research-grant-darpa/"/>
         <updated>2021-09-24T16:15:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Collections: No Man’s Land, Part II: Breaking the Stalemate]]></title>
-        <id>https://acoup.blog/2021/09/24/collections-no-mans-land-part-ii-breaking-the-stalemate/</id>
-        <link href="https://acoup.blog/2021/09/24/collections-no-mans-land-part-ii-breaking-the-stalemate/"/>
-        <updated>2021-09-24T16:14:32.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disappearing Bicyclist – Sam Loyd (1906)]]></title>
-        <id>https://www.geogebra.org/m/hypuahfc</id>
-        <link href="https://www.geogebra.org/m/hypuahfc"/>
-        <updated>2021-09-24T15:51:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -247,26 +317,6 @@ This also applies to mv and install.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[We killed our end-to-end test suite]]></title>
-        <id>https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/</id>
-        <link href="https://building.nubank.com.br/why-we-killed-our-end-to-end-test-suite/"/>
-        <updated>2021-09-24T15:36:53.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Food fraud and counterfeit cotton: detectives untangling the global supply chain]]></title>
-        <id>https://www.theguardian.com/news/2021/sep/16/food-fraud-counterfeit-cotton-detectives-untangling-global-supply-chain</id>
-        <link href="https://www.theguardian.com/news/2021/sep/16/food-fraud-counterfeit-cotton-detectives-untangling-global-supply-chain"/>
-        <updated>2021-09-24T15:08:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kubernetes Ingress gRPC example with a Dune quote service]]></title>
         <id>https://www.cncf.io/?p=64781</id>
         <link href="https://www.cncf.io/blog/2021/09/24/kubernetes-ingress-grpc-example-with-a-dune-quote-service/"/>
@@ -274,26 +324,6 @@ This also applies to mv and install.]]></summary>
         <summary type="html"><![CDATA[Guest post originally published on Kong’s blog by Viktor Gamov, Principal Developer Advocate at Kong APIs come in all different shapes and forms. In this tutorial, I’ll show you a Kubernetes Ingress...]]></summary>
         <author>
             <name>Jessie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summarizing Books with Human Feedback]]></title>
-        <id>https://openai.com/blog/summarizing-books/</id>
-        <link href="https://openai.com/blog/summarizing-books/"/>
-        <updated>2021-09-24T14:58:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nginx Playground]]></title>
-        <id>https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/</id>
-        <link href="https://jvns.ca/blog/2021/09/24/new-tool--an-nginx-playground/"/>
-        <updated>2021-09-24T14:35:00.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -307,16 +337,6 @@ This also applies to mv and install.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Fossil footprints reveal humans in North America earlier than previously thought]]></title>
-        <id>https://www.usgs.gov/news/fossilized-footprints-reveal-human-habitation-north-america-thousands-years-earlier-previously</id>
-        <link href="https://www.usgs.gov/news/fossilized-footprints-reveal-human-habitation-north-america-thousands-years-earlier-previously"/>
-        <updated>2021-09-24T13:28:43.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SiFive HiFive Unmatched Hands-On, Initial RISC-V Performance Benchmarks]]></title>
         <id>https://www.phoronix.com/vr.php?view=30545</id>
         <link href="https://www.phoronix.com/vr.php?view=30545"/>
@@ -324,36 +344,6 @@ This also applies to mv and install.]]></summary>
         <summary type="html"><![CDATA[A few weeks ago I finally received the HiFive Unmatched from SiFive as their flagship RISC-V development board. As a reminder this is their mini-ITX development board that is powered by their U740 SoC and features 16GB of DDR4 system memory, one PCI Express x16 slot that can work with AMD Radeon graphics cards on Linux, and other features. It's been a delight playing with this developer platform and enclosed are some early benchmarks as well showing off the U740 performance as well as how the Linux software support/performance has been evolving.]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asynchronous Programming in C#]]></title>
-        <id>https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md</id>
-        <link href="https://github.com/davidfowl/AspNetCoreDiagnosticScenarios/blob/master/AsyncGuidance.md"/>
-        <updated>2021-09-24T12:33:20.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Submarine cable map rendered onto a globe]]></title>
-        <id>https://globe.gl/example/submarine-cables/</id>
-        <link href="https://globe.gl/example/submarine-cables/"/>
-        <updated>2021-09-24T12:31:36.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Pay for success” contracts – a model to develop new therapies from old drugs]]></title>
-        <id>https://crowdfundedcures.medium.com/pay-for-success-contracts-a-new-model-to-develop-new-therapies-from-old-drugs-f69b2189184d</id>
-        <link href="https://crowdfundedcures.medium.com/pay-for-success-contracts-a-new-model-to-develop-new-therapies-from-old-drugs-f69b2189184d"/>
-        <updated>2021-09-24T10:58:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -387,30 +377,10 @@ This also applies to mv and install.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Do not leave XPS laptop in any sleep/hibernate/standby mode when placed in a bag]]></title>
-        <id>https://www.dell.com/community/XPS/FAQ-Modern-Standby/td-p/7514448</id>
-        <link href="https://www.dell.com/community/XPS/FAQ-Modern-Standby/td-p/7514448"/>
-        <updated>2021-09-24T08:39:44.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Your face is not a bar code: arguments against automatic face recognition (2001)]]></title>
         <id>https://pages.gseis.ucla.edu/faculty/agre/bar-code.html</id>
         <link href="https://pages.gseis.ucla.edu/faculty/agre/bar-code.html"/>
         <updated>2021-09-24T08:27:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charting a Course for “Complexity”: Metamodeling, Ruliology and More]]></title>
-        <id>https://writings.stephenwolfram.com/2021/09/charting-a-course-for-complexity-metamodeling-ruliology-and-more/</id>
-        <link href="https://writings.stephenwolfram.com/2021/09/charting-a-course-for-complexity-metamodeling-ruliology-and-more/"/>
-        <updated>2021-09-24T04:53:18.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -628,6 +598,16 @@ have already found at least one vulnerability in the kernel.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Toybox: All-in-one Linux command line]]></title>
+        <id>https://github.com/landley/toybox</id>
+        <link href="https://github.com/landley/toybox"/>
+        <updated>2021-09-23T10:40:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lennart: Linux Comes Up Short Around Disk Encryption, Authenticated Boot Security]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-FDE-Auth-Boot-Lacking</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-FDE-Auth-Boot-Lacking"/>
@@ -635,6 +615,16 @@ have already found at least one vulnerability in the kernel.]]></summary>
         <summary type="html"><![CDATA[Most Linux distributions are currently coming up short from offering adequate security around full disk encryption and authenticated boot. Prominent Linux developer Lennart Poettering even argues that your data is "probably more secure if stored on current ChromeOS, Android, Windows or macOS devices."..]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Geometry of Color Perception]]></title>
+        <id>https://www.handprint.com/HP/WCL/color2.html</id>
+        <link href="https://www.handprint.com/HP/WCL/color2.html"/>
+        <updated>2021-09-23T10:23:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -648,6 +638,26 @@ have already found at least one vulnerability in the kernel.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Microsoft and an army of tiny telecoms are part of a plan to wire rural America]]></title>
+        <id>https://www.bloomberg.com/news/features/2021-09-22/microsoft-google-part-of-plan-to-get-rural-america-high-speed-internet</id>
+        <link href="https://www.bloomberg.com/news/features/2021-09-22/microsoft-google-part-of-plan-to-get-rural-america-high-speed-internet"/>
+        <updated>2021-09-23T09:24:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why I Use Nim instead of Python for Data Processing]]></title>
+        <id>https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/</id>
+        <link href="https://benjamindlee.com/posts/2021/why-i-use-nim-instead-of-python-for-data-processing/"/>
+        <updated>2021-09-23T09:22:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Curious Case of IKEA Vocabulary]]></title>
         <id>https://lar5.com/ikea/</id>
         <link href="https://lar5.com/ikea/"/>
@@ -658,20 +668,10 @@ have already found at least one vulnerability in the kernel.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The predecessor to Google Earth was clumsy, yet powerful]]></title>
-        <id>https://www.vice.com/en/article/53vgbb/the-predecessor-to-google-earth-was-clumsy-yet-powerful</id>
-        <link href="https://www.vice.com/en/article/53vgbb/the-predecessor-to-google-earth-was-clumsy-yet-powerful"/>
-        <updated>2021-09-23T07:48:55.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introduction to Neural Network Verification [pdf]]]></title>
-        <id>https://arxiv.org/abs/2109.10317</id>
-        <link href="https://arxiv.org/abs/2109.10317"/>
-        <updated>2021-09-23T07:45:21.000Z</updated>
+        <title type="html"><![CDATA[Reading Rituals]]></title>
+        <id>https://cruiseandpaul.substack.com/p/reading-rituals</id>
+        <link href="https://cruiseandpaul.substack.com/p/reading-rituals"/>
+        <updated>2021-09-23T07:58:40.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -804,6 +804,16 @@ The new release also comes with significant improvements for developers, includi
         <summary type="html"><![CDATA[Merged yesterday for Mesa 21.3 was open-source Vulkan ray-tracing for AMD RDNA2 / RX 6000 series GPUs with the RADV driver. Opened today now is a merge request that would provide Vulkan ray-tracing with RADV to pre-RDNA2 GPUs on this driver going back to the likes of Polaris, granted the performance is another story...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cosmic House: Charles Jencks turned a terraced house into a madcap monument]]></title>
+        <id>https://www.theguardian.com/artanddesign/2021/sep/22/charles-jencks-kitsch-pomo-masterpiece-cosmic-house-godfather-postmodernism</id>
+        <link href="https://www.theguardian.com/artanddesign/2021/sep/22/charles-jencks-kitsch-pomo-masterpiece-cosmic-house-godfather-postmodernism"/>
+        <updated>2021-09-22T17:11:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -999,16 +1009,6 @@ Within the firm, the Sitech Asset Health Center develops communication strategie
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Chrome-94-Released"/>
         <updated>2021-09-21T18:48:29.000Z</updated>
         <summary type="html"><![CDATA[Chrome 94 is available today as another exciting update for Google's web browser...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oracle's Next-Generation GNU Profiler "gprofng" Is Looking Great For Developers]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GNU-Profiler-gprofng</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GNU-Profiler-gprofng"/>
-        <updated>2021-09-21T18:21:41.000Z</updated>
-        <summary type="html"><![CDATA[Oracle engineers have been working on "gprofng" as a next-generation GNU Profiler that can analyze production binaries. Oracle talked up Gprofng today during the GNU Tools Track as part of Linux Plumbers Conference 2021...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
