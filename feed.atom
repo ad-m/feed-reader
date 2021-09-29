@@ -1,12 +1,225 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-09-28T16:01:15.990Z</id>
+    <id>urn:2021-09-29T00:00:40.458Z</id>
     <title>osmos::feed</title>
-    <updated>2021-09-28T16:01:15.990Z</updated>
+    <updated>2021-09-29T00:00:40.458Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Show HN: Evolution Simulator]]></title>
+        <title type="html"><![CDATA[[$] A fork for the time-zone database?]]></title>
+        <id>https://lwn.net/Articles/870478/rss</id>
+        <link href="https://lwn.net/Articles/870478/rss"/>
+        <updated>2021-09-28T22:57:37.000Z</updated>
+        <summary type="html"><![CDATA[A controversy about the handling of the Time Zone Database (tzdb) has
+been brewing since May, but has come to a head in recent weeks.  
+Changes that were proposed to simplify the main database file have some
+consequences in terms of time-zone history and changes to the
+representation of some zones.  Those changes have upset a number of users
+of the database—to the point where some have called for a fork.  A 
+September 25 release of tzdb with some, but not
+all, of the changes seems unlikely to resolve the conflict.]]></summary>
+        <author>
+            <name>jake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RadeonSI Driver Merges NGG Improvements, Other Optimizations For Mesa 21.3]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-21.3-RadeonSI-More-NGG</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-21.3-RadeonSI-More-NGG"/>
+        <updated>2021-09-28T22:35:54.000Z</updated>
+        <summary type="html"><![CDATA[AMD open-source driver developers today merged another big set of patches providing various micro-optimizations and other enhancements to the RadeonSI Gallium3D driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Secret military aircraft possibly exposed on TikTok]]></title>
+        <id>https://warisboring.com/secret-military-aircraft-possibly-exposed-on-tiktok/</id>
+        <link href="https://warisboring.com/secret-military-aircraft-possibly-exposed-on-tiktok/"/>
+        <updated>2021-09-28T22:30:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Squirrel stores thousands of nuts inside man's parked truck]]></title>
+        <id>https://local12.com/news/offbeat/squirrel-stores-thousands-of-nuts-inside-mans-parked-truck-north-dakota-storage-bill-fischer-engine-compartment-black-walnuts-cleanup-gallons-chevy-avalanche</id>
+        <link href="https://local12.com/news/offbeat/squirrel-stores-thousands-of-nuts-inside-mans-parked-truck-north-dakota-storage-bill-fischer-engine-compartment-black-walnuts-cleanup-gallons-chevy-avalanche"/>
+        <updated>2021-09-28T22:03:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substack (YC W18) is hiring engineering managers to build the future of writing]]></title>
+        <id>https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7</id>
+        <link href="https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7"/>
+        <updated>2021-09-28T21:00:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Podman in Linux]]></title>
+        <id>http://diego-pacheco.blogspot.com/2021/09/podmain-in-linux.html</id>
+        <link href="http://diego-pacheco.blogspot.com/2021/09/podmain-in-linux.html"/>
+        <updated>2021-09-28T20:42:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mobile LTE Coverage Map]]></title>
+        <id>https://www.fcc.gov/BroadbandData/MobileMaps/mobile-map</id>
+        <link href="https://www.fcc.gov/BroadbandData/MobileMaps/mobile-map"/>
+        <updated>2021-09-28T19:39:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hypersonic HAWC missile flies, but details are kept hidden]]></title>
+        <id>https://www.airforcemag.com/hypersonic-hawc-missile-flies-details-kept-hidden/</id>
+        <link href="https://www.airforcemag.com/hypersonic-hawc-missile-flies-details-kept-hidden/"/>
+        <updated>2021-09-28T19:17:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.16 To Expose AMD PSF Disable Bit To KVM Guests]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-PSF-Linux-5.16-KVM</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-PSF-Linux-5.16-KVM"/>
+        <updated>2021-09-28T18:48:42.000Z</updated>
+        <summary type="html"><![CDATA[While the Linux kernel still hasn't added any formal control yet for AMD Predictive Store Forwarding to disable it short of also toggling Spectre V4 / SSBD, with the Linux 5.16 kernel the AMD PSF bit will now be exposed to KVM guest virtual machines so that they -- either with a patched/future kernel or for other operating systems -- may choose to toggle explicitly disable this AMD CPU feature...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The killer product of robotics could be a low-cost collaborative manipulator]]></title>
+        <id>https://lorenzopieri.com/cobot/</id>
+        <link href="https://lorenzopieri.com/cobot/"/>
+        <updated>2021-09-28T18:43:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The code worked differently when the moon was full]]></title>
+        <id>https://www.hanselman.com/blog/the-code-worked-differently-when-the-moon-was-full</id>
+        <link href="https://www.hanselman.com/blog/the-code-worked-differently-when-the-moon-was-full"/>
+        <updated>2021-09-28T18:41:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How OpenVSCode Server turns VS Code into a web IDE]]></title>
+        <id>https://sourcegraph.com/github.com/gitpod-io/openvscode-server/-/blob/docs/sourcedive.snb.md</id>
+        <link href="https://sourcegraph.com/github.com/gitpod-io/openvscode-server/-/blob/docs/sourcedive.snb.md"/>
+        <updated>2021-09-28T18:37:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora 35 Beta Released With Many New Features, Countless Package Updates]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-35-Beta-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-35-Beta-Released"/>
+        <updated>2021-09-28T17:48:53.000Z</updated>
+        <summary type="html"><![CDATA[After seeing some initial release challenges, Fedora 35 Beta was released today across the Fedora Workstation, Fedora Server, and Fedora IoT flavors as well as their other versions...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FSFE: Youth Hacking 4 Freedom]]></title>
+        <id>https://lwn.net/Articles/871105/rss</id>
+        <link href="https://lwn.net/Articles/871105/rss"/>
+        <updated>2021-09-28T17:45:34.000Z</updated>
+        <summary type="html"><![CDATA[The Free Software Foundation Europe (FSFE) is organizing the coding
+competition "Youth Hacking 4 Freedom" (YH4F) for European teenagers
+(14-18).  Six winners will receive a cash prize and a trip to Brussels.
+There will be an opening event October 10 and registration will remain open
+until October 31.
+
+On Monday 1 November 2021, a five-month coding phase starts and the participants focus on coding until March 2022. Participants may bring all their imagination to the competition; they may code any type of software they want, as long as it is Free Software. The software project can be a stand-alone program written from scratch, or you can modify or combine existing programs. Everything is welcome! The participants will have the chance to briefly follow each other’s work and exchange ideas.]]></summary>
+        <author>
+            <name>ris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AngelList Stack]]></title>
+        <id>https://www.angellist.com/stack</id>
+        <link href="https://www.angellist.com/stack"/>
+        <updated>2021-09-28T17:33:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inside the Numbers: The KubeCon + CloudNativeCon selection process for China 2021 – Virtual]]></title>
+        <id>https://www.cncf.io/?p=64840</id>
+        <link href="https://www.cncf.io/blog/2021/09/28/inside-the-numbers-the-kubecon-cloudnativecon-selection-process-for-china-2021-virtual/"/>
+        <updated>2021-09-28T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[As part of our commitment to transparency within the cloud native community, we are providing an inside look into the work that goes on behind the scenes to bring the KubeCon +...]]></summary>
+        <author>
+            <name>Jessie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Native Computing Foundation Announces Agenda for KubeCon + CloudNativeCon + Open Source Summit China Virtual 2021]]></title>
+        <id>https://www.cncf.io/?p=64836</id>
+        <link href="https://www.cncf.io/announcements/2021/09/28/cloud-native-computing-foundation-announces-agenda-for-kubecon-cloudnativecon-open-source-summit-china-virtual-2021/"/>
+        <updated>2021-09-28T16:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Back after a year break, the biggest open source event in China will offer an up-close look at exciting innovations and provide attendees with valuable insights into the cloud native ecosystem  SAN...]]></summary>
+        <author>
+            <name>Jessie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vintage Byte Magazine Library]]></title>
+        <id>https://vintageapple.org/byte/</id>
+        <link href="https://vintageapple.org/byte/"/>
+        <updated>2021-09-28T16:07:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You either die an MVP or live long enough to build content moderation]]></title>
+        <id>https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation</id>
+        <link href="https://mux.com/blog/you-either-die-an-mvp-or-live-long-enough-to-build-content-moderation"/>
+        <updated>2021-09-28T15:53:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FOIA requests show Apple’s emails pitching state agencies on IDs and Wallet app]]></title>
+        <id>https://www.muckrock.com/news/archives/2021/aug/25/apple-wants-your-new-drivers-license-to-be-an-ipho/</id>
+        <link href="https://www.muckrock.com/news/archives/2021/aug/25/apple-wants-your-new-drivers-license-to-be-an-ipho/"/>
+        <updated>2021-09-28T15:34:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Self-Parking Car Evolution]]></title>
         <id>https://trekhleb.dev/self-parking-car-evolution/</id>
         <link href="https://trekhleb.dev/self-parking-car-evolution/"/>
         <updated>2021-09-28T15:23:10.000Z</updated>
@@ -36,7 +249,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Masscan: Scan the entire Internet in under 5 minutes]]></title>
+        <title type="html"><![CDATA[Masscan: TCP port scanner, scanning entire Internet in under 5 minutes]]></title>
         <id>https://github.com/robertdavidgraham/masscan</id>
         <link href="https://github.com/robertdavidgraham/masscan"/>
         <updated>2021-09-28T14:11:17.000Z</updated>
@@ -46,30 +259,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stack size is invisible in C and the effects on “portability”]]></title>
+        <title type="html"><![CDATA[Stack size invisibility in C and the effects on "portability"]]></title>
         <id>https://utcc.utoronto.ca/~cks/space/blog/programming/CStackSizeInvisible</id>
         <link href="https://utcc.utoronto.ca/~cks/space/blog/programming/CStackSizeInvisible"/>
         <updated>2021-09-28T14:07:25.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Australia has lost one-third of its koalas in the past three years]]></title>
-        <id>https://www.reuters.com/world/asia-pacific/australia-has-lost-one-third-its-koalas-past-three-years-2021-09-21/</id>
-        <link href="https://www.reuters.com/world/asia-pacific/australia-has-lost-one-third-its-koalas-past-three-years-2021-09-21/"/>
-        <updated>2021-09-28T13:49:40.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla Sues for Defamation over Social Media Posts]]></title>
-        <id>https://jalopnik.com/tesla-sues-for-defamation-over-social-media-posts-1847750963</id>
-        <link href="https://jalopnik.com/tesla-sues-for-defamation-over-social-media-posts-1847750963"/>
-        <updated>2021-09-28T13:34:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -96,37 +289,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Pixeldrain – File sharing service optimized for speed and ease of use]]></title>
-        <id>https://pixeldrain.com/</id>
-        <link href="https://pixeldrain.com/"/>
-        <updated>2021-09-28T13:13:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revenge Bedtime Procrastination]]></title>
-        <id>https://annehelen.substack.com/p/revenge-bedtime-procrastination</id>
-        <link href="https://annehelen.substack.com/p/revenge-bedtime-procrastination"/>
-        <updated>2021-09-28T13:08:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Half of American Kids Have Lead in Their Blood, Doctors Say]]></title>
-        <id>https://futurism.com/neoscope/half-american-kids-lead-blood-doctors-say</id>
-        <link href="https://futurism.com/neoscope/half-american-kids-lead-blood-doctors-say"/>
-        <updated>2021-09-28T13:04:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloudflare R2 Storage: Rapid and Reliable Object Storage, Minus the Egress Fees]]></title>
+        <title type="html"><![CDATA[Cloudflare R2 storage: Rapid and reliable object storage, minus the egress fees]]></title>
         <id>https://blog.cloudflare.com/introducing-r2-object-storage/</id>
         <link href="https://blog.cloudflare.com/introducing-r2-object-storage/"/>
         <updated>2021-09-28T13:01:00.000Z</updated>
@@ -176,30 +339,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Where are all the Show HNs?]]></title>
+        <title type="html"><![CDATA[Ask HN: Where are all the old Show HNs?]]></title>
         <id>https://news.ycombinator.com/item?id=28682173</id>
         <link href="https://news.ycombinator.com/item?id=28682173"/>
         <updated>2021-09-28T12:54:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Masked Email from Fastmail and 1Password]]></title>
-        <id>https://www.fastmail.com/1password/</id>
-        <link href="https://www.fastmail.com/1password/"/>
-        <updated>2021-09-28T12:33:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Researchers Identify Weakness in Microsoft WPBT]]></title>
-        <id>https://eclypsium.com/2021/09/20/everyone-gets-a-rootkit/</id>
-        <link href="https://eclypsium.com/2021/09/20/everyone-gets-a-rootkit/"/>
-        <updated>2021-09-28T12:18:04.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -216,50 +359,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dover (YC S19) just raised $20m and is hiring eng leadership]]></title>
-        <id>https://www.dover.com/open-roles/engineering-manager</id>
-        <link href="https://www.dover.com/open-roles/engineering-manager"/>
-        <updated>2021-09-28T12:00:34.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inkscape 1.1.1 Is Released]]></title>
-        <id>https://inkscape.org/release/inkscape-1.1.1/</id>
-        <link href="https://inkscape.org/release/inkscape-1.1.1/"/>
-        <updated>2021-09-28T11:17:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google and Facebook, I am facilitating packet filtering to block your tracking]]></title>
+        <title type="html"><![CDATA[Sirubo: Packet filtering to block Google and Facebook tracking]]></title>
         <id>https://peguero.xyz/blog/google_and_facebook_i_am_facilitating_packet_filtering_to_block_your_tracking.html</id>
         <link href="https://peguero.xyz/blog/google_and_facebook_i_am_facilitating_packet_filtering_to_block_your_tracking.html"/>
         <updated>2021-09-28T10:57:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hell is other people: a monk’s guide to office life]]></title>
-        <id>https://www.economist.com/1843/2021/07/14/hell-is-other-people-a-monks-guide-to-office-life</id>
-        <link href="https://www.economist.com/1843/2021/07/14/hell-is-other-people-a-monks-guide-to-office-life"/>
-        <updated>2021-09-28T10:50:23.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cooling system leak led to Victorian Big Battery fire]]></title>
-        <id>https://esv.vic.gov.au/news/cooling-system-leak-led-to-victorian-big-battery-fire/</id>
-        <link href="https://esv.vic.gov.au/news/cooling-system-leak-led-to-victorian-big-battery-fire/"/>
-        <updated>2021-09-28T10:06:08.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -296,40 +399,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spaces launch in Element]]></title>
-        <id>https://element.io/blog/spaces-blast-out-of-beta/</id>
-        <link href="https://element.io/blog/spaces-blast-out-of-beta/"/>
-        <updated>2021-09-28T08:09:41.000Z</updated>
+        <title type="html"><![CDATA[Consumers and curators: browsing and voting patterns on Reddit]]></title>
+        <id>https://arxiv.org/abs/1703.05267</id>
+        <link href="https://arxiv.org/abs/1703.05267"/>
+        <updated>2021-09-28T09:17:05.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Google sets burial date for legacy Chrome Extensions, fears for ad-blockers grow]]></title>
-        <id>https://www.theregister.com/2021/09/27/google_chrome_manifest_v2_extensions/</id>
-        <link href="https://www.theregister.com/2021/09/27/google_chrome_manifest_v2_extensions/"/>
-        <updated>2021-09-28T06:55:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fail2ban – Remote Code Execution]]></title>
-        <id>https://research.securitum.com/fail2ban-remote-code-execution/</id>
-        <link href="https://research.securitum.com/fail2ban-remote-code-execution/"/>
-        <updated>2021-09-28T05:58:32.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I don't think Elasticsearch is a good logging system]]></title>
-        <id>https://blog.sinkingpoint.com/posts/elasticsearch-logging/</id>
-        <link href="https://blog.sinkingpoint.com/posts/elasticsearch-logging/"/>
-        <updated>2021-09-28T04:53:29.000Z</updated>
+        <title type="html"><![CDATA[Show HN: Extract Table from Image]]></title>
+        <id>https://extract-table.com/</id>
+        <link href="https://extract-table.com/"/>
+        <updated>2021-09-28T07:15:03.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -346,13 +429,26 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What it's like to spend 40-50 hours in VR every week]]></title>
-        <id>https://blog.immersed.team/working-from-orbit-39bf95a6d385</id>
-        <link href="https://blog.immersed.team/working-from-orbit-39bf95a6d385"/>
-        <updated>2021-09-28T00:52:54.000Z</updated>
+        <title type="html"><![CDATA[The last days of Tartessos]]></title>
+        <id>https://www.atlasobscura.com/articles/tartessos-casas-del-turunuelo</id>
+        <link href="https://www.atlasobscura.com/articles/tartessos-casas-del-turunuelo"/>
+        <updated>2021-09-28T02:15:30.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[With the Salesforce plugin for Grafana, easily visualize your SFDC data and correlate it with other data sources]]></title>
+        <id>https://grafana.com/blog/2021/09/28/with-the-salesforce-plugin-for-grafana-easily-visualize-your-sfdc-data-and-correlate-it-with-other-data-sources/</id>
+        <link href="https://grafana.com/blog/2021/09/28/with-the-salesforce-plugin-for-grafana-easily-visualize-your-sfdc-data-and-correlate-it-with-other-data-sources/"/>
+        <updated>2021-09-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Good news for Salesforce users: With the new Salesforce plugin for Grafana, available now with an Enterprise license, you can instantly visualize your SFDC data in Grafana dashboards.
+Plus, Grafana allows you to visualize the Salesforce data alongside all sorts of other data. One interesting use case is correlating sales data to system metrics and logs, which would be valuable if your company uses any software systems at all to help generate revenue.
+When we think of observing systems, no matter how complex they get, we are ultimately trying to maximize one of two levers: increase revenue or decrease costs. Salesforce is the ultimate tool for describing the revenue pipeline. With the Salesforce plugin for Grafana, you can bring observability to your sales pipeline.
+Why correlate sales data…]]></summary>
+        <author>
+            <name>Grafana Labs Blog on Grafana Labs</name>
         </author>
     </entry>
     <entry>
@@ -363,6 +459,16 @@
         <summary type="html"><![CDATA[A batch of feature updates was submitted today for DRM-Next of early feature work slated to come to the next version of the Linux kernel...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Twenty-First Chromosome]]></title>
+        <id>https://sundaylongread.com/2021/09/25/the-twenty-first-chromosome/</id>
+        <link href="https://sundaylongread.com/2021/09/25/the-twenty-first-chromosome/"/>
+        <updated>2021-09-27T20:43:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -421,6 +527,16 @@ Read on for a summary of the discussions held at this year's Summit.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Migrating from App Engine to Google Kubernetes Engine]]></title>
+        <id>https://ipinfo.io/blog/app-engine-to-google-kubernetes-engine/</id>
+        <link href="https://ipinfo.io/blog/app-engine-to-google-kubernetes-engine/"/>
+        <updated>2021-09-27T15:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Octopod Episode 2–Open Source: It’s Everywhere, with Chris Aniszczyk]]></title>
         <id>https://www.cncf.io/?p=64796</id>
         <link href="https://www.cncf.io/blog/2021/09/27/octopod-episode-2-open-source-its-everywhere-with-chris-aniszczyk/"/>
@@ -471,6 +587,16 @@ Read on for a summary of the discussions held at this year's Summit.]]></summary
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Skoltech scientists use supercomputer to probe limit of Google quantum processor]]></title>
+        <id>https://www.skoltech.ru/en/2021/09/skoltech-scientists-use-supercomputer-to-probe-limits-of-google-s-quantum-processor/</id>
+        <link href="https://www.skoltech.ru/en/2021/09/skoltech-scientists-use-supercomputer-to-probe-limits-of-google-s-quantum-processor/"/>
+        <updated>2021-09-27T12:15:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Testing The New ASUS Platform Profile Support In Linux 5.15]]></title>
         <id>https://www.phoronix.com/vr.php?view=30554</id>
         <link href="https://www.phoronix.com/vr.php?view=30554"/>
@@ -481,30 +607,10 @@ Read on for a summary of the discussions held at this year's Summit.]]></summary
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spy on Python down to the Linux kernel level]]></title>
-        <id>https://p403n1x87.github.io/spy-on-python-down-to-the-linux-kernel-level.html</id>
-        <link href="https://p403n1x87.github.io/spy-on-python-down-to-the-linux-kernel-level.html"/>
-        <updated>2021-09-27T11:05:58.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review of The Fabric of Reality by David Deutsch (2001) [pdf]]]></title>
-        <id>http://web.mit.edu/asf/www/PopularScience/Friedman_TheFabricOfRealityReview_2001.pdf</id>
-        <link href="http://web.mit.edu/asf/www/PopularScience/Friedman_TheFabricOfRealityReview_2001.pdf"/>
-        <updated>2021-09-27T09:44:48.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It’s not easy to control police use of tech, even with a law]]></title>
-        <id>https://www.wired.com/story/hard-control-police-tech-law/</id>
-        <link href="https://www.wired.com/story/hard-control-police-tech-law/"/>
-        <updated>2021-09-27T09:44:25.000Z</updated>
+        <title type="html"><![CDATA[High-performance garbage collection for C++ V8 (2020)]]></title>
+        <id>https://v8.dev/blog/high-performance-cpp-gc</id>
+        <link href="https://v8.dev/blog/high-performance-cpp-gc"/>
+        <updated>2021-09-27T11:21:00.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -538,16 +644,6 @@ Read on for a summary of the discussions held at this year's Summit.]]></summary
         <summary type="html"><![CDATA[Adding to the growing list of Mesa 21.3 features for next quarter's feature release is Lavapipe now supporting Vulkan 1.2...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How plastic can rust, sort of]]></title>
-        <id>https://dfarq.homeip.net/how-plastic-can-rust-sort-of/</id>
-        <link href="https://dfarq.homeip.net/how-plastic-can-rust-sort-of/"/>
-        <updated>2021-09-27T08:01:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -930,36 +1026,6 @@ This also applies to mv and install.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MidnightBSD 2.1 Released For This Desktop-Minded BSD]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=MidnightBSD-2.1-Released</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=MidnightBSD-2.1-Released"/>
-        <updated>2021-09-24T09:46:49.000Z</updated>
-        <summary type="html"><![CDATA[MidnightBSD 2.1 debuted this week as the latest version of one of the few desktop-focused BSD open-source operating system projects...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 21.10 Beta Released]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-21.10-Beta</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Ubuntu-21.10-Beta"/>
-        <updated>2021-09-24T09:16:12.000Z</updated>
-        <summary type="html"><![CDATA[Canonical has released the final beta of next month's Ubuntu 21.10 "Impish Indri" release...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chrome 95 Beta Completely Removes Deprecated FTP Support, Reduced User Agent Info Trial]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Chrome-95-Beta</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Chrome-95-Beta"/>
-        <updated>2021-09-24T04:01:00.000Z</updated>
-        <summary type="html"><![CDATA[With Chrome 94 having shipped this week, Google has now promoted Chrome 95 to beta...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Amazon QuickSight Q – Business Intelligence Using Natural Language Questions]]></title>
         <id>701147b345634ef37f028239c154531da9dae71e</id>
         <link href="https://aws.amazon.com/blogs/aws/amazon-quicksight-q-business-intelligence-using-natural-language-questions/"/>
@@ -1124,37 +1190,6 @@ For instance, consider an interaction from a user that results in an order being
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Courtès: What's in a package]]></title>
-        <id>https://lwn.net/Articles/870047/rss</id>
-        <link href="https://lwn.net/Articles/870047/rss"/>
-        <updated>2021-09-22T20:21:45.000Z</updated>
-        <summary type="html"><![CDATA[Over at the Guix-HPC blog, Ludovic Courtès writes about trying to package the PyTorch machine-learning library for the Guix distribution.  Building from source in a user-verifiable manner is part of the philosophy behind Guix, but there were a number of problems that were encountered:
-
-The first surprise when starting packaging PyTorch is that, despite being on PyPI, PyTorch is first and foremost a large C++ code base. It does have a setup.py as commonly found in pure Python packages, but that file delegates the bulk of the work to CMake.
-
-The second surprise is that PyTorch bundles (or "vendors", as some would say) source code for no less than 41 dependencies, ranging from small Python and C++ helper libraries to large C++ neural network tools. Like other distributions such as Debian, Guix avoids bundling: we would rather have one Guix package for each of these dependencies. The rationale is manifold, but it boils down to keeping things auditable, reducing resource usage, and making security updates practical.]]></summary>
-        <author>
-            <name>jake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[$] A discussion on folios]]></title>
-        <id>https://lwn.net/Articles/869942/rss</id>
-        <link href="https://lwn.net/Articles/869942/rss"/>
-        <updated>2021-09-22T18:52:16.000Z</updated>
-        <summary type="html"><![CDATA[A few weeks ago, Matthew Wilcox might have guessed that his session
-at the 2021 Linux
-Plumbers Conference would be focused rather differently.  But, as we reported earlier in September, his folio patch set ran into some, perhaps
-unexpected, opposition and, ultimately, did not land in the mainline for
-5.15.  Instead of discussing how to use folios as part
-of the File
-Systems microconference, he led a discussion that was, at least in part, on the
-path forward for them.]]></summary>
-        <author>
-            <name>jake</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Scaling Ad Verification with Machine Learning and AWS Inferentia]]></title>
         <id>1abe9f34421eb828051ee4010e67c4f61a85225c</id>
         <link href="https://aws.amazon.com/blogs/aws/scaling-ad-verification-with-machine-learning-and-aws-inferentia/"/>
@@ -1231,16 +1266,6 @@ End users typ…]]></summary>
         <link href="https://www.cncf.io/blog/2021/09/20/first-is-the-dream/"/>
         <updated>2021-09-20T15:00:00.000Z</updated>
         <summary type="html"><![CDATA[Community guest post by Raul Flamenco, founder of Acopula Networks and co-organizer of Cloud Native San Salvador “A man may not achieve everything he has dreamed, but he will never achieve anything...]]></summary>
-        <author>
-            <name>Jessie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Chaos Mesh helps Apache APISIX improve system stability]]></title>
-        <id>https://www.cncf.io/?p=64564</id>
-        <link href="https://www.cncf.io/blog/2021/09/20/how-chaos-mesh-helps-apache-apisix-improve-system-stability/"/>
-        <updated>2021-09-20T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guest post originally published on PingCAP‘s blog by Shuyang Wu Apache APISIX is a cloud-native, high-performance, scaling microservices API gateway. It is one of the Apache Software Foundation’s top-level projects and serves hundreds...]]></summary>
         <author>
             <name>Jessie</name>
         </author>
@@ -1370,16 +1395,6 @@ https://de…]]></summary>
         <summary type="html"><![CDATA[To help measure performance of our customers’ Workers, we’re beginning to integrate with the Chrome DevTools protocol.]]></summary>
         <author>
             <name>Joshua Nelson</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Managing Docker apps with Kubernetes Ingress Controller]]></title>
-        <id>https://www.cncf.io/?p=64558</id>
-        <link href="https://www.cncf.io/blog/2021/09/17/managing-docker-apps-with-kubernetes-ingress-controller/"/>
-        <updated>2021-09-17T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guest post originally published on Kong’s blog by Alvin Lee Think back to when your development team made the switch to Dockerized containers. What was once an application requiring multiple services on...]]></summary>
-        <author>
-            <name>Jessie</name>
         </author>
     </entry>
     <entry>
@@ -1552,26 +1567,6 @@ Get started with Grafana Cloud: If you’re not already familiar with it, Grafan
         <summary type="html"><![CDATA[Global demand for video content has been rapidly increasing and now has the major audiences of Internet and mobile network traffic. Over-the-top streaming services such as Twitch continue to see an explosion of content creators who are seeking live delivery with great image quality, while live event broadcasters are increasingly looking to embrace agile cloud […]]]></summary>
         <author>
             <name>Channy Yun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Learn how to get started with k6 load testing and Grafana in this week's live webinar]]></title>
-        <id>https://grafana.com/blog/2021/09/13/learn-how-to-get-started-with-k6-load-testing-and-grafana-in-this-weeks-live-webinar/</id>
-        <link href="https://grafana.com/blog/2021/09/13/learn-how-to-get-started-with-k6-load-testing-and-grafana-in-this-weeks-live-webinar/"/>
-        <updated>2021-09-13T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Interested in learning about load testing? Join us for our next live webinar, “Intro to load testing with Grafana and k6,” on Sept. 16 at 9:30 PT / 12:30 ET / 16:30 UTC.
-
-		
-			
-		
-	
-
-
-Observability tools give you better insight into application performance in production. Load testing is the other half of the observability puzzle, giving you quality data to test for application performance before going live and highlighting performance issues before it’s too late to fix them
-In this webinar, Developer Advocate Nicole van der Hoeven will give an overview of k6, a load testing platform for modern engineering teams. You’ll get a live demo of how to create in minutes a load testing script that is realistic enough to make your test environments more production-like. Then we’ll go over your options for integration with Grafana and Prometheus, so your load test results can be seen wherever your team is already looking. By the end of this webinar, you’ll understand how to use k6 to run thousand-user load tests from different geographical regions on the cloud, and how to use Grafana to make sense of all the results.
-Register now for the webinar. You can also find out how Grafana Labs uses k6 internally in this blog post.]]></summary>
-        <author>
-            <name>Grafana Labs Blog on Grafana Labs</name>
         </author>
     </entry>
     <entry>
