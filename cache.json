@@ -31,13 +31,148 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
-          "id": "https://www.history.com/news/seat-belt-laws-resistance",
+          "id": "http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.history.com/news/seat-belt-laws-resistance",
-          "publishedOn": "2021-09-29T15:47:13.000Z",
-          "wordCount": 1421,
-          "title": "When New Seat Belt Laws Drew Fire as a Violation of Personal Freedom (2020)"
+          "link": "http://www.righto.com/2012/02/apple-didnt-revolutionize-power.html",
+          "publishedOn": "2021-09-29T22:01:08.000Z",
+          "wordCount": 15204,
+          "title": "Apple didn't revolutionize power supplies; new transistors did (2012)"
+        },
+        {
+          "id": "https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://aws.amazon.com/about-aws/whats-new/2021/09/better-price-performance-aws-lambda-functions-aws-graviton2-processor/",
+          "publishedOn": "2021-09-29T21:29:24.000Z",
+          "wordCount": 546,
+          "title": "AWS launches ARM-powered Lambdas"
+        },
+        {
+          "id": "https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120",
+          "publishedOn": "2021-09-29T21:01:08.000Z",
+          "wordCount": 12,
+          "title": "Chums (YC W21) Is Hiring a Lead Designer and a Back End Engineer"
+        },
+        {
+          "id": "https://twitter.com/TechEmails/status/1443263744906305543/photo/1",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/TechEmails/status/1443263744906305543/photo/1",
+          "publishedOn": "2021-09-29T21:00:08.000Z",
+          "wordCount": 196,
+          "title": "Steve Jobs emails Eric Schmidt (2007)"
+        },
+        {
+          "id": "https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html",
+          "publishedOn": "2021-09-29T20:41:29.000Z",
+          "wordCount": 2102,
+          "title": "When users never use the features they asked for"
+        },
+        {
+          "id": "https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid",
+          "author": null,
+          "description": "Comments",
+          "link": "https://chrome.google.com/webstore/detail/unhook-remove-youtube-rec/khncfooichmfjbepaaaebmommgaepoid",
+          "publishedOn": "2021-09-29T19:50:20.000Z",
+          "wordCount": 1174,
+          "title": "Unhook: Hide YouTube Recommendations"
+        },
+        {
+          "id": "https://news.ucar.edu/132811/gpus-open-potential-forecast-urban-weather-drones-and-air-taxis",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ucar.edu/132811/gpus-open-potential-forecast-urban-weather-drones-and-air-taxis",
+          "publishedOn": "2021-09-29T19:49:27.000Z",
+          "wordCount": 1590,
+          "title": "GPUs open the potential to forecast urban weather for drones and air taxis"
+        },
+        {
+          "id": "https://twitter.com/patrickc/status/1443289393695911938",
+          "author": null,
+          "description": "Comments",
+          "link": "https://twitter.com/patrickc/status/1443289393695911938",
+          "publishedOn": "2021-09-29T19:27:22.000Z",
+          "wordCount": 196,
+          "title": "Stripe launched 10 years ago today"
+        },
+        {
+          "id": "https://arxiv.org/abs/2109.13113",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/2109.13113",
+          "publishedOn": "2021-09-29T18:55:29.000Z",
+          "wordCount": 710,
+          "title": "Can You See Me Now? A measurement study of Zoom, Webex, and Meet"
+        },
+        {
+          "id": "https://arxiv.org/abs/1904.12320",
+          "author": null,
+          "description": "Comments",
+          "link": "https://arxiv.org/abs/1904.12320",
+          "publishedOn": "2021-09-29T18:50:12.000Z",
+          "wordCount": 569,
+          "title": "How to fit any dataset with a single parameter"
+        },
+        {
+          "id": "https://ampie.app",
+          "author": null,
+          "description": "Comments",
+          "link": "https://ampie.app",
+          "publishedOn": "2021-09-29T18:25:21.000Z",
+          "wordCount": 16,
+          "title": "Show HN: Ampie – See HN or Twitter discussions mentioning the page you are on"
+        },
+        {
+          "id": "https://mariana-tren.ch/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://mariana-tren.ch/",
+          "publishedOn": "2021-09-29T18:20:15.000Z",
+          "wordCount": 129,
+          "title": "Mariana Trench: Security-Focused Static Analysis for Android and Java"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28696641",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=28696641",
+          "publishedOn": "2021-09-29T17:07:30.000Z",
+          "wordCount": 2654,
+          "title": "Tell HN: Amplitude (YC W12) just went public – AMA"
+        },
+        {
+          "id": "https://www.smithsonianmag.com/innovation/how-artificial-intelligence-completed-beethovens-unfinished-10th-symphony-180978753/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.smithsonianmag.com/innovation/how-artificial-intelligence-completed-beethovens-unfinished-10th-symphony-180978753/",
+          "publishedOn": "2021-09-29T16:45:10.000Z",
+          "wordCount": 2024,
+          "title": "Artificial Intelligence completed Beethoven's unfinished Tenth Symphony"
+        },
+        {
+          "id": "https://endtimes.dev/why-you-should-dither-images/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://endtimes.dev/why-you-should-dither-images/",
+          "publishedOn": "2021-09-29T16:29:52.000Z",
+          "wordCount": 1452,
+          "title": "Dithered images and websites (2020)"
+        },
+        {
+          "id": "https://github.com/eclipse/mosquitto",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/eclipse/mosquitto",
+          "publishedOn": "2021-09-29T15:50:13.000Z",
+          "wordCount": 1282,
+          "title": "Mosquitto: An open-source MQTT broker"
         },
         {
           "id": "https://blog.kraken.com/post/11263/kraken-security-labs-identifies-vulnerabilities-in-commonly-used-bitcoin-atm/",
@@ -49,67 +184,13 @@
           "title": "Kraken Security Labs Identifies Vulnerabilities in Commonly Used Bitcoin ATM"
         },
         {
-          "id": "https://arstechnica.com/tech-policy/2021/09/elizabeth-holmes-urged-employees-to-hide-theranos-lab-equipment-from-inspectors/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arstechnica.com/tech-policy/2021/09/elizabeth-holmes-urged-employees-to-hide-theranos-lab-equipment-from-inspectors/",
-          "publishedOn": "2021-09-29T14:08:07.000Z",
-          "wordCount": 1194,
-          "title": "Elizabeth Holmes urged employees to hide Theranos’ lab equipment from inspectors"
-        },
-        {
-          "id": "https://gratipay.news/vive-la-liberapay-14057a25eacb",
-          "author": null,
-          "description": "Comments",
-          "link": "https://gratipay.news/vive-la-liberapay-14057a25eacb",
-          "publishedOn": "2021-09-29T14:01:38.000Z",
-          "wordCount": 167,
-          "title": "Vive Liberapay (2018)"
-        },
-        {
-          "id": "https://www.cnn.com/2021/09/29/business/supply-chain-workers/index.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.cnn.com/2021/09/29/business/supply-chain-workers/index.html",
-          "publishedOn": "2021-09-29T13:57:33.000Z",
-          "wordCount": 1912,
-          "title": "Workers who keep global supply chains moving warn of 'system collapse'"
-        },
-        {
-          "id": "https://www.eff.org/deeplinks/2018/01/private-censorship-not-best-way-fight-hate-or-defend-democracy-here-are-some",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.eff.org/deeplinks/2018/01/private-censorship-not-best-way-fight-hate-or-defend-democracy-here-are-some",
-          "publishedOn": "2021-09-29T13:56:51.000Z",
-          "wordCount": 4187,
-          "title": "Private Censorship Is Not the Best Way to Fight Hate or Defend Democracy(2018)"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28693542",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=28693542",
-          "publishedOn": "2021-09-29T13:44:19.000Z",
-          "wordCount": 1855,
-          "title": "Ask HN: Best Tip for Landing Pages?"
-        },
-        {
           "id": "https://thereader.mitpress.mit.edu/why-science-cant-fix-politics/",
           "author": null,
           "description": "Comments",
           "link": "https://thereader.mitpress.mit.edu/why-science-cant-fix-politics/",
           "publishedOn": "2021-09-29T13:27:45.000Z",
           "wordCount": 3574,
-          "title": "Why Science Can't Settle Political Disputes"
-        },
-        {
-          "id": "https://twitter.com/twotafkap/status/1442952265552187394",
-          "author": null,
-          "description": "Comments",
-          "link": "https://twitter.com/twotafkap/status/1442952265552187394",
-          "publishedOn": "2021-09-29T13:24:13.000Z",
-          "wordCount": 196,
-          "title": "YouTube removes “I Can't Believe You've Done This” video from 2007"
+          "title": "Attempts to scientifically “rationalize” policy may be damaging democracy"
         },
         {
           "id": "https://www.washingtonpost.com/technology/2021/09/29/youtube-ban-joseph-mercola/",
@@ -117,17 +198,17 @@
           "description": "Comments",
           "link": "https://www.washingtonpost.com/technology/2021/09/29/youtube-ban-joseph-mercola/",
           "publishedOn": "2021-09-29T13:08:12.000Z",
-          "wordCount": 1485,
+          "wordCount": 1883,
           "title": "YouTube is banning anti-vaccine activists and blocking all anti-vaccine content"
         },
         {
-          "id": "https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer",
+          "id": "https://twitter.com/matthew_d_green/status/1442870352799879174",
           "author": null,
           "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/y-combinator/jobs/7D3drHl-product-engineer",
-          "publishedOn": "2021-09-29T12:00:46.000Z",
-          "wordCount": 570,
-          "title": "Work at YC and write software that helps YC startups start their companies"
+          "link": "https://twitter.com/matthew_d_green/status/1442870352799879174",
+          "publishedOn": "2021-09-29T12:50:19.000Z",
+          "wordCount": 196,
+          "title": "iPhone remains findable after power off"
         },
         {
           "id": "https://code.visualstudio.com/blogs/2021/09/29/bracket-pair-colorization",
@@ -144,125 +225,71 @@
           "description": "Comments",
           "link": "https://www.willmcgugan.com/blog/tech/post/doing-open-source-full-time/",
           "publishedOn": "2021-09-29T11:40:25.000Z",
-          "wordCount": 758,
+          "wordCount": 813,
           "title": "I'm working on open source full time"
         },
         {
-          "id": "https://danluu.com/in-house/",
+          "id": "https://medium.com/@solidi/in-software-when-an-engineer-exits-the-team-1e550303cff8",
           "author": null,
           "description": "Comments",
-          "link": "https://danluu.com/in-house/",
-          "publishedOn": "2021-09-29T09:08:24.000Z",
-          "wordCount": 1858,
-          "title": "The Value of In-House Expertise"
+          "link": "https://medium.com/@solidi/in-software-when-an-engineer-exits-the-team-1e550303cff8",
+          "publishedOn": "2021-09-29T10:38:46.000Z",
+          "wordCount": 997,
+          "title": "When an engineer exits the team"
         },
         {
-          "id": "https://www.relevantmagazine.com/culture/tech-gaming/almost-all-of-facebooks-top-christian-pages-are-run-by-foreign-troll-farms/",
+          "id": "https://retrocgads.tumblr.com",
           "author": null,
           "description": "Comments",
-          "link": "https://www.relevantmagazine.com/culture/tech-gaming/almost-all-of-facebooks-top-christian-pages-are-run-by-foreign-troll-farms/",
-          "publishedOn": "2021-09-29T08:48:29.000Z",
-          "wordCount": 2063,
-          "title": "Almost All of Facebook’s Top Christian Page Run by Foreign Troll Farms"
+          "link": "https://retrocgads.tumblr.com",
+          "publishedOn": "2021-09-29T10:36:34.000Z",
+          "wordCount": 416,
+          "title": "Old video game advertisements"
         },
         {
-          "id": "https://simulavr.com/",
+          "id": "https://lists.w3.org/Archives/Public/public-new-work/2021Sep/0000.html",
           "author": null,
           "description": "Comments",
-          "link": "https://simulavr.com/",
-          "publishedOn": "2021-09-29T08:04:56.000Z",
-          "wordCount": 365,
-          "title": "Simula One: an office-focused, standalone VR headset built on top of Linux"
+          "link": "https://lists.w3.org/Archives/Public/public-new-work/2021Sep/0000.html",
+          "publishedOn": "2021-09-29T08:18:46.000Z",
+          "wordCount": 871,
+          "title": "Response to 'Call for Review: Decentralized Identifiers (DIDs) v1.0'"
         },
         {
-          "id": "https://bugs.ruby-lang.org/issues/18229",
+          "id": "https://gregory-ms.com/",
           "author": null,
           "description": "Comments",
-          "link": "https://bugs.ruby-lang.org/issues/18229",
-          "publishedOn": "2021-09-29T07:08:53.000Z",
-          "wordCount": 2025,
-          "title": "Proposal to Merge YJIT into Ruby"
+          "link": "https://gregory-ms.com/",
+          "publishedOn": "2021-09-29T07:08:08.000Z",
+          "wordCount": 540,
+          "title": "Gregory MS"
         },
         {
-          "id": "https://krebsonsecurity.com/2021/09/apple-airtag-bug-enables-good-samaritan-attack/",
+          "id": "https://github.com/thoppe/NansAreNumbers",
           "author": null,
           "description": "Comments",
-          "link": "https://krebsonsecurity.com/2021/09/apple-airtag-bug-enables-good-samaritan-attack/",
-          "publishedOn": "2021-09-29T06:49:35.000Z",
-          "wordCount": 3319,
-          "title": "Apple AirTag Bug Enables ‘Good Samaritan’ Attack"
+          "link": "https://github.com/thoppe/NansAreNumbers",
+          "publishedOn": "2021-09-29T07:01:54.000Z",
+          "wordCount": 4980,
+          "title": "NansAreNumbers – An esoteric data type built of NaNs"
         },
         {
-          "id": "https://tenthousandmeters.com/blog/python-behind-the-scenes-13-the-gil-and-its-effects-on-python-multithreading/",
+          "id": "https://malcolmocean.com/2019/12/systems-and-goals-have-both/",
           "author": null,
           "description": "Comments",
-          "link": "https://tenthousandmeters.com/blog/python-behind-the-scenes-13-the-gil-and-its-effects-on-python-multithreading/",
-          "publishedOn": "2021-09-29T05:25:42.000Z",
-          "wordCount": 5957,
-          "title": "The GIL and its effects on Python multithreading"
+          "link": "https://malcolmocean.com/2019/12/systems-and-goals-have-both/",
+          "publishedOn": "2021-09-28T23:27:36.000Z",
+          "wordCount": 1750,
+          "title": "“Systems vs. Goals” is silly (2019)"
         },
         {
-          "id": "https://rxdb.info/offline-first.html",
+          "id": "https://github.com/willcrichton/flowistry",
           "author": null,
           "description": "Comments",
-          "link": "https://rxdb.info/offline-first.html",
-          "publishedOn": "2021-09-29T04:54:51.000Z",
-          "wordCount": 1345,
-          "title": "Offline First"
-        },
-        {
-          "id": "https://www.science.org/content/article/scientists-create-their-own-gps-spying-internet-satellites",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.science.org/content/article/scientists-create-their-own-gps-spying-internet-satellites",
-          "publishedOn": "2021-09-29T04:04:19.000Z",
-          "wordCount": 258,
-          "title": "Scientists create their own GPS by spying on internet satellites"
-        },
-        {
-          "id": "https://palladiummag.com/2021/09/24/a-world-without-sci-hub/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://palladiummag.com/2021/09/24/a-world-without-sci-hub/",
-          "publishedOn": "2021-09-29T02:39:36.000Z",
-          "wordCount": 2364,
-          "title": "A World Without Sci-Hub"
-        },
-        {
-          "id": "https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF",
-          "author": null,
-          "description": "Comments",
-          "link": "https://media.defense.gov/2021/Sep/28/2002863184/-1/-1/0/CSI_SELECTING-HARDENING-REMOTE-ACCESS-VPNS-20210928.PDF",
-          "publishedOn": "2021-09-29T02:14:56.000Z",
-          "wordCount": 10565,
-          "title": "Selecting and Hardening Remote Access VPN Solutions [pdf]"
-        },
-        {
-          "id": "https://piszek.com/2021/09/28/humboldt-the-first-solarpunk/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://piszek.com/2021/09/28/humboldt-the-first-solarpunk/",
-          "publishedOn": "2021-09-28T15:08:40.000Z",
-          "wordCount": 1199,
-          "title": "Alexander von Humboldt: the first Solarpunk"
-        },
-        {
-          "id": "https://askabiologist.asu.edu/bee-dance-game/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://askabiologist.asu.edu/bee-dance-game/",
-          "publishedOn": "2021-09-28T11:52:31.000Z",
-          "wordCount": 94,
-          "title": "Bee Dance Game"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=6LxPEz9x2fs",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=6LxPEz9x2fs",
-          "publishedOn": "2021-09-28T10:43:09.000Z",
-          "wordCount": null,
-          "title": "Atari ST in daily use since 1985 [video]"
+          "link": "https://github.com/willcrichton/flowistry",
+          "publishedOn": "2021-09-28T19:25:21.000Z",
+          "wordCount": 1328,
+          "title": "Flowistry helps you understand Rust programs with program analysis"
         },
         {
           "id": "https://pharmacy.ucsf.edu/news/2021/09/kidney-project-successfully-tests-prototype-bioartificial-kidney",
@@ -270,35 +297,8 @@
           "description": "Comments",
           "link": "https://pharmacy.ucsf.edu/news/2021/09/kidney-project-successfully-tests-prototype-bioartificial-kidney",
           "publishedOn": "2021-09-28T06:18:54.000Z",
-          "wordCount": 1006,
+          "wordCount": 1010,
           "title": "The Kidney Project successfully tests a prototype bioartificial kidney"
-        },
-        {
-          "id": "https://netflixtechblog.com/netflix-cloud-packaging-in-the-terabyte-era-d6869b4b84ae",
-          "author": null,
-          "description": "Comments",
-          "link": "https://netflixtechblog.com/netflix-cloud-packaging-in-the-terabyte-era-d6869b4b84ae",
-          "publishedOn": "2021-09-28T05:53:56.000Z",
-          "wordCount": 2513,
-          "title": "Netflix Cloud Packaging in the Terabyte Era"
-        },
-        {
-          "id": "https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack/",
-          "publishedOn": "2021-09-28T05:11:58.000Z",
-          "wordCount": null,
-          "title": "Deep Inside a DNS Amplification DDoS Attack (2012)"
-        },
-        {
-          "id": "https://www.randallhyde.com/AssemblyLanguage/www.artofasm.com/index.html",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.randallhyde.com/AssemblyLanguage/www.artofasm.com/index.html",
-          "publishedOn": "2021-09-28T05:07:23.000Z",
-          "wordCount": 356,
-          "title": "Art of Assembly Language Programming and HLA by Randall Hyde"
         }
       ]
     },
@@ -307,6 +307,24 @@
       "feedUrl": "https://aws.amazon.com/blogs/aws/feed/",
       "siteUrl": "https://aws.amazon.com/blogs/aws/",
       "articles": [
+        {
+          "id": "0cae1763504c1bb73a2607ef87d1be87390daeb6",
+          "author": "Danilo Poccia",
+          "description": "Many of our customers (such as Formula One, Honeycomb, Intuit, SmugMug, and Snap Inc.) use the Arm-based AWS Graviton2 processor for their workloads and enjoy better price performance. Starting today, you can get the same benefits for your AWS Lambda functions. You can now configure new and existing functions to run on x86 or Arm/Graviton2 processors. […]",
+          "link": "https://aws.amazon.com/blogs/aws/aws-lambda-functions-powered-by-aws-graviton2-processor-run-your-functions-on-arm-and-get-up-to-34-better-price-performance/",
+          "publishedOn": "2021-09-29T21:19:10.000Z",
+          "wordCount": 3213,
+          "title": "AWS Lambda Functions Powered by AWS Graviton2 Processor – Run Your Functions on Arm and Get Up to 34% Better Price Performance"
+        },
+        {
+          "id": "650ab218c81385c93b055ed2e0e247ffe471c1a9",
+          "author": "Channy Yun",
+          "description": "At AWS re:Invent 2020, we introduced the preview of Amazon Managed Service for Prometheus, an open source Prometheus-compatible monitoring service that makes it easy to monitor containerized applications at scale. With Amazon Managed Service for Prometheus, you can use the Prometheus query language (PromQL) to monitor the performance of containerized workloads without having to manage […]",
+          "link": "https://aws.amazon.com/blogs/aws/amazon-managed-service-for-prometheus-is-now-generally-available-with-alert-manager-and-ruler/",
+          "publishedOn": "2021-09-29T20:57:17.000Z",
+          "wordCount": 1743,
+          "title": "Amazon Managed Service for Prometheus Is Now Generally Available with Alert Manager and Ruler"
+        },
         {
           "id": "dfcf4b0d01f5728e795d8a0a6dab20e326c8d56a",
           "author": "Alex Casalboni",
@@ -322,7 +340,7 @@
           "description": "Less than 70 years separate us from one of the greatest discoveries of all time: the double helix structure of DNA. We now know that DNA is a sort of a twisted ladder composed of four types of compounds, called bases. These four bases are usually identified by an uppercase letter: adenine (A), guanine (G), […]",
           "link": "https://aws.amazon.com/blogs/aws/new-amazon-genomics-cli-is-now-open-source-and-generally-available/",
           "publishedOn": "2021-09-27T17:51:43.000Z",
-          "wordCount": 2901,
+          "wordCount": 2924,
           "title": "New – Amazon Genomics CLI Is Now Open Source and Generally Available"
         },
         {
@@ -468,24 +486,6 @@
           "publishedOn": "2021-09-02T15:40:33.000Z",
           "wordCount": 2721,
           "title": "How to Accelerate Performance and Availability of Multi-region Applications with Amazon S3 Multi-Region Access Points"
-        },
-        {
-          "id": "da2cf10e52b4ea77d701c365a9ec8802a7030f84",
-          "author": "Sean M. Tracey",
-          "description": "In 2018, we first launched Amazon S3 Intelligent-Tiering (S3 Intelligent-Tiering). For customers managing data across business units, teams, and products, unpredictable access patterns are often the norm. With the S3 Intelligent-Tiering storage class, S3 automatically optimizes costs by moving data between access tiers as access patterns change. Today, we’re pleased to announce two updates to […]",
-          "link": "https://aws.amazon.com/blogs/aws/amazon-s3-intelligent-tiering-further-automating-cost-savings-for-short-lived-and-small-objects/",
-          "publishedOn": "2021-09-02T15:39:39.000Z",
-          "wordCount": 1035,
-          "title": "Amazon S3 Intelligent-Tiering – Improved Cost Optimizations for Short-Lived and Small Objects"
-        },
-        {
-          "id": "a1241623aa1b9528784bc5782f30c04e5f265286",
-          "author": "Jeff Barr",
-          "description": "Back in 2018 I wrote about the first two members of the Amazon FSx family of fully-managed, highly-reliable, and highly-performant file systems, Amazon FSx for Lustre and Amazon FSx for Windows File Server. Both of these services give you the ability to use popular open source and commercially-licensed file systems without having to deal with […]",
-          "link": "https://aws.amazon.com/blogs/aws/new-amazon-fsx-for-netapp-ontap/",
-          "publishedOn": "2021-09-02T15:38:56.000Z",
-          "wordCount": 1802,
-          "title": "New – Amazon FSx for NetApp ONTAP"
         }
       ]
     },
@@ -494,6 +494,15 @@
       "feedUrl": "https://lwn.net/headlines/newrss",
       "siteUrl": "https://lwn.net",
       "articles": [
+        {
+          "id": "https://lwn.net/Articles/870269/rss",
+          "author": "corbet",
+          "description": "Work toward the signing of BPF programs has\nbeen finding its way into recent mainline kernel releases; it is intended\nto improve security by limiting the BPF programs that can be successfully\nloaded into the kernel.  As John Fastabend described in his \"Watching\nthe super powers\" session at the 2021 Linux Plumbers Conference,\nthis new feature has the potential to completely break his tools.  But\nrather than just complain, he decided to investigate solutions; the result\nis an outline for an auditing mechanism that brings greater flexibility to\nthe problem of controlling which programs can be run.",
+          "link": "https://lwn.net/Articles/870269/rss",
+          "publishedOn": "2021-09-29T18:51:50.000Z",
+          "wordCount": null,
+          "title": "[$] Taming the BPF superpowers"
+        },
         {
           "id": "https://lwn.net/Articles/871227/rss",
           "author": "ris",
@@ -619,15 +628,6 @@
           "publishedOn": "2021-09-23T15:11:07.000Z",
           "wordCount": null,
           "title": "[$] Improvements to GCC's -fanalyzer option"
-        },
-        {
-          "id": "https://lwn.net/Articles/870190/rss",
-          "author": "jake",
-          "description": "Security updates have been issued by Debian (ruby-kaminari and tomcat8), Mageia (389-ds-base, ansible, apache, apr, cpio, curl, firefox, ghostscript, gifsicle, gpac, libarchive, libgd, libssh, lynx, nextcloud-client, openssl, postgresql, proftpd, python3, thunderbird, tor, and vim), openSUSE (chromium, ffmpeg, grilo, hivex, linuxptp, and samba), Oracle (go-toolset:ol8, kernel, kernel-container, krb5, mysql:8.0, and nodejs:12), SUSE (ffmpeg, firefox, grilo, hivex, kernel, linuxptp, nodejs14, and samba), and Ubuntu (ca-certificates, edk2, sqlparse, and webkit2gtk).",
-          "link": "https://lwn.net/Articles/870190/rss",
-          "publishedOn": "2021-09-23T14:38:07.000Z",
-          "wordCount": 140,
-          "title": "Security updates for Thursday"
         }
       ]
     },
@@ -636,6 +636,16 @@
       "feedUrl": "http://feeds.feedburner.com/HighScalability",
       "siteUrl": "http://highscalability.com/blog/",
       "articles": [
+        {
+          "id": "426227:4867632:36381212",
+          "author": "Todd Hoff",
+          "description": "Who's Hiring? \n\r\n\r\nWynter is looking for system administrators, engineers, and developers to join its research panel. Participate in research surveys, get paid ($90-$180/hr) for your feedback and comments.  Super low key commitment, 10-15 mins per survey. Learn more and sign up. \n\r\n\r\nDevOps Engineer: At Kinsta, we set out to create the best managed hosting platform in the world. If you are an experienced DevOps Engineer who is constantly looking for ways to innovate and improve, we might just be the place for you! As Kinsta’s DevOps Engineer, you will be instrumental in making sure that our infrastructure is always on the bleeding edge of technology, remaining stable and high-performing at all times. If you love working with Linux, have a background in PHP, and have worked with cutting-edg…",
+          "link": "http://feedproxy.google.com/~r/HighScalability/~3/9S2zE720s-U/sponsored-post-wynter-pinecone-kinsta-bridgecrew-ip2location.html",
+          "publishedOn": "2021-09-29T17:00:02.000Z",
+          "wordCount": null,
+          "title": "Sponsored Post: Wynter, Pinecone, Kinsta, Bridgecrew, IP2Location, StackHawk, InterviewCamp.io, Educative, Stream, Fauna, Triplebyte",
+          "itunes": {}
+        },
         {
           "id": "426227:4867632:36379442",
           "author": "Todd Hoff",
@@ -654,12 +664,39 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/scan.php?page=news_item&px=Mesa-21.2.3-Released",
+          "author": null,
+          "description": "Succeeding Mesa 21.2.2 from earlier this month that was a much delayed and in turn very large release, Mesa 21.2.3 is out today and it's on the quieter side...",
+          "link": "https://www.phoronix.com/scan.php?page=news_item&px=Mesa-21.2.3-Released",
+          "publishedOn": "2021-09-29T23:27:14.000Z",
+          "wordCount": 761,
+          "title": "Mesa 21.2.3 Released As A Small Update To This Graphics Driver Stack"
+        },
+        {
+          "id": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-pkill_on_warn",
+          "author": null,
+          "description": "A new kernel option was proposed today called \"pkill_on_warn\" that would kill all threads in a process if that process provoked a kernel warning...",
+          "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-pkill_on_warn",
+          "publishedOn": "2021-09-29T19:32:45.000Z",
+          "wordCount": 844,
+          "title": "\"pkill_on_warn\" Proposed For Killing Linux Processes That Cause A Kernel Warning"
+        },
+        {
+          "id": "https://www.phoronix.com/scan.php?page=news_item&px=libcamera-2021",
+          "author": null,
+          "description": "Libcamera as an open-source camera stack that has been coming together over the past few years has been maturing quite well, broadening its supported hardware and feature set, and more in filling a void in the Linux camera ecosystem...",
+          "link": "https://www.phoronix.com/scan.php?page=news_item&px=libcamera-2021",
+          "publishedOn": "2021-09-29T18:30:06.000Z",
+          "wordCount": 832,
+          "title": "Libcamera Maturing Well As Open-Source Camera Stack"
+        },
+        {
           "id": "https://www.phoronix.com/vr.php?view=30568",
           "author": null,
           "description": "Recently I carried out some updated Windows 11 benchmarks against Linux to look at how this forthcoming Microsoft operating system release is competing with Ubuntu. In this article is a fresh look at the Windows Subsystem for Linux (WSL2) performance on the near-final Windows 11 against Ubuntu Linux.",
           "link": "https://www.phoronix.com/vr.php?view=30568",
           "publishedOn": "2021-09-29T13:18:02.000Z",
-          "wordCount": 814,
+          "wordCount": 852,
           "title": "Windows 11 WSL2 Performance Is Quite Competitive Against Ubuntu 20.04 LTS / Ubuntu 21.10"
         },
         {
@@ -668,7 +705,7 @@
           "description": "AMD this morning announced a goal of increasing the energy efficiency of EPYC processors running AI training and high performance workloads by 30x... Within the next four years...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=AMD-30x-Energy-Efficiency-2025",
           "publishedOn": "2021-09-29T13:09:14.000Z",
-          "wordCount": 802,
+          "wordCount": 794,
           "title": "AMD Aims For 30x Energy Efficiency Improvement For AI Training + HPC By 2025"
         },
         {
@@ -677,7 +714,7 @@
           "description": "Merged this morning into the LibreOffice code-base is the initial Qt6 VCL plug-in...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=LibreOffice-Qt6-VCL",
           "publishedOn": "2021-09-29T12:54:22.000Z",
-          "wordCount": 758,
+          "wordCount": 705,
           "title": "LibreOffice Lands Initial Code For Qt6 Toolkit Support"
         },
         {
@@ -686,7 +723,7 @@
           "description": "While the Linux kernel is increasingly supporting the use of Zstd for various compression purposes, the current Zstd code within the kernel is out-of-date and efforts so far to re-base it against the closer to upstream Zstd state have been stalled. Fortunately, a new attempt at getting the Zstd code updated for the Linux kernel will be published soon...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Zstd-Updated-For-Kernel-Soon",
           "publishedOn": "2021-09-29T09:45:31.000Z",
-          "wordCount": 820,
+          "wordCount": 857,
           "title": "Updated Zstd Implementation For The Linux Kernel Coming Soon"
         },
         {
@@ -695,7 +732,7 @@
           "description": "With the initial Steam Deck release quickly approaching, Valve continues to be quite busy on a variety of improvements to enhance their Steam Linux builds...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Steam-Better-VLK-Pre-Cache",
           "publishedOn": "2021-09-29T00:51:22.000Z",
-          "wordCount": 763,
+          "wordCount": 755,
           "title": "Steam Beta Improves Its Vulkan Pre-Caching System, PipeWire Capture Now Opt-In"
         },
         {
@@ -704,7 +741,7 @@
           "description": "AMD open-source driver developers today merged another big set of patches providing various micro-optimizations and other enhancements to the RadeonSI Gallium3D driver...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Mesa-21.3-RadeonSI-More-NGG",
           "publishedOn": "2021-09-28T22:35:54.000Z",
-          "wordCount": 856,
+          "wordCount": 893,
           "title": "RadeonSI Driver Merges NGG Improvements, Other Optimizations For Mesa 21.3"
         },
         {
@@ -713,7 +750,7 @@
           "description": "While the Linux kernel still hasn't added any formal control yet for AMD Predictive Store Forwarding to disable it short of also toggling Spectre V4 / SSBD, with the Linux 5.16 kernel the AMD PSF bit will now be exposed to KVM guest virtual machines so that they -- either with a patched/future kernel or for other operating systems -- may choose to toggle explicitly disable this AMD CPU feature...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=AMD-PSF-Linux-5.16-KVM",
           "publishedOn": "2021-09-28T18:48:42.000Z",
-          "wordCount": 906,
+          "wordCount": 898,
           "title": "Linux 5.16 To Expose AMD PSF Disable Bit To KVM Guests"
         },
         {
@@ -722,7 +759,7 @@
           "description": "After seeing some initial release challenges, Fedora 35 Beta was released today across the Fedora Workstation, Fedora Server, and Fedora IoT flavors as well as their other versions...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Fedora-35-Beta-Released",
           "publishedOn": "2021-09-28T17:48:53.000Z",
-          "wordCount": 779,
+          "wordCount": 726,
           "title": "Fedora 35 Beta Released With Many New Features, Countless Package Updates"
         },
         {
@@ -731,7 +768,7 @@
           "description": "The past month we have started our testing of Ampere's Altra Max M128-30, the company's new 128 core server processor, and in this article today are our initial benchmarks of this promising chip for high core count servers in both 1P and 2P configurations tested.",
           "link": "https://www.phoronix.com/vr.php?view=30562",
           "publishedOn": "2021-09-28T13:30:00.000Z",
-          "wordCount": 887,
+          "wordCount": 835,
           "title": "Ampere Altra Max M128-30 Linux Performance Preview"
         },
         {
@@ -740,7 +777,7 @@
           "description": "Vulkan 1.2.194 is out as the latest spec revision to this high performance graphics and compute API...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.2.194-Released",
           "publishedOn": "2021-09-28T13:29:28.000Z",
-          "wordCount": 792,
+          "wordCount": 784,
           "title": "Vulkan 1.2.194 Brings New Extension For Google's Fuchsia OS"
         },
         {
@@ -749,7 +786,7 @@
           "description": "While Keith Packard is known for his work on X11/X.Org, the past few years he has also been developing Picolibc as a C library intended for embedded systems. He also recently jumped from SiFive to Amazon and appears at the ecommerce giant to be working on Picolibc in an official capacity, presumably for use on Amazon's growing hardware devices...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Picolibc-2021",
           "publishedOn": "2021-09-28T13:00:12.000Z",
-          "wordCount": 783,
+          "wordCount": 775,
           "title": "Picolibc Continues Maturing As Very Lightweight C Library For The Embedded World"
         },
         {
@@ -758,7 +795,7 @@
           "description": "The open-source Solaris/Illumos ecosystem certainly isn't vibrant these days like back during the Sun Microsystems times with OpenSolaris, but OmniOS continues progressing as one of the few still-active and useful Solaris/Illumos-powered platforms...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=OmniOS-r151038",
           "publishedOn": "2021-09-28T12:09:53.000Z",
-          "wordCount": 743,
+          "wordCount": 780,
           "title": "OmniOS Adds VirtFS File Sharing For Bhyve, Better System Console Performance"
         },
         {
@@ -767,7 +804,7 @@
           "description": "While many years ago Fedora's Java support was in great shape with quickly integrating OpenJDK going back to IcedTea, these days Fedora's Java packages are barely maintained and largely fallen into disrepair...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Fedora-Java-Rough-Shape",
           "publishedOn": "2021-09-28T09:51:46.000Z",
-          "wordCount": 818,
+          "wordCount": 855,
           "title": "Fedora's Java Packages Have Fallen Into Rough Shape"
         },
         {
@@ -776,7 +813,7 @@
           "description": "Since July we've seen AMD open-source driver engineers posting code for \"Cyan Skillfish\" as an APU with Navi 1x graphics. While initial support for Cyan Skillfish was merged for Linux 5.15, it turns out the display code isn't yet wired up due to being a different DCN2 variant for its display block...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=AMD-Cyan-Skillfish-DCN-2.01",
           "publishedOn": "2021-09-28T04:00:00.000Z",
-          "wordCount": 880,
+          "wordCount": 917,
           "title": "AMD Posts Code Enabling \"Cyan Skillfish\" Display Support Due To Different DCN2 Variant"
         },
         {
@@ -785,7 +822,7 @@
           "description": "A batch of feature updates was submitted today for DRM-Next of early feature work slated to come to the next version of the Linux kernel...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=AMDGPU-DP-2.0-Linux-5.16",
           "publishedOn": "2021-09-27T21:46:34.000Z",
-          "wordCount": 924,
+          "wordCount": 871,
           "title": "Linux 5.16 To Bring Initial DisplayPort 2.0 Support For AMD Radeon Driver (AMDGPU)"
         },
         {
@@ -794,7 +831,7 @@
           "description": "There has been talk of Intel moving to offer more license-able/opt-in features for hardware capabilities found within a given processor as an upgrade. We are now seeing the Linux signs of that support coming with a driver for \"Intel Software Defined Silicon\" to allow for the secure activation of such features baked into the processor's silicon but only available as an up-charge option...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Intel-Software-Defined-Silicon",
           "publishedOn": "2021-09-27T18:45:32.000Z",
-          "wordCount": 905,
+          "wordCount": 942,
           "title": "\"Intel Software Defined Silicon\" Coming To Linux For Activating Extra Licensed Hardware Features"
         },
         {
@@ -803,7 +840,7 @@
           "description": "With the in-development Linux 5.15 kernel there is now support for ACPI Platform Profiles on supported ASUS laptops. This ASUS laptop platform profile support joins the likes of HP, Dell, and Lenovo laptops already having this support exposed under Linux that allows users to control their power/performance preference. Here are some tests with the ASUS ROG Strix G15 AMD Advantage laptop with the platform profile options under Linux 5.15.",
           "link": "https://www.phoronix.com/vr.php?view=30554",
           "publishedOn": "2021-09-27T12:15:52.000Z",
-          "wordCount": 869,
+          "wordCount": 817,
           "title": "Testing The New ASUS Platform Profile Support In Linux 5.15"
         },
         {
@@ -812,7 +849,7 @@
           "description": "It's been a while since having any news to report on Bcachefs as the promising open-source file-system born out of the Linux kernel's block cache code. However, Kent Overstreet continues working tirelessly on it and has now merged Bcachefs' snapshot support...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Bcachefs-Lands-Snapshots",
           "publishedOn": "2021-09-27T09:34:45.000Z",
-          "wordCount": 723,
+          "wordCount": 715,
           "title": "Bcachefs Merges Support For Btrfs-Like Snapshots"
         },
         {
@@ -821,7 +858,7 @@
           "description": "The Linux kernel support around the Nintendo Wii and Wii U game console hardware continues to improve and now a new Nintendo crypto driver is being tackled based on reverse-engineered documentation...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Nintendo-AES-Crypto-Driver",
           "publishedOn": "2021-09-27T09:22:03.000Z",
-          "wordCount": 770,
+          "wordCount": 762,
           "title": "Nintendo Crypto Driver Being Worked On For Linux, Yields Much Better AES Performance"
         },
         {
@@ -830,7 +867,7 @@
           "description": "Adding to the growing list of Mesa 21.3 features for next quarter's feature release is Lavapipe now supporting Vulkan 1.2...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Lavapipe-Vulkan-1.2",
           "publishedOn": "2021-09-27T09:10:23.000Z",
-          "wordCount": 712,
+          "wordCount": 707,
           "title": "Lavapipe Mesa Software Driver Enables Vulkan 1.2 Support"
         },
         {
@@ -839,7 +876,7 @@
           "description": "The nanoMIPS architecture that was announced by MIPS in 2018 for embedded devices to lower power consumption and yield smaller code footprints was announced for the MIPS I7200 but since then there hasn't been much of nanoMIPS. However, MediaTek is now looking to contribute upstream the compiler support for this processor ISA into GCC...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=MediaTek-2021-nanoMIPS-GCC",
           "publishedOn": "2021-09-27T04:00:00.000Z",
-          "wordCount": 837,
+          "wordCount": 825,
           "title": "MediaTek Hoping To Bring nanoMIPS Support Upstream Into GCC"
         },
         {
@@ -848,7 +885,7 @@
           "description": "Linus Torvalds has now issued the third weekly release candidate of the forthcoming Linux 5.15 kernel...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.15-rc3-Released",
           "publishedOn": "2021-09-26T21:38:43.000Z",
-          "wordCount": 790,
+          "wordCount": 782,
           "title": "Linux 5.15-rc3 Released - Looking \"Pretty Normal\" Plus Performance Fix"
         },
         {
@@ -857,7 +894,7 @@
           "description": "Given last week's release of Chrome 94, here are some fresh browser benchmarks looking at Firefox 92 stable against Chrome 94 running on Ubuntu Linux...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Firefox-92-Chrome-94-Benchmarks",
           "publishedOn": "2021-09-26T17:29:49.000Z",
-          "wordCount": 702,
+          "wordCount": 694,
           "title": "Firefox 92 vs. Chrome 94 Browser Benchmarks On Ubuntu Linux"
         },
         {
@@ -866,7 +903,7 @@
           "description": "GNU Wget2 2.0 has been released for this successor to GNU Wget. There are many improvements to this GPLv3+ licensed program. Over the original GNU Wget, Wget2 is faster, supports more protocols especially around HTTP/2 and compression, supports multi-threading / parallel connections, and other improvements...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=GNU-Wget2-2.0-Released",
           "publishedOn": "2021-09-26T14:06:33.000Z",
-          "wordCount": 725,
+          "wordCount": 762,
           "title": "GNU Wget2 2.0 Released With HTTP2 & SSL Improvements"
         },
         {
@@ -875,7 +912,7 @@
           "description": "Earlier this month AMD published their \"amd-pstate\" Linux driver that leverages ACPI CPPC data to make more informed CPU frequency scaling decisions with an aim to boost the performance-per-Watt for Zen 3 (and eventually Zen 2) processors on Linux. The second spin of that \"amd-pstate\" Linux kernel driver is now available for testing...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-amd-pstate-v2",
           "publishedOn": "2021-09-26T10:45:43.000Z",
-          "wordCount": 860,
+          "wordCount": 852,
           "title": "Updated AMD P-State Driver Published For Linux"
         },
         {
@@ -884,7 +921,7 @@
           "description": "It was just last month when ~3.5M IOPS per-core was impressive with the code for Linux 5.15 to further push Linux's I/O limits. Now for code likely to be included in Linux 5.16 it's currently at 3.8M IOPS with a single tread...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-IO-3.8M-IOPS-Per-Core",
           "publishedOn": "2021-09-26T10:30:23.000Z",
-          "wordCount": 779,
+          "wordCount": 726,
           "title": "Linux IO_uring Can Now Achieve Up To ~3.8M IOPS Per-Core"
         },
         {
@@ -893,7 +930,7 @@
           "description": "With the KDE Plasma 5.23 release quickly approaching, feature development is already heating up for Plasma 5.24 while concurrently driving many fixes into the v5.23 codebase...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Plasma-5.24-DRM-Leasing",
           "publishedOn": "2021-09-25T17:34:20.000Z",
-          "wordCount": 808,
+          "wordCount": 800,
           "title": "KDE Plasma 5.24 On Wayland To Support DRM Leasing For VR Headsets"
         },
         {
@@ -902,7 +939,7 @@
           "description": "For several years now Facebook engineers have been working on BOLT as a way to speed-up Linux/ELF binaries. This \"Binary Optimization and Layout Tool\" is able to re-arrange executables once profiled to generate even faster performance than what can be achieved by a compiler's LTO and PGO optimizations. One of the latest BOLT efforts has been on optimizing the Linux kernel image...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Facebook-BOLTing-The-Kernel",
           "publishedOn": "2021-09-25T13:20:47.000Z",
-          "wordCount": 850,
+          "wordCount": 797,
           "title": "Facebook Has Been Working On BOLT'ing The Linux Kernel For Greater Performance"
         },
         {
@@ -911,35 +948,8 @@
           "description": "Earlier this month Intel engineers posted their initial Linux kernel enablement around x86 User Interrupts with this feature premiering with Xeon \"Sapphire Rapids\" CPUs. As implied by the name, the User Interrupt functionality allows for interrupts to bypass the kernel for more efficient, low-latency, low-utilization interrupts being received by other user-space tasks. Intel talked more about User Interrupts this week at LPC2021...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Intel-x86-User-Interrupts-LPC",
           "publishedOn": "2021-09-25T12:32:10.000Z",
-          "wordCount": 854,
+          "wordCount": 801,
           "title": "Intel's User Interrupts With Sapphire Rapids Looking Quite Great For Faster IPC"
-        },
-        {
-          "id": "https://www.phoronix.com/scan.php?page=news_item&px=OpenZFS-2.0.6-Released",
-          "author": null,
-          "description": "While the OpenZFS 2.1 feature release has been available since July, for those still using the OpenZFS 2.0.x series and not yet prepared to make the jump to that big new release with dRAID and other changes, OpenZFS 2.0.6 was released this week...",
-          "link": "https://www.phoronix.com/scan.php?page=news_item&px=OpenZFS-2.0.6-Released",
-          "publishedOn": "2021-09-25T10:23:00.000Z",
-          "wordCount": 687,
-          "title": "OpenZFS 2.0.6 Released With Support For Newer Kernels"
-        },
-        {
-          "id": "https://www.phoronix.com/scan.php?page=news_item&px=Wine-Staging-6.18",
-          "author": null,
-          "description": "Building off yesterday's Wine 6.18 development release is now the next Wine-Staging installment that has more than six hundred extra patches on top...",
-          "link": "https://www.phoronix.com/scan.php?page=news_item&px=Wine-Staging-6.18",
-          "publishedOn": "2021-09-25T09:52:15.000Z",
-          "wordCount": 716,
-          "title": "Wine-Staging 6.18 Released With 616 Patches Atop Upstream"
-        },
-        {
-          "id": "https://www.phoronix.com/scan.php?page=news_item&px=XWayland-sRGB-Support",
-          "author": null,
-          "description": "Another item is now crossed off the XWayland TODO list with OpenGL sRGB support wired up...",
-          "link": "https://www.phoronix.com/scan.php?page=news_item&px=XWayland-sRGB-Support",
-          "publishedOn": "2021-09-25T07:00:00.000Z",
-          "wordCount": 769,
-          "title": "XWayland GLX Path Enables sRGB Support"
         }
       ]
     },
@@ -1220,6 +1230,15 @@
       "siteUrl": "https://grafana.com/blog/",
       "articles": [
         {
+          "id": "https://grafana.com/blog/2021/09/29/the-u.s.-department-of-defense-formally-authorizes-grafana-grafana-enterprise-and-loki-for-its-100000-developers/",
+          "author": null,
+          "description": "Not so long ago, development teams working for the U.S. Department of Defense could take anywhere from three to ten years to deliver software. “It was mostly teams using waterfall, no minimum viable product, no incremental delivery, and no feedback loop from end users,” Nicolas M. Chaillan, Chief Software Officer of the U.S. Air Force, said in a CNCF case study. “Particularly when it comes to AI, machine learning, and cybersecurity, everyone realized we have to move faster.”\nSo in 2018, the DoD launched the Enterprise DevSecOps Initiative to modernize DoD software development in order to deliver secure, resilient applications “at the speed of relevance.” The initiative included a mandate to use Kubernetes container orchestration and other open source technologies and the establishment of Iron Bank, a rigorously vetted repository of digitally signed, hardened container images for best-of-breed development tools and software capabilities.\nToday, we’re pleased to announce that Grafana, Grafana Enterprise, and Grafana Loki have received formal authorization from Iron Bank, which allows the 100,000 employees and contractors working on Department of Defense software, both classified and unclassified, to easily select and immediately deploy our software without additional approvals and security certifications. Prometheus, the CNCF monitoring project that Grafana Labs heavily contributes to, has also been authorized by Iron Bank.\n“DoD teams need the best tools to build critical applications better and faster,” said Chaillan. “Grafana is a critical option for our developers as a unique visualization and dashboarding capability. Its interoperability with a multitude of data sources is crucial for the DoD; we’re one of the largest organizations on the planet, and we know that one size doesn’t fit all. Iron Bank authorization for Grafana, Prometheus, and Loki gives our teams instant access to powerful observability tools that are essential for keeping DoD software running reliably and having the right insights.”",
+          "link": "https://grafana.com/blog/2021/09/29/the-u.s.-department-of-defense-formally-authorizes-grafana-grafana-enterprise-and-loki-for-its-100000-developers/",
+          "publishedOn": "2021-09-29T00:00:00.000Z",
+          "wordCount": 1022,
+          "title": "The U.S. Department of Defense formally authorizes Grafana, Grafana Enterprise, and Loki for its 100,000 developers"
+        },
+        {
           "id": "https://grafana.com/blog/2021/09/28/with-the-salesforce-plugin-for-grafana-easily-visualize-your-sfdc-data-and-correlate-it-with-other-data-sources/",
           "author": null,
           "description": "Good news for Salesforce users: With the new Salesforce plugin for Grafana, available now with an Enterprise license, you can instantly visualize your SFDC data in Grafana dashboards.\nPlus, Grafana allows you to visualize the Salesforce data alongside all sorts of other data. One interesting use case is correlating sales data to system metrics and logs, which would be valuable if your company uses any software systems at all to help generate revenue.\nWhen we think of observing systems, no matter how complex they get, we are ultimately trying to maximize one of two levers: increase revenue or decrease costs. Salesforce is the ultimate tool for describing the revenue pipeline. With the Salesforce plugin for Grafana, you can bring observability to your sales pipeline.\nWhy correlate sales data…",
@@ -1299,15 +1318,6 @@
           "publishedOn": "2021-09-15T00:00:00.000Z",
           "wordCount": 1490,
           "title": "How the new Datadog plugin enhancements extend interoperability for our customers"
-        },
-        {
-          "id": "https://grafana.com/blog/2021/09/14/whats-new-in-grafana-cloud-for-september-2021-new-panels-query-caching-synthetic-monitoring-updates-and-more/",
-          "author": null,
-          "description": "Here at Grafana, we’re constantly shipping new features to help our users get the most out of Grafana Cloud. Over the last few months, we’ve made it even easier to get started with out-of-the-box dashboards and new visualizations in Grafana Cloud. We also introduced capabilities like query caching, a “prettify JSON” option and commands for cortex-tools to make your data, dashboards, and queries more efficient. Finally we’ve added new ways to customize your Grafana Cloud experience with improved reporting, synthetic monitoring and more.  \nGet started with Grafana Cloud: If you’re not already familiar with it, Grafana Cloud is the easiest way to get started observing metrics (Prometheus and Graphite), logs (Grafana Loki), traces (Grafana Tempo), and dashboards. We have free and paid Grafana …",
-          "link": "https://grafana.com/blog/2021/09/14/whats-new-in-grafana-cloud-for-september-2021-new-panels-query-caching-synthetic-monitoring-updates-and-more/",
-          "publishedOn": "2021-09-14T00:00:00.000Z",
-          "wordCount": 2100,
-          "title": "What's new in Grafana Cloud for September 2021: New panels, query caching, synthetic monitoring updates, and more"
         }
       ]
     },
