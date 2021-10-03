@@ -1,15 +1,137 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-03T00:01:21.110Z</id>
+    <id>urn:2021-10-03T08:01:04.225Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-03T00:01:21.110Z</updated>
+    <updated>2021-10-03T08:01:04.225Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Two Weeks Later: Finding and Eliminating Long Tail Latencies]]></title>
-        <id>https://blog.cloudflare.com/two-weeks-later-finding-and-eliminating-long-tail-latencies/</id>
-        <link href="https://blog.cloudflare.com/two-weeks-later-finding-and-eliminating-long-tail-latencies/"/>
-        <updated>2021-10-02T23:29:26.000Z</updated>
+        <title type="html"><![CDATA[DevOps’ish 237: The week before KubeCon, special announcement this week, Slack DNS issues, HTTPS is everywhere, Competitive Compatibility, PostgreSQL 14, Kube-fledged, and more]]></title>
+        <id>https://kill-the-newsletter.com/alternates/snaqp42kzqba718i.html</id>
+        <link href="https://kill-the-newsletter.com/alternates/snaqp42kzqba718i.html"/>
+        <updated>2021-10-03T07:16:03.000Z</updated>
+        <summary type="html"><![CDATA[* { font-family: sans-serif !important; }
+        
+    
+
+    
+        /* Box sizing. Gets decent support. */
+        
+        *,
+        *:after,
+        *:before {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        /* Prevents small text resizing. */
+        
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        /* Basic reset. Removes default spacing around emails in various clients.  */
+        
+        html,
+        body,
+        .document {
+            width: 100% !important;
+            height: 100% !important;
+            margin: 0;
+            padding: 0;
+        }
+        /* Improves text rendering when supported. */
+        
+        b…]]></summary>
+        <author>
+            <name>DevOps'ish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stacker (YC S20) Is Hiring Across Engineering]]></title>
+        <id>https://www.stackerhq.com/careers#job-listing</id>
+        <link href="https://www.stackerhq.com/careers#job-listing"/>
+        <updated>2021-10-03T07:00:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R, OpenMP, MKL, Disaster]]></title>
+        <id>https://www.jyotirmoy.net/posts/2021-10-03-r-mkl-openmp.html</id>
+        <link href="https://www.jyotirmoy.net/posts/2021-10-03-r-mkl-openmp.html"/>
+        <updated>2021-10-03T06:03:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fastest Path to the CEO Job, According to a 10-Year Study (2018)]]></title>
+        <id>https://hbr.org/2018/01/the-fastest-path-to-the-ceo-job-according-to-a-10-year-study</id>
+        <link href="https://hbr.org/2018/01/the-fastest-path-to-the-ceo-job-according-to-a-10-year-study"/>
+        <updated>2021-10-03T05:48:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Americans Have No Idea What the Supply Chain Is]]></title>
+        <id>https://www.theatlantic.com/technology/archive/2021/09/pandemic-supply-chain-nightmare-slow-shipping/620147/</id>
+        <link href="https://www.theatlantic.com/technology/archive/2021/09/pandemic-supply-chain-nightmare-slow-shipping/620147/"/>
+        <updated>2021-10-03T05:22:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paracetamol use during pregnancy – a call for precautionary action]]></title>
+        <id>https://www.nature.com/articles/s41574-021-00553-7</id>
+        <link href="https://www.nature.com/articles/s41574-021-00553-7"/>
+        <updated>2021-10-03T04:54:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HelloSystem 0.6.0]]></title>
+        <id>https://github.com/helloSystem/ISO/releases/tag/r0.6.0</id>
+        <link href="https://github.com/helloSystem/ISO/releases/tag/r0.6.0"/>
+        <updated>2021-10-03T01:57:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beware Centralization]]></title>
+        <id>https://www.overcomingbias.com/2021/10/beware-centralization.html</id>
+        <link href="https://www.overcomingbias.com/2021/10/beware-centralization.html"/>
+        <updated>2021-10-03T01:05:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If your MacBook Pro shows high % CPU, try charging on the right and not the left (2019)]]></title>
+        <id>https://apple.stackexchange.com/a/363933</id>
+        <link href="https://apple.stackexchange.com/a/363933"/>
+        <updated>2021-10-03T00:33:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Building with Nix on Replit]]></title>
+        <id>https://docs.replit.com/tutorials/30-build-with-nix</id>
+        <link href="https://docs.replit.com/tutorials/30-build-with-nix"/>
+        <updated>2021-10-02T23:34:28.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -26,10 +148,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In America’s Next War, Machines Will Do the Thinking]]></title>
-        <id>https://www.bloombergquint.com/gadfly/ai-machines-will-do-the-thinking-in-the-next-u-s-war</id>
-        <link href="https://www.bloombergquint.com/gadfly/ai-machines-will-do-the-thinking-in-the-next-u-s-war"/>
-        <updated>2021-10-02T22:28:24.000Z</updated>
+        <title type="html"><![CDATA[Rewriting Go source code with AST tooling]]></title>
+        <id>https://eli.thegreenplace.net/2021/rewriting-go-source-code-with-ast-tooling/</id>
+        <link href="https://eli.thegreenplace.net/2021/rewriting-go-source-code-with-ast-tooling/"/>
+        <updated>2021-10-02T22:10:01.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -56,40 +178,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Paperspace (YC W15) is hiring Engineers to build a modern MLOps platform]]></title>
-        <id>https://www.paperspace.com/careers#open-positions</id>
-        <link href="https://www.paperspace.com/careers#open-positions"/>
-        <updated>2021-10-02T21:00:01.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Is Hacking the Next Struggle for Agriculture?]]></title>
         <id>https://www.agweek.com/opinion/columns/7205478-Is-hacking-the-next-struggle-for-agriculture</id>
         <link href="https://www.agweek.com/opinion/columns/7205478-Is-hacking-the-next-struggle-for-agriculture"/>
         <updated>2021-10-02T20:22:21.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Traces of 122 different pesticides in 12 most polluted fruit and veg products]]></title>
-        <id>https://www.theguardian.com/environment/2021/sep/29/cocktail-pesticides-almost-all-oranges-grapes-uk-study</id>
-        <link href="https://www.theguardian.com/environment/2021/sep/29/cocktail-pesticides-almost-all-oranges-grapes-uk-study"/>
-        <updated>2021-10-02T20:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honda prepping AI robots electric air travel and lunar technology for 2030]]></title>
-        <id>https://www.zdnet.com/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/</id>
-        <link href="https://www.zdnet.com/article/honda-prepping-ai-robots-inter-city-electric-air-travel-and-lunar-technology-for-2030/"/>
-        <updated>2021-10-02T20:07:34.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -136,26 +228,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: AirSS is a web-based feed reader that put your privacy first]]></title>
-        <id>https://airss.roastidio.us/</id>
-        <link href="https://airss.roastidio.us/"/>
-        <updated>2021-10-02T18:07:05.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Completely different languages tend to group colors in roughly the same way]]></title>
-        <id>https://www.hearingreview.com/inside-hearing/research/color</id>
-        <link href="https://www.hearingreview.com/inside-hearing/research/color"/>
-        <updated>2021-10-02T18:01:27.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intel oneAPI 2021.4 Released With More Optimizations, Continues LLVM Adoption]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-oneAPI-2021.4</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-oneAPI-2021.4"/>
@@ -163,26 +235,6 @@
         <summary type="html"><![CDATA[Intel on Friday formally released their oneAPI Toolkits 2021.4 release as the latest collection of their various software components for a multi-vendor, multi-architecture software platform across CPUs and XPUs (GPUs / accelerators)...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There’s a Multibillion-Dollar Market for Your Phone’s Location Data]]></title>
-        <id>https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data?via=biztoc.com</id>
-        <link href="https://themarkup.org/privacy/2021/09/30/theres-a-multibillion-dollar-market-for-your-phones-location-data?via=biztoc.com"/>
-        <updated>2021-10-02T17:53:53.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Brain-cleaning sleeping cap gets US Army funding]]></title>
-        <id>https://newatlas.com/science/brain-cleaning-skullcap-sleep-glymphatic-system-us-army/</id>
-        <link href="https://newatlas.com/science/brain-cleaning-skullcap-sleep-glymphatic-system-us-army/"/>
-        <updated>2021-10-02T17:38:52.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -216,16 +268,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Carmakers Can’t Transition to Newer Chips]]></title>
-        <id>https://jalopnik.com/i-asked-experts-why-carmakers-cant-just-transition-to-n-1847739665</id>
-        <link href="https://jalopnik.com/i-asked-experts-why-carmakers-cant-just-transition-to-n-1847739665"/>
-        <updated>2021-10-02T14:45:30.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Two Weeks Later: Finding and Eliminating Long Tail Latencies]]></title>
         <id>615787a32d69dd02a8a9b507</id>
         <link href="https://blog.cloudflare.com/two-weeks-later-finding-and-eliminating-long-tail-latencies/"/>
@@ -233,16 +275,6 @@
         <summary type="html"><![CDATA[A little over two weeks ago, we shared extensive benchmarking results of edge networks around the world, and made a commitment that we would improve in 10% of networks where we were not #1.]]></summary>
         <author>
             <name>Simona Pop</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DroneSploit – A pentesting console framework dedicated to drones]]></title>
-        <id>https://github.com/dhondta/dronesploit</id>
-        <link href="https://github.com/dhondta/dronesploit"/>
-        <updated>2021-10-02T14:34:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -256,50 +288,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Before General Magic there was Paradigm (2018)]]></title>
-        <id>http://joshcarter.com/magic_cap/paradigm_concept_book/</id>
-        <link href="http://joshcarter.com/magic_cap/paradigm_concept_book/"/>
-        <updated>2021-10-02T12:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Wayforward Machine]]></title>
-        <id>https://wayforward.archive.org</id>
-        <link href="https://wayforward.archive.org"/>
-        <updated>2021-10-02T12:35:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clubhouse needs creators, but creators need cash]]></title>
-        <id>https://www.theverge.com/2021/9/28/22696403/clubhouse-creators-first-sponsorship-program</id>
-        <link href="https://www.theverge.com/2021/9/28/22696403/clubhouse-creators-first-sponsorship-program"/>
-        <updated>2021-10-02T12:02:09.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vector Databases]]></title>
-        <id>https://dmitry-kan.medium.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696</id>
-        <link href="https://dmitry-kan.medium.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696"/>
-        <updated>2021-10-02T11:44:50.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[End of the line for Japan's only all-double-decker 'Max' E4 series bullet train]]></title>
-        <id>https://mainichi.jp/english/articles/20210930/p2a/00m/0bu/024000c</id>
-        <link href="https://mainichi.jp/english/articles/20210930/p2a/00m/0bu/024000c"/>
-        <updated>2021-10-02T10:11:36.000Z</updated>
+        <title type="html"><![CDATA[Ransomware gangs are complaining that other crooks are stealing their ransoms]]></title>
+        <id>https://www.zdnet.com/article/these-ransomware-crooks-are-complaining-they-are-getting-ripped-off-by-other-ransomware-crooks/</id>
+        <link href="https://www.zdnet.com/article/these-ransomware-crooks-are-complaining-they-are-getting-ripped-off-by-other-ransomware-crooks/"/>
+        <updated>2021-10-02T12:40:50.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -326,20 +318,30 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Archivematica: Open-source digital preservation system]]></title>
-        <id>https://www.archivematica.org/en/</id>
-        <link href="https://www.archivematica.org/en/"/>
-        <updated>2021-10-02T09:10:59.000Z</updated>
+        <title type="html"><![CDATA[Are You Hydro-Phobic? Watering houseplants is a nightmare, admit it]]></title>
+        <id>https://dirtwise.substack.com/p/are-you-hydro-phobic</id>
+        <link href="https://dirtwise.substack.com/p/are-you-hydro-phobic"/>
+        <updated>2021-10-02T09:14:22.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Meet The Extropians (1994)]]></title>
-        <id>https://www.wired.com/1994/10/extropians/</id>
-        <link href="https://www.wired.com/1994/10/extropians/"/>
-        <updated>2021-10-02T07:26:00.000Z</updated>
+        <title type="html"><![CDATA[Ligne Claire]]></title>
+        <id>https://en.wikipedia.org/wiki/Ligne_claire</id>
+        <link href="https://en.wikipedia.org/wiki/Ligne_claire"/>
+        <updated>2021-10-02T08:10:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Making of Donkey Kong 64 (2019)]]></title>
+        <id>https://www.gamesradar.com/making-of-donkey-kong-64/</id>
+        <link href="https://www.gamesradar.com/making-of-donkey-kong-64/"/>
+        <updated>2021-10-02T07:57:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -366,6 +368,36 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[iPhone 13 teardown and repair assessment [video]]]></title>
+        <id>https://www.youtube.com/watch?v=8s7NmMl_-yg</id>
+        <link href="https://www.youtube.com/watch?v=8s7NmMl_-yg"/>
+        <updated>2021-10-02T04:28:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Gradual Discovery of Glasses]]></title>
+        <id>https://www.laphamsquarterly.org/roundtable/gradual-discovery-glasses</id>
+        <link href="https://www.laphamsquarterly.org/roundtable/gradual-discovery-glasses"/>
+        <updated>2021-10-02T04:22:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chicken and Egg Problems of the Platform]]></title>
+        <id>https://www.joelonsoftware.com/2000/05/24/strategy-letter-ii-chicken-and-egg-problems/</id>
+        <link href="https://www.joelonsoftware.com/2000/05/24/strategy-letter-ii-chicken-and-egg-problems/"/>
+        <updated>2021-10-02T01:03:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Nearly Two Decades Later, ATI Radeon R300 Linux Driver Sees Occasional Improvement]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=R300-Friday-Night-2021</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=R300-Friday-Night-2021"/>
@@ -373,6 +405,16 @@
         <summary type="html"><![CDATA[While earlier this year AMD shifted their Radeon Software driver focus to only supporting Polaris / GCN 1.4 and newer, when it comes to the open-source driver support on Linux there still is occasional activity going back to the ATI Radeon R300 days from nearly two decades ago...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beyond small talk: Study finds people enjoy deep conversations with strangers]]></title>
+        <id>https://phys.org/news/2021-09-small-people-deep-conversations-strangers.html</id>
+        <link href="https://phys.org/news/2021-09-small-people-deep-conversations-strangers.html"/>
+        <updated>2021-10-01T21:14:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -2038,16 +2080,6 @@ I didn’t have a hand in designing the AWS SIGv4 protocol so hopefully it’s n
         <summary type="html"><![CDATA[At AWS re:Invent 2020, we preannounced new deployment options of Amazon Elastic Container Service (Amazon ECS) Anywhere and Amazon Elastic Kubernetes Service (Amazon EKS) Anywhere in your own data center. Today, I am happy to announce the general availability of Amazon EKS Anywhere, a deployment option for Amazon EKS that enables you to easily create […]]]></summary>
         <author>
             <name>Channy Yun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Decoding the Social Effects Of Media with Machine Learning]]></title>
-        <id>2c845d4a4cf1093ef98aefca06818fc77382f5a6</id>
-        <link href="https://aws.amazon.com/blogs/aws/decoding-the-social-effects-of-media-with-machine-learning/"/>
-        <updated>2021-09-03T16:30:42.000Z</updated>
-        <summary type="html"><![CDATA[What if media were optimized to benefit people? This thought-provoking question is at the core of Harmony Labs‘ mission. A nonprofit organization headquartered in New York City, Harmony Labs strives to better understand the impact of media on society, and build communities and tools to reform and transform media systems. As Brian Wanieswki, Executive Director […]]]></summary>
-        <author>
-            <name>Julien Simon</name>
         </author>
     </entry>
 </feed>
