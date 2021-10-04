@@ -1,15 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-04T00:01:08.484Z</id>
+    <id>urn:2021-10-04T08:00:56.238Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-04T00:01:08.484Z</updated>
+    <updated>2021-10-04T08:00:56.238Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[The FB Whistleblower, Frances Haugen, Says She Wants to Fix Company, Not Harm It]]></title>
-        <id>https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122</id>
-        <link href="https://www.wsj.com/articles/facebook-whistleblower-frances-haugen-says-she-wants-to-fix-the-company-not-harm-it-11633304122"/>
-        <updated>2021-10-03T23:40:33.000Z</updated>
+        <title type="html"><![CDATA[Raycast (YC W20) Is Hiring Product Designers]]></title>
+        <id>https://www.raycast.com/jobs/product-designer</id>
+        <link href="https://www.raycast.com/jobs/product-designer"/>
+        <updated>2021-10-04T07:00:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It takes a PhD to develop that]]></title>
+        <id>https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/</id>
+        <link href="https://blog.royalsloth.eu/posts/it-takes-a-phd-to-develop-that/"/>
+        <updated>2021-10-04T06:27:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Was a Facebook Fact-Checker (2019)]]></title>
+        <id>https://www.buzzfeednews.com/article/brookebinkowski/fact-checking-facebook-doomed</id>
+        <link href="https://www.buzzfeednews.com/article/brookebinkowski/fact-checking-facebook-doomed"/>
+        <updated>2021-10-04T05:04:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BepiColombo’s First Views of Mercury]]></title>
+        <id>https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_s_first_views_of_Mercury</id>
+        <link href="https://www.esa.int/Science_Exploration/Space_Science/BepiColombo/BepiColombo_s_first_views_of_Mercury"/>
+        <updated>2021-10-04T04:57:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Honest Look at Urbit]]></title>
+        <id>https://jayriverlong.substack.com/p/36-an-honest-look-at-urbit</id>
+        <link href="https://jayriverlong.substack.com/p/36-an-honest-look-at-urbit"/>
+        <updated>2021-10-04T03:00:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Python 3.11]]></title>
+        <id>https://docs.python.org/3.11/whatsnew/changelog.html#changelog</id>
+        <link href="https://docs.python.org/3.11/whatsnew/changelog.html#changelog"/>
+        <updated>2021-10-04T01:27:55.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -48,10 +98,10 @@ set_fs() and its removal.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: A curated list of PaaS and tools to emulate PaaS on cloud]]></title>
-        <id>https://github.com/debarshibasak/awesome-paas</id>
-        <link href="https://github.com/debarshibasak/awesome-paas"/>
-        <updated>2021-10-03T22:36:14.000Z</updated>
+        <title type="html"><![CDATA[Characterization of bacteria and fungi associated with the ISS' surfaces]]></title>
+        <id>https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x</id>
+        <link href="https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-019-0666-x"/>
+        <updated>2021-10-03T22:10:05.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -93,20 +143,20 @@ These blog posts will therefore present approaches ranging upwards from trivial 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sirum (YC Nonprofit) Is Hiring Mission-Driven Founding Engineers]]></title>
-        <id>https://news.ycombinator.com/item?id=28740459</id>
-        <link href="https://news.ycombinator.com/item?id=28740459"/>
-        <updated>2021-10-03T21:00:15.000Z</updated>
+        <title type="html"><![CDATA[E-Ink Magic Calendar that runs off a battery powered Raspberry Pi]]></title>
+        <id>https://github.com/speedyg0nz/MagInkCal</id>
+        <link href="https://github.com/speedyg0nz/MagInkCal"/>
+        <updated>2021-10-03T20:59:25.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[E-Ink Magic Calendar that runs off a battery powered Raspberry Pi]]></title>
-        <id>https://github.com/speedyg0nz/MagInkCal</id>
-        <link href="https://github.com/speedyg0nz/MagInkCal"/>
-        <updated>2021-10-03T20:59:25.000Z</updated>
+        <title type="html"><![CDATA[Faster Maven Builds]]></title>
+        <id>https://blog.frankel.ch/faster-maven-builds/1/</id>
+        <link href="https://blog.frankel.ch/faster-maven-builds/1/"/>
+        <updated>2021-10-03T20:44:48.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -123,10 +173,10 @@ These blog posts will therefore present approaches ranging upwards from trivial 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Research AI – AI Writing Assistant]]></title>
-        <id>https://researchai.co</id>
-        <link href="https://researchai.co"/>
-        <updated>2021-10-03T18:56:39.000Z</updated>
+        <title type="html"><![CDATA[The Nernst Lamp]]></title>
+        <id>https://edisontechcenter.org/NernstLamps.html</id>
+        <link href="https://edisontechcenter.org/NernstLamps.html"/>
+        <updated>2021-10-03T18:54:46.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -183,16 +233,6 @@ These blog posts will therefore present approaches ranging upwards from trivial 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Finally, on CBS, the football matches the business cards]]></title>
-        <id>https://www.ological.net/finally-on-cbs-the-football-matches-the-business-cards/</id>
-        <link href="https://www.ological.net/finally-on-cbs-the-football-matches-the-business-cards/"/>
-        <updated>2021-10-03T16:32:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show HN: SpotML – Managed ML Training on Cheap AWS/GCP Spot Instances]]></title>
         <id>https://spotml.io/</id>
         <link href="https://spotml.io/"/>
@@ -217,46 +257,6 @@ These blog posts will therefore present approaches ranging upwards from trivial 
         <id>https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/</id>
         <link href="https://lemire.me/blog/2021/10/03/word-aligned-bloom-filters/"/>
         <updated>2021-10-03T15:26:52.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Futurecoder – A free online interactive Python course]]></title>
-        <id>https://futurecoder.io/</id>
-        <link href="https://futurecoder.io/"/>
-        <updated>2021-10-03T15:10:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DARPA's hypersonic scramjet achieves successful flight]]></title>
-        <id>https://www.darpa.mil/news-events/2021-09-27</id>
-        <link href="https://www.darpa.mil/news-events/2021-09-27"/>
-        <updated>2021-10-03T15:08:41.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Double-Odd Elliptic Curves]]></title>
-        <id>https://doubleodd.group/front.html</id>
-        <link href="https://doubleodd.group/front.html"/>
-        <updated>2021-10-03T13:18:09.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paradoxical Compression with VDF]]></title>
-        <id>https://github.com/pornin/paradox-compress</id>
-        <link href="https://github.com/pornin/paradox-compress"/>
-        <updated>2021-10-03T13:16:46.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -290,6 +290,16 @@ These blog posts will therefore present approaches ranging upwards from trivial 
         <summary type="html"><![CDATA[While Intel Xeon "Sapphire Rapids" processors with Advanced Matrix Extensions are set for a Q2'22 ramp in production, one of the key new features that has yet to be properly plumbed in the mainline Linux kernel is for supporting AMX...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Watering and draining planets – math and data]]></title>
+        <id>https://ahstat.github.io/Topography/</id>
+        <link href="https://ahstat.github.io/Topography/"/>
+        <updated>2021-10-03T12:03:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -397,6 +407,26 @@ https://medium.com/geekculture/expanding-the-observable-universe-o…]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Act of Smelling]]></title>
+        <id>https://believermag.com/jude-stewart-act-of-smelling/</id>
+        <link href="https://believermag.com/jude-stewart-act-of-smelling/"/>
+        <updated>2021-10-03T04:10:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Computer in the Game of Life (2020)]]></title>
+        <id>https://hackaday.com/2020/11/21/a-computer-in-the-game-of-life/</id>
+        <link href="https://hackaday.com/2020/11/21/a-computer-in-the-game-of-life/"/>
+        <updated>2021-10-03T03:31:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[OpenBLAS 0.3.18 Released With LoongArch64 Support, More Optimizations]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenBLAS-0.3.18-Released</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenBLAS-0.3.18-Released"/>
@@ -437,30 +467,30 @@ https://medium.com/geekculture/expanding-the-observable-universe-o…]]></summar
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Classic on NextGen: AmigaOS 3.2 on AmigaOS 4.1 [video]]]></title>
+        <id>https://www.youtube.com/watch?v=Yq__c-9bg70</id>
+        <link href="https://www.youtube.com/watch?v=Yq__c-9bg70"/>
+        <updated>2021-10-02T14:01:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hiawatha Webserver]]></title>
+        <id>https://www.hiawatha-webserver.org/</id>
+        <link href="https://www.hiawatha-webserver.org/"/>
+        <updated>2021-10-02T12:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Riesz Proves the Riesz Representation Theorem]]></title>
         <id>http://nonagon.org/ExLibris/riesz-proves-riesz-representation-theorem</id>
         <link href="http://nonagon.org/ExLibris/riesz-proves-riesz-representation-theorem"/>
         <updated>2021-10-02T11:27:21.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mysterious Stone Orbs Stashed All over Neolithic Britain]]></title>
-        <id>https://www.atlasobscura.com/articles/mysterious-neolithic-stone-balls</id>
-        <link href="https://www.atlasobscura.com/articles/mysterious-neolithic-stone-balls"/>
-        <updated>2021-10-02T11:26:36.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dune: A Shell by the Beach]]></title>
-        <id>https://github.com/adam-mcdaniel/dune</id>
-        <link href="https://github.com/adam-mcdaniel/dune"/>
-        <updated>2021-10-02T10:50:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -484,26 +514,6 @@ https://medium.com/geekculture/expanding-the-observable-universe-o…]]></summar
         <summary type="html"><![CDATA[Plasma 5.23 stable is due to be released in two weeks while until then KDE developers are scurrying to land more fixes in this next desktop update...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mt32-pi: A baremetal Roland MT-32 emulator]]></title>
-        <id>https://github.com/dwhinham/mt32-pi</id>
-        <link href="https://github.com/dwhinham/mt32-pi"/>
-        <updated>2021-10-02T08:41:12.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[X-rays reveal censored portions of Marie Antoinette’s letters to Swedish count]]></title>
-        <id>https://arstechnica.com/science/2021/10/x-rays-reveal-censored-portions-of-marie-antoinettes-letters-to-swedish-count/</id>
-        <link href="https://arstechnica.com/science/2021/10/x-rays-reveal-censored-portions-of-marie-antoinettes-letters-to-swedish-count/"/>
-        <updated>2021-10-02T06:25:42.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -626,16 +636,6 @@ moving to a forge can bring a number of advantages.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How much information can a small image contain?]]></title>
-        <id>https://www.camerongordon.site/post/how-much-information-can-a-small-image-contain</id>
-        <link href="https://www.camerongordon.site/post/how-much-information-can-a-small-image-contain"/>
-        <updated>2021-10-01T09:16:26.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Proton Experimental Enables NVIDIA DLSS For D3D12 Games, Proton Now Handles More Games]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Proton-6.3-7-Plus-DLSS-Exp</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Proton-6.3-7-Plus-DLSS-Exp"/>
@@ -646,10 +646,10 @@ moving to a forge can bring a number of advantages.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data-Driven Routers]]></title>
-        <id>https://cljdoc.org/d/metosin/reitit/0.5.15/doc/introduction</id>
-        <link href="https://cljdoc.org/d/metosin/reitit/0.5.15/doc/introduction"/>
-        <updated>2021-10-01T06:42:31.000Z</updated>
+        <title type="html"><![CDATA[Show HN: Smallest and fastest command-line coloring library on the internet]]></title>
+        <id>https://github.com/sindresorhus/yoctocolors</id>
+        <link href="https://github.com/sindresorhus/yoctocolors"/>
+        <updated>2021-10-01T08:31:44.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
