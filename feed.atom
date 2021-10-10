@@ -1,25 +1,336 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-10T08:00:49.323Z</id>
+    <id>urn:2021-10-10T16:00:42.398Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-10T08:00:49.323Z</updated>
+    <updated>2021-10-10T16:00:42.398Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Happiness in early adulthood may protect against dementia]]></title>
-        <id>https://www.ucsf.edu/news/2021/09/421506/happiness-early-adulthood-may-protect-against-dementia</id>
-        <link href="https://www.ucsf.edu/news/2021/09/421506/happiness-early-adulthood-may-protect-against-dementia"/>
-        <updated>2021-10-10T05:52:34.000Z</updated>
+        <title type="html"><![CDATA[DevOps’ish 238: Leaving Red Hat, KubeCon + CloudNativeCon L.A. 2021, Chainguard, BGP for you and me, Data on Kubernetes Report, and more]]></title>
+        <id>https://kill-the-newsletter.com/alternates/3dp20eiagh48wlm3.html</id>
+        <link href="https://kill-the-newsletter.com/alternates/3dp20eiagh48wlm3.html"/>
+        <updated>2021-10-10T15:48:05.000Z</updated>
+        <summary type="html"><![CDATA[* { font-family: sans-serif !important; }
+        
+    
+
+    
+        /* Box sizing. Gets decent support. */
+        
+        *,
+        *:after,
+        *:before {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        /* Prevents small text resizing. */
+        
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        /* Basic reset. Removes default spacing around emails in various clients.  */
+        
+        html,
+        body,
+        .document {
+            width: 100% !important;
+            height: 100% !important;
+            margin: 0;
+            padding: 0;
+        }
+        /* Improves text rendering when supported. */
+        
+        b…]]></summary>
+        <author>
+            <name>DevOps'ish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Understanding all of Python, through its builtins]]></title>
+        <id>https://sadh.life/post/builtins/</id>
+        <link href="https://sadh.life/post/builtins/"/>
+        <updated>2021-10-10T15:13:54.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Waterfox]]></title>
-        <id>https://www.waterfox.net/</id>
-        <link href="https://www.waterfox.net/"/>
-        <updated>2021-10-10T04:27:24.000Z</updated>
+        <title type="html"><![CDATA[Keybase Browser Extension Insecure]]></title>
+        <id>https://www.grepular.com/Keybase_Browser_Extension_Insecure</id>
+        <link href="https://www.grepular.com/Keybase_Browser_Extension_Insecure"/>
+        <updated>2021-10-10T15:13:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Programming PIC32 Microcontroller with Rust]]></title>
+        <id>https://gill.net.in/posts/pic32-blink-led-rust/</id>
+        <link href="https://gill.net.in/posts/pic32-blink-led-rust/"/>
+        <updated>2021-10-10T14:49:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I built a modern website in 2021]]></title>
+        <id>https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021</id>
+        <link href="https://kentcdodds.com/blog/how-i-built-a-modern-website-in-2021"/>
+        <updated>2021-10-10T14:47:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yet another try for fs-verity]]></title>
+        <id>https://lwn.net/Articles/790185/</id>
+        <link href="https://lwn.net/Articles/790185/"/>
+        <updated>2021-10-10T14:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Foreign money floods U.S. tax havens. Some of it is tainted]]></title>
+        <id>https://www.washingtonpost.com/business/interactive/2021/booming-us-tax-haven-industry/</id>
+        <link href="https://www.washingtonpost.com/business/interactive/2021/booming-us-tax-haven-industry/"/>
+        <updated>2021-10-10T14:20:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Using load shedding to avoid overload]]></title>
+        <id>https://aws.amazon.com/builders-library/using-load-shedding-to-avoid-overload/</id>
+        <link href="https://aws.amazon.com/builders-library/using-load-shedding-to-avoid-overload/"/>
+        <updated>2021-10-10T14:20:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How South Dakota has become a global tax haven]]></title>
+        <id>https://www.cnbc.com/2021/10/05/heres-how-states-like-south-dakota-have-become-global-tax-havens.html</id>
+        <link href="https://www.cnbc.com/2021/10/05/heres-how-states-like-south-dakota-have-become-global-tax-havens.html"/>
+        <updated>2021-10-10T13:57:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DOJ launches a plan to go after contractors that hide data breaches]]></title>
+        <id>https://www.protocol.com/bulletins/doj-cyber-fraud-initiative</id>
+        <link href="https://www.protocol.com/bulletins/doj-cyber-fraud-initiative"/>
+        <updated>2021-10-10T13:43:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloudflare Research: Two Years In]]></title>
+        <id>61614818966cdd02a833bad4</id>
+        <link href="https://blog.cloudflare.com/cloudflare-research-two-years-in/"/>
+        <updated>2021-10-10T12:57:40.000Z</updated>
+        <summary type="html"><![CDATA[What Cloudflare Research has been up to for the last two years.]]></summary>
+        <author>
+            <name>Nick Sullivan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Taming the BPF Superpowers]]></title>
+        <id>https://lwn.net/Articles/870269/</id>
+        <link href="https://lwn.net/Articles/870269/"/>
+        <updated>2021-10-10T12:13:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supabase (YC S20) Is Hiring SREs to Manage a Fleet of Postgres Databases]]></title>
+        <id>https://about.supabase.com/careers/sre</id>
+        <link href="https://about.supabase.com/careers/sre"/>
+        <updated>2021-10-10T12:00:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The latest campus cancellation is different]]></title>
+        <id>https://www.theatlantic.com/ideas/archive/2021/10/why-latest-campus-cancellation-different/620352/</id>
+        <link href="https://www.theatlantic.com/ideas/archive/2021/10/why-latest-campus-cancellation-different/620352/"/>
+        <updated>2021-10-10T11:59:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Development of Treatments for Diptheria]]></title>
+        <id>https://www.smithsonianmag.com/science/science-diphtheria-plague-among-children-180978572/</id>
+        <link href="https://www.smithsonianmag.com/science/science-diphtheria-plague-among-children-180978572/"/>
+        <updated>2021-10-10T11:36:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SerenityOS: Year 3 in Review]]></title>
+        <id>https://serenityos.org/happy/3rd/</id>
+        <link href="https://serenityos.org/happy/3rd/"/>
+        <updated>2021-10-10T11:31:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For software performance, can you always trust inlining?]]></title>
+        <id>https://lemire.me/blog/2021/10/09/for-software-performance-can-you-always-trust-inlining/</id>
+        <link href="https://lemire.me/blog/2021/10/09/for-software-performance-can-you-always-trust-inlining/"/>
+        <updated>2021-10-10T11:21:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kairos]]></title>
+        <id>https://en.wikipedia.org/wiki/Kairos</id>
+        <link href="https://en.wikipedia.org/wiki/Kairos"/>
+        <updated>2021-10-10T11:11:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nix-GUI: Make NixOS usable for non-technical users through settings / GUI]]></title>
+        <id>https://github.com/nix-gui/nix-gui</id>
+        <link href="https://github.com/nix-gui/nix-gui"/>
+        <updated>2021-10-10T11:09:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Contributing Tegra NVDEC Support To Linux 5.16]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-Tegra-Linux-5.16-NVDEC</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-Tegra-Linux-5.16-NVDEC"/>
+        <updated>2021-10-10T10:45:54.000Z</updated>
+        <summary type="html"><![CDATA[The Tegra DRM driver changes were sent out on Friday of the new material destined for Linux 5.16. Notable this time around is NVIDIA's NVDEC driver being included...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devops Weekly #563]]></title>
+        <id>https://kill-the-newsletter.com/alternates/bmdjktnht4yzz3r8.html</id>
+        <link href="https://kill-the-newsletter.com/alternates/bmdjktnht4yzz3r8.html"/>
+        <updated>2021-10-10T10:13:04.000Z</updated>
+        <summary type="html"><![CDATA[DEVOPS WEEKLY
+ISSUE #563 - 10th October 2021
+A couple of posts this week looking at the recent Accelerate State of Devops research, along with a few behind the scenes of Kubernetes (on dual stack networking and container attached storage) and other interesting posts on supply chain security.
+StackHawk sponsors Devops Weekly
+============================
+Did you know that one of the greatest application security risks is API security? Learn what API security testing is, how it works, and how you can implement it in CI/CD in this guide.
+https://sthwk.com/API-security
+News
+====
+Supply chain security is an increasingly important topic. This presentation explains why it’s important, with well explained recent examples and a breakdown of the SLSA framework for categorizing threats and related ope…]]></summary>
+        <author>
+            <name>Devops Weekly</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.15-rc5 x86 Changes Aim To Fix "Yet Another Hardware Trainwreck"]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-rc5-x86</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-rc5-x86"/>
+        <updated>2021-10-10T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sent in this morning were an urgent set of x86 updates for the Linux 5.15-rc5 kernel due out later today...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Attacked from Within (2009)]]></title>
+        <id>https://atdt.freeshell.org/k5/story_2009_3_12_33338_3000.html</id>
+        <link href="https://atdt.freeshell.org/k5/story_2009_3_12_33338_3000.html"/>
+        <updated>2021-10-10T09:57:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat Is Making It Easy To Run Bleeding-Edge LLVM/Clang On Fedora]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=LLVM-Daily-For-Fedora</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=LLVM-Daily-For-Fedora"/>
+        <updated>2021-10-10T09:53:28.000Z</updated>
+        <summary type="html"><![CDATA[Red Hat's Platform Tools team is making it very easy to run the very bleeding edge, development version of the LLVM toolchain and Clang compiler on the current versions of Fedora...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GraphSCAD – A User Friendly Nodal Editor for OpenSCAD (2018)]]></title>
+        <id>http://graphscad.blogspot.com/</id>
+        <link href="http://graphscad.blogspot.com/"/>
+        <updated>2021-10-10T09:42:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[M(57885161) verified as 48th Mersenne Prime]]></title>
+        <id>https://www.mersenne.org/</id>
+        <link href="https://www.mersenne.org/"/>
+        <updated>2021-10-10T09:26:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singularity – Microsoft’s Experimental OS]]></title>
+        <id>https://codingkaiser.blog/2021/07/23/operating-systems-are-more-exciting-than-you-think/</id>
+        <link href="https://codingkaiser.blog/2021/07/23/operating-systems-are-more-exciting-than-you-think/"/>
+        <updated>2021-10-10T08:51:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poincaré, Heisenberg, Gödel and the limits of scientific knowledge]]></title>
+        <id>https://arxiv.org/abs/1301.7036</id>
+        <link href="https://arxiv.org/abs/1301.7036"/>
+        <updated>2021-10-10T06:03:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Happiness in early adulthood may protect against dementia]]></title>
+        <id>https://www.ucsf.edu/news/2021/09/421506/happiness-early-adulthood-may-protect-against-dementia</id>
+        <link href="https://www.ucsf.edu/news/2021/09/421506/happiness-early-adulthood-may-protect-against-dementia"/>
+        <updated>2021-10-10T05:52:34.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -36,100 +347,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canada's 'gamble' on delaying, mixing and matching Covid-19 vaccines paid off]]></title>
-        <id>https://www.cbc.ca/news/health/canada-vaccine-effectiveness-data-delayed-doses-mixing-matching-covid-19-vaccines-1.6205993</id>
-        <link href="https://www.cbc.ca/news/health/canada-vaccine-effectiveness-data-delayed-doses-mixing-matching-covid-19-vaccines-1.6205993"/>
-        <updated>2021-10-10T04:17:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Incenser, or how NSA and GCHQ are tapping internet cables (2014)]]></title>
         <id>https://www.electrospaces.net/2014/11/incenser-or-how-nsa-and-gchq-are.html</id>
         <link href="https://www.electrospaces.net/2014/11/incenser-or-how-nsa-and-gchq-are.html"/>
         <updated>2021-10-10T03:28:19.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tinyprinter.club]]></title>
-        <id>https://tinyprinter.club/</id>
-        <link href="https://tinyprinter.club/"/>
-        <updated>2021-10-10T01:55:40.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook Recruiter Correspondence]]></title>
-        <id>https://george.mand.is/2021/10/facebook-recruiter-correspondence/</id>
-        <link href="https://george.mand.is/2021/10/facebook-recruiter-correspondence/"/>
-        <updated>2021-10-10T01:42:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)]]></title>
-        <id>https://news.ycombinator.com/item?id=28814844</id>
-        <link href="https://news.ycombinator.com/item?id=28814844"/>
-        <updated>2021-10-10T01:04:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[V-USB – A Firmware-Only USB Driver for Atmel AVR Microcontrollers]]></title>
-        <id>https://www.obdev.at/products/vusb/index.html</id>
-        <link href="https://www.obdev.at/products/vusb/index.html"/>
-        <updated>2021-10-10T00:16:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Len Sassaman and Satoshi: A cypherpunk history]]></title>
-        <id>https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10</id>
-        <link href="https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10"/>
-        <updated>2021-10-10T00:01:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blue light from monitors no danger to eyes or sleep]]></title>
-        <id>https://www.aerzteblatt.de/nachrichten/127272/Blaues-Licht-von-Monitoren-laut-Fachgesellschaft-keine-Gefahr-fuer-Augen-oder-Schlaf</id>
-        <link href="https://www.aerzteblatt.de/nachrichten/127272/Blaues-Licht-von-Monitoren-laut-Fachgesellschaft-keine-Gefahr-fuer-Augen-oder-Schlaf"/>
-        <updated>2021-10-09T23:56:49.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HN 15 Years ago]]></title>
-        <id>https://news.ycombinator.com/front?day=2006-10-09</id>
-        <link href="https://news.ycombinator.com/front?day=2006-10-09"/>
-        <updated>2021-10-09T23:41:54.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Python and Lua (2019)]]></title>
-        <id>https://brmmm3.github.io/posts/2019/07/28/python_and_lua/</id>
-        <link href="https://brmmm3.github.io/posts/2019/07/28/python_and_lua/"/>
-        <updated>2021-10-09T23:04:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -143,86 +364,6 @@
         <summary type="html"><![CDATA[IBM engineer Pratik Sampat published an early prototype of a CPU namespace interface for the Linux kernel. This CPU namespace was devised to address coherency issues with current means of viewing available CPU resources as well as addressing possible security issues stemming from understanding resource access/positioning on the system...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Mind Has No Firewall (1998) [pdf]]]></title>
-        <id>https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=1871&amp;context=parameters</id>
-        <link href="https://press.armywarcollege.edu/cgi/viewcontent.cgi?article=1871&amp;context=parameters"/>
-        <updated>2021-10-09T21:14:41.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Did Satoshi Decide to Use Secp256k1 Instead of Secp256r1?]]></title>
-        <id>https://dappworks.com/why-did-satoshi-decide-to-use-secp256k1-instead-of-secp256r1/</id>
-        <link href="https://dappworks.com/why-did-satoshi-decide-to-use-secp256k1-instead-of-secp256r1/"/>
-        <updated>2021-10-09T21:05:19.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook's own data is not as conclusive about teens and mental health]]></title>
-        <id>https://www.npr.org/2021/10/06/1043138622/facebook-instagram-teens-mental-health</id>
-        <link href="https://www.npr.org/2021/10/06/1043138622/facebook-instagram-teens-mental-health"/>
-        <updated>2021-10-09T20:35:09.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soupault is a tool that helps you create and manage static websites]]></title>
-        <id>https://soupault.app/</id>
-        <link href="https://soupault.app/"/>
-        <updated>2021-10-09T20:14:15.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amiga 3000T Review (1992)]]></title>
-        <id>http://nl.aminet.net/docs/rview/Amiga3000T.txt</id>
-        <link href="http://nl.aminet.net/docs/rview/Amiga3000T.txt"/>
-        <updated>2021-10-09T19:51:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The American Bumblebee Has Vanished from Eight States]]></title>
-        <id>https://www.smithsonianmag.com/smart-news/american-bumblebee-has-vanished-from-eight-us-states-180978817/</id>
-        <link href="https://www.smithsonianmag.com/smart-news/american-bumblebee-has-vanished-from-eight-us-states-180978817/"/>
-        <updated>2021-10-09T19:40:53.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ScummVM 2.5 “Twenty years ago today”]]></title>
-        <id>https://www.scummvm.org/news/20211009/</id>
-        <link href="https://www.scummvm.org/news/20211009/"/>
-        <updated>2021-10-09T19:12:44.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's weird that most of “Hacker” news is dominated by business news]]></title>
-        <id>https://news.ycombinator.com/item?id=28812281</id>
-        <link href="https://news.ycombinator.com/item?id=28812281"/>
-        <updated>2021-10-09T18:57:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -276,10 +417,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Last Year I Started Reading a Physical Newspaper]]></title>
-        <id>https://brianschrader.com/archive/last-year-i-started-reading-a-physical-newspaper/</id>
-        <link href="https://brianschrader.com/archive/last-year-i-started-reading-a-physical-newspaper/"/>
-        <updated>2021-10-09T01:03:17.000Z</updated>
+        <title type="html"><![CDATA[The Invention of “Xenophobia”]]></title>
+        <id>https://www.lareviewofbooks.org/article/the-invention-of-xenophobia/</id>
+        <link href="https://www.lareviewofbooks.org/article/the-invention-of-xenophobia/"/>
+        <updated>2021-10-09T06:21:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Old Mouse Dot Com]]></title>
+        <id>https://www.oldmouse.com/</id>
+        <link href="https://www.oldmouse.com/"/>
+        <updated>2021-10-08T21:08:55.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -306,10 +457,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Handpan – A must-have instrument for the Burning Man set]]></title>
-        <id>https://www.bloomberg.com/news/features/2021-10-08/the-handpan-s-creators-want-to-keep-their-invention-pure-it-may-not-survive</id>
-        <link href="https://www.bloomberg.com/news/features/2021-10-08/the-handpan-s-creators-want-to-keep-their-invention-pure-it-may-not-survive"/>
-        <updated>2021-10-08T18:58:16.000Z</updated>
+        <title type="html"><![CDATA[Leonardo, the Bipedal Robot, Can Ride a Skateboard and Walk a Slackline]]></title>
+        <id>https://www.caltech.edu/about/news/leonardo-the-bipedal-robot-can-ride-a-skateboard-and-walk-a-slackline</id>
+        <link href="https://www.caltech.edu/about/news/leonardo-the-bipedal-robot-can-ride-a-skateboard-and-walk-a-slackline"/>
+        <updated>2021-10-08T18:33:10.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -333,56 +484,6 @@
         <summary type="html"><![CDATA[The Radeon Vulkan driver "RADV" within Mesa 21.3 is enabling NGG culling by default for Radeon RX 6000 series (RDNA2) GPUs and newer as another performance win...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Mario 64 has been ported to iOS]]></title>
-        <id>https://www.reddit.com/r/SM64PC/comments/q3nm9f/sm64_has_been_ported_to_ios/</id>
-        <link href="https://www.reddit.com/r/SM64PC/comments/q3nm9f/sm64_has_been_ported_to_ios/"/>
-        <updated>2021-10-08T17:08:35.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amiga 68000 Hardware Assembly Programming [video]]]></title>
-        <id>https://www.youtube.com/playlist?list=PL-i3KPjyWoghwa9ZNAfiKQ-1HGToHn9EJ</id>
-        <link href="https://www.youtube.com/playlist?list=PL-i3KPjyWoghwa9ZNAfiKQ-1HGToHn9EJ"/>
-        <updated>2021-10-08T16:16:13.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joys of Porting a Kernel to WebAssembly]]></title>
-        <id>https://medium.com/@raphael.outhier/joys-of-porting-a-kernel-to-webassembly-5f0124e71080</id>
-        <link href="https://medium.com/@raphael.outhier/joys-of-porting-a-kernel-to-webassembly-5f0124e71080"/>
-        <updated>2021-10-08T16:14:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 Architecture and How It Compares to Traditional Web Apps]]></title>
-        <id>https://thenewstack.io/web3-architecture-and-how-it-compares-to-traditional-web-apps/</id>
-        <link href="https://thenewstack.io/web3-architecture-and-how-it-compares-to-traditional-web-apps/"/>
-        <updated>2021-10-08T16:06:54.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seal-mounted camera recovered after 3 years on ocean floor yields hours of video]]></title>
-        <id>https://www.cbc.ca/news/canada/nova-scotia/seal-camera-lost-at-sea-retrieved-offshore-nova-scotia-1.6204068</id>
-        <link href="https://www.cbc.ca/news/canada/nova-scotia/seal-camera-lost-at-sea-retrieved-offshore-nova-scotia-1.6204068"/>
-        <updated>2021-10-08T16:01:33.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -494,6 +595,16 @@ a foreshadowing of changes to come in the memory-management subsystem.]]></summa
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Empowering data scientists with a feature store]]></title>
+        <id>https://yiksanchan.com/posts/palfish-feature-store</id>
+        <link href="https://yiksanchan.com/posts/palfish-feature-store"/>
+        <updated>2021-10-08T05:55:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Radeon Gallium3D Picks Up A Nice Performance Optimization For iGPU/dGPU PRIME Setups]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-PRIME-ASync-SDMA-Copy</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-PRIME-ASync-SDMA-Copy"/>
@@ -522,16 +633,6 @@ Grafana is the de facto standard for time-series visualization and OSS observabi
 What potential BI-ish use case/business has a massive amount of time series data, where folks like to stare at time-series graphs all day (ideall…]]></summary>
         <author>
             <name>Grafana Labs Blog on Grafana Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Part of Windows 11 is a revamped Windows Subsystem for Linux]]></title>
-        <id>https://arstechnica.com/gadgets/2021/10/the-best-part-of-windows-11-is-a-revamped-windows-subsystem-for-linux/</id>
-        <link href="https://arstechnica.com/gadgets/2021/10/the-best-part-of-windows-11-is-a-revamped-windows-subsystem-for-linux/"/>
-        <updated>2021-10-07T19:38:44.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -895,16 +996,6 @@ not yet out; it should show up in the next day or so.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ET: Legacy 2.78 Released With Better OpenAL Sound, Android Support Materializing]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=ET-Legacy-2.78</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=ET-Legacy-2.78"/>
-        <updated>2021-10-06T04:00:02.000Z</updated>
-        <summary type="html"><![CDATA[One of our favorite open-source game projects, ET: Legacy for letting the legendary game Wolfenstein: Enemy Territory live on as a community project, is out with a new release...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The ObservabilityCON 2021 agenda is live!]]></title>
         <id>https://grafana.com/blog/2021/10/06/the-observabilitycon-2021-agenda-is-live/</id>
         <link href="https://grafana.com/blog/2021/10/06/the-observabilitycon-2021-agenda-is-live/"/>
@@ -924,16 +1015,6 @@ Keynote: Observability is your journey
 At the official kickoff of ObservabilityCON2021, we’ll look back at the past year, share observability success stories from the community, and make some exc…]]></summary>
         <author>
             <name>Grafana Labs Blog on Grafana Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asahi Linux On The Apple M1: "Usable As A Basic Linux Desktop" Sans GPU Acceleration]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Asahi-Linux-September-2021</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Asahi-Linux-September-2021"/>
-        <updated>2021-10-05T23:22:22.000Z</updated>
-        <summary type="html"><![CDATA[The Asahi Linux project that has been working nearly the past year on bringing up Apple M1 support under Linux has issued their September 2021 porting and reverse engineering report...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -965,16 +1046,6 @@ report on its goal of running Linux on Mac M1 hardware.
 Earlier this year we saw the absolute lowest level drivers being merged into the kernel. Those are important for bring-up, but to get a usable system we need many more. Over September we’ve seen a lot of action on this front, with many important drivers now in review or even already merged for Linux 5.16. The goal of the Asahi Linux project is to upstream everything into the Linux kernel, so all our drivers are eventually headed for upstream review.]]></summary>
         <author>
             <name>ris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.16 Preps More Display Code For Alder Lake P & DG2/Alchemist]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-ADL-P-DG2-Display</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-ADL-P-DG2-Display"/>
-        <updated>2021-10-05T20:44:55.000Z</updated>
-        <summary type="html"><![CDATA[In Linux 5.14 Intel introduced initial Alder Lake P enablement driver support including around the new "XeLPD" display block. With Linux 5.15 there was the initial enablement around DG2/Alchemist graphics. Now for Linux 5.16 is a significant amount of new driver code for actually getting the display support into shape for both DG2 and ADL-P...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1271,16 +1342,6 @@ https://medium.com/geekculture/expanding-the-observable-universe-o…]]></summar
         <summary type="html"><![CDATA[Learn how to build Web3 applications with Cloudflare’s new open-source template.]]></summary>
         <author>
             <name>Kristian Freeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Web3 — A vision for a decentralized web]]></title>
-        <id>6156bd1b2d69dd02a8a9b142</id>
-        <link href="https://blog.cloudflare.com/what-is-web3/"/>
-        <updated>2021-10-01T12:59:31.000Z</updated>
-        <summary type="html"><![CDATA[In this blog we start to explain Web3 in the context of the web's evolution, and how Cloudflare might help to support it.]]></summary>
-        <author>
-            <name>Thibault Meunier</name>
         </author>
     </entry>
     <entry>
@@ -1890,226 +1951,6 @@ https://medium.com/riskified-technology/over-pay-as-you-go-for-your-datastore-11
         b…]]></summary>
         <author>
             <name>DevOps'ish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Infrastructure as a Newsletter: August 26, 2021]]></title>
-        <id>https://kill-the-newsletter.com/alternates/8suipdivitgqt8ch.html</id>
-        <link href="https://kill-the-newsletter.com/alternates/8suipdivitgqt8ch.html"/>
-        <updated>2021-09-11T01:26:44.000Z</updated>
-        <summary type="html"><![CDATA[Infrastructure as a Newsletter: August 26, 2021
-
-
-
-
-
-#outlook a { padding:0; }           body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }           table { border-spacing:0;}           img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }           p { display:block;margin:13px 0; }
-                                                                                              96                                                                               table { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }             .mj-outlook-group-fix { width:100% !important; }             .block-grid-outlook .button-container a {background: transparent !important;}                  …]]></summary>
-        <author>
-            <name>Infrastructure as a Newsletter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subscribe to DevOps'ish]]></title>
-        <id>https://kill-the-newsletter.com/alternates/ppezl8jr4cscshik.html</id>
-        <link href="https://kill-the-newsletter.com/alternates/ppezl8jr4cscshik.html"/>
-        <updated>2021-09-11T01:21:44.000Z</updated>
-        <summary type="html"><![CDATA[Subscribe to DevOps'ish
-  
- ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌  ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ ‌ 
-If you received this email by mistake, simply delete it. You won't be subscribed unless you click the link above.
-For questions about this list, please reply to this email.]]></summary>
-        <author>
-            <name>DevOps'ish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“DevOps'ish” inbox created]]></title>
-        <id>https://kill-the-newsletter.com/alternates/5ensgyt9lda54xhn.html</id>
-        <link href="https://kill-the-newsletter.com/alternates/5ensgyt9lda54xhn.html"/>
-        <updated>2021-09-11T01:21:06.000Z</updated>
-        <summary type="html"><![CDATA[5xim7cr6c89gyeqh@kill-the-newsletter.com
-      
-https://kill-the-newsletter.com/feeds/5xim7cr6c89gyeqh.xml
-      
-Don’t share these addresses.
-Enjoy your readings!
-Create another inbox]]></summary>
-        <author>
-            <name>DevOps'ish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devops Weekly List: Subscription Confirmed]]></title>
-        <id>https://kill-the-newsletter.com/alternates/qq2hmyvared4czk9.html</id>
-        <link href="https://kill-the-newsletter.com/alternates/qq2hmyvared4czk9.html"/>
-        <updated>2021-09-11T01:18:41.000Z</updated>
-        <summary type="html"><![CDATA[96
-            
-        
-        
-        Devops Weekly List
-        
-        
-        
-        
-        
-        
-    
-		body{
-			font:14px/20px 'Helvetica', Arial, sans-serif;
-			margin:0;
-			padding:75px 0 0 0;
-			text-align:center;
-			-webkit-text-size-adjust:none;
-		}
-		p{
-			padding:0 0 10px 0;
-		}
-		h1 img{
-			max-width:100%;
-			height:auto !important;
-			vertical-align:bottom;
-		}
-		h2{
-			font-size:22px;
-			line-height:28px;
-			margin:0 0 12px 0;
-		}
-		h3{
-			margin:0 0 12px 0;
-		}
-		.headerBar{
-			background:none;
-			padding:0;
-			border:none;
-		}
-		.wrapper{
-			width:600px;
-			margin:0 auto 10px auto;
-			text-align:left;
-		}
-		input.formEmailButton{
-			border:none !important;
-		}
-		.formEmailButton{
-			display:inline-block;
-			font-weight:500;
-			font-size:16px;
-			line-height:4…]]></summary>
-        <author>
-            <name>Devops Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devops Weekly List: Please Confirm Subscription]]></title>
-        <id>https://kill-the-newsletter.com/alternates/ff491bto1viokcvo.html</id>
-        <link href="https://kill-the-newsletter.com/alternates/ff491bto1viokcvo.html"/>
-        <updated>2021-09-11T01:18:15.000Z</updated>
-        <summary type="html"><![CDATA[96
-            
-        
-        
-        Devops Weekly List
-        
-        
-        
-        
-        
-        
-    
-		body{
-			font:14px/20px 'Helvetica', Arial, sans-serif;
-			margin:0;
-			padding:75px 0 0 0;
-			text-align:center;
-			-webkit-text-size-adjust:none;
-		}
-		p{
-			padding:0 0 10px 0;
-		}
-		h1 img{
-			max-width:100%;
-			height:auto !important;
-			vertical-align:bottom;
-		}
-		h2{
-			font-size:22px;
-			line-height:28px;
-			margin:0 0 12px 0;
-		}
-		h3{
-			margin:0 0 12px 0;
-		}
-		.headerBar{
-			background:none;
-			padding:0;
-			border:none;
-		}
-		.wrapper{
-			width:600px;
-			margin:0 auto 10px auto;
-			text-align:left;
-		}
-		input.formEmailButton{
-			border:none !important;
-		}
-		.formEmailButton{
-			display:inline-block;
-			font-weight:500;
-			font-size:16px;
-			line-height:4…]]></summary>
-        <author>
-            <name>Devops Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Devops Weekly ” inbox created]]></title>
-        <id>https://kill-the-newsletter.com/alternates/cgsjynp9qh0yoxoe.html</id>
-        <link href="https://kill-the-newsletter.com/alternates/cgsjynp9qh0yoxoe.html"/>
-        <updated>2021-09-11T01:17:43.000Z</updated>
-        <summary type="html"><![CDATA[5nify6z9bnemncst@kill-the-newsletter.com
-      
-https://kill-the-newsletter.com/feeds/5nify6z9bnemncst.xml
-      
-Don’t share these addresses.
-Enjoy your readings!
-Create another inbox]]></summary>
-        <author>
-            <name>Devops Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to Infrastructure as a Newsletter]]></title>
-        <id>https://kill-the-newsletter.com/alternates/4xj9qj1qgqh01310.html</id>
-        <link href="https://kill-the-newsletter.com/alternates/4xj9qj1qgqh01310.html"/>
-        <updated>2021-09-11T01:16:42.000Z</updated>
-        <summary type="html"><![CDATA[Welcome to Infrastructure as a Newsletter
-
-
-
-
-
-#outlook a { padding:0; }           body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }           table { border-spacing:0;}           img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }           p { display:block;margin:13px 0; }
-                                                                                              96                                                                               table { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }             .mj-outlook-group-fix { width:100% !important; }             .block-grid-outlook .button-container a {background: transparent !important;}                        …]]></summary>
-        <author>
-            <name>Infrastructure as a Newsletter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Infrastructure as a Newsletter” inbox created]]></title>
-        <id>https://kill-the-newsletter.com/alternates/7gupkgrubjpa1jsc.html</id>
-        <link href="https://kill-the-newsletter.com/alternates/7gupkgrubjpa1jsc.html"/>
-        <updated>2021-09-11T01:16:01.000Z</updated>
-        <summary type="html"><![CDATA[mco7b04gbd5bu0hr@kill-the-newsletter.com
-      
-https://kill-the-newsletter.com/feeds/mco7b04gbd5bu0hr.xml
-      
-Don’t share these addresses.
-Enjoy your readings!
-Create another inbox]]></summary>
-        <author>
-            <name>Infrastructure as a Newsletter</name>
         </author>
     </entry>
 </feed>
