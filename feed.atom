@@ -1,35 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-12T00:00:54.073Z</id>
+    <id>urn:2021-10-12T08:00:52.432Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-12T00:00:54.073Z</updated>
+    <updated>2021-10-12T08:00:52.432Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Tell HN: Happy Columbus Day!]]></title>
-        <id>https://news.ycombinator.com/item?id=28834083</id>
-        <link href="https://news.ycombinator.com/item?id=28834083"/>
-        <updated>2021-10-11T23:01:41.000Z</updated>
+        <title type="html"><![CDATA[React Internals (2017)]]></title>
+        <id>https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/</id>
+        <link href="https://mattgreer.dev/articles/react-internals-part-one-basic-rendering/"/>
+        <updated>2021-10-12T06:44:52.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Peter Norvig Leaves Google to Join Stanford HAI]]></title>
+        <title type="html"><![CDATA[Do Dev Careers Die at 35?]]></title>
+        <id>https://www.dottedsquirrel.com/dev-careers/</id>
+        <link href="https://www.dottedsquirrel.com/dev-careers/"/>
+        <updated>2021-10-12T06:39:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Use Raspberry Pi as Airplay server to screen mirror on TVs, monitors, projectors]]></title>
+        <id>https://github.com/rahul-thakoor/air-pi-play</id>
+        <link href="https://github.com/rahul-thakoor/air-pi-play"/>
+        <updated>2021-10-12T05:26:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Brazil could adopt Bitcoin as legal tender]]></title>
+        <id>https://thepaypers.com/cryptocurrencies/brazil-could-adopt-bitcoin-as-legal-tender--1251973</id>
+        <link href="https://thepaypers.com/cryptocurrencies/brazil-could-adopt-bitcoin-as-legal-tender--1251973"/>
+        <updated>2021-10-12T04:48:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Structured Identifiers]]></title>
+        <id>https://pernos.co/blog/structured-identifiers/</id>
+        <link href="https://pernos.co/blog/structured-identifiers/"/>
+        <updated>2021-10-12T04:45:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Maps' Acceleration]]></title>
+        <id>https://www.justinobeirne.com/apple-maps-acceleration</id>
+        <link href="https://www.justinobeirne.com/apple-maps-acceleration"/>
+        <updated>2021-10-12T04:15:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rancher Desktop, a Docker Desktop Replacement]]></title>
+        <id>https://rancherdesktop.io/</id>
+        <link href="https://rancherdesktop.io/"/>
+        <updated>2021-10-12T03:15:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Home Depot Teams Up with Walmart to Expand Same-Day and Next-Day Delivery]]></title>
+        <id>https://corporate.homedepot.com/newsroom/expands-same-day-next-day-delivery-with-walmart</id>
+        <link href="https://corporate.homedepot.com/newsroom/expands-same-day-next-day-delivery-with-walmart"/>
+        <updated>2021-10-12T02:12:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Peter Norvig Joins Stanford HAI]]></title>
         <id>https://hai.stanford.edu/news/peter-norvig-todays-most-pressing-questions-ai-are-human-centered</id>
         <link href="https://hai.stanford.edu/news/peter-norvig-todays-most-pressing-questions-ai-are-human-centered"/>
         <updated>2021-10-11T22:43:00.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Instagram has largely replaced TikTok in India and erased working-class creators]]></title>
-        <id>https://restofworld.org/2021/instagram-and-class-in-india/</id>
-        <link href="https://restofworld.org/2021/instagram-and-class-in-india/"/>
-        <updated>2021-10-11T22:36:17.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -50,16 +110,6 @@
         <id>https://news.mit.edu/2021/roman-tomb-offers-insights-ancient-concrete-resilience-1008</id>
         <link href="https://news.mit.edu/2021/roman-tomb-offers-insights-ancient-concrete-resilience-1008"/>
         <updated>2021-10-11T21:53:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Multi-Billion Dollar Real Estate Project Is Rising on Native Land in Vancouver]]></title>
-        <id>https://www.architecturaldigest.com/story/vancouver-real-estate-native-reserve-land</id>
-        <link href="https://www.architecturaldigest.com/story/vancouver-real-estate-native-reserve-land"/>
-        <updated>2021-10-11T21:24:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -93,6 +143,16 @@
         <summary type="html"><![CDATA[Guest post from Nutanix Organizations worldwide are adopting Kubernetes and cloud native technologies at breakneck pace. Containers have become the new norm of packaging applications and Kubernetes is at the forefront, orchestrating...]]></summary>
         <author>
             <name>Jessie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FAA Fumbled Its Response to a Surge in GPS Jamming]]></title>
+        <id>https://spectrum.ieee.org/gps-jamming</id>
+        <link href="https://spectrum.ieee.org/gps-jamming"/>
+        <updated>2021-10-11T20:23:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -136,16 +196,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Full WireGuard Support in ProtonVPN for Android]]></title>
-        <id>https://github.com/ProtonVPN/android-app/releases/tag/2.9.0.28</id>
-        <link href="https://github.com/ProtonVPN/android-app/releases/tag/2.9.0.28"/>
-        <updated>2021-10-11T18:35:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hacking YouTube with a MP4]]></title>
         <id>https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html</id>
         <link href="https://realkeyboardwarrior.github.io/security/2021/10/11/hacking-youtube.html"/>
@@ -166,20 +216,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sony to join TSMC on new $7B chip plant in Japan]]></title>
-        <id>https://asia.nikkei.com/Business/Tech/Semiconductors/Sony-to-join-TSMC-on-new-7bn-chip-plant-in-Japan</id>
-        <link href="https://asia.nikkei.com/Business/Tech/Semiconductors/Sony-to-join-TSMC-on-new-7bn-chip-plant-in-Japan"/>
-        <updated>2021-10-11T17:47:24.000Z</updated>
+        <title type="html"><![CDATA[Amazon will allow many employees to work remotely indefinitely]]></title>
+        <id>https://www.seattletimes.com/business/amazon/amazon-will-allow-many-employees-to-work-remotely-indefinitely/</id>
+        <link href="https://www.seattletimes.com/business/amazon/amazon-will-allow-many-employees-to-work-remotely-indefinitely/"/>
+        <updated>2021-10-11T17:59:16.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Companies that use Lisp extensively]]></title>
-        <id>https://github.com/azzamsa/awesome-lisp-companies</id>
-        <link href="https://github.com/azzamsa/awesome-lisp-companies"/>
-        <updated>2021-10-11T17:24:04.000Z</updated>
+        <title type="html"><![CDATA[Sony to join TSMC on new $7B chip plant in Japan]]></title>
+        <id>https://asia.nikkei.com/Business/Tech/Semiconductors/Sony-to-join-TSMC-on-new-7bn-chip-plant-in-Japan</id>
+        <link href="https://asia.nikkei.com/Business/Tech/Semiconductors/Sony-to-join-TSMC-on-new-7bn-chip-plant-in-Japan"/>
+        <updated>2021-10-11T17:47:24.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -212,40 +262,20 @@ Until now, search engines were scaling with Read and Write operations colocated 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The CodeRibbon code editor plugin]]></title>
-        <id>https://utk-se.github.io/CodeRibbon/</id>
-        <link href="https://utk-se.github.io/CodeRibbon/"/>
-        <updated>2021-10-11T17:12:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Android phones are sending significant amount of user data with no opt-out [pdf]]]></title>
-        <id>https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf</id>
-        <link href="https://www.scss.tcd.ie/Doug.Leith/Android_privacy_report.pdf"/>
-        <updated>2021-10-11T16:52:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FugueSQL: SQL-ish for pandas, dask, spark]]></title>
-        <id>https://fugue-tutorials.readthedocs.io/en/latest/tutorials/fugue_sql/index.html</id>
-        <link href="https://fugue-tutorials.readthedocs.io/en/latest/tutorials/fugue_sql/index.html"/>
-        <updated>2021-10-11T16:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Memcached vs. Redis – More Different Than You Would Expect]]></title>
         <id>https://engineering.kablamo.com.au/posts/2021/memcached-vs-redis-whats-the-difference/</id>
         <link href="https://engineering.kablamo.com.au/posts/2021/memcached-vs-redis-whats-the-difference/"/>
         <updated>2021-10-11T16:22:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Practices (Why I Hate Them)]]></title>
+        <id>https://fev.al/posts/best-practices/</id>
+        <link href="https://fev.al/posts/best-practices/"/>
+        <updated>2021-10-11T16:11:40.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -381,36 +411,6 @@ well, Jörg.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Source Tractor]]></title>
-        <id>https://opensourceecology.dozuki.com/c/LifeTrac</id>
-        <link href="https://opensourceecology.dozuki.com/c/LifeTrac"/>
-        <updated>2021-10-11T12:55:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The State of Web Scraping in 2021]]></title>
-        <id>https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/</id>
-        <link href="https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/"/>
-        <updated>2021-10-11T12:21:23.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jörg Schilling has died]]></title>
-        <id>https://minnie.tuhs.org/pipermail/tuhs/2021-October/024523.html</id>
-        <link href="https://minnie.tuhs.org/pipermail/tuhs/2021-October/024523.html"/>
-        <updated>2021-10-11T12:04:44.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Krita 5.0 Beta 2 Reworks Its GPU Accelerated Canvas]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Krita-5.0-Beta-2</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Krita-5.0-Beta-2"/>
@@ -441,10 +441,30 @@ well, Jörg.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ancient Courses: Harold Fisk’s Meander Maps of the Mississippi River (1944)]]></title>
+        <id>https://publicdomainreview.org/collection/maps-of-the-lower-mississippi-harold-fisk/</id>
+        <link href="https://publicdomainreview.org/collection/maps-of-the-lower-mississippi-harold-fisk/"/>
+        <updated>2021-10-11T08:16:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Show HN: YoHa – A practical hand tracking engine]]></title>
         <id>https://handtracking.io</id>
         <link href="https://handtracking.io"/>
         <updated>2021-10-11T07:41:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optimising Common Lisp to try and beat Java and Rust on phone encoding 2/2]]></title>
+        <id>https://renato.athaydes.com/posts/revenge_of_lisp-part-2.html</id>
+        <link href="https://renato.athaydes.com/posts/revenge_of_lisp-part-2.html"/>
+        <updated>2021-10-11T06:13:43.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -569,16 +589,6 @@ important fixes.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[China’s noisy ‘dancing grannies’ silenced by device that disables speakers]]></title>
-        <id>https://www.theguardian.com/world/2021/oct/08/chinas-noisy-dancing-grannies-silenced-by-device-that-disables-speakers</id>
-        <link href="https://www.theguardian.com/world/2021/oct/08/chinas-noisy-dancing-grannies-silenced-by-device-that-disables-speakers"/>
-        <updated>2021-10-10T11:53:02.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NVIDIA Contributing Tegra NVDEC Support To Linux 5.16]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-Tegra-Linux-5.16-NVDEC</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-Tegra-Linux-5.16-NVDEC"/>
@@ -628,26 +638,6 @@ Supply chain security is an increasingly important topic. This presentation expl
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Cutting Room Floor]]></title>
-        <id>https://tcrf.net/The_Cutting_Room_Floor</id>
-        <link href="https://tcrf.net/The_Cutting_Room_Floor"/>
-        <updated>2021-10-10T06:54:44.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neuroscientists Claim to Have Pinpointed the Brain States Unique to 'Team Flow']]></title>
-        <id>https://www.sciencealert.com/neuroscientists-claim-to-have-pinpointed-the-brain-states-unique-to-team-flow</id>
-        <link href="https://www.sciencealert.com/neuroscientists-claim-to-have-pinpointed-the-brain-states-unique-to-team-flow"/>
-        <updated>2021-10-10T05:51:41.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[IBM Proposing A CPU Namespace For The Linux Kernel]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-CPU-Namespace</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-CPU-Namespace"/>
@@ -688,6 +678,26 @@ Supply chain security is an increasingly important topic. This presentation expl
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Generic CRC algorithm generator, from Mark Adler]]></title>
+        <id>https://github.com/madler/crcany</id>
+        <link href="https://github.com/madler/crcany"/>
+        <updated>2021-10-09T11:26:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modern Crocodiles Are Evolving at a Rapid Rate]]></title>
+        <id>https://www.smithsonianmag.com/science-nature/modern-crocodiles-are-evolving-rapid-rate-180978432/</id>
+        <link href="https://www.smithsonianmag.com/science-nature/modern-crocodiles-are-evolving-rapid-rate-180978432/"/>
+        <updated>2021-10-09T10:59:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[It Appears FUTEX2 Will Land For Linux 5.16]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=FUTEX2-Bits-In-Locking-Core</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=FUTEX2-Bits-In-Locking-Core"/>
@@ -705,16 +715,6 @@ Supply chain security is an increasingly important topic. This presentation expl
         <summary type="html"><![CDATA[KDE developers remain very busy squashing bugs ahead of the release of Plasma 5.23 that is also known as the Plasma 25th Anniversary Edition...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neural Networks from Scratch]]></title>
-        <id>https://aegeorge42.github.io/</id>
-        <link href="https://aegeorge42.github.io/"/>
-        <updated>2021-10-09T03:14:34.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
