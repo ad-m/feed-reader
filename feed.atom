@@ -1,10 +1,192 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-17T00:00:46.871Z</id>
+    <id>urn:2021-10-17T08:00:59.725Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-17T00:00:46.871Z</updated>
+    <updated>2021-10-17T08:00:59.725Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[DevOps’ish 239: KubeCon, tzdata, weak SSH keys revoked, Linux kernel CPU Namespace proposal, multicloud, and more]]></title>
+        <id>https://kill-the-newsletter.com/alternates/ewzqpv50h7uj4ooi.html</id>
+        <link href="https://kill-the-newsletter.com/alternates/ewzqpv50h7uj4ooi.html"/>
+        <updated>2021-10-17T07:16:17.000Z</updated>
+        <summary type="html"><![CDATA[* { font-family: sans-serif !important; }
+        
+    
+
+    
+        /* Box sizing. Gets decent support. */
+        
+        *,
+        *:after,
+        *:before {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        /* Prevents small text resizing. */
+        
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        /* Basic reset. Removes default spacing around emails in various clients.  */
+        
+        html,
+        body,
+        .document {
+            width: 100% !important;
+            height: 100% !important;
+            margin: 0;
+            padding: 0;
+        }
+        /* Improves text rendering when supported. */
+        
+        b…]]></summary>
+        <author>
+            <name>DevOps'ish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatic CPU speed and power optimizer for Linux]]></title>
+        <id>https://github.com/AdnanHodzic/auto-cpufreq</id>
+        <link href="https://github.com/AdnanHodzic/auto-cpufreq"/>
+        <updated>2021-10-17T06:05:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joe Manchin's Dirty Empire]]></title>
+        <id>https://theintercept.com/2021/09/03/joe-manchin-coal-fossil-fuels-pollution/</id>
+        <link href="https://theintercept.com/2021/09/03/joe-manchin-coal-fossil-fuels-pollution/"/>
+        <updated>2021-10-17T05:54:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joybubbles]]></title>
+        <id>https://en.wikipedia.org/wiki/Joybubbles</id>
+        <link href="https://en.wikipedia.org/wiki/Joybubbles"/>
+        <updated>2021-10-17T04:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AnalogueOS, the “Library of Alexandria of video games.”]]></title>
+        <id>https://www.analogue.co/os</id>
+        <link href="https://www.analogue.co/os"/>
+        <updated>2021-10-17T04:46:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An underwater mystery on Canada's coast]]></title>
+        <id>https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast</id>
+        <link href="https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast"/>
+        <updated>2021-10-17T04:33:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bisqwit: YouTube Deletes Your Comment]]></title>
+        <id>https://www.youtube.com/watch?v=PVlobDyTqeY</id>
+        <link href="https://www.youtube.com/watch?v=PVlobDyTqeY"/>
+        <updated>2021-10-17T04:12:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Axboe Achieves 8M IOPS Per-Core With Newest Linux Optimization Patches]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=8M-IOPS-Per-Core-Linux</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=8M-IOPS-Per-Core-Linux"/>
+        <updated>2021-10-17T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It was just last week that Linux optimizations were leading to possible 6M IOPS per core and then at the start of this week new patches pushed Linux past 7M IOPS per-core with an ideal hardware configuration as well. In ending out the week, 8M IOPS has been reached!..]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Food Timeline]]></title>
+        <id>https://foodtimeline.org/</id>
+        <link href="https://foodtimeline.org/"/>
+        <updated>2021-10-17T03:09:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The unsolved mystery of the Earth blobs (2019)]]></title>
+        <id>https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs</id>
+        <link href="https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs"/>
+        <updated>2021-10-17T01:44:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)]]></title>
+        <id>https://news.ycombinator.com/item?id=28893073</id>
+        <link href="https://news.ycombinator.com/item?id=28893073"/>
+        <updated>2021-10-17T01:04:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New wave of strikes will test worker power]]></title>
+        <id>https://www.axios.com/new-wave-of-strikes-worker-power-07f5df47-8825-4e76-a951-c8812d686d94.html</id>
+        <link href="https://www.axios.com/new-wave-of-strikes-worker-power-07f5df47-8825-4e76-a951-c8812d686d94.html"/>
+        <updated>2021-10-17T00:16:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hacking around on the telephone, the internet before the internet]]></title>
+        <id>https://madned.substack.com/p/wardialing-and-other-phoney-stuff</id>
+        <link href="https://madned.substack.com/p/wardialing-and-other-phoney-stuff"/>
+        <updated>2021-10-17T00:13:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Richard Feynman’s PhD Thesis Looks Like: A Video Introduction (2020)]]></title>
+        <id>https://www.openculture.com/2020/04/this-is-what-richard-feynmans-phd-thesis-looks-like-a-video-introduction.html</id>
+        <link href="https://www.openculture.com/2020/04/this-is-what-richard-feynmans-phd-thesis-looks-like-a-video-introduction.html"/>
+        <updated>2021-10-16T23:53:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Fugate family of Kentucky has had blue skin for centuries (2017)]]></title>
+        <id>https://allthatsinteresting.com/fugate-family-blue-people-of-kentucky</id>
+        <link href="https://allthatsinteresting.com/fugate-family-blue-people-of-kentucky"/>
+        <updated>2021-10-16T23:50:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: Think Like a Bot – Guess labels applied by AI to random images]]></title>
         <id>https://www.thinklikeabot.com/</id>
@@ -26,20 +208,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pirate Party member: GDPR-compliant Whois will lead to 'doxxing and death lists']]></title>
+        <title type="html"><![CDATA[Privacy activists oppose EU plans for a GDPR-compliant Whois v2]]></title>
         <id>https://www.theregister.com/2021/10/15/eu_nis_directive_article_23_death_lists/</id>
         <link href="https://www.theregister.com/2021/10/15/eu_nis_directive_article_23_death_lists/"/>
         <updated>2021-10-16T22:08:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Declassified docs reveal truth about FBI’s contribution to Hemingway’s demise]]></title>
-        <id>https://www.history101.com/hemingway-fbi-declassified/</id>
-        <link href="https://www.history101.com/hemingway-fbi-declassified/"/>
-        <updated>2021-10-16T22:07:48.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -56,30 +228,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Path (YC S19) Is Hiring Founding Engineers to Automate Gen-Z Finance]]></title>
-        <id>https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d</id>
-        <link href="https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d"/>
-        <updated>2021-10-16T21:00:48.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[VirtualMEC – a free 3D CAD for MECCANO]]></title>
         <id>http://www.virtualmec.com</id>
         <link href="http://www.virtualmec.com"/>
         <updated>2021-10-16T20:10:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why nobody hires junior developers and what happens next]]></title>
-        <id>https://www.notonlycode.org/nobody-hires-juniors/</id>
-        <link href="https://www.notonlycode.org/nobody-hires-juniors/"/>
-        <updated>2021-10-16T19:55:12.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -136,6 +288,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A New Bootable USB Solution]]></title>
+        <id>https://ventoy.net/en/index.html</id>
+        <link href="https://ventoy.net/en/index.html"/>
+        <updated>2021-10-16T17:12:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Git Command Explorer]]></title>
         <id>https://gitexplorer.com/</id>
         <link href="https://gitexplorer.com/"/>
@@ -146,110 +308,30 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Stormah, cloud notes stored in your own Git repo]]></title>
-        <id>https://stormah.com/</id>
-        <link href="https://stormah.com/"/>
-        <updated>2021-10-16T15:35:09.000Z</updated>
+        <title type="html"><![CDATA[How to Fire Frank Lloyd Wright]]></title>
+        <id>https://thereader.mitpress.mit.edu/frank-lloyd-wright-edith-carlson-untold-story/</id>
+        <link href="https://thereader.mitpress.mit.edu/frank-lloyd-wright-edith-carlson-untold-story/"/>
+        <updated>2021-10-16T15:01:32.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Canon sued for disabling scanner when printers run out of ink]]></title>
-        <id>https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/</id>
-        <link href="https://www.bleepingcomputer.com/news/legal/canon-sued-for-disabling-scanner-when-printers-run-out-of-ink/"/>
-        <updated>2021-10-16T14:46:06.000Z</updated>
+        <title type="html"><![CDATA[The promise of pills that do nothing]]></title>
+        <id>https://neo.life/2021/10/the-promise-of-pills-that-do-nothing/</id>
+        <link href="https://neo.life/2021/10/the-promise-of-pills-that-do-nothing/"/>
+        <updated>2021-10-16T13:22:00.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[In Defense of Randomness]]></title>
-        <id>https://www.naths.in/blog/randomness</id>
-        <link href="https://www.naths.in/blog/randomness"/>
-        <updated>2021-10-16T12:08:53.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gotify/server: A simple server for sending and receiving messages in real-time]]></title>
-        <id>https://github.com/gotify/server</id>
-        <link href="https://github.com/gotify/server"/>
-        <updated>2021-10-16T11:38:27.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vienna museums open adult-only OnlyFans account to display nudes]]></title>
-        <id>https://www.theguardian.com/artanddesign/2021/oct/16/vienna-museums-open-adult-only-onlyfans-account-to-display-nudes</id>
-        <link href="https://www.theguardian.com/artanddesign/2021/oct/16/vienna-museums-open-adult-only-onlyfans-account-to-display-nudes"/>
-        <updated>2021-10-16T11:34:11.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Status Page for monitoring your websites and applications with beautiful graphs]]></title>
-        <id>https://github.com/statping/statping</id>
-        <link href="https://github.com/statping/statping"/>
-        <updated>2021-10-16T11:27:20.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circle: C++ Automation Language]]></title>
-        <id>https://www.circle-lang.org/</id>
-        <link href="https://www.circle-lang.org/"/>
-        <updated>2021-10-16T10:29:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TerraVision (1994)]]></title>
-        <id>http://www.joachimsauter.com/en/work/terravision.html</id>
-        <link href="http://www.joachimsauter.com/en/work/terravision.html"/>
-        <updated>2021-10-16T10:20:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Growth by proximity – Moretti on the effect of high-tech hubs on innovation]]></title>
-        <id>https://www.aeaweb.org/research/enrico-moretti-high-tech-clusters</id>
-        <link href="https://www.aeaweb.org/research/enrico-moretti-high-tech-clusters"/>
-        <updated>2021-10-16T09:56:19.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cracking Random Number Generators Using Machine Learning]]></title>
-        <id>https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/</id>
-        <link href="https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/"/>
-        <updated>2021-10-16T09:53:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A generic VHDL touch controller – add capacitive buttons to any FPGA]]></title>
-        <id>https://github.com/stnolting/captouch</id>
-        <link href="https://github.com/stnolting/captouch"/>
-        <updated>2021-10-16T09:46:20.000Z</updated>
+        <title type="html"><![CDATA[Pursue High-Quality Leisure]]></title>
+        <id>https://www.deprocrastination.co/blog/pursue-high-quality-leisure</id>
+        <link href="https://www.deprocrastination.co/blog/pursue-high-quality-leisure"/>
+        <updated>2021-10-16T10:51:03.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -263,16 +345,6 @@
         <summary type="html"><![CDATA[Arriving in the wireless-drivers-next branch this week is the "rtw89" driver as a Realtek-contributed open-source 802.11ax WiFi driver...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kanidm: A simple, secure and fast identity management platform]]></title>
-        <id>https://github.com/kanidm/kanidm</id>
-        <link href="https://github.com/kanidm/kanidm"/>
-        <updated>2021-10-16T09:36:59.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -290,6 +362,16 @@
         <id>https://danluu.com/learning-to-program/</id>
         <link href="https://danluu.com/learning-to-program/"/>
         <updated>2021-10-16T09:09:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simon Roper: the 23-year-old reconstructing the past for millions of viewers]]></title>
+        <id>https://www.newstatesman.com/the-culture-interview/2021/10/simon-roper-the-23-year-old-reconstructing-the-past-for-millions-of-online-viewers</id>
+        <link href="https://www.newstatesman.com/the-culture-interview/2021/10/simon-roper-the-23-year-old-reconstructing-the-past-for-millions-of-online-viewers"/>
+        <updated>2021-10-16T08:58:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -338,26 +420,6 @@ Thank you: @hirdot]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[WordPress Latin1 and UTF-8, Part 2]]></title>
-        <id>https://www.bigmessowires.com/2021/10/15/wordpress-latin1-and-utf-8-part-2/</id>
-        <link href="https://www.bigmessowires.com/2021/10/15/wordpress-latin1-and-utf-8-part-2/"/>
-        <updated>2021-10-15T23:04:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Hindenburg disaster denoised, upscaled, and colorized using ML [video]]]></title>
-        <id>https://www.youtube.com/watch?v=GhoGTqSfUzs</id>
-        <link href="https://www.youtube.com/watch?v=GhoGTqSfUzs"/>
-        <updated>2021-10-15T19:29:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cloud Native Computing Foundation Announces 2021 Community Awards Winners]]></title>
         <id>https://www.cncf.io/?p=65162</id>
         <link href="https://www.cncf.io/announcements/2021/10/15/cloud-native-computing-foundation-announces-2021-community-awards-winners/"/>
@@ -365,16 +427,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[Annual awards recognize outstanding community members for advocacy, contributions, and documentation in cloud native technology SAN FRANCISCO, Calif. – October 15, 2021 – KubeCon + CloudNativeCon North America 2021 – The Cloud...]]></summary>
         <author>
             <name>Katie Meinders</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[From Æthelflæd to Ælfthryth: The Idea of Queenship in Tenth-Century England]]></title>
-        <id>https://jhiblog.org/2021/10/11/from-aethelflaed-to-aelfthryth-the-idea-of-queenship-in-tenth-century-england/</id>
-        <link href="https://jhiblog.org/2021/10/11/from-aethelflaed-to-aelfthryth-the-idea-of-queenship-in-tenth-century-england/"/>
-        <updated>2021-10-15T16:40:30.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -487,10 +539,10 @@ are and what can be made better.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Two Arms and a Head (2008)]]></title>
-        <id>http://www.2arms1head.com</id>
-        <link href="http://www.2arms1head.com"/>
-        <updated>2021-10-15T12:14:44.000Z</updated>
+        <title type="html"><![CDATA[Hubble finds evidence of persistent water vapor in one hemisphere of Europa]]></title>
+        <id>https://phys.org/news/2021-10-hubble-evidence-persistent-vapor-hemisphere.html</id>
+        <link href="https://phys.org/news/2021-10-hubble-evidence-persistent-vapor-hemisphere.html"/>
+        <updated>2021-10-15T12:15:22.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1066,16 +1118,6 @@ Imagine, for example, a food delivery app th…]]></summary>
 At Grafana Labs, our product teams often take the role of the SRE teams. Moreover, due to a lot of technical similarities, we have an on-call rotation that’s responsible for multiple products — staffed with engineers from different product teams. Since there’s no official SRE onboarding, we’ve built production readiness review as a completely separate process that strives to add value by having the product in …]]></summary>
         <author>
             <name>Grafana Labs Blog on Grafana Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Hat Is Hiring Another Linux Developer To Work On GPU Hardware Enablement]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Red-Hat-New-2021-GPU-Developer</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Red-Hat-New-2021-GPU-Developer"/>
-        <updated>2021-10-12T22:36:21.000Z</updated>
-        <summary type="html"><![CDATA[Red Hat already employs numerous open-source graphics driver developers from DRM subsystem maintainer David Airlie to numerous others on his team working on areas from Mesa OpenCL support to Heterogeneous Memory Management to other user and kernel-space improvements for open-source Linux graphics. Red Hat has now put out a call to hire yet another experienced Linux GPU driver developer...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
