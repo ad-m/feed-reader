@@ -1,15 +1,175 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-17T16:00:42.453Z</id>
+    <id>urn:2021-10-18T00:00:26.888Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-17T16:00:42.453Z</updated>
+    <updated>2021-10-18T00:00:26.888Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Remote sensing shows Antarctic green snow algae is important terran carbon sink]]></title>
+        <title type="html"><![CDATA[L0phtCrack Is Now Open Source]]></title>
+        <id>https://l0phtcrack.gitlab.io/</id>
+        <link href="https://l0phtcrack.gitlab.io/"/>
+        <updated>2021-10-17T23:17:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Of Scarface and the Nobel – The Double Life of Mariel]]></title>
+        <id>https://adamtooze.com/2021/10/12/chartbook-45-of-scarface-the-nobel-the-double-life-of-mariel/</id>
+        <link href="https://adamtooze.com/2021/10/12/chartbook-45-of-scarface-the-nobel-the-double-life-of-mariel/"/>
+        <updated>2021-10-17T22:30:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fixed Point Arithmetic]]></title>
+        <id>https://vha3.github.io/FixedPoint/FixedPoint.html</id>
+        <link href="https://vha3.github.io/FixedPoint/FixedPoint.html"/>
+        <updated>2021-10-17T22:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Travel on Airless Worlds (2014)]]></title>
+        <id>http://hopsblog-hop.blogspot.com/2014/06/travel-on-airless-worlds.html</id>
+        <link href="http://hopsblog-hop.blogspot.com/2014/06/travel-on-airless-worlds.html"/>
+        <updated>2021-10-17T22:27:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘The Billion Dollar Code’: Developers Who Sued Over Google Earth Algorithm]]></title>
+        <id>https://decider.com/2021/10/07/the-billion-dollar-code-netflix-review/</id>
+        <link href="https://decider.com/2021/10/07/the-billion-dollar-code-netflix-review/"/>
+        <updated>2021-10-17T21:58:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Qvm-Create-Windows-Qube: The most secure and private way to run Windows]]></title>
+        <id>https://github.com/elliotkillick/qvm-create-windows-qube</id>
+        <link href="https://github.com/elliotkillick/qvm-create-windows-qube"/>
+        <updated>2021-10-17T21:52:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gold Fig Labs (YC S19) is hiring founding engineers to make devsecops easy]]></title>
+        <id>https://www.goldfiglabs.com/team/</id>
+        <link href="https://www.goldfiglabs.com/team/"/>
+        <updated>2021-10-17T21:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fast rebases with git-move]]></title>
+        <id>https://blog.waleedkhan.name/in-memory-rebases/</id>
+        <link href="https://blog.waleedkhan.name/in-memory-rebases/"/>
+        <updated>2021-10-17T20:47:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NixOS on Framework Laptop]]></title>
+        <id>http://kvark.github.io/linux/framework/2021/10/17/framework-nixos.html</id>
+        <link href="http://kvark.github.io/linux/framework/2021/10/17/framework-nixos.html"/>
+        <updated>2021-10-17T19:27:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roger Hui has died]]></title>
+        <id>http://jsoftware.com/pipermail/programming/2021-October/059091.html</id>
+        <link href="http://jsoftware.com/pipermail/programming/2021-October/059091.html"/>
+        <updated>2021-10-17T17:23:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why not “Why not WireGuard?” (2020)]]></title>
+        <id>https://tailscale.com/blog/why-not-why-not-wireguard/</id>
+        <link href="https://tailscale.com/blog/why-not-why-not-wireguard/"/>
+        <updated>2021-10-17T17:05:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Techmap: Find companies using technologies you love]]></title>
+        <id>https://techmap.io/</id>
+        <link href="https://techmap.io/"/>
+        <updated>2021-10-17T16:14:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zig gamedev project – left my job to build games in Zig lang]]></title>
+        <id>https://github.com/michal-z/zig-gamedev</id>
+        <link href="https://github.com/michal-z/zig-gamedev"/>
+        <updated>2021-10-17T16:11:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HTTP is obsolete – it's time for the distributed, permanent web (2015)]]></title>
+        <id>https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html</id>
+        <link href="https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html"/>
+        <updated>2021-10-17T15:57:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Detailed thoughts on the State of the .NET Foundation]]></title>
+        <id>https://github.com/dotnet-foundation/Home/discussions/60</id>
+        <link href="https://github.com/dotnet-foundation/Home/discussions/60"/>
+        <updated>2021-10-17T15:51:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remote sensing reveals Antarctic green snow algae as important carbon sink]]></title>
         <id>https://www.nature.com/articles/s41467-020-16018-w</id>
         <link href="https://www.nature.com/articles/s41467-020-16018-w"/>
         <updated>2021-10-17T14:28:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The high-frequency trading arms race: frequent batch auctions (2015)]]></title>
+        <id>https://academic.oup.com/qje/article/130/4/1547/1916146</id>
+        <link href="https://academic.oup.com/qje/article/130/4/1547/1916146"/>
+        <updated>2021-10-17T14:20:04.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -56,36 +216,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Not WireGuard (2020)]]></title>
-        <id>https://blog.ipfire.org/post/why-not-wireguard</id>
-        <link href="https://blog.ipfire.org/post/why-not-wireguard"/>
-        <updated>2021-10-17T13:38:12.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physicists take a key step in correcting quantum computer errors]]></title>
-        <id>https://www.science.org/content/article/physicists-take-key-step-correcting-quantum-computer-errors</id>
-        <link href="https://www.science.org/content/article/physicists-take-key-step-correcting-quantum-computer-errors"/>
-        <updated>2021-10-17T12:34:50.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook is researching AI systems that see, hear, remember everything you do]]></title>
-        <id>https://www.theverge.com/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research</id>
-        <link href="https://www.theverge.com/2021/10/14/22725894/facebook-augmented-reality-ar-glasses-ai-systems-ego4d-research"/>
-        <updated>2021-10-17T12:31:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Show HN: Vizzu – Open-source charting library focused on animating charts]]></title>
         <id>https://lib.vizzuhq.com/</id>
         <link href="https://lib.vizzuhq.com/"/>
@@ -116,36 +246,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chums (YC W21) Is Hiring a Back End Engineer]]></title>
-        <id>https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120</id>
-        <link href="https://chumsco.notion.site/chumsco/Come-Work-Chums-d4788a53d8ee4820891e2ae7fa156120"/>
-        <updated>2021-10-17T12:00:44.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Felicette – The Space Cat]]></title>
-        <id>https://stuartatkinson.wordpress.com/felicette-the-space-cat/</id>
-        <link href="https://stuartatkinson.wordpress.com/felicette-the-space-cat/"/>
-        <updated>2021-10-17T11:30:56.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A λ-calculus interpreter written in C preprocessor macros]]></title>
-        <id>https://github.com/Hirrolot/metalang99/blob/master/examples/lambda_calculus.c</id>
-        <link href="https://github.com/Hirrolot/metalang99/blob/master/examples/lambda_calculus.c"/>
-        <updated>2021-10-17T11:16:11.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux To No Longer Enable AMD SME Usage By Default Due To Problems With Some Hardware]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-SME-No-Default-Use</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-SME-No-Default-Use"/>
@@ -156,16 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Go: Don't Change the Libraries in 1.18]]></title>
-        <id>https://github.com/golang/go/issues/48918</id>
-        <link href="https://github.com/golang/go/issues/48918"/>
-        <updated>2021-10-17T10:41:42.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Vortex86 Processors Finally Seeing Work In 2021 For Proper Handling Under Linux]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Vortex86-Linux-Detection</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Vortex86-Linux-Detection"/>
@@ -173,6 +263,16 @@
         <summary type="html"><![CDATA[The Vortex86 32-bit SoCs have worked under Linux for those distributions still maintaining 32-bit x86 support and where not hitting corner-cases of some i686 level features not being supported by some Vortex86 cores, but there is finally a pending kernel patch to provide proper CPU detection for Vortex86 hardware...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Mathematics is Boring (2007) [pdf]]]></title>
+        <id>https://math.ucr.edu/home/baez/boring.pdf</id>
+        <link href="https://math.ucr.edu/home/baez/boring.pdf"/>
+        <updated>2021-10-17T09:35:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -194,16 +294,6 @@ https://scalefactory.com/blog/2021/10/13/failing-faster-with-terraform/
 Not everyone has found devops p…]]></summary>
         <author>
             <name>Devops Weekly</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alan Kay on the context and catalysts of personal computing]]></title>
-        <id>https://www.notion.so/blog/alan-kay</id>
-        <link href="https://www.notion.so/blog/alan-kay"/>
-        <updated>2021-10-17T07:54:48.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -249,36 +339,6 @@ Not everyone has found devops p…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Obsidian – A knowledge base from a local folder of plain text Markdown files]]></title>
-        <id>https://obsidian.md/</id>
-        <link href="https://obsidian.md/"/>
-        <updated>2021-10-17T06:41:58.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatic CPU speed and power optimizer for Linux]]></title>
-        <id>https://github.com/AdnanHodzic/auto-cpufreq</id>
-        <link href="https://github.com/AdnanHodzic/auto-cpufreq"/>
-        <updated>2021-10-17T06:05:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An underwater mystery on Canada's coast]]></title>
-        <id>https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast</id>
-        <link href="https://www.bbc.com/travel/article/20211013-an-underwater-mystery-on-canadas-coast"/>
-        <updated>2021-10-17T04:33:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Axboe Achieves 8M IOPS Per-Core With Newest Linux Optimization Patches]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=8M-IOPS-Per-Core-Linux</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=8M-IOPS-Per-Core-Linux"/>
@@ -289,50 +349,40 @@ Not everyone has found devops p…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Food Timeline]]></title>
-        <id>https://foodtimeline.org/</id>
-        <link href="https://foodtimeline.org/"/>
-        <updated>2021-10-17T03:09:52.000Z</updated>
+        <title type="html"><![CDATA[How quickly do algorithms improve?]]></title>
+        <id>https://news.mit.edu/2021/how-quickly-do-algorithms-improve-0920</id>
+        <link href="https://news.mit.edu/2021/how-quickly-do-algorithms-improve-0920"/>
+        <updated>2021-10-17T01:33:33.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stiff asks, great programmers answer (2006)]]></title>
-        <id>http://web.archive.org/web/20061124122032/http://www.stifflog.com/2006/10/16/stiff-asks-great-programmers-answer/</id>
-        <link href="http://web.archive.org/web/20061124122032/http://www.stifflog.com/2006/10/16/stiff-asks-great-programmers-answer/"/>
-        <updated>2021-10-17T02:08:15.000Z</updated>
+        <title type="html"><![CDATA[The Fairchild Channel F: First and Finest?]]></title>
+        <id>https://nicole.express/2021/the-most-unfair-child.html</id>
+        <link href="https://nicole.express/2021/the-most-unfair-child.html"/>
+        <updated>2021-10-16T21:17:55.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The unsolved mystery of the Earth blobs (2019)]]></title>
-        <id>https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs</id>
-        <link href="https://eos.org/features/the-unsolved-mystery-of-the-earth-blobs"/>
-        <updated>2021-10-17T01:44:50.000Z</updated>
+        <title type="html"><![CDATA[Open Simulator]]></title>
+        <id>http://opensimulator.org/wiki/Main_Page</id>
+        <link href="http://opensimulator.org/wiki/Main_Page"/>
+        <updated>2021-10-16T20:30:08.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Speech and Language Processing]]></title>
-        <id>https://web.stanford.edu/~jurafsky/slp3/</id>
-        <link href="https://web.stanford.edu/~jurafsky/slp3/"/>
-        <updated>2021-10-16T20:33:25.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dislike button would improve Spotify's recommendations]]></title>
-        <id>https://news.cornell.edu/stories/2021/09/dislike-button-would-improve-spotifys-recommendations</id>
-        <link href="https://news.cornell.edu/stories/2021/09/dislike-button-would-improve-spotifys-recommendations"/>
-        <updated>2021-10-16T18:49:23.000Z</updated>
+        <title type="html"><![CDATA[Leave no trace: how a teenage hacker lost himself online]]></title>
+        <id>https://www.theguardian.com/technology/2021/oct/14/leave-no-trace-how-a-teenage-hacker-lost-himself-online</id>
+        <link href="https://www.theguardian.com/technology/2021/oct/14/leave-no-trace-how-a-teenage-hacker-lost-himself-online"/>
+        <updated>2021-10-16T18:17:44.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -349,30 +399,10 @@ Not everyone has found devops p…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Things my dog taught me about software development]]></title>
-        <id>https://philbooth.me/blog/things-my-dog-taught-me-about-software-development</id>
-        <link href="https://philbooth.me/blog/things-my-dog-taught-me-about-software-development"/>
-        <updated>2021-10-16T11:12:48.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Calculate the Trappiest Openings in Chess Using Stats]]></title>
-        <id>https://medium.com/applied-data-science/how-to-calculate-the-trappiest-openings-in-chess-2bc24a6345f7</id>
-        <link href="https://medium.com/applied-data-science/how-to-calculate-the-trappiest-openings-in-chess-2bc24a6345f7"/>
-        <updated>2021-10-16T11:01:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pursue High-Quality Leisure]]></title>
-        <id>https://www.deprocrastination.co/blog/pursue-high-quality-leisure</id>
-        <link href="https://www.deprocrastination.co/blog/pursue-high-quality-leisure"/>
-        <updated>2021-10-16T10:51:03.000Z</updated>
+        <title type="html"><![CDATA[Learn Wgpu]]></title>
+        <id>https://sotrh.github.io/learn-wgpu/</id>
+        <link href="https://sotrh.github.io/learn-wgpu/"/>
+        <updated>2021-10-16T15:06:34.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -399,16 +429,6 @@ Not everyone has found devops p…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Simon Roper: the 23-year-old reconstructing the past for millions of viewers]]></title>
-        <id>https://www.newstatesman.com/the-culture-interview/2021/10/simon-roper-the-23-year-old-reconstructing-the-past-for-millions-of-online-viewers</id>
-        <link href="https://www.newstatesman.com/the-culture-interview/2021/10/simon-roper-the-23-year-old-reconstructing-the-past-for-millions-of-online-viewers"/>
-        <updated>2021-10-16T08:58:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Bareflank Hypervisor 3.0 Pre-Release Debuts With Many Changes]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Bareflank-3.0-Pre-Release</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Bareflank-3.0-Pre-Release"/>
@@ -416,26 +436,6 @@ Not everyone has found devops p…]]></summary>
         <summary type="html"><![CDATA[The open-source Bareflank Hypervisor project designed to prototype new hypervisors across Intel, AMD, and AArch64 platforms issued their long-awaited 3.0 pre-release on Friday...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A 100 MHz Pin-Compatible 6502 Replacement]]></title>
-        <id>https://hackaday.com/2021/10/15/heres-a-100-mhz-pin-compatible-6502-replacement/</id>
-        <link href="https://hackaday.com/2021/10/15/heres-a-100-mhz-pin-compatible-6502-replacement/"/>
-        <updated>2021-10-16T08:35:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Some tech founders are getting huge pay packages]]></title>
-        <id>https://www.wsj.com/articles/silicon-valley-tech-startup-founder-pay-compensation-stock-packages-11634321296</id>
-        <link href="https://www.wsj.com/articles/silicon-valley-tech-startup-founder-pay-compensation-stock-packages-11634321296"/>
-        <updated>2021-10-16T08:01:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
