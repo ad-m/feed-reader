@@ -1,15 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-19T00:00:50.030Z</id>
+    <id>urn:2021-10-19T08:00:41.246Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-19T00:00:50.030Z</updated>
+    <updated>2021-10-19T08:00:41.246Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[In the Shadow of the Great War]]></title>
-        <id>https://rootsofprogress.org/in-the-shadow-of-the-great-war</id>
-        <link href="https://rootsofprogress.org/in-the-shadow-of-the-great-war"/>
-        <updated>2021-10-18T23:14:15.000Z</updated>
+        <title type="html"><![CDATA[Raspberry Pi Build HAT – Controls Lego Technic motors and sensors]]></title>
+        <id>https://www.raspberrypi.com/news/raspberry-pi-build-hat-lego-education/</id>
+        <link href="https://www.raspberrypi.com/news/raspberry-pi-build-hat-lego-education/"/>
+        <updated>2021-10-19T07:01:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star's strange path around black hole proves Einstein right – again]]></title>
+        <id>https://www.science.org/content/article/star-s-strange-path-around-black-hole-proves-einstein-right-again</id>
+        <link href="https://www.science.org/content/article/star-s-strange-path-around-black-hole-proves-einstein-right-again"/>
+        <updated>2021-10-19T06:54:26.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First Geekbench for MacBook Pro M1 Max with 2x Faster Multi-Core Performance]]></title>
+        <id>https://www.macrumors.com/2021/10/18/first-m1-max-geekbench-score-surfaces/</id>
+        <link href="https://www.macrumors.com/2021/10/18/first-m1-max-geekbench-score-surfaces/"/>
+        <updated>2021-10-19T05:51:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis Anti-Patterns Every Developer Should Avoid]]></title>
+        <id>https://developer.redis.com/howtos/antipatterns/</id>
+        <link href="https://developer.redis.com/howtos/antipatterns/"/>
+        <updated>2021-10-19T04:07:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Early Progress Made On Porting Radeon Vulkan Driver To BeOS-Inspired Haiku OS]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=RADV-Port-WIP-For-Haiku</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RADV-Port-WIP-For-Haiku"/>
+        <updated>2021-10-19T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[After successfully getting Mesa's software-based Lavapipe Vulkan implementation building on Haiku last month along with related Mesa code for headless support, a developer independent of AMD has started work on porting the Mesa Radeon Vulkan driver "RADV" to Haiku...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The SaaS Metrics That Matter]]></title>
+        <id>https://sacks.substack.com/p/the-saas-metrics-that-matter</id>
+        <link href="https://sacks.substack.com/p/the-saas-metrics-that-matter"/>
+        <updated>2021-10-19T03:12:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[David Zucker reflects on "Airplane!" in 2021]]></title>
+        <id>https://www.commentary.org/articles/david-zucker/wokeness_destroys-comedy/</id>
+        <link href="https://www.commentary.org/articles/david-zucker/wokeness_destroys-comedy/"/>
+        <updated>2021-10-19T03:05:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dense Vectors: Capturing Meaning with Code]]></title>
+        <id>https://www.pinecone.io/learn/dense-vector-embeddings-nlp/</id>
+        <link href="https://www.pinecone.io/learn/dense-vector-embeddings-nlp/"/>
+        <updated>2021-10-19T02:55:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transplanting the Mac’s Central Processor: Gary Davidian and His 68000 Emulator]]></title>
+        <id>https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/</id>
+        <link href="https://computerhistory.org/blog/transplanting-the-macs-central-processor-gary-davidian-and-his-68000-emulator/"/>
+        <updated>2021-10-19T02:24:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Result monad for Elixir inspired by Rust Result type]]></title>
+        <id>https://hexdocs.pm/rustic_result/readme.html</id>
+        <link href="https://hexdocs.pm/rustic_result/readme.html"/>
+        <updated>2021-10-19T01:25:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SigNoz (YC W21) Is Hiring a senior back-end engineer]]></title>
+        <id>https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-founding-sr-backend-engineer</id>
+        <link href="https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-founding-sr-backend-engineer"/>
+        <updated>2021-10-19T01:00:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Was Google Earth Stolen?]]></title>
+        <id>https://avibarzeev.medium.com/was-google-earth-stolen-7d1b821e589b</id>
+        <link href="https://avibarzeev.medium.com/was-google-earth-stolen-7d1b821e589b"/>
+        <updated>2021-10-18T23:59:29.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -26,7 +136,17 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Johns Hopkins Receives 1st Fed. Grant 4 Psychedelic Treatment Research in 50 Yrs]]></title>
+        <title type="html"><![CDATA[Why soda bottles have gaps in their threads]]></title>
+        <id>http://www.madsci.org/posts/archives/2000-02/950761555.Eg.r.html</id>
+        <link href="http://www.madsci.org/posts/archives/2000-02/950761555.Eg.r.html"/>
+        <updated>2021-10-18T22:16:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[First federal grant for psychedelic treatment research in 50 years]]></title>
         <id>https://www.hopkinsmedicine.org/news/newsroom/news-releases/johns-hopkins-medicine-receives-first-federal-grant-for-psychedelic-treatment-research-in-50-years</id>
         <link href="https://www.hopkinsmedicine.org/news/newsroom/news-releases/johns-hopkins-medicine-receives-first-federal-grant-for-psychedelic-treatment-research-in-50-years"/>
         <updated>2021-10-18T21:54:04.000Z</updated>
@@ -36,17 +156,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ambition (YC W14) Is Hiring Python Engineers and a QA Analyst]]></title>
-        <id>https://ambition.com/careers/</id>
-        <link href="https://ambition.com/careers/"/>
-        <updated>2021-10-18T21:52:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Physicists make most precise measurement ever of neutron’s lifetime]]></title>
+        <title type="html"><![CDATA[Physicists make most precise measurement of neutron’s lifetime]]></title>
         <id>https://www.nature.com/articles/d41586-021-02812-z</id>
         <link href="https://www.nature.com/articles/d41586-021-02812-z"/>
         <updated>2021-10-18T21:17:10.000Z</updated>
@@ -126,6 +236,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Human History Gets a Rewrite]]></title>
+        <id>https://www.theatlantic.com/magazine/archive/2021/11/graeber-wengrow-dawn-of-everything-history-humanity/620177/</id>
+        <link href="https://www.theatlantic.com/magazine/archive/2021/11/graeber-wengrow-dawn-of-everything-history-humanity/620177/"/>
+        <updated>2021-10-18T18:11:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MacBook Pro 14-inch and MacBook Pro 16-inch]]></title>
         <id>https://www.apple.com/macbook-pro-14-and-16/</id>
         <link href="https://www.apple.com/macbook-pro-14-and-16/"/>
@@ -173,16 +293,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Attorney General orders unregistered crypto lending platforms to exit NY]]></title>
-        <id>https://ag.ny.gov/press-release/2021/attorney-general-james-directs-unregistered-crypto-lending-platforms-cease</id>
-        <link href="https://ag.ny.gov/press-release/2021/attorney-general-james-directs-unregistered-crypto-lending-platforms-cease"/>
-        <updated>2021-10-18T16:51:01.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Crawler Hints Update: Cloudflare Supports IndexNow and Announces General Availability]]></title>
         <id>616d8d9ac2a0ee02a722ce51</id>
         <link href="https://blog.cloudflare.com/cloudflare-now-supports-indexnow/"/>
@@ -190,6 +300,16 @@
         <summary type="html"><![CDATA[Crawler Hints now supports IndexNow, a new protocol that allows websites to notify search engines whenever content on their website content is created, updated, or deleted.]]></summary>
         <author>
             <name>Alex Krivit</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Felingua – Language practice by writing pages and reviewing flashcards]]></title>
+        <id>https://felingua.com/</id>
+        <link href="https://felingua.com/"/>
+        <updated>2021-10-18T16:21:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -203,40 +323,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Code CAD – Use code to create CAD models]]></title>
-        <id>https://cadhub.xyz/u/caterpillar/moving_fish/ide</id>
-        <link href="https://cadhub.xyz/u/caterpillar/moving_fish/ide"/>
-        <updated>2021-10-18T15:47:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DuckDuckGo has had 0 search warrants since founding in 2008]]></title>
-        <id>https://twitter.com/DuckDuckGo/status/1447559362906447874</id>
-        <link href="https://twitter.com/DuckDuckGo/status/1447559362906447874"/>
-        <updated>2021-10-18T15:40:41.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Open-sourcing the MuJoCo physics simulator for robotics]]></title>
         <id>https://deepmind.com/blog/announcements/mujoco</id>
         <link href="https://deepmind.com/blog/announcements/mujoco"/>
         <updated>2021-10-18T15:20:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sequoia PGP is now LGPL 2.0]]></title>
-        <id>https://sequoia-pgp.org/blog/2021/10/18/202110-sequoia-pgp-is-now-lgpl-2.0/</id>
-        <link href="https://sequoia-pgp.org/blog/2021/10/18/202110-sequoia-pgp-is-now-lgpl-2.0/"/>
-        <updated>2021-10-18T15:00:13.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -294,16 +384,6 @@ we've had, but it's still slightly worrisome."]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What =delete means]]></title>
-        <id>https://quuxplusone.github.io/blog/2021/10/17/equals-delete-means/</id>
-        <link href="https://quuxplusone.github.io/blog/2021/10/17/equals-delete-means/"/>
-        <updated>2021-10-18T13:07:11.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ubuntu 21.10 Radeon Gaming With KDE Plasma vs. GNOME Shell + Wayland vs. X.Org]]></title>
         <id>https://www.phoronix.com/vr.php?view=30617</id>
         <link href="https://www.phoronix.com/vr.php?view=30617"/>
@@ -324,26 +404,6 @@ we've had, but it's still slightly worrisome."]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What to Learn]]></title>
-        <id>https://danluu.com/learn-what/</id>
-        <link href="https://danluu.com/learn-what/"/>
-        <updated>2021-10-18T10:34:52.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS is playing chess, Cloudflare is playing Go]]></title>
-        <id>https://www.swyx.io/cloudflare-go/</id>
-        <link href="https://www.swyx.io/cloudflare-go/"/>
-        <updated>2021-10-18T10:28:32.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mesa 22.0 Lands Some Patches Toward OpenCL Image Support]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-22.0-OpenCL-Image-Prep</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-22.0-OpenCL-Image-Prep"/>
@@ -351,16 +411,6 @@ we've had, but it's still slightly worrisome."]]></summary>
         <summary type="html"><![CDATA[Mesa 22.0-devel is one step closer to having OpenCL image support that is sought after by many individuals for allowing more OpenCL-enabled desktop software to work nicely with this open-source OpenCL component in Mesa...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Issues we've encountered while building a Kafka based data processing pipeline]]></title>
-        <id>https://sixfold.medium.com/bringing-kafka-based-architecture-to-the-next-level-using-simple-postgresql-tables-415f1ff6076d</id>
-        <link href="https://sixfold.medium.com/bringing-kafka-based-architecture-to-the-next-level-using-simple-postgresql-tables-415f1ff6076d"/>
-        <updated>2021-10-18T09:22:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -405,20 +455,10 @@ With five talks covering a broad spectrum of topics from creating solutions to i
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VK3CPU RF Toroid Calculator]]></title>
-        <id>https://miguelvaca.github.io/vk3cpu/toroid.html</id>
-        <link href="https://miguelvaca.github.io/vk3cpu/toroid.html"/>
-        <updated>2021-10-17T14:07:49.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spatial Keyboard Navigation]]></title>
-        <id>https://danilowoz.com/blog/spatial-keyboard-navigation</id>
-        <link href="https://danilowoz.com/blog/spatial-keyboard-navigation"/>
-        <updated>2021-10-17T12:25:03.000Z</updated>
+        <title type="html"><![CDATA[Learning about writing by seeing only the punctuation]]></title>
+        <id>https://medium.com/creators-hub/what-i-learned-about-my-writing-by-seeing-only-the-punctuation-efd5334060b1</id>
+        <link href="https://medium.com/creators-hub/what-i-learned-about-my-writing-by-seeing-only-the-punctuation-efd5334060b1"/>
+        <updated>2021-10-17T19:53:21.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -466,16 +506,6 @@ Not everyone has found devops p…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Std: Execution, Sender/Receiver, and the Continuation Monad]]></title>
-        <id>https://sdowney.org/index.php/2021/10/03/stdexecution-sender-receiver-and-the-continuation-monad/</id>
-        <link href="https://sdowney.org/index.php/2021/10/03/stdexecution-sender-receiver-and-the-continuation-monad/"/>
-        <updated>2021-10-17T08:20:58.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevOps’ish 239: KubeCon, tzdata, weak SSH keys revoked, Linux kernel CPU Namespace proposal, multicloud, and more]]></title>
         <id>https://kill-the-newsletter.com/alternates/ewzqpv50h7uj4ooi.html</id>
         <link href="https://kill-the-newsletter.com/alternates/ewzqpv50h7uj4ooi.html"/>
@@ -518,20 +548,20 @@ Not everyone has found devops p…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firecracker MicroVMs]]></title>
-        <id>https://firecracker-microvm.github.io/</id>
-        <link href="https://firecracker-microvm.github.io/"/>
-        <updated>2021-10-17T04:11:41.000Z</updated>
+        <title type="html"><![CDATA[A Philosophy of Falcons]]></title>
+        <id>https://www.historytoday.com/archive/natural-histories/philosophy-falcons</id>
+        <link href="https://www.historytoday.com/archive/natural-histories/philosophy-falcons"/>
+        <updated>2021-10-17T05:01:59.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Axboe Achieves 8M IOPS Per-Core with Newest Linux Optimization Patches]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=8M-IOPS-Per-Core-Linux</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=8M-IOPS-Per-Core-Linux"/>
-        <updated>2021-10-17T04:05:58.000Z</updated>
+        <title type="html"><![CDATA[People in present-day Austria drank beer and ate blue cheese 2,700 years ago]]></title>
+        <id>https://phys.org/news/2021-10-ancient-poop-people-present-day-austria.html</id>
+        <link href="https://phys.org/news/2021-10-ancient-poop-people-present-day-austria.html"/>
+        <updated>2021-10-17T04:27:02.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -545,6 +575,16 @@ Not everyone has found devops p…]]></summary>
         <summary type="html"><![CDATA[It was just last week that Linux optimizations were leading to possible 6M IOPS per core and then at the start of this week new patches pushed Linux past 7M IOPS per-core with an ideal hardware configuration as well. In ending out the week, 8M IOPS has been reached!..]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Shows Off Multi-Chiplet Sapphire Rapids CPU with HBM]]></title>
+        <id>https://www.tomshardware.com/news/sapphire-rapids-with-hbm-pictured</id>
+        <link href="https://www.tomshardware.com/news/sapphire-rapids-with-hbm-pictured"/>
+        <updated>2021-10-16T19:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -608,16 +648,6 @@ Not everyone has found devops p…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Onetun – Access your WireGuard network from anywhere]]></title>
-        <id>https://github.com/aramperes/onetun</id>
-        <link href="https://github.com/aramperes/onetun"/>
-        <updated>2021-10-16T01:47:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[v1.11.3]]></title>
         <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3</id>
         <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.3"/>
@@ -637,16 +667,6 @@ Thank you: @hirdot]]></summary>
         <summary type="html"><![CDATA[The Khronos Group's OpenCL working group did a quiet Friday evening tagging of OpenCL 3.0.9...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bayesian histograms for rare event classification]]></title>
-        <id>https://dionhaefner.github.io/2021/09/bayesian-histograms-for-rare-event-classification/</id>
-        <link href="https://dionhaefner.github.io/2021/09/bayesian-histograms-for-rare-event-classification/"/>
-        <updated>2021-10-15T20:02:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -796,16 +816,6 @@ are and what can be made better.]]></summary>
         <summary type="html"><![CDATA[With it getting late into the Linux 5.15 kernel cycle, the focus is shifting by the Direct Rendering Driver maintainers from new feature work targeting the next cycle (5.16) to instead on bug fixes. AMD sent out a pull request of new AMDGPU Linux 5.16 material this week that is primarily delivering bug fixes but one notable addition is finally enabling PSR by default for newer GPUs...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How PHP Opcache Works]]></title>
-        <id>https://www.npopov.com/2021/10/13/How-opcache-works.html</id>
-        <link href="https://www.npopov.com/2021/10/13/How-opcache-works.html"/>
-        <updated>2021-10-15T09:08:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -1022,16 +1032,6 @@ changelog.]]></summary>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=KDE-Plasma-5.23-Released"/>
         <updated>2021-10-14T10:22:20.000Z</updated>
         <summary type="html"><![CDATA[KDE Plasma 5.23 is officially out this morning as the newest major open-source desktop release and is known now as the KDE 25th Anniversary Edition...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Qt Creator 6 Beta Released With Updated C++ Code Model, Binaries Built Against Qt 6.2]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Qt-Creator-6-Beta</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Qt-Creator-6-Beta"/>
-        <updated>2021-10-14T10:15:19.000Z</updated>
-        <summary type="html"><![CDATA[With Qt 6.2 LTS having shipped at the end of September, The Qt Company is now turning their attention to Qt Creator 6 as the next version of their Qt/C++ focused integrated development environment...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
