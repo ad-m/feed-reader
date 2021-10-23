@@ -31,40 +31,184 @@
       "siteUrl": "https://news.ycombinator.com/",
       "articles": [
         {
+          "id": "https://wccftech.com/amd-short-interest-has-grown-by-234-in-nine-months-reveals-data/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://wccftech.com/amd-short-interest-has-grown-by-234-in-nine-months-reveals-data/",
+          "publishedOn": "2021-10-23T14:36:46.000Z",
+          "wordCount": 1227,
+          "title": "AMD Short Interest Has Grown by 234% in Nine Months Reveals Data"
+        },
+        {
+          "id": "https://www.thedrive.com/the-war-zone/42852/the-air-force-has-a-plan-to-make-jet-fuel-out-of-thin-air",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.thedrive.com/the-war-zone/42852/the-air-force-has-a-plan-to-make-jet-fuel-out-of-thin-air",
+          "publishedOn": "2021-10-23T14:29:31.000Z",
+          "wordCount": 1842,
+          "title": "The Air Force Has a Plan to Make Jet Fuel Out of Thin Air"
+        },
+        {
+          "id": "https://dusted.codes/can-we-trust-microsoft-with-open-source",
+          "author": null,
+          "description": "Comments",
+          "link": "https://dusted.codes/can-we-trust-microsoft-with-open-source",
+          "publishedOn": "2021-10-23T13:32:44.000Z",
+          "wordCount": 1673,
+          "title": "Can we trust Microsoft with Open Source?"
+        },
+        {
+          "id": "https://sub.live",
+          "author": null,
+          "description": "Comments",
+          "link": "https://sub.live",
+          "publishedOn": "2021-10-23T13:27:34.000Z",
+          "wordCount": 470,
+          "title": "Show HN: Super low-latency jamming over the internet"
+        },
+        {
+          "id": "https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/",
+          "publishedOn": "2021-10-23T13:21:38.000Z",
+          "wordCount": 4230,
+          "title": "What do I need to read to be a great at CSS?"
+        },
+        {
+          "id": "https://blog.runbox.com/2021/10/runbox-is-under-attack-by-extortionists/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://blog.runbox.com/2021/10/runbox-is-under-attack-by-extortionists/",
+          "publishedOn": "2021-10-23T13:10:00.000Z",
+          "wordCount": 1178,
+          "title": "Fastmail, Runbox, and Posteo under DDoS extortion attack"
+        },
+        {
+          "id": "https://www.aljazeera.com/features/2021/10/18/harvesting-true-cinnamon-the-story-of-the-ceylon-spice",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.aljazeera.com/features/2021/10/18/harvesting-true-cinnamon-the-story-of-the-ceylon-spice",
+          "publishedOn": "2021-10-23T12:17:24.000Z",
+          "wordCount": 3926,
+          "title": "Harvesting ‘true cinnamon’: The story of the Ceylon spice"
+        },
+        {
+          "id": "https://www.nytimes.com/2021/10/22/technology/google-privacy-lawsuit.html",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.nytimes.com/2021/10/22/technology/google-privacy-lawsuit.html",
+          "publishedOn": "2021-10-23T12:12:39.000Z",
+          "wordCount": 490,
+          "title": "Google said it had successfully ‘slowed down’ European privacy rules"
+        },
+        {
+          "id": "https://www.ftc.gov/system/files/documents/reports/look-what-isps-know-about-you-examining-privacy-practices-six-major-internet-service-providers/p195402_isp_6b_staff_report.pdf",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.ftc.gov/system/files/documents/reports/look-what-isps-know-about-you-examining-privacy-practices-six-major-internet-service-providers/p195402_isp_6b_staff_report.pdf",
+          "publishedOn": "2021-10-23T12:12:24.000Z",
+          "wordCount": 88131,
+          "title": "FTC Report – A Look at What ISPs Know About You [pdf]"
+        },
+        {
+          "id": "https://news.ycombinator.com/item?id=28967604",
+          "author": null,
+          "description": "Comments",
+          "link": "https://news.ycombinator.com/item?id=28967604",
+          "publishedOn": "2021-10-23T12:00:34.000Z",
+          "wordCount": 190,
+          "title": "Sirum (YC W15) is hiring to help automate safety-net pharmacies"
+        },
+        {
+          "id": "https://www.theregister.com/2021/10/22/google_facebook_antitrust_complaint/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.theregister.com/2021/10/22/google_facebook_antitrust_complaint/",
+          "publishedOn": "2021-10-23T11:54:13.000Z",
+          "wordCount": 3215,
+          "title": "Google 'colluded' with Facebook to bypass Apple privacy"
+        },
+        {
+          "id": "https://quakkels.com/posts/rss-is-wonderful/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://quakkels.com/posts/rss-is-wonderful/",
+          "publishedOn": "2021-10-23T11:47:16.000Z",
+          "wordCount": 1069,
+          "title": "RSS is wonderful"
+        },
+        {
+          "id": "https://www.mining.com/liquid-metal-helps-convert-co2-into-useful-resources/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.mining.com/liquid-metal-helps-convert-co2-into-useful-resources/",
+          "publishedOn": "2021-10-23T11:09:15.000Z",
+          "wordCount": 744,
+          "title": "Gallium helps convert CO2 into Carbon and Oxygen"
+        },
+        {
+          "id": "https://github.com/nuta/nsh",
+          "author": null,
+          "description": "Comments",
+          "link": "https://github.com/nuta/nsh",
+          "publishedOn": "2021-10-23T10:49:26.000Z",
+          "wordCount": 659,
+          "title": "Nsh: A fish/bash-like Posix shell in Rust"
+        },
+        {
+          "id": "https://www.politico.com/news/2021/10/22/google-kids-privacy-protections-tech-giants-516834",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.politico.com/news/2021/10/22/google-kids-privacy-protections-tech-giants-516834",
+          "publishedOn": "2021-10-23T09:50:17.000Z",
+          "wordCount": 1353,
+          "title": "Google sought fellow tech giants' help in stalling kids' privacy protections"
+        },
+        {
+          "id": "https://www.reuters.com/business/autos-transportation/dutch-forensic-lab-says-it-has-decoded-teslas-driving-data-2021-10-21/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.reuters.com/business/autos-transportation/dutch-forensic-lab-says-it-has-decoded-teslas-driving-data-2021-10-21/",
+          "publishedOn": "2021-10-23T09:29:31.000Z",
+          "wordCount": 1063,
+          "title": "Tesla Autopilot Data Reverse Engineered"
+        },
+        {
+          "id": "https://www.smithsonianmag.com/smart-news/when-people-carved-turnips-instead-of-pumpkins-for-halloween-180978922/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.smithsonianmag.com/smart-news/when-people-carved-turnips-instead-of-pumpkins-for-halloween-180978922/",
+          "publishedOn": "2021-10-23T09:18:44.000Z",
+          "wordCount": 1084,
+          "title": "When People Carved Turnips Instead of Pumpkins for Halloween"
+        },
+        {
+          "id": "https://www.lalal.ai/blog/meet-lalal-ai-cassiopeia-a-milestone-in-music-source-separation/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.lalal.ai/blog/meet-lalal-ai-cassiopeia-a-milestone-in-music-source-separation/",
+          "publishedOn": "2021-10-23T08:57:29.000Z",
+          "wordCount": 1237,
+          "title": "Cassiopeia: New Audio Splitter Superior to Spleeter and UMX"
+        },
+        {
+          "id": "https://www.statnews.com/2021/10/21/athira-chief-executive-resigns-as-company-confirms-she-altered-research/",
+          "author": null,
+          "description": "Comments",
+          "link": "https://www.statnews.com/2021/10/21/athira-chief-executive-resigns-as-company-confirms-she-altered-research/",
+          "publishedOn": "2021-10-23T08:05:37.000Z",
+          "wordCount": 942,
+          "title": "Athira chief executive resigns as company confirms she altered research"
+        },
+        {
           "id": "https://github.com/mthom/scryer-prolog",
           "author": null,
           "description": "Comments",
           "link": "https://github.com/mthom/scryer-prolog",
           "publishedOn": "2021-10-23T06:00:53.000Z",
           "wordCount": 3614,
-          "title": "Scryer-Prolog: modern Prolog implementation written mostly in Rust"
-        },
-        {
-          "id": "https://www.wsj.com/articles/federal-judges-brokers-traded-stocks-of-litigants-during-cases-walmart-pfizer-11634306192",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.wsj.com/articles/federal-judges-brokers-traded-stocks-of-litigants-during-cases-walmart-pfizer-11634306192",
-          "publishedOn": "2021-10-23T05:37:18.000Z",
-          "wordCount": 3909,
-          "title": "Federal Judges or Their Brokers Traded Stocks of Litigants During Cases"
-        },
-        {
-          "id": "https://www.theguardian.com/technology/2021/oct/22/facebook-whistleblower-hate-speech-illegal-report",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.theguardian.com/technology/2021/oct/22/facebook-whistleblower-hate-speech-illegal-report",
-          "publishedOn": "2021-10-23T05:31:30.000Z",
-          "wordCount": 1068,
-          "title": "Facebook crisis grows as new whistleblower and leaked documents emerge"
-        },
-        {
-          "id": "https://app.telepathylab.com/ultimate-student",
-          "author": null,
-          "description": "Comments",
-          "link": "https://app.telepathylab.com/ultimate-student",
-          "publishedOn": "2021-10-23T05:28:49.000Z",
-          "wordCount": 26,
-          "title": "The Ultimate Student: Best Practices for 100 Mental Models"
+          "title": "Scryer Prolog: A modern Prolog implementation written mostly in Rust"
         },
         {
           "id": "https://twitter.com/PatrickMcGee_/status/1451619916994396164",
@@ -76,24 +220,6 @@
           "title": "An enormous thread on alleged Google Facebook collusion"
         },
         {
-          "id": "https://github.com/AndyObtiva/glimmer-dsl-libui",
-          "author": null,
-          "description": "Comments",
-          "link": "https://github.com/AndyObtiva/glimmer-dsl-libui",
-          "publishedOn": "2021-10-23T04:31:26.000Z",
-          "wordCount": 19081,
-          "title": "Glimmer DSL for LibUI – Simplest Native Cross-Platform GUI Library"
-        },
-        {
-          "id": "https://jayconrod.com/posts/122/leaving-google",
-          "author": null,
-          "description": "Comments",
-          "link": "https://jayconrod.com/posts/122/leaving-google",
-          "publishedOn": "2021-10-23T02:56:44.000Z",
-          "wordCount": 2500,
-          "title": "Leaving Google"
-        },
-        {
           "id": "https://ardent-tool.com/keyboard/mods/Model_M_Modifications.html",
           "author": null,
           "description": "Comments",
@@ -103,157 +229,58 @@
           "title": "IBM PS/2 Keyboard Modification"
         },
         {
-          "id": "https://www.ycombinator.com/companies/stayflexi/jobs/XOgPJYp-software-developer",
+          "id": "https://raphlinus.github.io/ui/graphics/gpu/2021/10/22/swapchain-frame-pacing.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.ycombinator.com/companies/stayflexi/jobs/XOgPJYp-software-developer",
-          "publishedOn": "2021-10-23T01:01:04.000Z",
-          "wordCount": 546,
-          "title": "Stayflexi (YC W21) Is Hiring"
+          "link": "https://raphlinus.github.io/ui/graphics/gpu/2021/10/22/swapchain-frame-pacing.html",
+          "publishedOn": "2021-10-22T22:10:19.000Z",
+          "wordCount": 4358,
+          "title": "Swapchains and Frame Pacing"
         },
         {
-          "id": "https://www.overcomingbias.com/2021/10/what-makes-stuff-rot.html",
+          "id": "https://susam.in/blog/good-blessings.html",
           "author": null,
           "description": "Comments",
-          "link": "https://www.overcomingbias.com/2021/10/what-makes-stuff-rot.html",
-          "publishedOn": "2021-10-23T00:40:41.000Z",
-          "wordCount": 698,
-          "title": "What Makes Stuff Rot?"
+          "link": "https://susam.in/blog/good-blessings.html",
+          "publishedOn": "2021-10-22T11:01:58.000Z",
+          "wordCount": 790,
+          "title": "Good Blessings (2016)"
         },
         {
-          "id": "http://pages.erau.edu/~andrewsa/sci_fi_projects_spring_2015/Project_2/Eilts_Mitchell/Dune%20Eilts/Dune%20Eilts/index_Eilts.html",
+          "id": "https://artsandculture.google.com/story/the-klimt-color-enigma/SQWxuZfE5ki3mQ?hl=en",
           "author": null,
           "description": "Comments",
-          "link": "http://pages.erau.edu/~andrewsa/sci_fi_projects_spring_2015/Project_2/Eilts_Mitchell/Dune%20Eilts/Dune%20Eilts/index_Eilts.html",
-          "publishedOn": "2021-10-23T00:25:02.000Z",
-          "wordCount": 1777,
-          "title": "Feasibility of a Dune Ornithopter"
+          "link": "https://artsandculture.google.com/story/the-klimt-color-enigma/SQWxuZfE5ki3mQ?hl=en",
+          "publishedOn": "2021-10-22T10:50:43.000Z",
+          "wordCount": 1984,
+          "title": "The Klimt Color Enigma"
         },
         {
-          "id": "https://www.cpushack.com/2021/10/22/the-ibm-4020-military-computer-tracking-missiles-with-6-bit-bytes/",
+          "id": "https://quickwit.io/blog/search-a-sorted-block/",
           "author": null,
           "description": "Comments",
-          "link": "https://www.cpushack.com/2021/10/22/the-ibm-4020-military-computer-tracking-missiles-with-6-bit-bytes/",
-          "publishedOn": "2021-10-22T23:21:21.000Z",
-          "wordCount": 1194,
-          "title": "The IBM 4020 Military Computer – Tracking Missiles with 6-Bit Bytes"
+          "link": "https://quickwit.io/blog/search-a-sorted-block/",
+          "publishedOn": "2021-10-22T10:18:03.000Z",
+          "wordCount": 4081,
+          "title": "A Rust optimization story"
         },
         {
-          "id": "https://github.com/CodedotAl/gpt-code-clippy",
+          "id": "https://github.com/nmigen/nmigen",
           "author": null,
           "description": "Comments",
-          "link": "https://github.com/CodedotAl/gpt-code-clippy",
-          "publishedOn": "2021-10-22T20:51:52.000Z",
-          "wordCount": 1140,
-          "title": "GPT Code Clippy, the Open Source Version of GitHub Copilot"
+          "link": "https://github.com/nmigen/nmigen",
+          "publishedOn": "2021-10-22T10:00:40.000Z",
+          "wordCount": 1174,
+          "title": "nMigen – A refreshed Python toolbox for building complex digital hardware"
         },
         {
-          "id": "https://old.reddit.com/r/programming/comments/qdlela/breaking_npm_package_uaparserjs_with_more_than_7m/",
+          "id": "https://www.theguardian.com/money/2021/oct/22/how-online-meetings-are-levelling-the-office-playing-field",
           "author": null,
           "description": "Comments",
-          "link": "https://old.reddit.com/r/programming/comments/qdlela/breaking_npm_package_uaparserjs_with_more_than_7m/",
-          "publishedOn": "2021-10-22T20:14:26.000Z",
-          "wordCount": 11103,
-          "title": "NPM package ‘ua-parser-JS’ with more than 7M weekly download is compromised"
-        },
-        {
-          "id": "https://lisp-journey.gitlab.io/blog/lisp-interview-kina/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lisp-journey.gitlab.io/blog/lisp-interview-kina/",
-          "publishedOn": "2021-10-22T20:01:51.000Z",
-          "wordCount": 1749,
-          "title": "Kina Knowledge, using Common Lisp extensively in their document processing stack"
-        },
-        {
-          "id": "https://www.filfre.net/2021/10/i-have-no-mouth-and-i-must-scream/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.filfre.net/2021/10/i-have-no-mouth-and-i-must-scream/",
-          "publishedOn": "2021-10-22T15:03:36.000Z",
-          "wordCount": 8949,
-          "title": "I Have No Mouth, and I Must Scream"
-        },
-        {
-          "id": "https://news.ycombinator.com/item?id=28957573",
-          "author": null,
-          "description": "Comments",
-          "link": "https://news.ycombinator.com/item?id=28957573",
-          "publishedOn": "2021-10-22T14:24:32.000Z",
-          "wordCount": 16357,
-          "title": "Ask HN: Best way to host a website for 500 years?"
-        },
-        {
-          "id": "https://semianalysis.com/intel-betting-the-farm-shrinking-business-margins-down-for-few-years-but-aggressively-investing-40b-43b-a-year-and-more-with-subsidies/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://semianalysis.com/intel-betting-the-farm-shrinking-business-margins-down-for-few-years-but-aggressively-investing-40b-43b-a-year-and-more-with-subsidies/",
-          "publishedOn": "2021-10-22T11:10:27.000Z",
-          "wordCount": 1329,
-          "title": "Intel Betting the Farm"
-        },
-        {
-          "id": "https://emacsair.me/2017/09/01/the-magical-git-interface/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://emacsair.me/2017/09/01/the-magical-git-interface/",
-          "publishedOn": "2021-10-22T05:48:25.000Z",
-          "wordCount": 1602,
-          "title": "Magit, the magical Git interface (2017)"
-        },
-        {
-          "id": "https://www.reuters.com/article/autos-tesla-netherlands-data-idUSKBN2HB1D3",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.reuters.com/article/autos-tesla-netherlands-data-idUSKBN2HB1D3",
-          "publishedOn": "2021-10-21T12:08:11.000Z",
-          "wordCount": 1064,
-          "title": "Dutch forensic lab says it has decoded Tesla's driving data"
-        },
-        {
-          "id": "https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.quantamagazine.org/science-has-entered-a-new-era-of-alchemy-good-20211020/",
-          "publishedOn": "2021-10-21T11:33:51.000Z",
-          "wordCount": 1351,
-          "title": "The Uselessness of Useful Knowledge"
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=SY-hQJ5pMd4",
-          "author": null,
-          "description": "Comments",
-          "link": "https://www.youtube.com/watch?v=SY-hQJ5pMd4",
-          "publishedOn": "2021-10-21T09:44:03.000Z",
-          "wordCount": null,
-          "title": "Triumph at Saturn [video]"
-        },
-        {
-          "id": "https://danluu.com/look-stupid/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://danluu.com/look-stupid/",
-          "publishedOn": "2021-10-21T09:25:06.000Z",
-          "wordCount": 4537,
-          "title": "Willingness to look stupid"
-        },
-        {
-          "id": "https://lemire.me/blog/2021/10/21/converting-binary-floating-point-numbers-to-integers/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lemire.me/blog/2021/10/21/converting-binary-floating-point-numbers-to-integers/",
-          "publishedOn": "2021-10-21T08:15:37.000Z",
-          "wordCount": 1926,
-          "title": "Converting binary floating-point numbers to integers"
-        },
-        {
-          "id": "https://arxiv.org/abs/1809.10756",
-          "author": null,
-          "description": "Comments",
-          "link": "https://arxiv.org/abs/1809.10756",
-          "publishedOn": "2021-10-21T06:42:07.000Z",
-          "wordCount": 741,
-          "title": "An Introduction to Probabilistic Programming"
+          "link": "https://www.theguardian.com/money/2021/oct/22/how-online-meetings-are-levelling-the-office-playing-field",
+          "publishedOn": "2021-10-22T07:07:29.000Z",
+          "wordCount": 1102,
+          "title": "Online meetings are levelling the office playing field"
         },
         {
           "id": "https://adoptingerlang.org",
@@ -265,40 +292,13 @@
           "title": "Adopting Erlang"
         },
         {
-          "id": "https://www.laphamsquarterly.org/roundtable/not-belonging-world",
+          "id": "https://www.eecg.utoronto.ca/~jzhu/csc326/readings/iverson.pdf",
           "author": null,
           "description": "Comments",
-          "link": "https://www.laphamsquarterly.org/roundtable/not-belonging-world",
-          "publishedOn": "2021-10-21T01:09:53.000Z",
-          "wordCount": 1934,
-          "title": "Not Belonging to the World: Hannah Arendt Holds Firm"
-        },
-        {
-          "id": "https://lithub.com/check-out-the-original-1851-reviews-of-moby-dick/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://lithub.com/check-out-the-original-1851-reviews-of-moby-dick/",
-          "publishedOn": "2021-10-21T00:15:02.000Z",
-          "wordCount": 1945,
-          "title": "Original 1851 reviews of Moby-Dick"
-        },
-        {
-          "id": "https://soundcloud.com/thomisticinstitute/truth-as-transcendental-ontological-foundations-dr-edward-feser",
-          "author": null,
-          "description": "Comments",
-          "link": "https://soundcloud.com/thomisticinstitute/truth-as-transcendental-ontological-foundations-dr-edward-feser",
-          "publishedOn": "2021-10-20T17:10:57.000Z",
-          "wordCount": 909,
-          "title": "Truth as Transcendental: Ontological Foundations"
-        },
-        {
-          "id": "https://hackaday.com/2021/10/20/audio-tape-interface-revives-microcassettes-as-storage-medium/",
-          "author": null,
-          "description": "Comments",
-          "link": "https://hackaday.com/2021/10/20/audio-tape-interface-revives-microcassettes-as-storage-medium/",
-          "publishedOn": "2021-10-20T09:16:46.000Z",
-          "wordCount": 2688,
-          "title": "Audio tape interface revives microcassettes as storage medium"
+          "link": "https://www.eecg.utoronto.ca/~jzhu/csc326/readings/iverson.pdf",
+          "publishedOn": "2021-10-20T21:54:25.000Z",
+          "wordCount": 56132,
+          "title": "Notation as a Tool of Thought (1986) [pdf]"
         }
       ]
     },
@@ -396,15 +396,6 @@
           "publishedOn": "2021-09-27T12:17:19.000Z",
           "wordCount": 1585,
           "title": "New for Amazon Connect: Voice ID, Wisdom, and Outbound Communications"
-        },
-        {
-          "id": "701147b345634ef37f028239c154531da9dae71e",
-          "author": "Jeff Barr",
-          "description": "Making sense of business data so that you can get value out of it is worthwhile yet still challenging. Even though the term Business Intelligence (BI) has been around since the mid-1800s (according to Wikipedia) adoption of contemporary BI tools within enterprises is still fairly low. Amazon QuickSight was designed to make it easier for […]",
-          "link": "https://aws.amazon.com/blogs/aws/amazon-quicksight-q-business-intelligence-using-natural-language-questions/",
-          "publishedOn": "2021-09-23T23:26:07.000Z",
-          "wordCount": 1377,
-          "title": "Amazon QuickSight Q – Business Intelligence Using Natural Language Questions"
         }
       ]
     },
@@ -593,12 +584,30 @@
       "siteUrl": "https://www.phoronix.com/",
       "articles": [
         {
+          "id": "https://www.phoronix.com/scan.php?page=news_item&px=KDE-Plasma-GBM-NVIDIA-Ready",
+          "author": null,
+          "description": "It's been an exciting week for KDE developers with preparing their formal support for handling NVIDIA's driver with GBM support as well as getting fingerprint authentication finally in place, among other improvements...",
+          "link": "https://www.phoronix.com/scan.php?page=news_item&px=KDE-Plasma-GBM-NVIDIA-Ready",
+          "publishedOn": "2021-10-23T09:36:51.000Z",
+          "wordCount": 823,
+          "title": "KDE Plasma Readies Its NVIDIA GBM Support, Fingerprint Authentication Added"
+        },
+        {
+          "id": "https://www.phoronix.com/scan.php?page=news_item&px=FreeBSD-12.3-BETA1",
+          "author": null,
+          "description": "The FreeBSD team has begun preparations for their next release process with an aim to ship FreeBSD 12.3 in early December...",
+          "link": "https://www.phoronix.com/scan.php?page=news_item&px=FreeBSD-12.3-BETA1",
+          "publishedOn": "2021-10-23T08:52:17.000Z",
+          "wordCount": 720,
+          "title": "FreeBSD 12.3 Prepares For New Release Ahead Of Christmas, Beta Starts"
+        },
+        {
           "id": "https://www.phoronix.com/scan.php?page=news_item&px=Vulkanised-Fall-2021-Materials",
           "author": null,
           "description": "Last week was the virtual Vulkanised Fall 2021 event hosted by The Khronos Group. The two-day event was focused on all things Vulkan and for those that missed it all of the slide decks and other material are now available...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Vulkanised-Fall-2021-Materials",
           "publishedOn": "2021-10-23T04:00:00.000Z",
-          "wordCount": 874,
+          "wordCount": 811,
           "title": "Vulkanised Fall 2021 Material Available - Autodesk Has Begun Using MoltenVK"
         },
         {
@@ -607,7 +616,7 @@
           "description": "Wine 6.20 was released today as the latest bi-weekly development release of this open-source software for enjoying Windows games and applications on Linux and other platforms...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Wine-6.20-Released",
           "publishedOn": "2021-10-22T19:57:01.000Z",
-          "wordCount": 809,
+          "wordCount": 814,
           "title": "Wine 6.20 Released With More Modules Switching To The PE Format"
         },
         {
@@ -616,7 +625,7 @@
           "description": "Patches queued this week into the platform-drivers-x86 \"for-next\" branch ahead of the Linux 5.16 merge window will provide some useful improvements to System76 laptop owners...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=System76-ACPI-Linux-5.16",
           "publishedOn": "2021-10-22T19:14:53.000Z",
-          "wordCount": 757,
+          "wordCount": 808,
           "title": "System76 Laptops To See Some Useful Improvements With Linux 5.16"
         },
         {
@@ -625,7 +634,7 @@
           "description": "PipeWire 0.3.39 was released on Thursday as the newest update to this audio/video stream solution for Linux systems that continues proving itself capable of replacing the roles of JACK and PulseAudio, among other use-cases...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=PipeWire-0.3.39-Released",
           "publishedOn": "2021-10-22T17:43:38.000Z",
-          "wordCount": 727,
+          "wordCount": 812,
           "title": "PipeWire 0.3.39 Brings Libcamera Plugin Improvements, Better Compatibility For JACK Apps"
         },
         {
@@ -634,7 +643,7 @@
           "description": "While for many years we have been accustomed to seeing Intel land their new hardware feature enablement work in the Linux kernel and related components well ahead of products shipping, occasionally there are lapses due to various internal and external timings. The launch of Sapphire Rapids is quickly approaching and one of the major additions is Advanced Matrix Extensions with its Linux support still being in the works...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Intel-AMX-Linux-Part-4",
           "publishedOn": "2021-10-22T13:07:44.000Z",
-          "wordCount": 1089,
+          "wordCount": 1094,
           "title": "Intel Posts The \"Last Part\" To Their AMX Bring-Up For Linux"
         },
         {
@@ -643,7 +652,7 @@
           "description": "GCC 12 isn't seeing its stable release until around March~April as usual, but with feature development slowly wrapping up as approaching the next stage of development next month to focus on fixes, recently I wrapped up some preliminary benchmarks for how GCC 12.0 is currently performing against GCC 11.2 on an AMD Ryzen 9 5950X (Zen 3) system...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=GCC-12.0-October-Zen-3-Perf",
           "publishedOn": "2021-10-22T10:07:35.000Z",
-          "wordCount": 954,
+          "wordCount": 959,
           "title": "An Early Look At The GCC 12 Compiler Performance On AMD Zen 3"
         },
         {
@@ -652,7 +661,7 @@
           "description": "Valve continues embracing DXVK-Native for allowing more of their older games to target Vulkan by using this Direct3D-to-Vulkan translation layer for native games. DXVK-Native 1.9.2a is out with the latest fixes and improvements...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=DXVK-Native-1.9.2a",
           "publishedOn": "2021-10-22T09:16:13.000Z",
-          "wordCount": 794,
+          "wordCount": 799,
           "title": "DXVK-Native 1.9.2a Released For Direct3D-Over-Vulkan With Native Games"
         },
         {
@@ -661,7 +670,7 @@
           "description": "Intel's \"parallel submission\" user-space API for their i915 kernel graphics driver has been queued into DRM-Next today ahead of the Linux 5.16 kernel cycle...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Intel-Linux-5.16-Multi-LRC-Exec",
           "publishedOn": "2021-10-22T06:00:00.000Z",
-          "wordCount": 977,
+          "wordCount": 911,
           "title": "Intel Graphics Driver's New Parallel Submission uAPI Landing For Linux 5.16"
         },
         {
@@ -670,7 +679,7 @@
           "description": "A new Steam client beta is out with a few Linux enhancements worth noting...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Steam-Continues-Mesa-Cache",
           "publishedOn": "2021-10-22T04:00:00.000Z",
-          "wordCount": 812,
+          "wordCount": 817,
           "title": "Steam Continues Improving Its Shader Pre-Caching Support, Other Beta Improvements"
         },
         {
@@ -679,7 +688,7 @@
           "description": "SiFive just shared word that at today's Linley Conference they teased their Performance P550 successor that will \"set a new standard for the highest efficiency RISC-V processor available.\"..",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=SiFive-P550-Successor",
           "publishedOn": "2021-10-21T22:42:59.000Z",
-          "wordCount": 695,
+          "wordCount": 700,
           "title": "SiFive Has A New RISC-V Core To Improve Performance By 50%, Outperform Cortex-A78"
         },
         {
@@ -688,7 +697,7 @@
           "description": "An effort going on for a while at Canonical has been to develop a new desktop installer for Ubuntu. With the recent Ubuntu 21.10 release they are still using their classic Ubiquity installer by default but have published a new preview build of Ubuntu 21.10 with their new desktop installer option. Here is a look at Ubuntu's forthcoming new installer...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-21.10-New-Install-Try",
           "publishedOn": "2021-10-21T19:15:35.000Z",
-          "wordCount": 1057,
+          "wordCount": 1128,
           "title": "Trying Out Ubuntu's New Flutter+Curtin-Powered Desktop Installer Was Disappointing"
         },
         {
@@ -697,7 +706,7 @@
           "description": "Following this week's release of Chrome 95, Google has now promoted Chrome 96 to beta status...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Chrome-96-Beta",
           "publishedOn": "2021-10-21T18:37:45.000Z",
-          "wordCount": 906,
+          "wordCount": 897,
           "title": "Chrome 96 Beta Begins Preparing For Chrome 100, Adds Priority Hints Feature"
         },
         {
@@ -706,7 +715,7 @@
           "description": "The release candidate to XWayland 21.1.3 is out today with just a few changes but made significant by support for the NVIDIA 495 series driver GBM code path...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=XWayland-21.1.3-RC",
           "publishedOn": "2021-10-21T17:57:22.000Z",
-          "wordCount": 866,
+          "wordCount": 805,
           "title": "XWayland 21.1.3 Nears With Support For NVIDIA 495 Driver's GBM"
         },
         {
@@ -715,7 +724,7 @@
           "description": "It's been a half-year already since AMD introduced the EPYC 7003 \"Milan\" processors that continue performing well and gaining marketshare. While the recently released Ubuntu 21.10 is not a long-term support (LTS) release, for those wondering what this latest Linux distribution means for EPYC 7003 series performance, here is a look at its performance across many benchmarks against that of Ubuntu 21.04 that was released right after the Milan launch and then Ubuntu 20.04 as the current LTS stable series.",
           "link": "https://www.phoronix.com/vr.php?view=30634",
           "publishedOn": "2021-10-21T13:00:00.000Z",
-          "wordCount": 1018,
+          "wordCount": 942,
           "title": "AMD EPYC 7003 \"Milan\" Performance On Ubuntu Linux Six Months After Launch"
         },
         {
@@ -724,7 +733,7 @@
           "description": "AMD patches this month have begun preparing support for a new CPU feature called Smart Trace Buffer (STB)...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=AMD-Smart-Trace-Buffer-Linux",
           "publishedOn": "2021-10-21T10:15:06.000Z",
-          "wordCount": 947,
+          "wordCount": 952,
           "title": "AMD \"Smart Trace Buffer\" Feature Being Wired Up For Linux"
         },
         {
@@ -733,7 +742,7 @@
           "description": "Mesa's V3DV driver for supporting newer Broadcom VideoCore graphics hardware with Vulkan now is advertising v1.1 support. This Vulkan 1.1 support in V3DV is notable as the Raspberry Pi 4 and newer are the most notable beneficiaries of this driver...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=V3DV-Vulkan-1.1",
           "publishedOn": "2021-10-21T09:19:39.000Z",
-          "wordCount": 866,
+          "wordCount": 880,
           "title": "V3DV Raspberry Pi Driver Now Exposes Vulkan 1.1"
         },
         {
@@ -742,7 +751,7 @@
           "description": "The ongoing supply chain issues across the semiconductor industry (and more broadly) are now impacting the Raspberry Pi operations for end-users/customers when it comes to pricing...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Raspberry-Pi-Supply-Chain",
           "publishedOn": "2021-10-21T05:00:00.000Z",
-          "wordCount": 772,
+          "wordCount": 777,
           "title": "Raspberry Pi Sees Their First Price Increase Due To Supply Chain issues"
         },
         {
@@ -751,7 +760,7 @@
           "description": "The Ruby programming language implementation has merged YJIT, its new just-in-time (JIT) compiler...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Ruby-YJIT",
           "publishedOn": "2021-10-21T04:00:00.000Z",
-          "wordCount": 739,
+          "wordCount": 744,
           "title": "Ruby Lands \"YJIT\" As A Speedy, In-Process JIT Compiler"
         },
         {
@@ -760,7 +769,7 @@
           "description": "NVIDIA has made available CUDA 11.5 today as the latest version of their popular but proprietary compute stack/platform. Notable with CUDA 11.5 is that CUDA-Python has reached general availability status...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=NVIDIA-CUDA-11.5",
           "publishedOn": "2021-10-20T23:00:11.000Z",
-          "wordCount": 802,
+          "wordCount": 807,
           "title": "CUDA-Python Reaches \"GA\" With NVIDIA CUDA 11.5 Release, __int128 Preview"
         },
         {
@@ -769,7 +778,7 @@
           "description": "GIMP 3.0 as the GTK3 port of this open-source Adobe Photoshop alternative has been talked about for nearly a decade now and the work remains ongoing. However, out today is GIMP 2.99.8 as the newest development snapshot...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=GIMP-2.99.8-Released",
           "publishedOn": "2021-10-20T19:06:57.000Z",
-          "wordCount": 888,
+          "wordCount": 973,
           "title": "GIMP 2.99.8 Released As Another Step Toward The Long Overdue GIMP 3.0"
         },
         {
@@ -778,7 +787,7 @@
           "description": "Last year Intel announced ControlFlag as a machine learning tool for helping to uncover bugs within code. ControlFlag promised impressive results after being trained on more than one billion lines of code and at the end of 2020 was already being used internally on Intel's code-bases from firmware to software applications. We hadn't heard anything more about ControlFlag this year... Until today. Intel has now made ControlFlag open-source for helping to autonomously detect more programming bugs...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Intel-ControlFlag-Open-Source",
           "publishedOn": "2021-10-20T18:29:35.000Z",
-          "wordCount": 804,
+          "wordCount": 875,
           "title": "Intel Makes ControlFlag Open-Source For Helping To Detect Bugs In Code"
         },
         {
@@ -787,7 +796,7 @@
           "description": "The newest feature release to Eclipse OpenJ9 is now available, the high performance Java Virtual Machine originating from IBM J9...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Eclipse-OpenJ9-v0.29",
           "publishedOn": "2021-10-20T18:00:33.000Z",
-          "wordCount": 780,
+          "wordCount": 785,
           "title": "Eclipse OpenJ9 0.29 Released With Full AArch64 Linux Support, More Mature JITServer Tech"
         },
         {
@@ -796,7 +805,7 @@
           "description": "Just one week ago was the public launch of the Radeon RX 6600 as the newest offering in the RDNA2 GPU line-up. While in our Radeon RX 6600 Linux review the performance was good on AMD's well regarded open-source driver stack and standing ground against the likes of the GeForce RTX 3060 with NVIDIA's proprietary Linux driver, it turns out the RX 6600 Linux performance can be even better already. Here are benchmarks of the Radeon RX 6600 on Linux across six different driver configurations.",
           "link": "https://www.phoronix.com/vr.php?view=30628",
           "publishedOn": "2021-10-20T13:09:03.000Z",
-          "wordCount": 1076,
+          "wordCount": 1089,
           "title": "Radeon RX 6600 Linux Performance Rising Even Higher With Newest Open-Source Driver"
         },
         {
@@ -805,7 +814,7 @@
           "description": "Separate from all the ongoing Apple Silicon/M1 bring-up work for the Linux kernel, the Linux 5.16 cycle is set to support this year's Apple Magic Keyboard...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.16-Apple-Magic-2021",
           "publishedOn": "2021-10-20T13:03:56.000Z",
-          "wordCount": 870,
+          "wordCount": 795,
           "title": "Linux 5.16 To Support The 2021 Apple Magic Keyboard"
         },
         {
@@ -814,7 +823,7 @@
           "description": "Queued this week into the Linux PCI subsystem's \"next\" branch is the Apple PCIe driver needed to enable PCI Express support for Apple SoCs such as the M1...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Apple-PCIe-For-Linux-5.16",
           "publishedOn": "2021-10-20T09:54:53.000Z",
-          "wordCount": 787,
+          "wordCount": 858,
           "title": "Apple Silicon PCIe Driver Queued For Linux 5.16"
         },
         {
@@ -823,7 +832,7 @@
           "description": "Thanks to the nature of open-source, AMD engineers for the \"AMDGPU\" kernel graphics driver are looking to make use of Intel's new i915 buddy allocator code they introduced as part of all their video memory management changes as part of their discrete graphics bring-up...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=AMD-Intel-Buddy-Allocator",
           "publishedOn": "2021-10-20T07:00:00.000Z",
-          "wordCount": 1033,
+          "wordCount": 1072,
           "title": "AMD GPU Driver Looks To Make Use Of Intel's New Buddy Allocator Code In The Linux Kernel"
         },
         {
@@ -832,7 +841,7 @@
           "description": "It's been a half-year since talking about the Wii U gamepad driver that's been in development with mainline ambitions for supporting this wireless gamepad in conjunction with the Nintendo Wii U console. The driver has just been revised to address earlier code review comments, again renewing interest in the effort and possible mainlining in a future kernel version...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Wii-U-Gamepad-Driver-v4",
           "publishedOn": "2021-10-20T04:00:00.000Z",
-          "wordCount": 871,
+          "wordCount": 876,
           "title": "Nintendo Wii U Gamepad Linux Driver Support Still Pursuing Mainline"
         },
         {
@@ -841,7 +850,7 @@
           "description": "Oracle has published its latest quarterly update to GraalVM, the  open-source Java JVM/JDK implemented in Java that also supports other execution modes and programming languages from Python to R to Ruby...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=GraalVM-21.3-Released",
           "publishedOn": "2021-10-19T23:17:07.000Z",
-          "wordCount": 871,
+          "wordCount": 876,
           "title": "Oracle Releases GraalVM 21.3 With Java 17 Support, Other Enhancements"
         },
         {
@@ -850,7 +859,7 @@
           "description": "Chrome 95 has rolled out as stable today as the latest version of Google's web browser...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=Chrome-95-Released",
           "publishedOn": "2021-10-19T19:06:38.000Z",
-          "wordCount": 871,
+          "wordCount": 862,
           "title": "Chrome 95 Released With FTP Support Completely Removed, New Developer Additions"
         },
         {
@@ -859,26 +868,8 @@
           "description": "In recent months we have seen a lot of RadeonSI optimizations focused on SPECViewPerf with AMD seemingly trying to get this open-source OpenGL driver into very capable shape moving forward for workstation GL workloads. Hitting Mesa 22.0-devel today is yet another round of patches for tuning SPECViewPerf...",
           "link": "https://www.phoronix.com/scan.php?page=news_item&px=RadeonSI-Continues-Tuning-SPEC",
           "publishedOn": "2021-10-19T18:49:24.000Z",
-          "wordCount": 897,
+          "wordCount": 888,
           "title": "RadeonSI Lands Another \"Very Large\" Optimization To Further Boost SPECViewPerf"
-        },
-        {
-          "id": "https://www.phoronix.com/scan.php?page=news_item&px=Singh-CentOS-Steps-Down",
-          "author": null,
-          "description": "Karanbir Singh who had served as the CentOS Project Leader and involved with the community-based RHEL distribution since 2004 has stepped down from his roles...",
-          "link": "https://www.phoronix.com/scan.php?page=news_item&px=Singh-CentOS-Steps-Down",
-          "publishedOn": "2021-10-19T18:10:50.000Z",
-          "wordCount": 776,
-          "title": "CentOS Project Chair Karanbir Singh Steps Down"
-        },
-        {
-          "id": "https://www.phoronix.com/vr.php?view=30623",
-          "author": null,
-          "description": "Announced earlier this year for Google Cloud was a new family of virtual machines called Tau VMs. The initial T2D instances are powered by AMD EPYC 7003 \"Milan\" processors to deliver leading performance and are also positioned to deliver great value in going up against the likes of Amazon's Graviton2 instances. Tau VM instances are now available as a preview and Google has provided us with gratis access to the new instance types for benchmarking.",
-          "link": "https://www.phoronix.com/vr.php?view=30623",
-          "publishedOn": "2021-10-19T13:01:00.000Z",
-          "wordCount": 1066,
-          "title": "Google Cloud Tau VM Instances Deliver Better Performance, Price-Performance Than Graviton2 M6g"
         }
       ]
     },
