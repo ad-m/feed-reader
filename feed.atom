@@ -1,35 +1,177 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-24T00:00:34.961Z</id>
+    <id>urn:2021-10-24T08:01:00.001Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-24T00:00:34.961Z</updated>
+    <updated>2021-10-24T08:01:00.001Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Your Phone Is Listening and It's Not Paranoia (2018)]]></title>
-        <id>https://www.vice.com/en/article/wjbzzy/your-phone-is-listening-and-its-not-paranoia</id>
-        <link href="https://www.vice.com/en/article/wjbzzy/your-phone-is-listening-and-its-not-paranoia"/>
-        <updated>2021-10-23T23:19:43.000Z</updated>
+        <title type="html"><![CDATA[DevOps'ish 240: You're probably underpaid, Karanbir Singh Steps Down, Honeycomb's cool $50 million, and more]]></title>
+        <id>https://kill-the-newsletter.com/alternates/r73fpoozc51tmfa1.html</id>
+        <link href="https://kill-the-newsletter.com/alternates/r73fpoozc51tmfa1.html"/>
+        <updated>2021-10-24T07:15:57.000Z</updated>
+        <summary type="html"><![CDATA[* { font-family: sans-serif !important; }
+        
+    
+
+    
+        /* Box sizing. Gets decent support. */
+        
+        *,
+        *:after,
+        *:before {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        /* Prevents small text resizing. */
+        
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        /* Basic reset. Removes default spacing around emails in various clients.  */
+        
+        html,
+        body,
+        .document {
+            width: 100% !important;
+            height: 100% !important;
+            margin: 0;
+            padding: 0;
+        }
+        /* Improves text rendering when supported. */
+        
+        b…]]></summary>
+        <author>
+            <name>DevOps'ish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Twitter admits bias in algorithm for rightwing politicians and news outlets]]></title>
+        <id>https://www.theguardian.com/technology/2021/oct/22/twitter-admits-bias-in-algorithm-for-rightwing-politicians-and-news-outlets</id>
+        <link href="https://www.theguardian.com/technology/2021/oct/22/twitter-admits-bias-in-algorithm-for-rightwing-politicians-and-news-outlets"/>
+        <updated>2021-10-24T06:43:16.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Philip K. Dick: How to Build a Universe That Doesn’t Fall Apart Two Days Later]]></title>
+        <title type="html"><![CDATA[Google digital advertising antitrust litigation [pdf]]]></title>
+        <id>https://storage.courtlistener.com/recap/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.152.0_1.pdf</id>
+        <link href="https://storage.courtlistener.com/recap/gov.uscourts.nysd.564903/gov.uscourts.nysd.564903.152.0_1.pdf"/>
+        <updated>2021-10-24T05:26:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pong using browser windows as the paddles and ball (2009)]]></title>
+        <id>http://stewd.io/pong/</id>
+        <link href="http://stewd.io/pong/"/>
+        <updated>2021-10-24T05:07:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gunship “Tech Noir” Breakdown]]></title>
+        <id>https://synthctrl.com/blogs/blog/gunship-tech-noir-breakdown</id>
+        <link href="https://synthctrl.com/blogs/blog/gunship-tech-noir-breakdown"/>
+        <updated>2021-10-24T05:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EU scientists reveal long-term brain damage caused by Covid]]></title>
+        <id>https://www.rfi.fr/en/france/20211022-eu-research-reveals-long-term-brain-damage-caused-by-covid</id>
+        <link href="https://www.rfi.fr/en/france/20211022-eu-research-reveals-long-term-brain-damage-caused-by-covid"/>
+        <updated>2021-10-24T04:34:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google had a plan called “Project NERA” to turn the web into a walled garden]]></title>
+        <id>https://twitter.com/fasterthanlime/status/1452053941504684036</id>
+        <link href="https://twitter.com/fasterthanlime/status/1452053941504684036"/>
+        <updated>2021-10-24T03:46:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proton wins appeal in Swiss court over surveillance laws]]></title>
+        <id>https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196</id>
+        <link href="https://www.swissinfo.ch/eng/business/proton-wins-appeal-in-swiss-court-over-surveillance-laws/47052196"/>
+        <updated>2021-10-24T03:40:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Is the Great Resignation in tech real? If so, why?]]></title>
+        <id>https://news.ycombinator.com/item?id=28973942</id>
+        <link href="https://news.ycombinator.com/item?id=28973942"/>
+        <updated>2021-10-24T01:06:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Generally Intelligent Is Hiring Machine Learning Research Engineers (Remote, SF)]]></title>
+        <id>https://news.ycombinator.com/item?id=28973926</id>
+        <link href="https://news.ycombinator.com/item?id=28973926"/>
+        <updated>2021-10-24T01:04:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Prosecutors uncover money-laundering operation between US and Dubai]]></title>
+        <id>https://samsung.tribunecontentagency.com/2021/10/23/prosecutors-in-detroit-uncover-massive-money-laundering-operation-between-us-and-dubai/</id>
+        <link href="https://samsung.tribunecontentagency.com/2021/10/23/prosecutors-in-detroit-uncover-massive-money-laundering-operation-between-us-and-dubai/"/>
+        <updated>2021-10-24T01:04:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A cautionary tale from the streets of San Francisco]]></title>
+        <id>https://www.economist.com/books-and-arts/2021/10/23/a-cautionary-tale-from-the-streets-of-san-francisco</id>
+        <link href="https://www.economist.com/books-and-arts/2021/10/23/a-cautionary-tale-from-the-streets-of-san-francisco"/>
+        <updated>2021-10-24T00:15:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodnight Dune (2011)]]></title>
+        <id>https://goodnightdune.com/</id>
+        <link href="https://goodnightdune.com/"/>
+        <updated>2021-10-24T00:02:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to build a universe that doesn’t fall apart two days later (1978)]]></title>
         <id>https://urbigenous.net/library/how_to_build.html</id>
         <link href="https://urbigenous.net/library/how_to_build.html"/>
         <updated>2021-10-23T22:12:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No time to die: An indepth analysis of James Bonds exposure to infectious agents]]></title>
-        <id>https://www.sciencedirect.com/science/article/pii/S1477893921002167</id>
-        <link href="https://www.sciencedirect.com/science/article/pii/S1477893921002167"/>
-        <updated>2021-10-23T22:05:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -66,16 +208,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Smarking (YC W15) Is Hiring Head of Eng to Digitize $655B Parking Industry]]></title>
-        <id>https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567</id>
-        <link href="https://jobs.lever.co/smarking/91ecceff-db7b-463f-bd6e-c348bcaec567"/>
-        <updated>2021-10-23T21:01:05.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Long Beach has temporarily suspended container stacking limitations]]></title>
         <id>https://twitter.com/typesfast/status/1451673736877428742</id>
         <link href="https://twitter.com/typesfast/status/1451673736877428742"/>
@@ -86,30 +218,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20Y study finds little evidence religiosity leads to greater life satisfaction]]></title>
-        <id>https://www.psypost.org/2021/10/a-20-year-longitudinal-study-finds-little-evidence-that-religiosity-leads-to-greater-life-satisfaction-61991</id>
-        <link href="https://www.psypost.org/2021/10/a-20-year-longitudinal-study-finds-little-evidence-that-religiosity-leads-to-greater-life-satisfaction-61991"/>
-        <updated>2021-10-23T18:53:11.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ProjectM – The most advanced open-source music visualizer]]></title>
         <id>https://github.com/projectM-visualizer/projectm</id>
         <link href="https://github.com/projectM-visualizer/projectm"/>
         <updated>2021-10-23T18:24:44.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Something special is happening in Barcelona]]></title>
-        <id>https://twitter.com/zachklein/status/1450113164775870468</id>
-        <link href="https://twitter.com/zachklein/status/1450113164775870468"/>
-        <updated>2021-10-23T18:00:14.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -136,16 +248,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Framework: Solving for Silicon Shortages]]></title>
-        <id>https://frame.work/blog/solving-for-silicon-shortages</id>
-        <link href="https://frame.work/blog/solving-for-silicon-shortages"/>
-        <updated>2021-10-23T15:45:40.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Raspberry Pi 3 Fastboot – Less Than 2 Seconds]]></title>
         <id>https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/</id>
         <link href="https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/"/>
@@ -166,86 +268,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Air Force has a plan to make jet fuel out of air]]></title>
-        <id>https://www.thedrive.com/the-war-zone/42852/the-air-force-has-a-plan-to-make-jet-fuel-out-of-thin-air</id>
-        <link href="https://www.thedrive.com/the-war-zone/42852/the-air-force-has-a-plan-to-make-jet-fuel-out-of-thin-air"/>
-        <updated>2021-10-23T14:29:31.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Low-latency jamming over the internet]]></title>
-        <id>https://sub.live</id>
-        <link href="https://sub.live"/>
-        <updated>2021-10-23T13:27:34.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What do I need to read to be a CSS dev?]]></title>
-        <id>https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/</id>
-        <link href="https://www.baldurbjarnason.com/2021/what-do-i-need-to-read-to-be-a-css-dev/"/>
-        <updated>2021-10-23T13:21:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fastmail, Runbox, and Posteo under DDoS extortion attack]]></title>
-        <id>https://therecord.media/ddos-attacks-hit-multiple-email-providers</id>
-        <link href="https://therecord.media/ddos-attacks-hit-multiple-email-providers"/>
-        <updated>2021-10-23T13:10:00.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YouTube deletes rapper's 'Let's Go Brandon' song claiming medical misinformation]]></title>
-        <id>https://www.foxnews.com/politics/youtube-deletes-rappers-lets-go-brandon-song-medical-misinformation</id>
-        <link href="https://www.foxnews.com/politics/youtube-deletes-rappers-lets-go-brandon-song-medical-misinformation"/>
-        <updated>2021-10-23T12:58:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harvesting ‘true cinnamon’: The story of the Ceylon spice]]></title>
-        <id>https://www.aljazeera.com/features/2021/10/18/harvesting-true-cinnamon-the-story-of-the-ceylon-spice</id>
-        <link href="https://www.aljazeera.com/features/2021/10/18/harvesting-true-cinnamon-the-story-of-the-ceylon-spice"/>
-        <updated>2021-10-23T12:17:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google said it had successfully ‘slowed down’ European privacy rules]]></title>
-        <id>https://www.nytimes.com/2021/10/22/technology/google-privacy-lawsuit.html</id>
-        <link href="https://www.nytimes.com/2021/10/22/technology/google-privacy-lawsuit.html"/>
-        <updated>2021-10-23T12:12:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google 'colluded' with Facebook to bypass Apple privacy]]></title>
-        <id>https://www.theregister.com/2021/10/22/google_facebook_antitrust_complaint/</id>
-        <link href="https://www.theregister.com/2021/10/22/google_facebook_antitrust_complaint/"/>
-        <updated>2021-10-23T11:54:13.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[RSS is wonderful]]></title>
         <id>https://quakkels.com/posts/rss-is-wonderful/</id>
         <link href="https://quakkels.com/posts/rss-is-wonderful/"/>
@@ -256,20 +278,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gallium helps convert CO2 into Carbon and Oxygen]]></title>
-        <id>https://www.mining.com/liquid-metal-helps-convert-co2-into-useful-resources/</id>
-        <link href="https://www.mining.com/liquid-metal-helps-convert-co2-into-useful-resources/"/>
-        <updated>2021-10-23T11:09:15.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nsh: A fish/bash-like Posix shell in Rust]]></title>
-        <id>https://github.com/nuta/nsh</id>
-        <link href="https://github.com/nuta/nsh"/>
-        <updated>2021-10-23T10:49:26.000Z</updated>
+        <title type="html"><![CDATA[Space-Related Applications of Forth (1998)]]></title>
+        <id>https://web.archive.org/web/19990125085748/http://forth.gsfc.nasa.gov/</id>
+        <link href="https://web.archive.org/web/19990125085748/http://forth.gsfc.nasa.gov/"/>
+        <updated>2021-10-23T11:26:36.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -283,16 +295,6 @@
         <summary type="html"><![CDATA[It's been an exciting week for KDE developers with preparing their formal support for handling NVIDIA's driver with GBM support as well as getting fingerprint authentication finally in place, among other improvements...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dutch forensic lab says it has decoded Tesla's driving data]]></title>
-        <id>https://www.reuters.com/business/autos-transportation/dutch-forensic-lab-says-it-has-decoded-teslas-driving-data-2021-10-21/</id>
-        <link href="https://www.reuters.com/business/autos-transportation/dutch-forensic-lab-says-it-has-decoded-teslas-driving-data-2021-10-21/"/>
-        <updated>2021-10-23T09:29:31.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -313,6 +315,16 @@
         <summary type="html"><![CDATA[Last week was the virtual Vulkanised Fall 2021 event hosted by The Khronos Group. The two-day event was focused on all things Vulkan and for those that missed it all of the slide decks and other material are now available...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eat, Prey, Love: A Day with the Squirrel Hawkers of East Texas]]></title>
+        <id>https://www.texasmonthly.com/travel/squirrel-hawkers-east-texas/</id>
+        <link href="https://www.texasmonthly.com/travel/squirrel-hawkers-east-texas/"/>
+        <updated>2021-10-23T01:03:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -353,6 +365,16 @@
         <summary type="html"><![CDATA[We are very excited to announce that Cloudflare for SaaS is generally available, so that every customer, big and small, can use Cloudflare for SaaS to continue scaling and building their SaaS business.]]></summary>
         <author>
             <name>Dina Kozlov</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trapped in amber: Fossilized dinosaur-era crab bridges evolutionary gap]]></title>
+        <id>https://arstechnica.com/science/2021/10/trapped-in-amber-fossilized-dinosaur-era-crab-bridges-evolutionary-gap/</id>
+        <link href="https://arstechnica.com/science/2021/10/trapped-in-amber-fossilized-dinosaur-era-crab-bridges-evolutionary-gap/"/>
+        <updated>2021-10-22T15:22:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -403,6 +425,26 @@ well.]]></summary>
         <summary type="html"><![CDATA[While for many years we have been accustomed to seeing Intel land their new hardware feature enablement work in the Linux kernel and related components well ahead of products shipping, occasionally there are lapses due to various internal and external timings. The launch of Sapphire Rapids is quickly approaching and one of the major additions is Advanced Matrix Extensions with its Linux support still being in the works...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Idiomatic Clojure without sacrificing performance]]></title>
+        <id>https://bsless.github.io/fast-and-elegant-clojure/</id>
+        <link href="https://bsless.github.io/fast-and-elegant-clojure/"/>
+        <updated>2021-10-22T12:15:49.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indexing the Creator Economy]]></title>
+        <id>https://stripe.com/blog/creator-economy</id>
+        <link href="https://stripe.com/blog/creator-economy"/>
+        <updated>2021-10-22T11:43:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -470,6 +512,16 @@ well.]]></summary>
         <id>http://www.sinanvural.com/seksek/inien/tvd/tvd2.htm</id>
         <link href="http://www.sinanvural.com/seksek/inien/tvd/tvd2.htm"/>
         <updated>2021-10-22T03:11:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Poet of the Extreme]]></title>
+        <id>https://theamericanscholar.org/poet-of-the-extreme/</id>
+        <link href="https://theamericanscholar.org/poet-of-the-extreme/"/>
+        <updated>2021-10-22T00:23:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -685,16 +737,6 @@ set from Roman Gushchin finds its way into the mainline.]]></summary>
         <summary type="html"><![CDATA[Mesa's V3DV driver for supporting newer Broadcom VideoCore graphics hardware with Vulkan now is advertising v1.1 support. This Vulkan 1.1 support in V3DV is notable as the Raspberry Pi 4 and newer are the most notable beneficiaries of this driver...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parsing gigabytes of JSON per second]]></title>
-        <id>https://arxiv.org/abs/1902.08318</id>
-        <link href="https://arxiv.org/abs/1902.08318"/>
-        <updated>2021-10-21T06:51:09.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
