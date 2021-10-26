@@ -1,15 +1,145 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-26T00:01:07.913Z</id>
+    <id>urn:2021-10-26T08:00:49.141Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-26T00:01:07.913Z</updated>
+    <updated>2021-10-26T08:00:49.141Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Misskey: Alternative Fediverse software that also uses ActivityPub]]></title>
-        <id>https://www.paritybit.ca/blog/mastodon-is-dead-long-live-misskey</id>
-        <link href="https://www.paritybit.ca/blog/mastodon-is-dead-long-live-misskey"/>
-        <updated>2021-10-25T22:41:49.000Z</updated>
+        <title type="html"><![CDATA[Missing hiker ignores calls from rescuers as they didn’t recognise the number]]></title>
+        <id>https://www.theguardian.com/us-news/2021/oct/26/hiker-lost-on-us-mountain-ignored-calls-from-rescuers-because-he-didnt-recognise-the-number</id>
+        <link href="https://www.theguardian.com/us-news/2021/oct/26/hiker-lost-on-us-mountain-ignored-calls-from-rescuers-because-he-didnt-recognise-the-number"/>
+        <updated>2021-10-26T07:26:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Humanloop (YC S20) is hiring designers, front end and machine learning engineers]]></title>
+        <id>https://careers.humanloop.com/</id>
+        <link href="https://careers.humanloop.com/"/>
+        <updated>2021-10-26T07:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Librarian and a Food Historian Rediscovered the Recipes of Moorish Spain]]></title>
+        <id>https://www.atlasobscura.com/articles/moorish-cuisine</id>
+        <link href="https://www.atlasobscura.com/articles/moorish-cuisine"/>
+        <updated>2021-10-26T06:19:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I wish Microsoft had been brave enough not to release Windows 11]]></title>
+        <id>https://www.pcgamer.com/wish-microsoft-had-been-brave-enough-not-to-release-windows-11/</id>
+        <link href="https://www.pcgamer.com/wish-microsoft-had-been-brave-enough-not-to-release-windows-11/"/>
+        <updated>2021-10-26T05:54:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A bug that doesn’t exist on x86: Exploiting an ARM-only race condition]]></title>
+        <id>https://github.com/stong/how-to-exploit-a-double-free</id>
+        <link href="https://github.com/stong/how-to-exploit-a-double-free"/>
+        <updated>2021-10-26T04:47:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux Continues To Improve Power Management For Older NVIDIA Tegra SoCs To Avoid Overheating]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-Tegra-PM-Hot</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-Tegra-PM-Hot"/>
+        <updated>2021-10-26T04:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While the Tegra 2 and Tegra 3 SoCs are a decade old, the mainline Linux kernel continues working to improve the power management / thermal behavior for them in order to deal with heating issues for devices relying on these SoCs...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Love Letter to Ruby and Rails]]></title>
+        <id>https://jmarchello.com/a-love-letter-to-ruby-and-rails</id>
+        <link href="https://jmarchello.com/a-love-letter-to-ruby-and-rails"/>
+        <updated>2021-10-26T03:43:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI raids researcher who discovered private patient data on public server (2016)]]></title>
+        <id>https://www.dailydot.com/debug/justin-shafer-fbi-raid/</id>
+        <link href="https://www.dailydot.com/debug/justin-shafer-fbi-raid/"/>
+        <updated>2021-10-26T02:45:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Right-to-disconnect legislation being introduced by Ontario Government]]></title>
+        <id>https://www.cbc.ca/news/canada/toronto/ontario-to-introduce-legislation-to-help-protect-workers-1.6223719</id>
+        <link href="https://www.cbc.ca/news/canada/toronto/ontario-to-introduce-legislation-to-help-protect-workers-1.6223719"/>
+        <updated>2021-10-26T02:39:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slow Down, Finish Faster]]></title>
+        <id>https://briandicroce.com/slow-down-finish-faster/</id>
+        <link href="https://briandicroce.com/slow-down-finish-faster/"/>
+        <updated>2021-10-26T01:40:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Offline-First Database Comparison]]></title>
+        <id>https://github.com/pubkey/client-side-databases</id>
+        <link href="https://github.com/pubkey/client-side-databases"/>
+        <updated>2021-10-26T01:14:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple M1 Pro and Max Surprises]]></title>
+        <id>https://mondaynote.com/apple-m1-pro-max-surprises-7b097788160b?gi=48d77e07e47</id>
+        <link href="https://mondaynote.com/apple-m1-pro-max-surprises-7b097788160b?gi=48d77e07e47"/>
+        <updated>2021-10-26T00:16:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rendering on the Apple M1 Max Chip]]></title>
+        <id>https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html</id>
+        <link href="https://blog.yiningkarlli.com/2021/10/takua-on-m1-max.html"/>
+        <updated>2021-10-25T23:58:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[System sniffs out hardware trojans in electromagnetic emissions]]></title>
+        <id>https://spectrum.ieee.org/hardware-trojan</id>
+        <link href="https://spectrum.ieee.org/hardware-trojan"/>
+        <updated>2021-10-25T22:21:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -30,16 +160,6 @@
         <id>https://mattlakeman.org/2020/01/22/the-new-epidemic-my-experience-of-losing-a-friend-to-heroin/</id>
         <link href="https://mattlakeman.org/2020/01/22/the-new-epidemic-my-experience-of-losing-a-friend-to-heroin/"/>
         <updated>2021-10-25T21:48:11.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BillionToOne (YC S17) is hiring a senior data scientist]]></title>
-        <id>https://apply.workable.com/billiontoone/j/13515313DF/</id>
-        <link href="https://apply.workable.com/billiontoone/j/13515313DF/"/>
-        <updated>2021-10-25T21:00:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -73,16 +193,6 @@
         <summary type="html"><![CDATA[Determining viable strategies for successful application migration and modernization to the cloud takes time. It can also require significant effort, depending on the size and complexity of the application portfolio to analyze. To date, the analysis process has been largely manual and nonstandard in nature, making it difficult to apply at scale on large portfolios. […]]]></summary>
         <author>
             <name>Steve Roberts</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook Reports Third Quarter 2021 Results]]></title>
-        <id>https://investor.fb.com/investor-news/press-release-details/2021/Facebook-Reports-Third-Quarter-2021-Results/</id>
-        <link href="https://investor.fb.com/investor-news/press-release-details/2021/Facebook-Reports-Third-Quarter-2021-Results/"/>
-        <updated>2021-10-25T20:08:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -137,6 +247,16 @@ later than would have normally been expected due to Linus's travel schedule.
         <id>https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html</id>
         <link href="https://astroanarchy.blogspot.com/2021/10/grand-mosaic-of-milky-way-is-now-large.html"/>
         <updated>2021-10-25T18:44:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judging Janet]]></title>
+        <id>https://ianthehenry.com/posts/janet-game/judging-janet/</id>
+        <link href="https://ianthehenry.com/posts/janet-game/judging-janet/"/>
+        <updated>2021-10-25T18:39:11.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -233,26 +353,6 @@ patch set that moves the kernel away from the idea of waiting on congestion.]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[50 years ago, The Electric Company used comedy to boost kids' reading skills]]></title>
-        <id>https://www.npr.org/2021/10/25/1048365940/50-years-ago-the-electric-company-used-comedy-to-boost-kids-reading-skills</id>
-        <link href="https://www.npr.org/2021/10/25/1048365940/50-years-ago-the-electric-company-used-comedy-to-boost-kids-reading-skills"/>
-        <updated>2021-10-25T15:44:27.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lambda School leaked documents show poor performance over the last two years]]></title>
-        <id>https://www.businessinsider.com/lambda-school-promised-lucrative-tech-coding-career-low-job-placement-2021-10</id>
-        <link href="https://www.businessinsider.com/lambda-school-promised-lucrative-tech-coding-career-low-job-placement-2021-10"/>
-        <updated>2021-10-25T15:42:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Security updates for Monday]]></title>
         <id>https://lwn.net/Articles/873965/rss</id>
         <link href="https://lwn.net/Articles/873965/rss"/>
@@ -273,40 +373,10 @@ patch set that moves the kernel away from the idea of waiting on congestion.]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An ultra-precise clock shows how to link the quantum world with gravity]]></title>
-        <id>https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/</id>
-        <link href="https://www.quantamagazine.org/an-atomic-clock-promises-link-between-quantum-world-and-gravity-20211025/"/>
-        <updated>2021-10-25T14:42:50.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I don’t know how to count that low]]></title>
-        <id>https://www.lesswrong.com/posts/koGbEwgbfst2wCbzG/i-don-t-know-how-to-count-that-low</id>
-        <link href="https://www.lesswrong.com/posts/koGbEwgbfst2wCbzG/i-don-t-know-how-to-count-that-low"/>
-        <updated>2021-10-25T14:36:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Feds order Google to track people searching certain names or details]]></title>
         <id>https://www.dailymail.co.uk/news/article-10063665/Government-orders-Google-track-searching-certain-names-addresses-phone-numbers.html</id>
         <link href="https://www.dailymail.co.uk/news/article-10063665/Government-orders-Google-track-searching-certain-names-addresses-phone-numbers.html"/>
         <updated>2021-10-25T14:28:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook documents offer a treasure trove for Washington’s antitrust war]]></title>
-        <id>https://www.politico.com/news/2021/10/25/facebook-market-dominance-whistleblower-516918</id>
-        <link href="https://www.politico.com/news/2021/10/25/facebook-market-dominance-whistleblower-516918"/>
-        <updated>2021-10-25T13:34:47.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -333,60 +403,30 @@ patch set that moves the kernel away from the idea of waiting on congestion.]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Nine Raspberry Pis powering an office (2016)]]></title>
-        <id>https://www.monterail.com/blog/2016/smart-office-raspberry-pi</id>
-        <link href="https://www.monterail.com/blog/2016/smart-office-raspberry-pi"/>
-        <updated>2021-10-25T12:00:28.000Z</updated>
+        <title type="html"><![CDATA[Open RAN Explained]]></title>
+        <id>https://www.ericsson.com/en/openness-innovation/open-ran-explained</id>
+        <link href="https://www.ericsson.com/en/openness-innovation/open-ran-explained"/>
+        <updated>2021-10-25T12:39:33.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Star Labs StarLite Mk IV – 11" Linux laptop with Coreboot]]></title>
-        <id>https://starlabs.systems/pages/starlite</id>
-        <link href="https://starlabs.systems/pages/starlite"/>
-        <updated>2021-10-25T11:52:36.000Z</updated>
+        <title type="html"><![CDATA[The Jonathan Computer]]></title>
+        <id>http://www.storiesofapple.net/the-jonathan-computer.html</id>
+        <link href="http://www.storiesofapple.net/the-jonathan-computer.html"/>
+        <updated>2021-10-25T12:14:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Flatmap – a new tool to make vector tiles from OpenStreetMap data fast]]></title>
-        <id>https://github.com/onthegomap/flatmap</id>
-        <link href="https://github.com/onthegomap/flatmap"/>
-        <updated>2021-10-25T11:52:07.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EBCDIC is incompatible with GDPR]]></title>
-        <id>https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/</id>
-        <link href="https://shkspr.mobi/blog/2021/10/ebcdic-is-incompatible-with-gdpr/"/>
-        <updated>2021-10-25T11:48:15.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waiting for apt locks without hacky Bash scripts]]></title>
-        <id>https://blog.sinjakli.co.uk/2021/10/25/waiting-for-apt-locks-without-the-hacky-bash-scripts/</id>
-        <link href="https://blog.sinjakli.co.uk/2021/10/25/waiting-for-apt-locks-without-the-hacky-bash-scripts/"/>
-        <updated>2021-10-25T11:46:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kerla: Monolithic kernel in Rust, aiming for Linux ABI compatibility]]></title>
-        <id>https://github.com/nuta/kerla</id>
-        <link href="https://github.com/nuta/kerla"/>
-        <updated>2021-10-25T10:29:07.000Z</updated>
+        <title type="html"><![CDATA[Venture Fund Model]]></title>
+        <id>https://my.causal.app/models/7140</id>
+        <link href="https://my.causal.app/models/7140"/>
+        <updated>2021-10-25T12:08:14.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -410,36 +450,6 @@ patch set that moves the kernel away from the idea of waiting on congestion.]]><
         <summary type="html"><![CDATA[Following the recent RISC-V Bitmanip work in Binutils, the GCC 12 compiler has now landed preliminary support for the RISC-V ISA's bit manipulation extension...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Which NoCode platforms are fine?]]></title>
-        <id>https://news.ycombinator.com/item?id=28984955</id>
-        <link href="https://news.ycombinator.com/item?id=28984955"/>
-        <updated>2021-10-25T06:24:30.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Opera Game]]></title>
-        <id>https://gregkarber.com/opera/</id>
-        <link href="https://gregkarber.com/opera/"/>
-        <updated>2021-10-25T04:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A cactus that came back from being endangered]]></title>
-        <id>https://thewalrus.ca/the-cactus-that-came-back-from-the-dead/</id>
-        <link href="https://thewalrus.ca/the-cactus-that-came-back-from-the-dead/"/>
-        <updated>2021-10-25T03:25:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -588,16 +598,6 @@ https://loft.…]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A Prototype Original iPod]]></title>
-        <id>https://panic.com/blog/a-prototype-original-ipod/</id>
-        <link href="https://panic.com/blog/a-prototype-original-ipod/"/>
-        <updated>2021-10-23T16:07:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Tinysheet]]></title>
         <id>https://tinysheet.com/</id>
         <link href="https://tinysheet.com/"/>
@@ -625,6 +625,16 @@ https://loft.…]]></summary>
         <summary type="html"><![CDATA[The FreeBSD team has begun preparations for their next release process with an aim to ship FreeBSD 12.3 in early December...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The danger of hidden functional roles]]></title>
+        <id>https://surfingcomplexity.blog/2021/10/22/the-danger-of-hidden-functional-roles/</id>
+        <link href="https://surfingcomplexity.blog/2021/10/22/the-danger-of-hidden-functional-roles/"/>
+        <updated>2021-10-23T07:31:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -975,16 +985,6 @@ set from Roman Gushchin finds its way into the mainline.]]></summary>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=V3DV-Vulkan-1.1"/>
         <updated>2021-10-21T09:19:39.000Z</updated>
         <summary type="html"><![CDATA[Mesa's V3DV driver for supporting newer Broadcom VideoCore graphics hardware with Vulkan now is advertising v1.1 support. This Vulkan 1.1 support in V3DV is notable as the Raspberry Pi 4 and newer are the most notable beneficiaries of this driver...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi Sees Their First Price Increase Due To Supply Chain issues]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Raspberry-Pi-Supply-Chain</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Raspberry-Pi-Supply-Chain"/>
-        <updated>2021-10-21T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[The ongoing supply chain issues across the semiconductor industry (and more broadly) are now impacting the Raspberry Pi operations for end-users/customers when it comes to pricing...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -1799,20 +1799,6 @@ DevOps Engineer: At Kinsta, we set out to create the best managed hosting platfo
         <summary type="html"><![CDATA[During the AWS re:Invent conference last year, I wrote about new capabilities added to Amazon Connect. Today, I am happy to announce the general availability of two of these capabilities, Voice ID and Wisdom, and the launch of a new one. High-volume outbound communications allows, as the name implies, the initiation and management of outbound […]]]></summary>
         <author>
             <name>Sébastien Stormacq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[v1.11.2]]></title>
-        <id>https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2</id>
-        <link href="https://github.com/osmoscraft/osmosfeed/releases/tag/v1.11.2"/>
-        <updated>2021-09-26T18:45:39.000Z</updated>
-        <summary type="html"><![CDATA[Fixed: unicode characters in URL caused download error
-Fixed: project root npm install error
-Added: unit test library
-Chore: Dependency updates
-Thank you: @CaptNo1]]></summary>
-        <author>
-            <name>Release notes from osmosfeed</name>
         </author>
     </entry>
 </feed>
