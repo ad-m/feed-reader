@@ -1,10 +1,100 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-27T00:00:42.978Z</id>
+    <id>urn:2021-10-27T08:01:16.920Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-27T00:00:42.978Z</updated>
+    <updated>2021-10-27T08:01:16.920Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Ashby (YC W19) Is Hiring Engineers Who Can Design (+ EMs)]]></title>
+        <id>https://jobs.ashbyhq.com/ashby</id>
+        <link href="https://jobs.ashbyhq.com/ashby"/>
+        <updated>2021-10-27T07:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Comparing SQLite, DuckDB and Arrow]]></title>
+        <id>https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/</id>
+        <link href="https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/"/>
+        <updated>2021-10-27T06:21:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Qualcomm MSM DRM Driver Improvements Submitted Ahead Of Linux 5.16]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=MSM-Changes-For-Linux-5.16</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=MSM-Changes-For-Linux-5.16"/>
+        <updated>2021-10-27T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The MSM DRM driver for supporting the open-source display/graphics support with Qualcomm Snapdragon SoCs has submitted their main feature pull request to DRM-Next ahead of the upcoming Linux 5.16 merge window...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roy Fielding's Misappropriated REST Dissertation (2020)]]></title>
+        <id>https://twobithistory.org/2020/06/28/rest.html</id>
+        <link href="https://twobithistory.org/2020/06/28/rest.html"/>
+        <updated>2021-10-27T05:03:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sci-Fi Icon Neal Stephenson Finally Takes on Global Warming]]></title>
+        <id>https://www.wired.com/story/sci-fi-icon-neal-stephenson-global-warming/</id>
+        <link href="https://www.wired.com/story/sci-fi-icon-neal-stephenson-global-warming/"/>
+        <updated>2021-10-27T03:51:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Models of Programming]]></title>
+        <id>https://lambdaland.org/posts/2021-09-25_models_of_programming_draft2/</id>
+        <link href="https://lambdaland.org/posts/2021-09-25_models_of_programming_draft2/"/>
+        <updated>2021-10-27T03:19:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bitcoin is largely controlled by a small group of investors and miners]]></title>
+        <id>https://www.techspot.com/news/91937-bitcoin-largely-controlled-small-group-investors-miners-study.html</id>
+        <link href="https://www.techspot.com/news/91937-bitcoin-largely-controlled-small-group-investors-miners-study.html"/>
+        <updated>2021-10-27T02:23:32.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Go 1.18 will embed source version information into binaries]]></title>
+        <id>https://utcc.utoronto.ca/~cks/space/blog/programming/GoVersionOfYourSource</id>
+        <link href="https://utcc.utoronto.ca/~cks/space/blog/programming/GoVersionOfYourSource"/>
+        <updated>2021-10-27T02:06:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giant, free index to world's research papers released online]]></title>
+        <id>https://www.nature.com/articles/d41586-021-02895-8</id>
+        <link href="https://www.nature.com/articles/d41586-021-02895-8"/>
+        <updated>2021-10-27T00:49:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alternative Python Implementation "Pyston" Plans For Greater Performance, 64-bit ARM]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Pyston-Roadmap-2021</id>
@@ -13,16 +103,6 @@
         <summary type="html"><![CDATA[Pyston as the alternative Python implementation open-sourced originally by Dropbox is forming ambitious plans for a bright future...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wikivoyage has disappeared from DuckDuckGo]]></title>
-        <id>https://gaganpreet.in/posts/duckduckgo-wikivoyage/</id>
-        <link href="https://gaganpreet.in/posts/duckduckgo-wikivoyage/"/>
-        <updated>2021-10-26T21:51:58.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -41,26 +121,6 @@ platforms—so that the device owners can be tracked as they hop
 between their apps.]]></summary>
         <author>
             <name>jake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[France moves to shield its book industry from Amazon]]></title>
-        <id>https://www.reuters.com/business/retail-consumer/france-moves-shield-its-book-industry-amazon-2021-10-25/</id>
-        <link href="https://www.reuters.com/business/retail-consumer/france-moves-shield-its-book-industry-amazon-2021-10-25/"/>
-        <updated>2021-10-26T21:18:37.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EasyPost (YC S13) is default remote and hiring]]></title>
-        <id>https://www.easypost.com/careers</id>
-        <link href="https://www.easypost.com/careers"/>
-        <updated>2021-10-26T21:00:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -104,10 +164,10 @@ between their apps.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Get AWS costs posted directly to Slack]]></title>
-        <id>https://www.vantage.sh/blog/vantage-slack-notifications</id>
-        <link href="https://www.vantage.sh/blog/vantage-slack-notifications"/>
-        <updated>2021-10-26T19:17:03.000Z</updated>
+        <title type="html"><![CDATA[Notes from the Meeting on Python GIL Removal Between Python Core and Sam Gross]]></title>
+        <id>https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/</id>
+        <link href="https://lukasz.langa.pl/5d044f91-49c1-4170-aed1-62b6763e6ad0/"/>
+        <updated>2021-10-26T20:05:00.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -128,26 +188,6 @@ between their apps.]]></summary>
         <id>https://theinformedcompany.com/posts/we-need-new-data-books-so-we-published-one/</id>
         <link href="https://theinformedcompany.com/posts/we-need-new-data-books-so-we-published-one/"/>
         <updated>2021-10-26T19:02:54.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allwinner D1s/F133 RISC-V Processor Integrates 64MB DDR2]]></title>
-        <id>https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/</id>
-        <link href="https://www.cnx-software.com/2021/10/25/allwinner-d1s-f133-risc-v-processor-64mb-ddr2/"/>
-        <updated>2021-10-26T18:47:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SARS-CoV-2 variant A.30 is heavily mutated and evades vaccine-induced antibodies]]></title>
-        <id>https://www.nature.com/articles/s41423-021-00779-5</id>
-        <link href="https://www.nature.com/articles/s41423-021-00779-5"/>
-        <updated>2021-10-26T18:13:03.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -224,26 +264,6 @@ between their apps.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where have all the insects gone?]]></title>
-        <id>https://www.newyorker.com/magazine/2021/11/01/where-have-all-the-insects-gone-e-o-wilson-silent-earth</id>
-        <link href="https://www.newyorker.com/magazine/2021/11/01/where-have-all-the-insects-gone-e-o-wilson-silent-earth"/>
-        <updated>2021-10-26T16:04:53.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Next.js 12]]></title>
-        <id>https://nextjs.org/blog/next-12</id>
-        <link href="https://nextjs.org/blog/next-12"/>
-        <updated>2021-10-26T15:37:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NVIDIA 495.44 Linux Driver Released With GBM Support]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-495.44-Linux-Driver</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-495.44-Linux-Driver"/>
@@ -258,16 +278,6 @@ between their apps.]]></summary>
         <id>https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/</id>
         <link href="https://www.cockroachlabs.com/blog/how-we-built-cockroachdb-serverless/"/>
         <updated>2021-10-26T15:04:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Porting WebGL Shaders to WebGPU]]></title>
-        <id>https://www.construct.net/en/blogs/ashleys-blog-2/porting-webgl-shaders-webgpu-1576</id>
-        <link href="https://www.construct.net/en/blogs/ashleys-blog-2/porting-webgl-shaders-webgpu-1576"/>
-        <updated>2021-10-26T15:03:44.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -304,16 +314,6 @@ between their apps.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Foreword to “The Art of Agile Development”]]></title>
-        <id>https://martinfowler.com/articles/art-agile-foreword.html</id>
-        <link href="https://martinfowler.com/articles/art-agile-foreword.html"/>
-        <updated>2021-10-26T14:38:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Sequoia Fund: Patient capital for building enduring companies]]></title>
         <id>https://medium.com/sequoia-capital/the-sequoia-fund-patient-capital-for-building-enduring-companies-9ed7bcd6c7da</id>
         <link href="https://medium.com/sequoia-capital/the-sequoia-fund-patient-capital-for-building-enduring-companies-9ed7bcd6c7da"/>
@@ -324,10 +324,10 @@ between their apps.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What's Next for Transistors and Chiplets?]]></title>
-        <id>https://semiengineering.com/whats-next-for-transistors-and-chiplets/</id>
-        <link href="https://semiengineering.com/whats-next-for-transistors-and-chiplets/"/>
-        <updated>2021-10-26T14:10:13.000Z</updated>
+        <title type="html"><![CDATA[Exploring Quantum Technology – Qiskit and RasQberry]]></title>
+        <id>https://www.eetimes.com/exploring-quantum-technology-qiskit-and-rasqberry/</id>
+        <link href="https://www.eetimes.com/exploring-quantum-technology-qiskit-and-rasqberry/"/>
+        <updated>2021-10-26T14:23:20.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -344,10 +344,10 @@ between their apps.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Former Facebook staffers launch Integrity Institute]]></title>
-        <id>https://www.protocol.com/policy/integrity-institute</id>
-        <link href="https://www.protocol.com/policy/integrity-institute"/>
-        <updated>2021-10-26T13:28:50.000Z</updated>
+        <title type="html"><![CDATA[Too big to cover alone: Newsrooms team up]]></title>
+        <id>https://www.axios.com/journalism-partnerships-facebook-papers-panama-127415c0-e11d-4e5e-8697-322ab75c02cc.html</id>
+        <link href="https://www.axios.com/journalism-partnerships-facebook-papers-panama-127415c0-e11d-4e5e-8697-322ab75c02cc.html"/>
+        <updated>2021-10-26T13:30:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -414,10 +414,10 @@ between their apps.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Element One – All of Matrix, WhatsApp, Signal and Telegram in one place]]></title>
-        <id>https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/</id>
-        <link href="https://element.io/blog/element-one-all-of-matrix-whatsapp-signal-and-telegram-in-one-place/"/>
-        <updated>2021-10-26T08:42:25.000Z</updated>
+        <title type="html"><![CDATA[Project Stardust: A Photographer Scours Rooftops for Minuscule Cosmic Particles]]></title>
+        <id>https://www.thisiscolossal.com/2021/10/jon-larsen-project-stardust/</id>
+        <link href="https://www.thisiscolossal.com/2021/10/jon-larsen-project-stardust/"/>
+        <updated>2021-10-26T06:16:28.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -431,16 +431,6 @@ between their apps.]]></summary>
         <summary type="html"><![CDATA[While the Tegra 2 and Tegra 3 SoCs are a decade old, the mainline Linux kernel continues working to improve the power management / thermal behavior for them in order to deal with heating issues for devices relying on these SoCs...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The slab and the permacomputer]]></title>
-        <id>https://society.robinsloan.com/archive/slab/</id>
-        <link href="https://society.robinsloan.com/archive/slab/"/>
-        <updated>2021-10-26T03:12:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -565,16 +555,6 @@ patch set that moves the kernel away from the idea of waiting on congestion.]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A small Documerica Twitter bot]]></title>
-        <id>https://blog.yossarian.net/2021/10/25/A-small-documerica-twitter-bot</id>
-        <link href="https://blog.yossarian.net/2021/10/25/A-small-documerica-twitter-bot"/>
-        <updated>2021-10-25T15:11:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Prometheus definitive guide part III – Prometheus operator]]></title>
         <id>https://www.cncf.io/?p=65325</id>
         <link href="https://www.cncf.io/blog/2021/10/25/prometheus-definitive-guide-part-iii-prometheus-operator/"/>
@@ -637,6 +617,16 @@ How TomTom is improving deve…]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Replacing my Octopress blog with 200 lines of Babashka]]></title>
+        <id>https://blog.michielborkent.nl/migrating-octopress-to-babashka.html</id>
+        <link href="https://blog.michielborkent.nl/migrating-octopress-to-babashka.html"/>
+        <updated>2021-10-24T23:37:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Meson v0.60 Build System Brings Numerous Improvements]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Meson-0.60-Build-System</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Meson-0.60-Build-System"/>
@@ -664,6 +654,16 @@ How TomTom is improving deve…]]></summary>
         <summary type="html"><![CDATA[In addition to Loongson working on Linux kernel support for their MIPS-derived LoongArch CPU architecture, the first bits of the GNU toolchain support for this Chinese CPU architecture have been merged...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Calculating Current Limiting Resistor Values for LED Circuits]]></title>
+        <id>https://www.nutsvolts.com/magazine/article/calculating_current</id>
+        <link href="https://www.nutsvolts.com/magazine/article/calculating_current"/>
+        <updated>2021-10-24T11:33:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -715,6 +715,16 @@ https://loft.…]]></summary>
         <summary type="html"><![CDATA[Bareflank, as what started a few years ago as a Linux hypervisor written in modern C++ and focused on security and other new features as a "hypervisor SDK" of sorts, is now up to version 3.0...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The most brilliant bookshops in the world]]></title>
+        <id>https://www.ft.com/content/42bb3a0f-ba18-4dc7-ae8a-570fd989cbfc</id>
+        <link href="https://www.ft.com/content/42bb3a0f-ba18-4dc7-ae8a-570fd989cbfc"/>
+        <updated>2021-10-24T09:08:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -925,16 +935,6 @@ well.]]></summary>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=DXVK-Native-1.9.2a"/>
         <updated>2021-10-22T09:16:13.000Z</updated>
         <summary type="html"><![CDATA[Valve continues embracing DXVK-Native for allowing more of their older games to target Vulkan by using this Direct3D-to-Vulkan translation layer for native games. DXVK-Native 1.9.2a is out with the latest fixes and improvements...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Graphics Driver's New Parallel Submission uAPI Landing For Linux 5.16]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Linux-5.16-Multi-LRC-Exec</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Linux-5.16-Multi-LRC-Exec"/>
-        <updated>2021-10-22T06:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Intel's "parallel submission" user-space API for their i915 kernel graphics driver has been queued into DRM-Next today ahead of the Linux 5.16 kernel cycle...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
@@ -1785,43 +1785,6 @@ DevOps Engineer: At Kinsta, we set out to create the best managed hosting platfo
                                                                                               96                                                                               table { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }             .mj-outlook-group-fix { width:100% !important; }             .block-grid-outlook .button-container a {background: transparent !important;}                     …]]></summary>
         <author>
             <name>Infrastructure as a Newsletter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New – Amazon Genomics CLI Is Now Open Source and Generally Available]]></title>
-        <id>6ba6437e1f536de9e1efe66deb59b74940f5bd37</id>
-        <link href="https://aws.amazon.com/blogs/aws/new-amazon-genomics-cli-is-now-open-source-and-generally-available/"/>
-        <updated>2021-09-27T17:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Update (October 2021) – Added more information about the workflows developed by the Broad Institute. Less than 70 years separate us from one of the greatest discoveries of all time: the double helix structure of DNA. We now know that DNA is a sort of a twisted ladder composed of four types of compounds, called […]]]></summary>
-        <author>
-            <name>Danilo Poccia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Updates to our Data Processing Agreement (DPA)]]></title>
-        <id>https://kill-the-newsletter.com/alternates/codf93fkm7v0n4qy.html</id>
-        <link href="https://kill-the-newsletter.com/alternates/codf93fkm7v0n4qy.html"/>
-        <updated>2021-09-27T15:47:41.000Z</updated>
-        <summary type="html"><![CDATA[Updates to our Data Processing Agreement (DPA)
-
-
-
-
-
-#outlook a { padding:0; }           body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }           table { border-spacing:0;}           img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }           p { display:block;margin:13px 0; }
-                                                                                              96                                                                               table { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }             .mj-outlook-group-fix { width:100% !important; }             .block-grid-outlook .button-container a {background: transparent !important;}                   …]]></summary>
-        <author>
-            <name>Infrastructure as a Newsletter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New for Amazon Connect: Voice ID, Wisdom, and Outbound Communications]]></title>
-        <id>2ffd0d8fddb47ee86afdbcfa8ab33909870bf899</id>
-        <link href="https://aws.amazon.com/blogs/aws/three-new-capabilities-for-amazon-connect/"/>
-        <updated>2021-09-27T12:17:19.000Z</updated>
-        <summary type="html"><![CDATA[During the AWS re:Invent conference last year, I wrote about new capabilities added to Amazon Connect. Today, I am happy to announce the general availability of two of these capabilities, Voice ID and Wisdom, and the launch of a new one. High-volume outbound communications allows, as the name implies, the initiation and management of outbound […]]]></summary>
-        <author>
-            <name>Sébastien Stormacq</name>
         </author>
     </entry>
 </feed>
