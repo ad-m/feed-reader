@@ -1,10 +1,247 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-28T16:05:30.816Z</id>
+    <id>urn:2021-10-29T00:00:45.721Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-28T16:05:30.816Z</updated>
+    <updated>2021-10-29T00:00:45.721Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Keyence, the Japanese world-beating firm you've never heard of]]></title>
+        <id>https://asia.nikkei.com/Business/Technology/Evolve-or-die-How-nimble-Keyence-grew-into-a-140bn-titan</id>
+        <link href="https://asia.nikkei.com/Business/Technology/Evolve-or-die-How-nimble-Keyence-grew-into-a-140bn-titan"/>
+        <updated>2021-10-28T22:46:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seemingly Impossible Functional Programs]]></title>
+        <id>http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/</id>
+        <link href="http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/"/>
+        <updated>2021-10-28T22:45:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon Open-Sources Babelfish for PostgreSQL To More Easily Move Away From Microsoft SQL]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Babelfish-PostgreSQL</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Babelfish-PostgreSQL"/>
+        <updated>2021-10-28T22:13:18.000Z</updated>
+        <summary type="html"><![CDATA[Amazon Web Services today announced the open-source Babelfish for PostgreSQL server project. Babelfish allows for applications written against Microsoft SQL Server to work seamlessly with PostgreSQL...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New – Amazon EC2 C6i Instances Powered by the Latest Generation Intel Xeon Scalable Processors]]></title>
+        <id>58ff26983ab74e9116e26ec67e44852d5ab372ce</id>
+        <link href="https://aws.amazon.com/blogs/aws/new-amazon-ec2-c6i-instances-powered-by-the-latest-generation-intel-xeon-scalable-processors/"/>
+        <updated>2021-10-28T22:05:31.000Z</updated>
+        <summary type="html"><![CDATA[We recently introduced Amazon EC2 M6i instances powered by the latest generation Intel® Xeon® Scalable processors with an all-core turbo frequency of 3.5 GHz, which offer customers up to 15% improvement in price performance compared to M5 instances. Today, I am happy to announce the availability of the new compute-optimized Amazon EC2 C6i instances, which […]]]></summary>
+        <author>
+            <name>Channy Yun</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Software Freedom Conservancy's DMCA Exemption Requests Granted]]></title>
+        <id>https://lwn.net/Articles/874290/rss</id>
+        <link href="https://lwn.net/Articles/874290/rss"/>
+        <updated>2021-10-28T21:40:13.000Z</updated>
+        <summary type="html"><![CDATA[Software Freedom Conservancy has had several exemptions granted that it requested to the Digital Millennium Copyright Act (DMCA) by the US Library of Congress for activities of interest to free-software developers:
+
+Software Freedom Conservancy is proud to announce that its efforts to
+stand up for the rights of FOSS developers have been successful and that
+it has been granted almost all of the exemptions that it requested in
+the Librarian of Congress' recent rule making, according to the final
+rule Exemption to Prohibition on Circumvention of Copyright Protection
+Systems for Access Control Technologies, which was published today.
+Effective today, the Librarian of Congress ("LoC") granted DMCA
+exemptions for installing alternate firmwares on routers and for
+investigating copyleft compliance, and the exemption that Software
+Freedom Conservancy previously applied for and received on Smart TVs was
+also expanded. While our formal request to extend the security research
+exemption to include privacy research was not granted, the Register
+clarified that privacy research is indeed included in security research.
+Our executive director, Karen Sandler, also participated as an
+individual in a request to expand the existing exemption for medical
+devices which was also successful.]]></summary>
+        <author>
+            <name>jake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stratechery – An Interview with Mark Zuckerberg about the Metaverse]]></title>
+        <id>https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/</id>
+        <link href="https://stratechery.com/2021/an-interview-with-mark-zuckerberg-about-the-metaverse/"/>
+        <updated>2021-10-28T21:21:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substack (YC W18) is hiring engineering managers to build the future of writing]]></title>
+        <id>https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7</id>
+        <link href="https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7"/>
+        <updated>2021-10-28T21:01:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodbye Microsoft SQL Server, Hello Babelfish]]></title>
+        <id>c49cbf1a684657d2d6c1cb4fa064a78b2ab04c08</id>
+        <link href="https://aws.amazon.com/blogs/aws/goodbye-microsoft-sql-server-hello-babelfish/"/>
+        <updated>2021-10-28T20:56:54.000Z</updated>
+        <summary type="html"><![CDATA[Many of our customers are telling us they want to move away from commercial database vendors to avoid expensive costs and burdensome licensing terms. But migrating away from commercial and legacy databases can be time-consuming and resource-intensive. When migrating your databases, you can automate the migration of your database schema and data using the AWS […]]]></summary>
+        <author>
+            <name>Sébastien Stormacq</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Animated guide to Symex: Emacs structural editing with Lisp]]></title>
+        <id>https://countvajhula.com/2021/09/25/the-animated-guide-to-symex/</id>
+        <link href="https://countvajhula.com/2021/09/25/the-animated-guide-to-symex/"/>
+        <updated>2021-10-28T20:36:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple Reports Fourth Quarter Results]]></title>
+        <id>https://www.apple.com/newsroom/2021/10/apple-reports-fourth-quarter-results/</id>
+        <link href="https://www.apple.com/newsroom/2021/10/apple-reports-fourth-quarter-results/"/>
+        <updated>2021-10-28T20:32:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[55 GiB/s FizzBuzz]]></title>
+        <id>https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630</id>
+        <link href="https://codegolf.stackexchange.com/questions/215216/high-throughput-fizz-buzz/236630#236630"/>
+        <updated>2021-10-28T20:29:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open-Source Babelfish for Postgres]]></title>
+        <id>https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/</id>
+        <link href="https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/"/>
+        <updated>2021-10-28T20:03:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merriam Webster adds 455 new words to the dictionary in Oct 2021]]></title>
+        <id>https://www.merriam-webster.com/words-at-play/new-words-in-the-dictionary</id>
+        <link href="https://www.merriam-webster.com/words-at-play/new-words-in-the-dictionary"/>
+        <updated>2021-10-28T19:27:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What caused all the supply chain bottlenecks?]]></title>
+        <id>https://twitter.com/typesfast/status/1453753924960219145</id>
+        <link href="https://twitter.com/typesfast/status/1453753924960219145"/>
+        <updated>2021-10-28T18:45:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPv6 Progress Top Sites 2021]]></title>
+        <id>https://www.6connect.com/ipv6/ipv6-progress-report-top-sites-2019/</id>
+        <link href="https://www.6connect.com/ipv6/ipv6-progress-report-top-sites-2019/"/>
+        <updated>2021-10-28T18:44:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fedora 35 Cleared For Release Next Week]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-35-Next-Week</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-35-Next-Week"/>
+        <updated>2021-10-28T18:08:20.000Z</updated>
+        <summary type="html"><![CDATA[After dealing with blocker bugs the past two weeks, Fedora 35 is now confirmed for releasing next week...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High-Level Synthesis for RISC-V]]></title>
+        <id>https://semiengineering.com/high-level-synthesis-for-risc-v/</id>
+        <link href="https://semiengineering.com/high-level-synthesis-for-risc-v/"/>
+        <updated>2021-10-28T17:29:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MRI and Ultrasound Can Sneak Cancer Drugs into the Brain]]></title>
+        <id>https://spectrum.ieee.org/mri-ultrasound-brain-cancer</id>
+        <link href="https://spectrum.ieee.org/mri-ultrasound-brain-cancer"/>
+        <updated>2021-10-28T16:28:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why noise is necessary for our brains to perform at a high-level]]></title>
+        <id>https://ekin.substack.com/p/noise</id>
+        <link href="https://ekin.substack.com/p/noise"/>
+        <updated>2021-10-28T16:09:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Unceasing Cessna Hacienda]]></title>
+        <id>https://www.damninteresting.com/the-unceasing-cessna-hacienda/</id>
+        <link href="https://www.damninteresting.com/the-unceasing-cessna-hacienda/"/>
+        <updated>2021-10-28T15:48:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer-1 mini-ITX Chassis]]></title>
+        <id>https://teenage.engineering/products/computer-1</id>
+        <link href="https://teenage.engineering/products/computer-1"/>
+        <updated>2021-10-28T15:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The main thing about Phenylacetone meth is that there's so much of it]]></title>
+        <id>https://dynomight.net/p2p-meth/</id>
+        <link href="https://dynomight.net/p2p-meth/"/>
+        <updated>2021-10-28T15:32:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feel the fear and do it anyway!]]></title>
         <id>https://www.cncf.io/?p=65351</id>
@@ -13,46 +250,6 @@
         <summary type="html"><![CDATA[Community Guest post By Paula Kennedy, Chief Operating Officer at Syntasso It’s a strange feeling when you realise that even though you’ve worked in a space for more than 4 years, you’ve...]]></summary>
         <author>
             <name>Jessie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Europe’s First Hydrogen Fuel Cell Sea-Going Ferry Is Powered by Renewable Energy]]></title>
-        <id>https://www.autoevolution.com/news/europes-first-hydrogen-fuel-cell-sea-going-ferry-is-powered-purely-by-renewable-energy-172235.html</id>
-        <link href="https://www.autoevolution.com/news/europes-first-hydrogen-fuel-cell-sea-going-ferry-is-powered-purely-by-renewable-energy-172235.html"/>
-        <updated>2021-10-28T14:53:49.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An Unexpected Victory: Container Stacking at the Port of Los Angeles]]></title>
-        <id>https://thezvi.wordpress.com/2021/10/28/an-unexpected-victory-container-stacking-at-the-port-of-los-angeles/</id>
-        <link href="https://thezvi.wordpress.com/2021/10/28/an-unexpected-victory-container-stacking-at-the-port-of-los-angeles/"/>
-        <updated>2021-10-28T14:52:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How We Improved Reliability of our WebSocket Connections]]></title>
-        <id>https://making.close.com/posts/reliable-websockets/</id>
-        <link href="https://making.close.com/posts/reliable-websockets/"/>
-        <updated>2021-10-28T14:49:33.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is the Great Neutrino Puzzle Pointing to Multiple Missing Particles?]]></title>
-        <id>https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-multiple-missing-particles-20211028/</id>
-        <link href="https://www.quantamagazine.org/neutrino-puzzles-point-to-the-possibility-of-multiple-missing-particles-20211028/"/>
-        <updated>2021-10-28T14:42:56.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -79,16 +276,6 @@ light on Debian's governance processes and the interaction of tradition
 with standards.]]></summary>
         <author>
             <name>corbet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Samsung UK admits you can’t disable ads on Samsung smart TV]]></title>
-        <id>https://twitter.com/samsunguk/status/1453432765656059907</id>
-        <link href="https://twitter.com/samsunguk/status/1453432765656059907"/>
-        <updated>2021-10-28T14:24:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -132,26 +319,6 @@ with standards.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conflict-free replicated datatypes solve distributed data consistency challenges]]></title>
-        <id>https://ably.com/blog/crdts-distributed-data-consistency-challenges</id>
-        <link href="https://ably.com/blog/crdts-distributed-data-consistency-challenges"/>
-        <updated>2021-10-28T13:17:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: NLP and NER-powered beautiful bank transaction feed]]></title>
-        <id>https://try.herondata.io/</id>
-        <link href="https://try.herondata.io/"/>
-        <updated>2021-10-28T13:15:13.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ubuntu 21.10 Performance Continues In The Right Direction For AArch64]]></title>
         <id>https://www.phoronix.com/vr.php?view=30647</id>
         <link href="https://www.phoronix.com/vr.php?view=30647"/>
@@ -162,80 +329,10 @@ with standards.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[U.S. government owes over $100M for TSA's patent infringement]]></title>
-        <id>https://www.reuters.com/legal/transactional/us-government-owes-over-100-million-tsas-patent-infringement-2021-10-25/</id>
-        <link href="https://www.reuters.com/legal/transactional/us-government-owes-over-100-million-tsas-patent-infringement-2021-10-25/"/>
-        <updated>2021-10-28T12:55:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I was rejected by Codecademy three times, so I built my own]]></title>
         <id>https://codeamigo.dev?ref=HN</id>
         <link href="https://codeamigo.dev?ref=HN"/>
         <updated>2021-10-28T12:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consistent Hashing for Dummies]]></title>
-        <id>https://www.franzoni.eu/consistent-hashing-for-dummies/</id>
-        <link href="https://www.franzoni.eu/consistent-hashing-for-dummies/"/>
-        <updated>2021-10-28T12:30:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starship is still not understood]]></title>
-        <id>https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/</id>
-        <link href="https://caseyhandmer.wordpress.com/2021/10/28/starship-is-still-not-understood/"/>
-        <updated>2021-10-28T12:00:23.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zentail (YC S12) Is Hiring Full Stack Engineers in Columbia, MD]]></title>
-        <id>https://jobs.lever.co/zentail/342133ef-1fbd-4a49-b346-bc4710250e7c</id>
-        <link href="https://jobs.lever.co/zentail/342133ef-1fbd-4a49-b346-bc4710250e7c"/>
-        <updated>2021-10-28T12:00:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The HTML video element needs to go back on the drawing board]]></title>
-        <id>https://www.ctrl.blog/entry/html-responsive-video.html</id>
-        <link href="https://www.ctrl.blog/entry/html-responsive-video.html"/>
-        <updated>2021-10-28T11:41:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reflections on Software Development from Anywhere on an iPad]]></title>
-        <id>https://ghuntley.com/anywhere/</id>
-        <link href="https://ghuntley.com/anywhere/"/>
-        <updated>2021-10-28T11:36:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open-Source Contributors Worth Sponsoring]]></title>
-        <id>https://astoilkov.com/open-source-contributors-worth-sponsoring</id>
-        <link href="https://astoilkov.com/open-source-contributors-worth-sponsoring"/>
-        <updated>2021-10-28T11:32:53.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -272,50 +369,10 @@ with standards.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blender 3.x roadmap]]></title>
-        <id>https://code.blender.org/2021/10/blender-3-x-roadmap/</id>
-        <link href="https://code.blender.org/2021/10/blender-3-x-roadmap/"/>
-        <updated>2021-10-28T11:00:33.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why do placebos work? Scientists identify key brain pathway]]></title>
-        <id>https://www.science.org/content/article/why-do-placebos-work-scientists-identify-key-brain-pathway</id>
-        <link href="https://www.science.org/content/article/why-do-placebos-work-scientists-identify-key-brain-pathway"/>
-        <updated>2021-10-28T10:41:01.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1.1.1.1 for Families]]></title>
-        <id>https://blog.cloudflare.com/introducing-1-1-1-1-for-families/</id>
-        <link href="https://blog.cloudflare.com/introducing-1-1-1-1-for-families/"/>
-        <updated>2021-10-28T10:03:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Project Gutenberg is no longer fully blocked in Germany]]></title>
         <id>https://news.ycombinator.com/item?id=29024039</id>
         <link href="https://news.ycombinator.com/item?id=29024039"/>
         <updated>2021-10-28T09:28:27.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIT deploys autonomous Roboat on canals of Amsterdam]]></title>
-        <id>https://news.mit.edu/2021/autonomous-taxi-roboats-1027</id>
-        <link href="https://news.mit.edu/2021/autonomous-taxi-roboats-1027"/>
-        <updated>2021-10-28T09:15:20.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -329,16 +386,6 @@ with standards.]]></summary>
         <summary type="html"><![CDATA[It's been six years already since VESA published the Embedded DisplayPort 1.4b specification while finally it's been succeeded by eDP 1.5...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raspberry Pi Zero 2 W]]></title>
-        <id>https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/</id>
-        <link href="https://www.raspberrypi.com/news/new-raspberry-pi-zero-2-w-2/"/>
-        <updated>2021-10-28T06:04:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -382,6 +429,18 @@ with standards.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA["Open source done right": Why Canonical adopted Grafana, Loki, and Grafana Agent for their new stack]]></title>
+        <id>https://grafana.com/blog/2021/10/28/open-source-done-right-why-canonical-adopted-grafana-loki-and-grafana-agent-for-their-new-stack/</id>
+        <link href="https://grafana.com/blog/2021/10/28/open-source-done-right-why-canonical-adopted-grafana-loki-and-grafana-agent-for-their-new-stack/"/>
+        <updated>2021-10-28T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Michele Mancioppi is a product manager at Canonical with responsibility for observability and Java. He is the architect of the new system of Charmed Operators for observability known as LMA2. 
+Jon Seager is an engineering director at Canonical with responsibility for Juju, the Charmed Operator Framework, and a number of Charmed Operator development teams which operate across different software flavors including observability, data platform, MLOps, identity, and more. 
+Juju re-imagines the world of operating software securely, reliably, and at scale. Juju realizes the promise of model-driven operations. Excellent observability is undeniably a key ingredient for operating software well, which is why the Charmed Operator ecosystem has long provided operators the ability to run a variety of op…]]></summary>
+        <author>
+            <name>Grafana Labs Blog on Grafana Labs</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mesa 21.3-rc3 Released With Many Zink OpenGL-On-Vulkan Fixes]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-21.3-rc3-Released</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-21.3-rc3-Released"/>
@@ -418,6 +477,16 @@ DevOps Engineer: At Kinsta, we set out to create the best managed hosting platfo
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[URI-Based Integration]]></title>
+        <id>https://www.tbray.org/ongoing/When/202x/2021/10/26/URI-based-Integration</id>
+        <link href="https://www.tbray.org/ongoing/When/202x/2021/10/26/URI-based-Integration"/>
+        <updated>2021-10-27T20:36:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[$] Lessons from the linux-distros mailing list]]></title>
         <id>https://lwn.net/Articles/874069/rss</id>
         <link href="https://lwn.net/Articles/874069/rss"/>
@@ -433,16 +502,6 @@ period, instead it was "late", which has highlighted some problems in the
 management of flaws of this nature.]]></summary>
         <author>
             <name>jake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Byrne Hobart on the financialisation of everything]]></title>
-        <id>https://thebrowser.com/notes/byrne-hobart/</id>
-        <link href="https://thebrowser.com/notes/byrne-hobart/"/>
-        <updated>2021-10-27T18:26:41.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -530,6 +589,16 @@ more.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A return to the general-purpose database]]></title>
+        <id>https://redmonk.com/sogrady/2021/10/26/general-purpose-database/</id>
+        <link href="https://redmonk.com/sogrady/2021/10/26/general-purpose-database/"/>
+        <updated>2021-10-27T14:51:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cloudflare recognized as a 'Leader' in The Forrester New Wave for Edge Development Platforms]]></title>
         <id>617821c689520802a8aa3a0f</id>
         <link href="https://blog.cloudflare.com/forrester-wave-edge-development-2021/"/>
@@ -544,26 +613,16 @@ more.]]></summary>
         <id>6178537189520802a8aa3a76</id>
         <link href="https://blog.cloudflare.com/custom-headers-for-pages/"/>
         <updated>2021-10-27T13:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Announcing support for custom headers for projects on Cloudflare Pages.]]></summary>
+        <summary type="html"><![CDATA[We're excited to announce that Pages now natively supports custom headers on your projects! Simply create a _headers file in the build directory of your project and within it, define the rules you want to apply.]]></summary>
         <author>
             <name>Nevi Shah</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adapt or Abandon? Hard Choices in the Himalayas]]></title>
-        <id>https://www.sapiens.org/culture/himalayas-climate-change/</id>
-        <link href="https://www.sapiens.org/culture/himalayas-climate-change/"/>
-        <updated>2021-10-27T11:56:09.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ballerina: An open-source programming language for the cloud]]></title>
-        <id>https://ballerina.io/</id>
-        <link href="https://ballerina.io/"/>
-        <updated>2021-10-27T11:03:06.000Z</updated>
+        <title type="html"><![CDATA[The Art of Hand-Carving Headstones Isn’t Dead Yet]]></title>
+        <id>https://www.atlasobscura.com/articles/hand-carved-gravestones</id>
+        <link href="https://www.atlasobscura.com/articles/hand-carved-gravestones"/>
+        <updated>2021-10-27T12:12:54.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -590,6 +649,16 @@ more.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[In C++, is empty() faster than comparing the size with zero?]]></title>
+        <id>https://lemire.me/blog/2021/10/26/in-c-is-empty-faster-than-comparing-the-size-with-zero/</id>
+        <link href="https://lemire.me/blog/2021/10/26/in-c-is-empty-faster-than-comparing-the-size-with-zero/"/>
+        <updated>2021-10-27T08:44:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Apple Silicon GPIO Driver Queued Ahead Of Linux 5.16]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Apple-Silicon-GPIO-Linux-5.16</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Apple-Silicon-GPIO-Linux-5.16"/>
@@ -600,10 +669,10 @@ more.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Programmer Moneyball (2016)]]></title>
-        <id>http://danluu.com/programmer-moneyball/</id>
-        <link href="http://danluu.com/programmer-moneyball/"/>
-        <updated>2021-10-27T06:31:28.000Z</updated>
+        <title type="html"><![CDATA[Epistemic Minor Leagues]]></title>
+        <id>https://astralcodexten.substack.com/p/epistemic-minor-leagues</id>
+        <link href="https://astralcodexten.substack.com/p/epistemic-minor-leagues"/>
+        <updated>2021-10-27T06:49:55.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -617,6 +686,16 @@ more.]]></summary>
         <summary type="html"><![CDATA[The MSM DRM driver for supporting the open-source display/graphics support with Qualcomm Snapdragon SoCs has submitted their main feature pull request to DRM-Next ahead of the upcoming Linux 5.16 merge window...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: “HTTP 419 Never Gonna Give You Up” for bots]]></title>
+        <id>https://bradgessler.com/articles/419-never-gonna-give-you-up/</id>
+        <link href="https://bradgessler.com/articles/419-never-gonna-give-you-up/"/>
+        <updated>2021-10-27T05:41:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -639,6 +718,16 @@ Gerhard’s original monitoring setup generated alerts but no metrics to illumin
         <summary type="html"><![CDATA[Pyston as the alternative Python implementation open-sourced originally by Dropbox is forming ambitious plans for a bright future...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can Radio Really Educate?]]></title>
+        <id>https://daily.jstor.org/can-radio-really-educate/</id>
+        <link href="https://daily.jstor.org/can-radio-really-educate/"/>
+        <updated>2021-10-26T22:50:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -800,16 +889,6 @@ between their apps.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lemurs sing in a rhythm previously only found in humans and birds]]></title>
-        <id>https://www.nationalgeographic.com/animals/article/these-lemurs-sing-in-a-rhythm-previously-only-found-in-humans-and-birds</id>
-        <link href="https://www.nationalgeographic.com/animals/article/these-lemurs-sing-in-a-rhythm-previously-only-found-in-humans-and-birds"/>
-        <updated>2021-10-26T03:56:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What's new in Grafana Cloud for October 2021: Machine Learning, Grafana 8.2, new integrations, and more]]></title>
         <id>https://grafana.com/blog/2021/10/26/whats-new-in-grafana-cloud-for-october-2021-machine-learning-grafana-8.2-new-integrations-and-more/</id>
         <link href="https://grafana.com/blog/2021/10/26/whats-new-in-grafana-cloud-for-october-2021-machine-learning-grafana-8.2-new-integrations-and-more/"/>
@@ -961,26 +1040,6 @@ patch set that moves the kernel away from the idea of waiting on congestion.]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dynatron A39 - A Good Heatsink For Threadripper/EPYC 4U Systems]]></title>
-        <id>https://www.phoronix.com/vr.php?view=30639</id>
-        <link href="https://www.phoronix.com/vr.php?view=30639"/>
-        <updated>2021-10-25T10:11:10.000Z</updated>
-        <summary type="html"><![CDATA[Quietly released earlier this year was the Dynatron A39 heatsink that is capable of up to 280 Watts heat dissipation for satisfying even the very latest, high-end AMD EPYC 7003 "Milan" processors. This Dynatron A39 TR4/sTRX4/SP3 heatsink has been working out very well for those needing to cool a Threadripper/EPYC system in a 3U or larger enclosure.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCC 12 Merges Initial Support For RISC-V's Bitmanip Extensions]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-12-Bitmanip-Extension</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-12-Bitmanip-Extension"/>
-        <updated>2021-10-25T09:30:50.000Z</updated>
-        <summary type="html"><![CDATA[Following the recent RISC-V Bitmanip work in Binutils, the GCC 12 compiler has now landed preliminary support for the RISC-V ISA's bit manipulation extension...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ObservabilityCON 2021: Observability at scale with TomTom, Unity, TripAdvisor, Snyk, and Citibank]]></title>
         <id>https://grafana.com/blog/2021/10/25/observabilitycon-2021-observability-at-scale-with-tomtom-unity-tripadvisor-snyk-and-citibank/</id>
         <link href="https://grafana.com/blog/2021/10/25/observabilitycon-2021-observability-at-scale-with-tomtom-unity-tripadvisor-snyk-and-citibank/"/>
@@ -1124,30 +1183,6 @@ The elevator pitch
 We were looking to leverage the existing Arrow-based data frames to create a unified querying interface for all …]]></summary>
         <author>
             <name>Grafana Labs Blog on Grafana Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Can Now Directly Read Data Logs From Tesla Vehicles (Jalopnik)]]></title>
-        <id>https://lwn.net/Articles/873675/rss</id>
-        <link href="https://lwn.net/Articles/873675/rss"/>
-        <updated>2021-10-21T23:24:35.000Z</updated>
-        <summary type="html"><![CDATA[The Jalopnik automotive site has posted an
-article on a
-(relatively) new set
-of open-source tools that can extract log data from Tesla cars.
-
-
-	Since Tesla cars run a Debian-based operating system, navigating
-	through their file systems is somewhat trivial to anyone who’s
-	spent a weekend messing with virtual Linux machines (or watching
-	Mr. Robot). Actually accessing the car’s memory, however, is
-	considerably harder: all cases require at least partially
-	disassembling the dashboard, and some even require disassembly of
-	the car’s media control unit.
-
-	Once that’s done, however, the data trove is incredible.]]></summary>
-        <author>
-            <name>corbet</name>
         </author>
     </entry>
     <entry>
@@ -1489,21 +1524,6 @@ Thank you: @hirdot]]></summary>
         <updated>2021-10-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[I joined Grafana Labs last year as a software engineer in the Enterprise Plugins team and then moved to the Cloud Data Sources team as an engineering manager this year.
 When our first company-wide hackathon was announced in June, I decided to participate for a few reasons. After moving to the manager track, I thought it was a great opportunity to do some coding between meetings. Secondly, while ideas are always encouraged at Grafana Labs, and there are always interesting and challenging projects, it was a nice chance to sit down and focus on something that can be more out of the box and creative. And finally, I wanted to set an example for my team. When it comes to personal development or finding personal projects, I regularly encourage the team to take a break from Business As Usual (BAU)…]]></summary>
-        <author>
-            <name>Grafana Labs Blog on Grafana Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Grafana Machine Learning for Grafana Cloud, with metrics forecasting]]></title>
-        <id>https://grafana.com/blog/2021/10/13/introducing-grafana-machine-learning-for-grafana-cloud-with-metrics-forecasting/</id>
-        <link href="https://grafana.com/blog/2021/10/13/introducing-grafana-machine-learning-for-grafana-cloud-with-metrics-forecasting/"/>
-        <updated>2021-10-13T11:00:00.000Z</updated>
-        <summary type="html"><![CDATA[At GrafanaCONline in June, we talked about the future of machine learning at Grafana Labs. Four months later, we are excited to introduce Grafana Machine Learning for Grafana Cloud, with our metrics forecasting capability. It’s available now to all customers on Pro or Advanced plans. If you’re not already using Grafana Cloud, you can sign up for a free 14-day trial of Grafana Cloud Pro here.
-In this blog post, we’ll go over some use cases and real-world examples for Grafana Machine Learning.
-Using machine learning to solve real-world problems
-Adaptive alerts
-It’s hard to create useful alerts that stay useful over time. Static thresholds that made sense in the past no longer do. They can’t adapt to the context like expected busy or quiet periods.
-Imagine, for example, a food delivery app th…]]></summary>
         <author>
             <name>Grafana Labs Blog on Grafana Labs</name>
         </author>
