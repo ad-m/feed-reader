@@ -1,15 +1,271 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-29T08:00:54.997Z</id>
+    <id>urn:2021-10-29T16:00:48.247Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-29T08:00:54.998Z</updated>
+    <updated>2021-10-29T16:00:48.247Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[PhotoRoom (YC S20) Is Hiring a Computer Vision Lead (Paris/Remote)]]></title>
-        <id>https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a</id>
-        <link href="https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a"/>
-        <updated>2021-10-29T07:00:42.000Z</updated>
+        <title type="html"><![CDATA[Zink OpenGL On Vulkan Inches Closer To OpenGL 4.6 Conformance, More Games Working]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Zink-Closer-To-4.6-Conformance</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Zink-Closer-To-4.6-Conformance"/>
+        <updated>2021-10-29T15:42:49.000Z</updated>
+        <summary type="html"><![CDATA[While there has been less major progress to report on Mesa's Zink OpenGL-over-Vulkan code in recent weeks, Mike Blumenkrantz of Valve and others continue optimizing and fixing this increasing useful implementation. Most recently the game Bioshock: Infinite is running on Zink and there are more fixes in aiming toward OpenGL 4.6 conformance...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Microsoft passes Apple to become the most valuable company]]></title>
+        <id>https://www.cnbc.com/2021/10/29/microsoft-passes-apple-to-become-the-worlds-most-valuable-company-.html</id>
+        <link href="https://www.cnbc.com/2021/10/29/microsoft-passes-apple-to-become-the-worlds-most-valuable-company-.html"/>
+        <updated>2021-10-29T15:36:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Posts Latest Revision To Its New P-State Linux Driver]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-P-State-Linux-v3</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-P-State-Linux-v3"/>
+        <updated>2021-10-29T15:13:22.000Z</updated>
+        <summary type="html"><![CDATA[In early September AMD posted their new "amd-pstate" CPU frequency scaling driver for Linux that leverages ACPI CPPC data available with Zen 2 and newer processors for making wiser frequency scaling decisions. The goal of AMD P-State is to offer better performance-per-Watt and today they have posted a new revision of this driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple MacBook Pro 14 and 16 Review: Return to Form]]></title>
+        <id>https://www.theverge.com/22751921/apple-macbook-pro-14-16-inch-2021-m1-pro-max-review</id>
+        <link href="https://www.theverge.com/22751921/apple-macbook-pro-14-16-inch-2021-m1-pro-max-review"/>
+        <updated>2021-10-29T15:08:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[$] Fedora considers removing NIS support]]></title>
+        <id>https://lwn.net/Articles/874174/rss</id>
+        <link href="https://lwn.net/Articles/874174/rss"/>
+        <updated>2021-10-29T15:07:54.000Z</updated>
+        <summary type="html"><![CDATA[For all of you youngsters out there, the Internet has always been
+omnipresent, computers are something you carry in your pocket, the Unix
+wars are about as relevant as the War of 1812, and the term "NIS" doesn't
+ring a bell.  But, for a certain class of Unix old-timer, NIS has a distinct
+place in history — and, perhaps, in still-deployed systems.  So the
+suggestion that Fedora might drop support for NIS has proved to be a bit of
+a wakeup call for some.]]></summary>
+        <author>
+            <name>corbet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to justify infrastructure replacement to your manager]]></title>
+        <id>https://www.cncf.io/?p=65353</id>
+        <link href="https://www.cncf.io/blog/2021/10/29/how-to-justify-infrastructure-replacement-to-your-manager/"/>
+        <updated>2021-10-29T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Guest post originally published on Snapt’s blog by Mark Trent Upgrading an organization’s tech infrastructure can be a tricky affair. On the one hand, there are technical people who are eager to...]]></summary>
+        <author>
+            <name>Jessie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DuckDB-Wasm: Efficient Analytical SQL in the Browser]]></title>
+        <id>https://duckdb.org/2021/10/29/duckdb-wasm.html</id>
+        <link href="https://duckdb.org/2021/10/29/duckdb-wasm.html"/>
+        <updated>2021-10-29T14:58:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[G-20 Climate Talks Threatened by Clash over Coal Ahead of COP26]]></title>
+        <id>https://www.wsj.com/articles/g-20-climate-talks-threatened-by-clash-over-coal-ahead-of-cop26-11635491696</id>
+        <link href="https://www.wsj.com/articles/g-20-climate-talks-threatened-by-clash-over-coal-ahead-of-cop26-11635491696"/>
+        <updated>2021-10-29T14:49:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meow Hash (2018)]]></title>
+        <id>https://mollyrocket.com/meowhash</id>
+        <link href="https://mollyrocket.com/meowhash"/>
+        <updated>2021-10-29T14:27:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Civil liberty fears as police consider using drones that film from 1,500ft]]></title>
+        <id>https://www.theguardian.com/uk-news/2021/oct/29/police-england-wales-long-range-drone-footage-tender-filming</id>
+        <link href="https://www.theguardian.com/uk-news/2021/oct/29/police-england-wales-long-range-drone-footage-tender-filming"/>
+        <updated>2021-10-29T14:03:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Architect Resigns in Protest over UCSB Mega-Dorm]]></title>
+        <id>https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/</id>
+        <link href="https://www.independent.com/2021/10/28/architect-resigns-in-protest-over-ucsb-mega-dorm/"/>
+        <updated>2021-10-29T13:50:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security updates for Friday]]></title>
+        <id>https://lwn.net/Articles/874354/rss</id>
+        <link href="https://lwn.net/Articles/874354/rss"/>
+        <updated>2021-10-29T13:31:07.000Z</updated>
+        <summary type="html"><![CDATA[Security updates have been issued by Debian (bind9, gpsd, jbig2dec, libdatetime-timezone-perl, tzdata, webkit2gtk, and wpewebkit), Fedora (flatpak, java-1.8.0-openjdk, java-11-openjdk, and php), SUSE (qemu), and Ubuntu (bind9).]]></summary>
+        <author>
+            <name>jake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launch HN: Secoda (YC S21) – Searchable Company Data]]></title>
+        <id>https://news.ycombinator.com/item?id=29038087</id>
+        <link href="https://news.ycombinator.com/item?id=29038087"/>
+        <updated>2021-10-29T13:24:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Bicycle Thief]]></title>
+        <id>https://www.chicagomag.com/chicago-magazine/february-2019/bicycle-bank-robber-tom-justice/</id>
+        <link href="https://www.chicagomag.com/chicago-magazine/february-2019/bicycle-bank-robber-tom-justice/"/>
+        <updated>2021-10-29T12:59:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RadeonSI Lands Yet Another Round Of Optimizations That Further Reduce CPU Overhead]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-EO-October-2021</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RadeonSI-EO-October-2021"/>
+        <updated>2021-10-29T12:50:32.000Z</updated>
+        <summary type="html"><![CDATA[Well known AMD open-source OpenGL driver developer Marek Olšák has landed another big batch of patches to further lower the driver overhead of this Linux OpenGL driver...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel's i965 Mesa Classic OpenGL Driver Will Stick Around A Bit Longer]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=i965-Mesa-Classic-To-2022</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=i965-Mesa-Classic-To-2022"/>
+        <updated>2021-10-29T12:15:17.000Z</updated>
+        <summary type="html"><![CDATA[Earlier this year was talk of finally retiring the Intel "i965" Mesa classic OpenGL driver along with the rest of the "classic Mesa" driver code now that it's been replaced by the Crocus Gallium3D driver and the other open-source Mesa OpenGL divers all using the modern Gallium3D architecture. Those plans are still on but shifting now into 2022...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optery (YC W22) Hiring First Product Manager, Growth Marketer, Back End Engineer]]></title>
+        <id>https://optery.breezy.hr</id>
+        <link href="https://optery.breezy.hr"/>
+        <updated>2021-10-29T12:01:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Julian Assange Extradition Appeal: Day 2]]></title>
+        <id>https://assangedefense.org/hearing-coverage/julian-assange-extradition-appeal-day-2/</id>
+        <link href="https://assangedefense.org/hearing-coverage/julian-assange-extradition-appeal-day-2/"/>
+        <updated>2021-10-29T11:38:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For a legally blind player, Far Cry 6’s accessibility options are empowering]]></title>
+        <id>https://www.polygon.com/22748526/far-cry-6-accessibility-pc-xbox-one-series-x-ps5-ps4</id>
+        <link href="https://www.polygon.com/22748526/far-cry-6-accessibility-pc-xbox-one-series-x-ps5-ps4"/>
+        <updated>2021-10-29T11:00:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[X.Org Server Bids Farewell To Autotools]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=X.Org-Bye-Bye-Autotools</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=X.Org-Bye-Bye-Autotools"/>
+        <updated>2021-10-29T10:49:19.000Z</updated>
+        <summary type="html"><![CDATA[With X.Org Server 21.1 having finally shipped this week, the X.Org Server Autotools build system support has been killed off...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenBSD: How it all started]]></title>
+        <id>https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/</id>
+        <link href="https://blog.apnic.net/2021/10/28/openbsd-part-1-how-it-all-started/"/>
+        <updated>2021-10-29T10:45:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Improved Retpoline Code Staged Ahead Of Linux 5.16]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Improved-Retpolines-Linux-5.16</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Improved-Retpolines-Linux-5.16"/>
+        <updated>2021-10-29T09:45:55.000Z</updated>
+        <summary type="html"><![CDATA[A set of patches improving the return trampoline "Retpoline" code used for Spectre V2 mitigations has made its way into tip.git's "objtool/core" staging area ahead of the upcoming Linux 5.16 merge window...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Firefox on Unix is moving away from X11-based remote control]]></title>
+        <id>https://utcc.utoronto.ca/~cks/space/blog/unix/FirefoxNoX11RemoteControl</id>
+        <link href="https://utcc.utoronto.ca/~cks/space/blog/unix/FirefoxNoX11RemoteControl"/>
+        <updated>2021-10-29T09:33:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wayland 1.20 Planned For Release In December]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Wayland-1.20-Release-Plans</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Wayland-1.20-Release-Plans"/>
+        <updated>2021-10-29T09:20:34.000Z</updated>
+        <summary type="html"><![CDATA[It's been nine months since the release of Wayland 1.19 while now release plans have been drafted for Wayland 1.20...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Games Relying On CEG DRM Should Now Be Able To Run With Steam Play]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=CEG-DRM-Games-On-Steam-Play</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=CEG-DRM-Games-On-Steam-Play"/>
+        <updated>2021-10-29T08:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Running the newest Steam client beta paired with the newest Proton Experimental should yield more Windows games working on Steam Play with Linux...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Oculus Quest is removing the Facebook account requirement]]></title>
+        <id>https://gamerant.com/oculus-quest-facebook-account-requirement-removed/</id>
+        <link href="https://gamerant.com/oculus-quest-facebook-account-requirement-removed/"/>
+        <updated>2021-10-29T08:02:20.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -26,20 +282,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open Steno Project – freeing stenography]]></title>
+        <title type="html"><![CDATA[Open Steno Project – Freeing stenography]]></title>
         <id>http://www.openstenoproject.org/</id>
         <link href="http://www.openstenoproject.org/"/>
         <updated>2021-10-29T05:59:54.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revisiting “The 4-Hour Workweek”]]></title>
-        <id>https://www.newyorker.com/culture/office-space/revisiting-the-4-hour-workweek</id>
-        <link href="https://www.newyorker.com/culture/office-space/revisiting-the-4-hour-workweek"/>
-        <updated>2021-10-29T04:54:49.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -56,30 +302,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chevron wins case to jail lawyer Steven Donziger]]></title>
-        <id>https://www.offshore-technology.com/news/chevron-wins-case-to-jail-lawyer/</id>
-        <link href="https://www.offshore-technology.com/news/chevron-wins-case-to-jail-lawyer/"/>
-        <updated>2021-10-29T04:41:36.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roblox Service Disruption]]></title>
-        <id>https://status.roblox.com/pages/59db90dbcdeb2f04dadcf16d</id>
-        <link href="https://status.roblox.com/pages/59db90dbcdeb2f04dadcf16d"/>
-        <updated>2021-10-29T03:40:50.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Setting Up 1.1.1.1 for Families on a Pi-Hole]]></title>
-        <id>https://uglyduck.ca/pihole-cloudflare/</id>
-        <link href="https://uglyduck.ca/pihole-cloudflare/"/>
-        <updated>2021-10-29T03:20:15.000Z</updated>
+        <title type="html"><![CDATA[NetBSD is Looking for various WiFi hardware]]></title>
+        <id>https://mail-index.netbsd.org/current-users/2021/10/27/msg041612.html</id>
+        <link href="https://mail-index.netbsd.org/current-users/2021/10/27/msg041612.html"/>
+        <updated>2021-10-29T03:49:31.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -106,50 +332,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Swift Distributed Actors]]></title>
-        <id>https://swift.org/blog/distributed-actors/</id>
-        <link href="https://swift.org/blog/distributed-actors/"/>
-        <updated>2021-10-29T01:27:44.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote-first work is taking over the rich world – research hints at why]]></title>
-        <id>https://www.economist.com/finance-and-economics/2021/10/30/remote-first-work-is-taking-over-the-rich-world</id>
-        <link href="https://www.economist.com/finance-and-economics/2021/10/30/remote-first-work-is-taking-over-the-rich-world"/>
-        <updated>2021-10-29T01:22:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook Unceremoniously Kills Off 'Oculus' Brand]]></title>
-        <id>https://techcrunch.com/2021/10/28/facebook-errr-meta-unceremoniously-kills-off-oculus-brand/</id>
-        <link href="https://techcrunch.com/2021/10/28/facebook-errr-meta-unceremoniously-kills-off-oculus-brand/"/>
-        <updated>2021-10-29T00:57:12.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How nimble Keyence grew into a $140B titan]]></title>
-        <id>https://asia.nikkei.com/Business/Technology/Evolve-or-die-How-nimble-Keyence-grew-into-a-140bn-titan</id>
-        <link href="https://asia.nikkei.com/Business/Technology/Evolve-or-die-How-nimble-Keyence-grew-into-a-140bn-titan"/>
-        <updated>2021-10-28T22:46:40.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seemingly impossible functional programs]]></title>
-        <id>http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/</id>
-        <link href="http://math.andrej.com/2007/09/28/seemingly-impossible-functional-programs/"/>
-        <updated>2021-10-28T22:45:56.000Z</updated>
+        <title type="html"><![CDATA[Cryptocurrency Loan Platform Implodes in $130M Hack]]></title>
+        <id>https://www.vice.com/en/article/m7vjjy/cryptocurrency-loan-platform-implodes-in-dollar130-million-hack</id>
+        <link href="https://www.vice.com/en/article/m7vjjy/cryptocurrency-loan-platform-implodes-in-dollar130-million-hack"/>
+        <updated>2021-10-28T22:48:28.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -203,16 +389,6 @@ devices which was also successful.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why are our brains shrinking?]]></title>
-        <id>https://usfblogs.usfca.edu/biol100/2018/03/20/why-are-our-brains-shrinking/</id>
-        <link href="https://usfblogs.usfca.edu/biol100/2018/03/20/why-are-our-brains-shrinking/"/>
-        <updated>2021-10-28T21:06:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Goodbye Microsoft SQL Server, Hello Babelfish]]></title>
         <id>c49cbf1a684657d2d6c1cb4fa064a78b2ab04c08</id>
         <link href="https://aws.amazon.com/blogs/aws/goodbye-microsoft-sql-server-hello-babelfish/"/>
@@ -220,16 +396,6 @@ devices which was also successful.]]></summary>
         <summary type="html"><![CDATA[Many of our customers are telling us they want to move away from commercial database vendors to avoid expensive costs and burdensome licensing terms. But migrating away from commercial and legacy databases can be time-consuming and resource-intensive. When migrating your databases, you can automate the migration of your database schema and data using the AWS […]]]></summary>
         <author>
             <name>Sébastien Stormacq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animated guide to Symex: Emacs structural editing with Lisp]]></title>
-        <id>https://countvajhula.com/2021/09/25/the-animated-guide-to-symex/</id>
-        <link href="https://countvajhula.com/2021/09/25/the-animated-guide-to-symex/"/>
-        <updated>2021-10-28T20:36:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -243,40 +409,10 @@ devices which was also successful.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open-Source Babelfish for Postgres]]></title>
-        <id>https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/</id>
-        <link href="https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/"/>
-        <updated>2021-10-28T20:03:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[What caused all the supply chain bottlenecks?]]></title>
         <id>https://twitter.com/typesfast/status/1453753924960219145</id>
         <link href="https://twitter.com/typesfast/status/1453753924960219145"/>
         <updated>2021-10-28T18:45:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPv6 Progress Top Sites 2021]]></title>
-        <id>https://www.6connect.com/ipv6/ipv6-progress-report-top-sites-2019/</id>
-        <link href="https://www.6connect.com/ipv6/ipv6-progress-report-top-sites-2019/"/>
-        <updated>2021-10-28T18:44:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook Renames to Meta]]></title>
-        <id>https://about.facebook.com/meta/</id>
-        <link href="https://about.facebook.com/meta/"/>
-        <updated>2021-10-28T18:17:55.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -359,26 +495,6 @@ with standards.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I was rejected by Codecademy three times, so I built my own]]></title>
-        <id>https://codeamigo.dev?ref=HN</id>
-        <link href="https://codeamigo.dev?ref=HN"/>
-        <updated>2021-10-28T12:44:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Practical Time Machines]]></title>
-        <id>https://textslashplain.com/2021/10/01/practical-time-machines/</id>
-        <link href="https://textslashplain.com/2021/10/01/practical-time-machines/"/>
-        <updated>2021-10-28T11:59:42.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blender 3.x Roadmap Has Big Plans For Vulkan, Other Improvements]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Blender-3.x-Roadmap</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Blender-3.x-Roadmap"/>
@@ -386,6 +502,16 @@ with standards.]]></summary>
         <summary type="html"><![CDATA[With Blender 3.0 releasing soon, the Blender project has published a Blender 3.x road-map outlining some of their plans for future releases...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Domain Theory (1994) [pdf]]]></title>
+        <id>https://www.cs.bham.ac.uk/~axj/pub/papers/handy1.pdf</id>
+        <link href="https://www.cs.bham.ac.uk/~axj/pub/papers/handy1.pdf"/>
+        <updated>2021-10-28T10:13:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -429,6 +555,16 @@ with standards.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Potato Toys (1931)]]></title>
+        <id>https://twitter.com/sovietvisuals/status/1453479551410057225</id>
+        <link href="https://twitter.com/sovietvisuals/status/1453479551410057225"/>
+        <updated>2021-10-28T03:23:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[$] LWN.net Weekly Edition for October 28, 2021]]></title>
         <id>https://lwn.net/Articles/873623/rss</id>
         <link href="https://lwn.net/Articles/873623/rss"/>
@@ -458,16 +594,6 @@ Juju re-imagines the world of operating software securely, reliably, and at scal
         <summary type="html"><![CDATA[The latest weekly test release of Mesa 21.3 is now available ahead of the anticipated stable debut in November...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Compute vs. Hardware]]></title>
-        <id>https://tellusim.com/compute-raster/</id>
-        <link href="https://tellusim.com/compute-raster/"/>
-        <updated>2021-10-27T22:04:07.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -512,16 +638,6 @@ period, instead it was "late", which has highlighted some problems in the
 management of flaws of this nature.]]></summary>
         <author>
             <name>jake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Virtual 3D Fly Brain]]></title>
-        <id>https://v2.virtualflybrain.org/org.geppetto.frontend/geppetto?id=VFB_00101567&amp;i=VFB_00101567</id>
-        <link href="https://v2.virtualflybrain.org/org.geppetto.frontend/geppetto?id=VFB_00101567&amp;i=VFB_00101567"/>
-        <updated>2021-10-27T18:09:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -639,6 +755,26 @@ more.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I made my own garum]]></title>
+        <id>https://twitter.com/lostsupper/status/1453003368725717000</id>
+        <link href="https://twitter.com/lostsupper/status/1453003368725717000"/>
+        <updated>2021-10-27T11:41:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I’m putting a WiFi router into a wall charger]]></title>
+        <id>https://machinehum.medium.com/im-putting-a-wifi-router-into-a-wall-charger-part-0-2c1e1a80ccde</id>
+        <link href="https://machinehum.medium.com/im-putting-a-wifi-router-into-a-wall-charger-part-0-2c1e1a80ccde"/>
+        <updated>2021-10-27T10:18:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Qt 6.2.1 Released With 200+ Bug Fixes]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Qt-6.2.1-LTS-Released</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Qt-6.2.1-LTS-Released"/>
@@ -646,16 +782,6 @@ more.]]></summary>
         <summary type="html"><![CDATA[It's been just shy of one month since Qt 6.2 debuted as the first Qt6 Long-Term Support (LTS) release and ported many of the remaining modules over from Qt5. Shipping today is now Qt 6.2.1 as the first point release with more than two-hundred fixes...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Byberry Mental Hospital, Philadelphia's House of Horrors]]></title>
-        <id>https://allthatsinteresting.com/byberry-mental-hospital</id>
-        <link href="https://allthatsinteresting.com/byberry-mental-hospital"/>
-        <updated>2021-10-27T09:15:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -679,16 +805,6 @@ more.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Epistemic Minor Leagues]]></title>
-        <id>https://astralcodexten.substack.com/p/epistemic-minor-leagues</id>
-        <link href="https://astralcodexten.substack.com/p/epistemic-minor-leagues"/>
-        <updated>2021-10-27T06:49:55.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Qualcomm MSM DRM Driver Improvements Submitted Ahead Of Linux 5.16]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=MSM-Changes-For-Linux-5.16</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=MSM-Changes-For-Linux-5.16"/>
@@ -696,16 +812,6 @@ more.]]></summary>
         <summary type="html"><![CDATA[The MSM DRM driver for supporting the open-source display/graphics support with Qualcomm Snapdragon SoCs has submitted their main feature pull request to DRM-Next ahead of the upcoming Linux 5.16 merge window...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: “HTTP 419 Never Gonna Give You Up” for bots]]></title>
-        <id>https://bradgessler.com/articles/419-never-gonna-give-you-up/</id>
-        <link href="https://bradgessler.com/articles/419-never-gonna-give-you-up/"/>
-        <updated>2021-10-27T05:41:53.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -849,43 +955,13 @@ between their apps.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Raspberry Pi 4 Granted Official Vulkan 1.1 Conformance]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Raspberry-Pi-4-Official-VLK-1.1</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Raspberry-Pi-4-Official-VLK-1.1"/>
-        <updated>2021-10-26T10:05:27.000Z</updated>
-        <summary type="html"><![CDATA[Last week I mentioned how Mesa landed Vulkan 1.1 support for the V3DV driver most notably used by the Raspberry Pi 4 and newer. With those changes in Mesa Git, The Khronos Group has now officially granted this driver Vulkan 1.1 conformance for the Raspberry Pi 4...]]></summary>
+        <title type="html"><![CDATA[Culinary detectives try to recover the formula for garum]]></title>
+        <id>https://www.smithsonianmag.com/arts-culture/recoving-the-recipe-for-garum-180978846/</id>
+        <link href="https://www.smithsonianmag.com/arts-culture/recoving-the-recipe-for-garum-180978846/"/>
+        <updated>2021-10-26T10:50:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
         <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMDGPU DP 2.0 MST Support Sent In For DRM-Next]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMDGPU-DP-2.0-MST-PR</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMDGPU-DP-2.0-MST-PR"/>
-        <updated>2021-10-26T09:58:57.000Z</updated>
-        <summary type="html"><![CDATA[AMDGPU changes already queued up in DRM-Next for Linux 5.16 brought initial code for DisplayPort 2.0 ahead of next-gen GPUs with this connectivity support. Sent out today as a separate pull request is wiring up the DisplayPort 2.0 Multi-Stream Transport (MST) capability for the AMDGPU kernel driver...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BLK-MQ Support For OpenZFS Pending As Latest Performance Optimization]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenZFS-Zvol-BLK-MQ-PR</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenZFS-Zvol-BLK-MQ-PR"/>
-        <updated>2021-10-26T09:34:19.000Z</updated>
-        <summary type="html"><![CDATA[A new pull request is pending for implementing multi-queue block (blk-mq) support within OpenZFS' Zvol code, which can lead to sizable performance benefits...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux Continues To Improve Power Management For Older NVIDIA Tegra SoCs To Avoid Overheating]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-Tegra-PM-Hot</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-Tegra-PM-Hot"/>
-        <updated>2021-10-26T04:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While the Tegra 2 and Tegra 3 SoCs are a decade old, the mainline Linux kernel continues working to improve the power management / thermal behavior for them in order to deal with heating issues for devices relying on these SoCs...]]></summary>
-        <author>
-            <name>Phoronix</name>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -923,16 +999,6 @@ Earlier this month, we introduced Grafana Machine Learning, our new metrics fore
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Linux 5.15-rc7 Released A Day Late Due To Travels]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-rc7</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.15-rc7"/>
-        <updated>2021-10-25T19:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Linus Torvalds normally releases new kernel versions on Sundays like clockwork, but yesterday was one of the rare occasions where that trend was interrupted...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Sudan woke up without Internet]]></title>
         <id>6176fc0889520802a8aa3988</id>
         <link href="https://blog.cloudflare.com/sudan-woke-up-without-internet/"/>
@@ -957,26 +1023,6 @@ later than would have normally been expected due to Linus's travel schedule.
 	excuse to do so, but right now that looks unlikely.]]></summary>
         <author>
             <name>corbet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pat Gelsinger's Open-Source Bias, Intel's Pledge To Openness]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Pledge-To-Open</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Pledge-To-Open"/>
-        <updated>2021-10-25T18:38:09.000Z</updated>
-        <summary type="html"><![CDATA[Ahead of Intel's inaugural Intel Innovation event taking place virtually later this week, Intel CEO Pat Gelsinger published an open letter to an open ecosystem...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Newest Linux Optimizations Can Achieve 10M IOPS Per-Core With IO_uring]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-IO_uring-10M-IOPS</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-IO_uring-10M-IOPS"/>
-        <updated>2021-10-25T18:27:16.000Z</updated>
-        <summary type="html"><![CDATA[Just one week ago Linux block subsystem maintainer Jens Axboe was optimizing the kernel to get 8 million IOPS on a single CPU core. He progressed the week hitting around ~8.9M IOPS per-core and began to think he was hitting the hardware limits and running out of possible optimizations. However, this week he is kicking things off by managing to hit 10 million IOPS!..]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1027,16 +1073,6 @@ patch set that moves the kernel away from the idea of waiting on congestion.]]><
         <summary type="html"><![CDATA[See how we’re using Cloudflare Tunnel to share our technical writing with internal stakeholders for a faster, seamless feedback process.]]></summary>
         <author>
             <name>Alice Bracchi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.16 Will Be A Great Christmas Gift For Open-Source Fans With Many New Features]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-Early-Feature-Look</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-Early-Feature-Look"/>
-        <updated>2021-10-25T12:42:57.000Z</updated>
-        <summary type="html"><![CDATA[While Linux 5.15 isn't even making its debut for another week or two, there is already a lot to look forward to when it comes to Linux 5.16. Here is a look at some of the new features expected for the 5.16 cycle...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1132,36 +1168,6 @@ https://loft.…]]></summary>
         <summary type="html"><![CDATA[Guest post originally published on Kong’s blog by Scott Lowe If you’ve done any reading about service meshes, you’ve probably come across mentions of an open source project named Envoy. And if...]]></summary>
         <author>
             <name>Jessie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[$] Synchronized GPU priority scheduling]]></title>
-        <id>https://lwn.net/Articles/873334/rss</id>
-        <link href="https://lwn.net/Articles/873334/rss"/>
-        <updated>2021-10-22T14:59:12.000Z</updated>
-        <summary type="html"><![CDATA[Since the early days, Unix-like systems have implemented the concept of
-process priorities, where higher-priority processes are given more
-CPU time to get their work done.  Implementations have changed, and
-alternatives (such as deadline scheduling)
-are available for specialized situations, but the core priority (or, in an
-inverted sense, "niceness") concept 
-remains essentially the same.  What should happen, though, in a world where
-increasing amounts of computing work is done outside of the CPU?  Tvrtko
-Ursulin has put together a
-patch set showing how the nice mechanism can be extended to GPUs as
-well.]]></summary>
-        <author>
-            <name>corbet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security updates for Friday]]></title>
-        <id>https://lwn.net/Articles/873746/rss</id>
-        <link href="https://lwn.net/Articles/873746/rss"/>
-        <updated>2021-10-22T13:34:31.000Z</updated>
-        <summary type="html"><![CDATA[Security updates have been issued by Arch Linux (apache, chromium, nodejs, nodejs-lts-erbium, nodejs-lts-fermium, and virtualbox), Fedora (vsftpd and watchdog), Oracle (java-1.8.0-openjdk, java-11-openjdk, and redis:6), and Ubuntu (libcaca, linux-aws, linux-aws-5.4, linux-azure, linux-azure-5.4, linux-gke, linux-gke-5.4, linux-gkeop, linux-gkeop-5.4, linux-oracle, linux-oracle-5.4, linux-raspi, linux-raspi-5.4, linux-azure-5.8, and mailman).]]></summary>
-        <author>
-            <name>jake</name>
         </author>
     </entry>
     <entry>
@@ -1317,16 +1323,6 @@ Cloudflare Workers]]></title>
 A change to the Workers Runtime must never break an application that is live in production.]]></summary>
         <author>
             <name>Kenton Varda</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MITRE ATT&CK Matrix for Kubernetes]]></title>
-        <id>https://www.cncf.io/?p=65204</id>
-        <link href="https://www.cncf.io/blog/2021/10/19/mitre-attck-matrix-for-kubernetes/"/>
-        <updated>2021-10-19T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Guest post originally published on the Magalix blog by Rahul Sharma Overview Last year, CNCF reported an extraordinary 300% increase in Kubernetes adoption from 23% in March 2016 to 92% in July 2020. The...]]></summary>
-        <author>
-            <name>Jessie</name>
         </author>
     </entry>
     <entry>
@@ -1748,26 +1744,6 @@ Seattle 10/7: PWL #54: TBD]]></summary>
         <summary type="html"><![CDATA[Today AWS Step Functions expands the number of supported AWS services from 17 to over 200 and AWS API Actions from 46 to over 9,000 with its new capability AWS SDK Service Integrations. When developers build distributed architectures, one of the patterns they use is the workflow-based orchestration pattern. This pattern is helpful for workflow […]]]></summary>
         <author>
             <name>Marcia Villalba</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS Lambda Functions Powered by AWS Graviton2 Processor – Run Your Functions on Arm and Get Up to 34% Better Price Performance]]></title>
-        <id>0cae1763504c1bb73a2607ef87d1be87390daeb6</id>
-        <link href="https://aws.amazon.com/blogs/aws/aws-lambda-functions-powered-by-aws-graviton2-processor-run-your-functions-on-arm-and-get-up-to-34-better-price-performance/"/>
-        <updated>2021-09-29T21:19:10.000Z</updated>
-        <summary type="html"><![CDATA[Many of our customers (such as Formula One, Honeycomb, Intuit, SmugMug, and Snap Inc.) use the Arm-based AWS Graviton2 processor for their workloads and enjoy better price performance. Starting today, you can get the same benefits for your AWS Lambda functions. You can now configure new and existing functions to run on x86 or Arm/Graviton2 processors. […]]]></summary>
-        <author>
-            <name>Danilo Poccia</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amazon Managed Service for Prometheus Is Now Generally Available with Alert Manager and Ruler]]></title>
-        <id>650ab218c81385c93b055ed2e0e247ffe471c1a9</id>
-        <link href="https://aws.amazon.com/blogs/aws/amazon-managed-service-for-prometheus-is-now-generally-available-with-alert-manager-and-ruler/"/>
-        <updated>2021-09-29T20:57:17.000Z</updated>
-        <summary type="html"><![CDATA[At AWS re:Invent 2020, we introduced the preview of Amazon Managed Service for Prometheus, an open source Prometheus-compatible monitoring service that makes it easy to monitor containerized applications at scale. With Amazon Managed Service for Prometheus, you can use the Prometheus query language (PromQL) to monitor the performance of containerized workloads without having to manage […]]]></summary>
-        <author>
-            <name>Channy Yun</name>
         </author>
     </entry>
 </feed>
