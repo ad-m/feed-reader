@@ -1,25 +1,197 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-10-31T00:00:51.023Z</id>
+    <id>urn:2021-10-31T08:00:38.225Z</id>
     <title>osmos::feed</title>
-    <updated>2021-10-31T00:00:51.023Z</updated>
+    <updated>2021-10-31T08:00:38.225Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Developer's resume with fake buzzwords gets 90% replies, the actual one gets 0%]]></title>
-        <id>https://twitter.com/Coding_Career/status/1454293034179317764</id>
-        <link href="https://twitter.com/Coding_Career/status/1454293034179317764"/>
-        <updated>2021-10-30T22:50:14.000Z</updated>
+        <title type="html"><![CDATA[Six Truths About Video Game Stories]]></title>
+        <id>https://bottomfeeder.substack.com/p/six-truths-about-video-game-stories</id>
+        <link href="https://bottomfeeder.substack.com/p/six-truths-about-video-game-stories"/>
+        <updated>2021-10-31T07:26:21.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Edward Snowden on corporate media hiring surveillance state operatives and liars]]></title>
-        <id>https://twitter.com/Snowden/status/1454542964470996999</id>
-        <link href="https://twitter.com/Snowden/status/1454542964470996999"/>
-        <updated>2021-10-30T22:41:29.000Z</updated>
+        <title type="html"><![CDATA[DevOps'ish 241: REvil roasted, exfil with eBPF, stop your standups, find your coding font, VSCode in browser, and more]]></title>
+        <id>https://kill-the-newsletter.com/alternates/gxf39v3cx71bqspa.html</id>
+        <link href="https://kill-the-newsletter.com/alternates/gxf39v3cx71bqspa.html"/>
+        <updated>2021-10-31T07:16:05.000Z</updated>
+        <summary type="html"><![CDATA[* { font-family: sans-serif !important; }
+        
+    
+
+    
+        /* Box sizing. Gets decent support. */
+        
+        *,
+        *:after,
+        *:before {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        /* Prevents small text resizing. */
+        
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        /* Basic reset. Removes default spacing around emails in various clients.  */
+        
+        html,
+        body,
+        .document {
+            width: 100% !important;
+            height: 100% !important;
+            margin: 0;
+            padding: 0;
+        }
+        /* Improves text rendering when supported. */
+        
+        b…]]></summary>
+        <author>
+            <name>DevOps'ish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SigNoz (YC W21) Is Hiring Golang Engineers]]></title>
+        <id>https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-founding-sr-backend-engineer</id>
+        <link href="https://www.ycombinator.com/companies/signoz/jobs/uCt5BQw-founding-sr-backend-engineer"/>
+        <updated>2021-10-31T07:00:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GDB Debugger Adds Native Support For OpenRISC On Linux]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GDB-Native-OpenRISC-or1k</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GDB-Native-OpenRISC-or1k"/>
+        <updated>2021-10-31T07:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The GNU Debugger (GDB) has landed native support for OpenRISC on Linux and GDB server support...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All Applications for Nuclear Energy at COP26 Rejected]]></title>
+        <id>https://www.world-nuclear-news.org/Articles/Message-Nuclear-must-be-represented-at-COP26,-says</id>
+        <link href="https://www.world-nuclear-news.org/Articles/Message-Nuclear-must-be-represented-at-COP26,-says"/>
+        <updated>2021-10-31T05:54:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chan Zuckerberg Initiative sunsetting science research platform meta.org]]></title>
+        <id>https://cziscience.medium.com/meta-transition-5f66b1fae475</id>
+        <link href="https://cziscience.medium.com/meta-transition-5f66b1fae475"/>
+        <updated>2021-10-31T05:19:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Awesome Userscripts]]></title>
+        <id>https://project-awesome.org/brunocvcunha/awesome-userscripts</id>
+        <link href="https://project-awesome.org/brunocvcunha/awesome-userscripts"/>
+        <updated>2021-10-31T05:19:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RFC1606 – A Historical Perspective on the Usage of IP Version 9]]></title>
+        <id>https://datatracker.ietf.org/doc/html/rfc1606</id>
+        <link href="https://datatracker.ietf.org/doc/html/rfc1606"/>
+        <updated>2021-10-31T05:04:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pianoplayer: Automatic fingering generator for piano scores]]></title>
+        <id>https://github.com/marcomusy/pianoplayer</id>
+        <link href="https://github.com/marcomusy/pianoplayer"/>
+        <updated>2021-10-31T02:59:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Substantially more monarch butterflies have arrived in California to overwinter]]></title>
+        <id>https://www.goodnewsnetwork.org/far-more-monarch-butterflies-in-ca-this-year/</id>
+        <link href="https://www.goodnewsnetwork.org/far-more-monarch-butterflies-in-ca-this-year/"/>
+        <updated>2021-10-31T02:51:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Death by Bureaucracy]]></title>
+        <id>https://www.wethecitizens.net/death-by-bureaucracy/</id>
+        <link href="https://www.wethecitizens.net/death-by-bureaucracy/"/>
+        <updated>2021-10-31T02:13:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lumina Desktop Environment]]></title>
+        <id>https://lumina-desktop.org/</id>
+        <link href="https://lumina-desktop.org/"/>
+        <updated>2021-10-31T01:55:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Miss the Old Internet (2019)]]></title>
+        <id>http://misc-stuff.terraaeon.com/articles/miss-old-internet.html/</id>
+        <link href="http://misc-stuff.terraaeon.com/articles/miss-old-internet.html/"/>
+        <updated>2021-10-31T01:29:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Viking obsession with werewolves]]></title>
+        <id>https://www.atlasobscura.com/articles/hidden-history-viking-wolf-warrior-werewolf</id>
+        <link href="https://www.atlasobscura.com/articles/hidden-history-viking-wolf-warrior-werewolf"/>
+        <updated>2021-10-31T01:09:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Value of Nothing: Capital versus Growth]]></title>
+        <id>https://americanaffairsjournal.org/2021/08/the-value-of-nothing-capital-versus-growth/</id>
+        <link href="https://americanaffairsjournal.org/2021/08/the-value-of-nothing-capital-versus-growth/"/>
+        <updated>2021-10-31T00:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: If the Internet were redesigned today, what changes would you make?]]></title>
+        <id>https://news.ycombinator.com/item?id=29053266</id>
+        <link href="https://news.ycombinator.com/item?id=29053266"/>
+        <updated>2021-10-30T23:55:33.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -36,70 +208,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Path (YC S19) Is Hiring Founding Engineers]]></title>
-        <id>https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d</id>
-        <link href="https://www.notion.so/pathfinance/Fullstack-Engineer-Path-YC-S19-ff0fd31fa5d4410dafce77f83403ce0d"/>
-        <updated>2021-10-30T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Considerate Book Pricing]]></title>
-        <id>https://sive.rs/bp</id>
-        <link href="https://sive.rs/bp"/>
-        <updated>2021-10-30T20:59:56.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[macOS has become more reliable]]></title>
-        <id>https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/</id>
-        <link href="https://eclecticlight.co/2021/10/29/how-macos-is-more-reliable-and-doesnt-need-reinstalling/"/>
-        <updated>2021-10-30T20:53:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dangerous Logging in Swift]]></title>
-        <id>https://indiestack.com/2021/10/dangerous-logging-in-swift/</id>
-        <link href="https://indiestack.com/2021/10/dangerous-logging-in-swift/"/>
-        <updated>2021-10-30T19:40:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[How will MIDI 2.0 change music? (2020)]]></title>
         <id>https://qz.com/1788828/how-will-midi-2-0-change-music/</id>
         <link href="https://qz.com/1788828/how-will-midi-2-0-change-music/"/>
         <updated>2021-10-30T19:28:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strong AI Requires Autonomous Building of Composable Models]]></title>
-        <id>https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/</id>
-        <link href="https://thegradient.pub/strong-ai-requires-autonomous-building-of-composable-models/"/>
-        <updated>2021-10-30T19:28:19.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schoellkopf Power Station Disaster – a history]]></title>
-        <id>https://www.niagarafrontier.com/schoellkopf.html</id>
-        <link href="https://www.niagarafrontier.com/schoellkopf.html"/>
-        <updated>2021-10-30T19:22:24.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -113,16 +225,6 @@
         <summary type="html"><![CDATA[LibreOffice 7.3 Alpha 1 was tagged on Friday in the first step towards this next open-source office suite update due out early next year...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pre-industrial workers had a shorter workweek than today's (1991)]]></title>
-        <id>https://groups.csail.mit.edu/mac/users/rauch/worktime/hours_workweek.html</id>
-        <link href="https://groups.csail.mit.edu/mac/users/rauch/worktime/hours_workweek.html"/>
-        <updated>2021-10-30T17:05:32.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -146,30 +248,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Beyond inductive datatypes: exploring Self types]]></title>
-        <id>https://github.com/kind-lang/Kind/blob/master/blog/1-beyond-inductive-datatypes.md</id>
-        <link href="https://github.com/kind-lang/Kind/blob/master/blog/1-beyond-inductive-datatypes.md"/>
-        <updated>2021-10-30T15:39:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[An ode to the 10,000 RPM Western Digital (Veloci)Raptor]]></title>
         <id>https://louwrentius.com/an-ode-to-the-10000-rpm-western-digital-velociraptor.html</id>
         <link href="https://louwrentius.com/an-ode-to-the-10000-rpm-western-digital-velociraptor.html"/>
         <updated>2021-10-30T15:15:34.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google DNS at 010.010.010.010]]></title>
-        <id>https://010.010.010.010/</id>
-        <link href="https://010.010.010.010/"/>
-        <updated>2021-10-30T15:08:06.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -186,60 +268,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to help a programming student get unstuck]]></title>
-        <id>https://offbyone.us/posts/how-to-help-a-student-get-unstuck/</id>
-        <link href="https://offbyone.us/posts/how-to-help-a-student-get-unstuck/"/>
-        <updated>2021-10-30T14:15:59.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Taking apart the 2010 Fisher Price re-released Music Box Record Player]]></title>
         <id>https://twitter.com/Foone/status/1454230585933631488</id>
         <link href="https://twitter.com/Foone/status/1454230585933631488"/>
         <updated>2021-10-30T14:01:26.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Navy failures destroyed the Bonhomme Richard]]></title>
-        <id>https://gcaptain.com/fire-fire-fire-how-navy-failures-destroyed-the-uss-bonhomme-richard/</id>
-        <link href="https://gcaptain.com/fire-fire-fire-how-navy-failures-destroyed-the-uss-bonhomme-richard/"/>
-        <updated>2021-10-30T12:54:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lidar reveals hundreds of long-lost Maya and Olmec ceremonial centers]]></title>
-        <id>https://arstechnica.com/science/2021/10/lidar-reveals-hundreds-of-long-lost-maya-and-olmec-ceremonial-centers/</id>
-        <link href="https://arstechnica.com/science/2021/10/lidar-reveals-hundreds-of-long-lost-maya-and-olmec-ceremonial-centers/"/>
-        <updated>2021-10-30T12:23:36.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rare, ancient Maya canoe found in Yucatan]]></title>
-        <id>https://www.reuters.com/world/americas/rare-ancient-maya-canoe-found-mexicos-yucatan-2021-10-30/</id>
-        <link href="https://www.reuters.com/world/americas/rare-ancient-maya-canoe-found-mexicos-yucatan-2021-10-30/"/>
-        <updated>2021-10-30T11:29:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Programmer's emotions]]></title>
-        <id>https://blog.sidebits.tech/programmers-emotions/</id>
-        <link href="https://blog.sidebits.tech/programmers-emotions/"/>
-        <updated>2021-10-30T10:39:25.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -266,10 +298,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Firefox 94 to start using EGL on Linux]]></title>
-        <id>https://mozillagfx.wordpress.com/2021/10/30/switching-the-linux-graphics-stack-from-glx-to-egl/</id>
-        <link href="https://mozillagfx.wordpress.com/2021/10/30/switching-the-linux-graphics-stack-from-glx-to-egl/"/>
-        <updated>2021-10-30T09:28:35.000Z</updated>
+        <title type="html"><![CDATA[Show HN: Running a simple local HTTP server in a web page]]></title>
+        <id>https://github.com/EtherDream/http-server-online</id>
+        <link href="https://github.com/EtherDream/http-server-online"/>
+        <updated>2021-10-30T09:12:36.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -327,10 +359,10 @@ release notes have further information.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Internet Hay Exchange]]></title>
-        <id>http://www.hayexchange.com/</id>
-        <link href="http://www.hayexchange.com/"/>
-        <updated>2021-10-29T15:58:22.000Z</updated>
+        <title type="html"><![CDATA[I converted my microwave into a laser oven [video]]]></title>
+        <id>https://www.youtube.com/watch?v=fM9hYzJnao0</id>
+        <link href="https://www.youtube.com/watch?v=fM9hYzJnao0"/>
+        <updated>2021-10-29T19:43:37.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -370,16 +402,6 @@ suggestion that Fedora might drop support for NIS has proved to be a bit of
 a wakeup call for some.]]></summary>
         <author>
             <name>corbet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looking for High Sierra]]></title>
-        <id>http://www.os2museum.com/wp/looking-for-high-sierra/</id>
-        <link href="http://www.os2museum.com/wp/looking-for-high-sierra/"/>
-        <updated>2021-10-29T15:01:34.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -443,6 +465,16 @@ a wakeup call for some.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Explaining Ruby Fibers]]></title>
+        <id>https://noteflakes.com/articles/2021-10-20-explaining-ruby-fibers</id>
+        <link href="https://noteflakes.com/articles/2021-10-20-explaining-ruby-fibers"/>
+        <updated>2021-10-29T09:38:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wayland 1.20 Planned For Release In December]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Wayland-1.20-Release-Plans</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Wayland-1.20-Release-Plans"/>
@@ -450,6 +482,16 @@ a wakeup call for some.]]></summary>
         <summary type="html"><![CDATA[It's been nine months since the release of Wayland 1.19 while now release plans have been drafted for Wayland 1.20...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenSimWorld, Directory of the OpenSimulator Metaverse]]></title>
+        <id>https://opensimworld.com/dir</id>
+        <link href="https://opensimworld.com/dir"/>
+        <updated>2021-10-29T08:35:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -473,10 +515,30 @@ a wakeup call for some.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Diamagnetic Levitation (1997)]]></title>
+        <id>https://www.ru.nl/hfml/research/levitation/diamagnetic-levitation/</id>
+        <link href="https://www.ru.nl/hfml/research/levitation/diamagnetic-levitation/"/>
+        <updated>2021-10-29T08:05:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[How I motivate myself to write]]></title>
         <id>https://blog.pragmaticengineer.com/writing-motivation/</id>
         <link href="https://blog.pragmaticengineer.com/writing-motivation/"/>
         <updated>2021-10-29T07:02:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How long does it take ordinary people to “get good” at chess?]]></title>
+        <id>https://github.com/jcw024/lichess_database_ETL/blob/main/README.md</id>
+        <link href="https://github.com/jcw024/lichess_database_ETL/blob/main/README.md"/>
+        <updated>2021-10-29T05:20:44.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -562,6 +624,16 @@ devices which was also successful.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The AWARE Development Plan]]></title>
+        <id>https://shopify.engineering/aware-development-plan</id>
+        <link href="https://shopify.engineering/aware-development-plan"/>
+        <updated>2021-10-28T20:29:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fedora 35 Cleared For Release Next Week]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-35-Next-Week</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-35-Next-Week"/>
@@ -638,16 +710,6 @@ with standards.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Experiments in the Revival of Organisms – Russian Dog Head Experiment [video]]]></title>
-        <id>https://www.youtube.com/watch?v=K_T8OuYIfhM</id>
-        <link href="https://www.youtube.com/watch?v=K_T8OuYIfhM"/>
-        <updated>2021-10-28T11:31:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Blender 3.x Roadmap Has Big Plans For Vulkan, Other Improvements]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Blender-3.x-Roadmap</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Blender-3.x-Roadmap"/>
@@ -665,16 +727,6 @@ with standards.]]></summary>
         <summary type="html"><![CDATA[It's been six years already since VESA published the Embedded DisplayPort 1.4b specification while finally it's been succeeded by eDP 1.5...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ada is not just another programming language (1986)]]></title>
-        <id>https://sci-hub.se/10.1145/6424.6425</id>
-        <link href="https://sci-hub.se/10.1145/6424.6425"/>
-        <updated>2021-10-28T07:57:52.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -893,16 +945,6 @@ more.]]></summary>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Qt-6.2.1-LTS-Released"/>
         <updated>2021-10-27T09:38:02.000Z</updated>
         <summary type="html"><![CDATA[It's been just shy of one month since Qt 6.2 debuted as the first Qt6 Long-Term Support (LTS) release and ported many of the remaining modules over from Qt5. Shipping today is now Qt 6.2.1 as the first point release with more than two-hundred fixes...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nintendo Switch Controller Driver Finally Set For Linux 5.16]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Nintendo-HID-For-Linux-5.16</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Nintendo-HID-For-Linux-5.16"/>
-        <updated>2021-10-27T09:06:16.000Z</updated>
-        <summary type="html"><![CDATA[After stalling last year when it was queued up in HID's "for-5.10/nintendo" branch only to not make it into HID-next at the time, that threshold has now been crossed with the latest Nintendo Switch controller driver now ready for introduction in Linux 5.16. This open-source driver enables the Nintendo Switch Joy-Con and Pro controllers to work under Linux with a mainline kernel driver...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
