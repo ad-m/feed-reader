@@ -20,8 +20,104 @@
     <ul class="sources card">
       <li class="source">
         <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://blog.cloudflare.com/">The Cloudflare Blog</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">DDoS Attack Trends for Q3 2021</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://blog.cloudflare.com/ddos-attack-trends-for-2021-q3/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>In Q3, 2021 we saw and mitigated record-setting HTTP DDoS attacks, terabit-strong network layer attacks, one of the largest botnets ever deployed (Meris), and more recently, ransom attacks on Voice-over-IP (VoIP) service providers.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://kill-the-newsletter.com/">Infrastructure as a Newsletter</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Infrastructure as a Newsletter: November 4, 2021</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://kill-the-newsletter.com/alternates/d6i7z6ia805xnfgp.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Infrastructure as a Newsletter: November 4, 2021
+
+
+
+
+
+#outlook a { padding:0; }           body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }           table { border-spacing:0;}           img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }           p { display:block;margin:13px 0; }
+                                                                                              96                                                                               table { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }             .mj-outlook-group-fix { width:100% !important; }             .block-grid-outlook .button-container a {background: transparent !important;}                 …</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
           <h3 class="source-name"><a class="source-name__link" href="https://lwn.net">LWN.net</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Horgan: Linux x86 Program Start Up</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://lwn.net/Articles/875108/rss">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Patrick Horgan explains
+the process of starting a program on Linux in great detail.
+
+
+
+	Well, __libc_start_main calls __libc_init_first,
+	who immediately uses secret inside information to find the
+	environment variables just after the terminating null of the
+	argument vector and then sets a global variable __environ
+	which __libc_start_main uses thereafter whenever it needs
+	it including when it calls main. After the envp
+	is established, then __libc_start_main uses the same trick
+	and surprise! Just past the terminating null at the end of the
+	envp array, there&#x27;s another vector, the ELF auxiliary
+	vector the loader uses to pass some information to the process. An
+	easy way to see what&#x27;s in there is to set the environment variable
+	LD_SHOW_AUXV&#x3D;1 before running the program.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">[$] 5.16 Merge window, part 1</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://lwn.net/Articles/874683/rss">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>As of this writing, Linus Torvalds has pulled exactly 6,800 non-merge
+changesets into the mainline repository for the 5.16 kernel release.  That
+is probably a little over half of what will arrive during this merge
+window, so this is a good time to catch up on what has been pulled so far.
+There are many significant changes and some large-scale restructuring of
+internal kernel code, but relatively few ground-breaking new
+features.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Security updates for Thursday</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://lwn.net/Articles/875106/rss">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Security updates have been issued by Fedora (ansible, chromium, kernel, mupdf, python-PyMuPDF, rust, and zathura-pdf-mupdf), openSUSE (qemu and webkit2gtk3), Red Hat (firefox and kpatch-patch), Scientific Linux (firefox), SUSE (qemu, tomcat, and webkit2gtk3), and Ubuntu (firefox and thunderbird).</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">[$] LWN.net Weekly Edition for November 4, 2021</summary>
@@ -41,10 +137,252 @@
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">Jerry (YC S17) Is Hiring Senior Software Engineer</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://jobs.lever.co/getjerry/8a65340f-f253-4da6-8259-ad1fe527a7e8">
+                <summary class="article-expander__title">Don&#x27;t build your castle in other people&#x27;s kingdoms</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://howtomarketagame.com/2021/11/01/dont-build-your-castle-in-other-peoples-kingdoms/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(7 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Space Station 14 – Open-Source Remake of Space Station 13</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://spacestation14.io/">
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(1 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Astronomers want NASA to build a giant space telescope to peer at alien Earths</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.npr.org/2021/11/04/1052153703/astronomers-want-nasa-to-build-a-giant-space-telescope-to-peer-at-alien-earths">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">The nation’s last uranium mill plans to import Estonia’s radioactive waste</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.hcn.org/issues/53.11/indigenous-affairs-nuclear-energy-the-nations-last-uranium-mill-plans-to-import-estonias-radioactive-waste">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(16 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Clerk: Local-First Notebooks for Clojure</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://github.com/nextjournal/clerk">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">New drug to treat meth addiction receives major NIH grant</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.pharmamanufacturing.com/industrynews/2021/new-drug-to-treat-meth-addiction-receives-major-nih-grant/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">The Surprising Subtleties of Zeroing a Register (2012)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://randomascii.wordpress.com/2012/12/29/the-surprising-subtleties-of-zeroing-a-register/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(12 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Fasting Improves Physiological and Molecular Markers of Aging (2019)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cell.com/action/showPdf?pii&#x3D;S1550-4131%2819%2930429-2">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Finishing my first game while working full-time</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://jasont.co/finishing-games/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Best Practices for Connecting to NTP Servers</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://labs.ripe.net/author/christer-weinigel/best-practices-for-connecting-to-ntp-servers/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(8 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Show HN: Initiative.sh, an in-browser command line for D&amp;D</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://initiative.sh/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Parents built their own school app, ignoring warnings that it might be illegal</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.wired.co.uk/article/sweden-stockholm-school-app-open-source">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(10 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">A Haskell memory leak in way too much detail with Cachegrind</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.tweag.io/blog/2021-11-04-haskell-profiling-cachegrind/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(12 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">LibreWolf – A fork of Firefox, focused on privacy, security and freedom</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://librewolf-community.gitlab.io/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Examining interactions between narcissistic leaders and anxious followers</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24490">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(29 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Launch HN: Jitsu (YC S20) – Open-Source Segment Alternative</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://news.ycombinator.com/item?id&#x3D;29106082">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(12 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Convictional (YC W19) is hiring engineers to build the future of B2B trade</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://jobs.ashbyhq.com/convictional/91fa08f9-0850-4429-9000-19c1f5fe9ef3">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(0 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Is Matrix less private than other E2EE messaging protocols? (2019)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://gitlab.com/libremonde-org/papers/research/privacy-matrix.org/-/blob/master/part1/README.md">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(1 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Making Emacs Popular Again (2020)</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://lwn.net/Articles/819452/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(72 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Coconut-Simple, elegant, Pythonic functional programming</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://coconut-lang.org/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Linux x86 program start up</summary>
+                <a class="article-summary-link article-summary-box-outer" href="http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(17 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">I was terrified of an eyeball injection</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.ctrl.blog/entry/eyeball-fright.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(8 min)</span>
+                    <span>Comments</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Our self imposed scarcity of nice places</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.strongtowns.org/journal/2021/11/3/our-self-imposed-scarcity-of-nice-places">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(8 min)</span>
                     <span>Comments</span>
                   </div>
                 </a>
@@ -63,17 +401,6 @@
             </article>
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">Angular v13 Released</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://blog.angular.io/angular-v13-is-now-available-cce66f7bc296?gi&#x3D;978215207a39">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(5 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
                 <summary class="article-expander__title">I introduced my 5-year-old and 2-year-old to startx and xmonad (2012)</summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://changelog.complete.org/archives/7562-i-introduced-my-5-year-old-and-2-year-old-to-startx-and-xmonad-theyre-delighted">
                   <div class="article-summary-box-inner">
@@ -83,24 +410,41 @@
                 </a>
               </details>
             </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://www.cncf.io">Cloud Native Computing Foundation</a></h3>
+          <section class="articles-per-source">
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">Chinese athlete accuses former top Communist Party official of sexual assault</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.npr.org/sections/goatsandsoda/2021/11/03/1051873031/chinese-tennis-athlete-accuses-former-top-communist-party-official-of-sexual-ass">
+                <summary class="article-expander__title">Emissary-ingress now officially supported by top service mesh projects Linkerd and Istio</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cncf.io/blog/2021/11/04/emissary-ingress-now-officially-supported-by-top-service-mesh-projects-linkerd-and-istio/">
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(4 min)</span>
-                    <span>Comments</span>
+                    <span>Project guest post by the Emissary-ingress project maintainers Cloud Native Computing Foundation (CNCF) incubating project Emissary-ingress, an open source ingress controller and API gateway for Kubernetes, announces official support by major service...</span>
                   </div>
                 </a>
               </details>
             </article>
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">Baking bread using 4,500 year old yeast from Ancient Egyptian pottery (2019)</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://twitter.com/SeamusBlackley/status/1158264819503419392">
+                <summary class="article-expander__title">Longhorn brings cloud native distributed storage to the CNCF Incubator</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cncf.io/blog/2021/11/04/longhorn-brings-cloud-native-distributed-storage-to-the-cncf-incubator/">
                   <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>Comments</span>
+                    <span class="article-reading-time">(4 min)</span>
+                    <span>The CNCF Technical Oversight Committee (TOC) has voted to accept Longhorn as a CNCF incubating project. Longhorn is a distributed block storage system for Kubernetes, designed to run on top of different...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Managed container services: KaaS, KPaaS &amp; CaaS explained and compared</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cncf.io/blog/2021/11/04/managed-container-services-kaas-kpaas-caas-explained-and-compared/">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(6 min)</span>
+                    <span>Guest post originally published on Elastisys’ blog by Lars Larsson, Senior Cloud Architect, and DevOps Expert Engineer at Elastisys The cloud computing service model has shown us that infrastructure as a service...</span>
                   </div>
                 </a>
               </details>
@@ -111,6 +455,61 @@
         <section>
           <h3 class="source-name"><a class="source-name__link" href="https://www.phoronix.com/">Phoronix</a></h3>
           <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Microsoft Adds Linux Support To Endpoint Manager</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/scan.php?page&#x3D;news_item&amp;px&#x3D;MS-Endpoint-Manager-Linux">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Microsoft&#x27;s latest surprise is adding native Linux support to their Endpoint Manager software...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Intel Core i5 12600K / Core i9 12900K &quot;Alder Lake&quot; Linux Performance</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/vr.php?view&#x3D;30653">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(5 min)</span>
+                    <span>With the Intel 12th Gen Core processors shipping today along with the new line-up of Z690 motherboards, the review embargo lifts for talking about these Intel &quot;Alder Lake&quot; processors. While by now you&#x27;ve likely heard a lot about Intel Alder Lake on Windows and various leaked benchmarks with Windows 11, how does these processors with the new hybrid architecture work and perform on Linux? Here are the initial benchmarks and support information for Intel&#x27;s Core i5 12600K and Core i9 12900K processors under Ubuntu Linux.</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">XWayland Lands Another Performance Fix</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/scan.php?page&#x3D;news_item&amp;px&#x3D;XWayland-Another-Perf-Fix">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>Red Hat engineer Michel Dänzer has uncovered and addressed another performance shortcoming within X.Org&#x27;s XWayland code...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Facebook&#x27;s BOLT Nearing Mainline LLVM For Optimizing Binaries</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/scan.php?page&#x3D;news_item&amp;px&#x3D;BOLT-Nearing-LLVM-Monorepo">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>Facebook&#x27;s BOLT project for optimizing the performance out of compiled binaries is nearing the point of being added to LLVM&#x27;s official source tree with its mono repository...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Linux 5.16 Arm SoC Changes Bring-Up The Snapdragon 690, Other Hardware</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/scan.php?page&#x3D;news_item&amp;px&#x3D;Linux-5.16-Arm-SoC-Platform">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(3 min)</span>
+                    <span>All of the Arm SoC/platform changes were merged on Wednesday evening for the Linux 5.16 kernel cycle...</span>
+                  </div>
+                </a>
+              </details>
+            </article>
             <article>
               <details class="article-expander">
                 <summary class="article-expander__title">Mesa 21.3-rc4 Release Led By Many Zink Fixes</summary>
@@ -174,9 +573,9 @@ CVE-2021-41174 Grafana XSS
 Summary
 CVSS Score: 6.9
 CVSS: 3.0/AV:N/AC:H/PR:N/UI:R/S:C/C:L/I:H/A:N/E:U/RL:O/RC:R/CR:L/MAV:N/MAC:H/MPR:N/MUI:R/MS:C/MC:N/MI:H/MA:L
-We received a security report to security@grafana.com on 2021-10-22 about an XSS vulnerability in Grafana. It was later identified as affecting Grafana versions from 2.0.1 to 8.2.2. CVE-2021-41174 has been assigned to this vulnerability.
+We received a security report to security@grafana.com on 2021-10-22 about an XSS vulnerability in Grafana. It was later identified as affecting Grafana versions from 8.0.0-beta1 to 8.2.2. CVE-2021-41174 has been assigned to this vulnerability.
 Impact
-If an attacker is able to convince a victim to v…</span>
+If an attacker is able to convince a victi…</span>
                   </div>
                 </a>
               </details>
@@ -223,10 +622,10 @@ in the loop.</span>
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">Podcasts are my new Wikipedia</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.listennotes.com/blog/why-podcasts-are-my-new-wikipedia-the-perfect-41/">
+                <summary class="article-expander__title">Romantic friendship: deep and lasting connection comes in many forms</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.newstatesman.com/ideas/agora/2021/11/what-is-romantic-friendship">
                   <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(8 min)</span>
+                    <span class="article-reading-time">(7 min)</span>
                     <span>Comments</span>
                   </div>
                 </a>
@@ -234,30 +633,8 @@ in the loop.</span>
             </article>
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">Some Whales Can Eat Upwards of 16 Tons of Tiny Shrimp a Day</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.smithsonianmag.com/science-nature/some-whales-can-eat-upwards-of-16-tons-of-tiny-shrimp-a-day-180978987/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(6 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Knapsack algorithm in PostgreSQL source code</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://github.com/postgres/postgres/blob/master/src/backend/lib/knapsack.c">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">NASA Shows the First 3D Imagery Captured of Jupiter&#x27;s Atmosphere</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://petapixel.com/2021/11/01/nasa-shows-the-first-3d-imagery-captured-of-jupiters-atmosphere/">
+                <summary class="article-expander__title">Ford&#x27;s $3900 electric crate motor and F-100 concept</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.cnbc.com/2021/11/02/ford-unveils-a-custom-electric-pickup-ahead-of-f-150-lightning-.html">
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(2 min)</span>
                     <span>Comments</span>
@@ -267,151 +644,8 @@ in the loop.</span>
             </article>
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">Notice of Stolen EVGA GeForce RTX 30-Series Graphics Cards</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://forums.evga.com/Notice-of-Stolen-EVGA-GeForce-RTX-30Series-Graphics-Cards-m3490851.aspx">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(13 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Minimum Viable Secure Product</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://mvsp.dev/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Amazon Time Sync Service</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://aws.amazon.com/about-aws/whats-new/2021/11/amazon-time-sync-service-generate-compare-timestamps/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Fortification, Part I: The Besieger’s Playbook</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://acoup.blog/2021/10/29/collections-fortification-part-i-the-besiegers-playbook/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(68 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">TypeScript: Control flow analysis for destructured discriminated unions</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://github.com/microsoft/TypeScript/pull/46266">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(23 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Reporter who told Missouri officials of website flaw did &#x27;nothing out of line&#x27;</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://statescoop.com/missouri-parson-reporter-did-nothing-wrong/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Luau goes open-source</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://luau-lang.org/2021/11/03/luau-goes-open-source.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Show HN: I built a CNC-machine from scratch, using 40x 3D-printed parts</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://github.com/maxvfischer/DIY-CNC-machine">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(42 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">TimescaleDB vs ClickHouse</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://pradeepchhetri.xyz/clickhousevstimescaledb/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(25 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Thank you, GitHub</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://github.blog/2021-11-03-thank-you-github/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Ask HN: Is the ISO 27001 certification worth it?</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://news.ycombinator.com/item?id&#x3D;29094889">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(33 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">L.M. Sacasas on instant messenger over instant messenger</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://thebrowser.com/notes/lm-sacasas/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(9 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">DownThemAll (2019)</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://addons.mozilla.org/de/firefox/addon/downthemall/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">The Mountain of Tongues</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.historytoday.com/archive/review/mountain-tongues">
+                <summary class="article-expander__title">‘Rare find’: amphitheatre dig in Kent paints picture of Roman town</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.theguardian.com/uk-news/2021/oct/28/amphitheatre-dig-kent-roman-town-richborough">
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(3 min)</span>
                     <span>Comments</span>
@@ -745,65 +979,10 @@ Some more information can be found in this
           <section class="articles-per-source">
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">Raft Consensus Protocol</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.consul.io/docs/architecture/consensus">
+                <summary class="article-expander__title">Codidact – A community-run, open-source Q&amp;A platform</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://www.codidact.com/">
                   <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(6 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Trie in JavaScript: the data structure behind autocomplete</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Ask HN: How do you (security) audit external software using NPM packages?</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://news.ycombinator.com/item?id&#x3D;29078836">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(6 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">DevUtils: Offline Toolbox for Developers</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://devutils.app/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">The ties that bind: Cradling in Tajikistan</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://journals.plos.org/plosone/article?id&#x3D;10.1371/journal.pone.0204428">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(31 min)</span>
-                    <span>Comments</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Energy, and How to Get It</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.newyorker.com/magazine/2021/11/08/energy-and-how-to-get-it">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(21 min)</span>
+                    <span class="article-reading-time">(2 min)</span>
                     <span>Comments</span>
                   </div>
                 </a>
@@ -881,7 +1060,7 @@ Some more information can be found in this
                 <summary class="article-expander__title">Canonical Begins Offering Ubuntu Images Optimized For Intel CPUs</summary>
                 <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/scan.php?page&#x3D;news_item&amp;px&#x3D;Ubuntu-Intel-IoT-Optimized">
                   <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(2 min)</span>
+                    <span class="article-reading-time">(3 min)</span>
                     <span>Canonical has begun publishing Ubuntu install images that are optimized for use on next-generation Intel IoT platforms...</span>
                   </div>
                 </a>
@@ -960,17 +1139,6 @@ Some more information can be found in this
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(4 min)</span>
                     <span>After going through a number of rounds of patch revisions over the past year, Intel&#x27;s kernel-side changes for supporting Advanced Matrix Extensions (AMX) with next-gen Xeon Scalable &quot;Sapphire Rapids&quot; processors has landed for Linux 5.16!..</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Steam On Linux Marketshare Hits New Multi-Year High, AMD Powering ~40% Of Linux Gaming Systems</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/scan.php?page&#x3D;news_item&amp;px&#x3D;Steam-Linux-October-2021">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>Back in July Steam on Linux re-crossed the 1.0% marketshare threshold following the announcement of the Steam Deck and continued progress around Steam Play / Proton. The Steam on Linux user-base has continued growing month by month and has hit another high with the numbers published today that cover the month of October...</span>
                   </div>
                 </a>
               </details>
@@ -1094,20 +1262,19 @@ at where the contributions to the 5.15 kernel came from.</span>
                 </a>
               </details>
             </article>
+        </section>
+      </li>
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://news.ycombinator.com/">Hacker News</a></h3>
+          <section class="articles-per-source">
             <article>
               <details class="article-expander">
-                <summary class="article-expander__title">The &quot;Trojan Source&quot; vulnerability</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://lwn.net/Articles/874546/rss">
+                <summary class="article-expander__title">Batavia shipwreck reveals a key to Dutch success in 17th-century world trade</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://journals.plos.org/plosone/article?id&#x3D;10.1371/journal.pone.0259391">
                   <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>The latest branded and trademarked vulnerability type is called &quot;Trojan Source&quot;.  By playing tricks
-with Unicode bidirectional support, an attacker can create malicious code
-that appears to be benign to reviewers.  &quot;The attack is to use
-control characters embedded in comments and strings to reorder source code
-characters in a way that changes its logic.&quot;  Various releases,
-including Rust
-1.56.1,
-are being made to address this problem.</span>
+                    <span class="article-reading-time">(28 min)</span>
+                    <span>Comments</span>
                   </div>
                 </a>
               </details>
@@ -1155,45 +1322,6 @@ Chattanooga 11/9: Ben Marx on Running BGP in Data Centers at Scale</span>
                   <div class="article-summary-box-inner">
                     <span class="article-reading-time">(3 min)</span>
                     <span>Guest post by Zerto In a previous blog post, we talked about container state, and how the read-only, stateless nature of containers forces application architects to rethink what data is stored where...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.phoronix.com/">Phoronix</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Radeon ROCm 4.5 Released With HIP Runtime Compilation, Unified Memory Support</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/scan.php?page&#x3D;news_item&amp;px&#x3D;Radeon-ROCm-4.5">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>AMD today released Radeon Open eCosystem 4.5 (ROCm 4.5) as the latest version to their open-source GPU compute stack for Linux systems. ROCm 4.5 brings with it a number of new features and improvements but one area on the consumer Radeon side will leave some potential users frustrated...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Memory Folios Merged For Linux 5.16</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/scan.php?page&#x3D;news_item&amp;px&#x3D;Memory-Folios-Lands-Linux-5.16">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>The proposed memory &quot;folios&quot; functionality for Linux 5.16 is happening! This low-level change to the Linux memory management code was merged today for this next kernel...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">GCC &amp; LLVM Patches Pending To Fend Off Trojan Source Attacks</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/scan.php?page&#x3D;news_item&amp;px&#x3D;GCC-LLVM-Trojan-Source">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>Making rounds today are the &quot;Trojan Source&quot; attacks by which text displayed to the end-user/developer doesn&#x27;t match what is actually being executed. The problem stems from Unicode standards and could lead to malicious code being inadvertently introduced into upstream code-bases that could be overlooked during code review processes, etc. GCC and LLVM/Clang are among the early compilers preparing defenses against Trojan Source style attacks...</span>
                   </div>
                 </a>
               </details>
@@ -1283,50 +1411,6 @@ https://www.opslevel.com/blog/opslevel-convos…</span>
             </article>
         </section>
       </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://lwn.net">LWN.net</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">The 5.15 kernel has been released</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://lwn.net/Articles/874493/rss">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>Linus has released the 5.15 kernel after
-another nine-week development cycle.
-
-
-	This release may have started out with some -Werror pain, but it
-	calmed down fairly quickly and on the whole 5.15 was fair small and
-	calm. Let&#x27;s hope for more of the same - without Werror issues this
-	time - for the upcoming merge window.
-
-
-The code name for this release has been set to &quot;Trick or Treat&quot;.
-
-Significant features in this release include:
-the realtime
-preemption locking code,
-descriptorless files for io_uring,
-BPF timers,
-the removal of mandatory file-locking support,
-the ksmbd SMB filesystem server (but see this
-article),
-printk() indexing,
-the process_mrelease() system
-call,
-The DAMON memory-management optimization
-system,
-the ntfs3 filesystem implementation,
-and much more.  See the
-KernelNewbies 5.15 page for more information.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
     </ul>
   </section>
   <section class="daily-content">
@@ -1355,24 +1439,6 @@ Name: Dafydd Thomas
 Senior Software Engineer Dafydd Thomas
 Current location/time zone: I live in Bristol, U.K., which at time of writing is in the UTC+1 time zone. Bristol has been described as “lively yet laid-back” and “one of the most cosmopolitan centers outside London.” I like it because it has an incredibly high density of independent breweries.
 What do you do at Grafana Labs? I work on the systems supporting Grafana Cloud, specifically those systems managing the Grafana instances we run for our customers. We also identify opportunities for improvement that arise when running Graf…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://lwn.net">LWN.net</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Yocto Project 3.4 (Honister) released</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://lwn.net/Articles/874409/rss">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(1 min)</span>
-                    <span>Version 3.4 of The Yocto Project has been released.  Yocto provides a system for building embedded Linux distributions.  This release comes with &quot;Linux kernel 5.14, glibc 2.34 and ~280 other recipe upgrades&quot;, support for building and cross-compiling Rust code, tons of new recipes, a way to create a SPDX bill of materials (BoM), overlayfs and seccomp support, optimizations, bug fixes, and more.  The full
-release notes have further information.</span>
                   </div>
                 </a>
               </details>
@@ -1574,40 +1640,6 @@ Gerhard’s original monitoring setup generated alerts but no metrics to illumin
             </article>
         </section>
       </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.cncf.io">Cloud Native Computing Foundation</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Secure software supply chains: good practices, at scale</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.cncf.io/blog/2021/10/27/secure-software-supply-chains-good-practices-at-scale/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(9 min)</span>
-                    <span>Guest post originally published on Contino Engineering‘s blog by Dan Chernoff Supply chain attacks rose by 42% in the first quarter of 2021 [1] and are becoming even more prevalent [2]. In...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.phoronix.com/">Phoronix</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Intel Announces 12th Gen Core &quot;Alder Lake&quot; CPUs, Linux Tests Forthcoming</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.phoronix.com/vr.php?view&#x3D;30645">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>Intel is using their inaugural Intel Innovation virtual event today to formally announce the highly-anticipated 12th Gen Core &quot;Alder Lake&quot; processors. These first desktop processors built on their &quot;Intel 7&quot; process and employ a hybrid architecture will be available in retail channels next week. Today we can talk more about Alder Lake specifications and features while our Linux performance benchmarks and support analysis will come once the Alder Lake review embargo expires next week.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
     </ul>
   </section>
   <section class="daily-content">
@@ -1667,34 +1699,6 @@ Get started with Grafana Cloud: If you’re not already familiar with it, Grafan
 New features now available in Grafana Cloud
 Grafana Machine Learning 
 Earlier this month, we introduced Grafana Machine Learning, our new metrics forecasting capability tha…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://www.cncf.io">Cloud Native Computing Foundation</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Welcome to Pluto, the place to start with open source development</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.cncf.io/blog/2021/10/26/welcome-to-pluto-the-place-to-start-with-open-source-development/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(4 min)</span>
-                    <span>Guest post originally published on Fairwind’s blog by Robert Brennan, Fairwinds Hello from Pluto, the little planet with big open source value. Once considered a full-size sphere in the cosmos, Pluto was...</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Announcing Vitess 12</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://www.cncf.io/blog/2021/10/26/announcing-vitess-12/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>Project post originally published on the Vitess Blog by Alkin Tezuysal, Sr. Technical Manager at PlanetScale On behalf of the Vitess maintainers, I am pleased to announce the general availability of Vitess...</span>
                   </div>
                 </a>
               </details>
@@ -2229,28 +2233,6 @@ Thank you: @hirdot</span>
     </ul>
   </section>
   <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-10-15">2021-10-15</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://blog.cloudflare.com/">The Cloudflare Blog</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">Introducing Cloudflare’s Technology Partner Program</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://blog.cloudflare.com/technology-partner-program/">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(0 min)</span>
-                    <span>We aim to continue expanding our ecosystem of programs and partners to make it seamless for our customers to use Cloudflare. To support our growing ecosystem of partners, we are excited to launch our Technology Partner Program.</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
-  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-10-11">2021-10-11</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -2389,7 +2371,7 @@ Supply chain security is an increasingly important topic. This presentation expl
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-11-04T08:01:04.059Z">2021-11-04T08:01:04.059Z</time>
+    <time id="build-timestamp" datetime="2021-11-04T16:00:37.532Z">2021-11-04T16:00:37.532Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.3</a></span>
   </footer>
   <script src="index.js"></script>
