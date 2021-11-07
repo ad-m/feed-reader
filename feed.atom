@@ -1,15 +1,202 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-06T16:00:40.579Z</id>
+    <id>urn:2021-11-07T00:01:07.815Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-06T16:00:40.579Z</updated>
+    <updated>2021-11-07T00:01:07.815Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[American trains need more than railfan nostalgia]]></title>
-        <id>https://www.slowboring.com/p/amtrak-review</id>
-        <link href="https://www.slowboring.com/p/amtrak-review"/>
-        <updated>2021-11-06T15:39:42.000Z</updated>
+        <title type="html"><![CDATA[Racket v8.3]]></title>
+        <id>https://blog.racket-lang.org/2021/11/racket-v8-3.html</id>
+        <link href="https://blog.racket-lang.org/2021/11/racket-v8-3.html"/>
+        <updated>2021-11-06T22:53:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Tokyo Works]]></title>
+        <id>https://metropolisjapan.com/why-tokyo-works/</id>
+        <link href="https://metropolisjapan.com/why-tokyo-works/"/>
+        <updated>2021-11-06T22:37:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replit (YC W18) Is Hiring IDE Hackers and Designers]]></title>
+        <id>https://replit.com/careers</id>
+        <link href="https://replit.com/careers"/>
+        <updated>2021-11-06T21:00:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some weekend stable kernel updates]]></title>
+        <id>https://lwn.net/Articles/875297/rss</id>
+        <link href="https://lwn.net/Articles/875297/rss"/>
+        <updated>2021-11-06T20:30:58.000Z</updated>
+        <summary type="html"><![CDATA[The
+5.15.1,
+5.14.17,
+5.10.78,
+5.4.158, and
+4.19.216
+stable kernel updates have all been released; each contains another set of
+important fixes.]]></summary>
+        <author>
+            <name>corbet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DirectX 12 applications no longer working on 4th gen Intel processor graphics]]></title>
+        <id>https://www.intel.com/content/www/us/en/support/articles/000057520/graphics/graphics-for-4th-generation-intel-processors.html</id>
+        <link href="https://www.intel.com/content/www/us/en/support/articles/000057520/graphics/graphics-for-4th-generation-intel-processors.html"/>
+        <updated>2021-11-06T20:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Close Look at a Spinlock]]></title>
+        <id>https://blog.regehr.org/archives/2173</id>
+        <link href="https://blog.regehr.org/archives/2173"/>
+        <updated>2021-11-06T20:05:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ASCII Paint]]></title>
+        <id>http://ascii.alienmelon.com/</id>
+        <link href="http://ascii.alienmelon.com/"/>
+        <updated>2021-11-06T19:58:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cellular Automata in F#]]></title>
+        <id>https://isthisit.nz/posts/2020/cellular-automata-in-fsharp/</id>
+        <link href="https://isthisit.nz/posts/2020/cellular-automata-in-fsharp/"/>
+        <updated>2021-11-06T19:25:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Setting up Gmail in Doom Emacs using mbsync and mu4e]]></title>
+        <id>https://www.erichgrunewald.com/posts/setting-up-gmail-in-doom-emacs-using-mbsync-and-mu4e/</id>
+        <link href="https://www.erichgrunewald.com/posts/setting-up-gmail-in-doom-emacs-using-mbsync-and-mu4e/"/>
+        <updated>2021-11-06T19:12:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spending $5k to learn how database indexes work]]></title>
+        <id>https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/</id>
+        <link href="https://briananglin.me/posts/spending-5k-to-learn-how-database-indexes-work/"/>
+        <updated>2021-11-06T18:25:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple’s New Screen Repair Trap Could Change the Repair Industry Forever]]></title>
+        <id>https://www.ifixit.com/News/54829/apples-new-screen-repair-trap-could-change-the-repair-industry-forever</id>
+        <link href="https://www.ifixit.com/News/54829/apples-new-screen-repair-trap-could-change-the-repair-industry-forever"/>
+        <updated>2021-11-06T18:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Godot 3.4 Released With Many New Features For This Open-Source Game Engine]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Godot-3.4-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Godot-3.4-Released"/>
+        <updated>2021-11-06T17:46:28.000Z</updated>
+        <summary type="html"><![CDATA[While we eagerly await the release of Godot 4 as a massive update to this leading open-source game engine, out this weekend is Godot 3.4 as a rather significant update to Godot 3.x with a number of new features and improvements...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Tech Coding Interview Framework – Pt 1. Inspect]]></title>
+        <id>https://fangprep.substack.com/p/the-coding-interview-pt-1-inspect</id>
+        <link href="https://fangprep.substack.com/p/the-coding-interview-pt-1-inspect"/>
+        <updated>2021-11-06T17:42:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keyoxide: A privacy-friendly platform to establish your decentralized identity]]></title>
+        <id>https://codeberg.org/keyoxide/keyoxide-web/src/branch/main/content/about.md</id>
+        <link href="https://codeberg.org/keyoxide/keyoxide-web/src/branch/main/content/about.md"/>
+        <updated>2021-11-06T17:22:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Epic future for SPJ]]></title>
+        <id>https://discourse.haskell.org/t/an-epic-future-for-spj/3573</id>
+        <link href="https://discourse.haskell.org/t/an-epic-future-for-spj/3573"/>
+        <updated>2021-11-06T17:20:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proposed Patches Would Let Linux GPU Drivers More Easily Know When User Input Occurs]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-DRM-Input-Event-Helper</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-DRM-Input-Event-Helper"/>
+        <updated>2021-11-06T17:11:56.000Z</updated>
+        <summary type="html"><![CDATA[Proposed Linux kernel patches by a Google engineer -- based on existing functionality found within Android and Chrome OS kernel builds -- would allow Linux's DRM display/GPU drivers to more easily know when system input events occur...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ask HN: Whatever happened to Wolfram Alpha?]]></title>
+        <id>https://news.ycombinator.com/item?id=29131931</id>
+        <link href="https://news.ycombinator.com/item?id=29131931"/>
+        <updated>2021-11-06T17:11:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deno Deploy Demo: a multi-datacenter chat, client+server in 23 lines of TS]]></title>
+        <id>https://dash.deno.com/playground/mini-ws-chat</id>
+        <link href="https://dash.deno.com/playground/mini-ws-chat"/>
+        <updated>2021-11-06T16:50:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The tomato was feared in Europe for more than 200 years (2013)]]></title>
+        <id>https://www.smithsonianmag.com/arts-culture/why-the-tomato-was-feared-in-europe-for-more-than-200-years-863735/</id>
+        <link href="https://www.smithsonianmag.com/arts-culture/why-the-tomato-was-feared-in-europe-for-more-than-200-years-863735/"/>
+        <updated>2021-11-06T16:11:03.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -36,7 +223,17 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Raspberry Pi Colocation: Decentralized. Exclusive. Green]]></title>
+        <title type="html"><![CDATA[FLENG, a concurrent logic programming language]]></title>
+        <id>http://www.call-with-current-continuation.org/fleng/fleng.html</id>
+        <link href="http://www.call-with-current-continuation.org/fleng/fleng.html"/>
+        <updated>2021-11-06T14:33:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi Colocation]]></title>
         <id>https://pi-colocation.com</id>
         <link href="https://pi-colocation.com"/>
         <updated>2021-11-06T14:29:25.000Z</updated>
@@ -46,27 +243,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Interview with Charlie Munger on Controversial UCSB Dorm]]></title>
-        <id>https://www.architecturalrecord.com/articles/15378-exclusive-interview-with-billionaire-charlie-munger-on-controversial-ucsb-dorm</id>
-        <link href="https://www.architecturalrecord.com/articles/15378-exclusive-interview-with-billionaire-charlie-munger-on-controversial-ucsb-dorm"/>
-        <updated>2021-11-06T14:17:21.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It‘s been 9 years since Valve rolled out the Steam Linux beta]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Steam-Linux-9-Years-Since-Beta</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Steam-Linux-9-Years-Since-Beta"/>
-        <updated>2021-11-06T14:05:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What’s harder to find than microchips? the equipment that makes them]]></title>
+        <title type="html"><![CDATA[What’s harder to find than microchips? The equipment that makes them]]></title>
         <id>https://www.wsj.com/articles/manufacturing-microchips-the-equipment-that-makes-them-11636149507</id>
         <link href="https://www.wsj.com/articles/manufacturing-microchips-the-equipment-that-makes-them-11636149507"/>
         <updated>2021-11-06T14:01:41.000Z</updated>
@@ -116,56 +293,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ruth Health (YC S21) Is Hiring]]></title>
-        <id>https://news.ycombinator.com/item?id=29129477</id>
-        <link href="https://news.ycombinator.com/item?id=29129477"/>
-        <updated>2021-11-06T12:01:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Upgrade tool that bypasses Microsoft´s requirements]]></title>
-        <id>https://github.com/coofcookie/Windows11Upgrade</id>
-        <link href="https://github.com/coofcookie/Windows11Upgrade"/>
-        <updated>2021-11-06T11:40:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Connect to the Internet the old way during next Ethiopian lockdown?]]></title>
-        <id>https://news.ycombinator.com/item?id=29129133</id>
-        <link href="https://news.ycombinator.com/item?id=29129133"/>
-        <updated>2021-11-06T10:48:53.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A photo on Wikipedia can ruin your life]]></title>
-        <id>https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2021-10-31/Opinion</id>
-        <link href="https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2021-10-31/Opinion"/>
-        <updated>2021-11-06T10:18:58.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: How does Jax allocate memory on a TPU? An interactive C++ walkthrough]]></title>
-        <id>https://gist.github.com/shawwn/0e524d4a7a5d8fb152a86616559cc02a</id>
-        <link href="https://gist.github.com/shawwn/0e524d4a7a5d8fb152a86616559cc02a"/>
-        <updated>2021-11-06T10:16:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Apple M1 PCIe Driver Leads The PCI Changes For Linux 5.16]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-PCI</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-PCI"/>
@@ -196,46 +323,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Against Discord Channels]]></title>
-        <id>https://becca.ooo/discord</id>
-        <link href="https://becca.ooo/discord"/>
-        <updated>2021-11-06T08:19:09.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reflecting on the Shake Build System]]></title>
-        <id>http://neilmitchell.blogspot.com/2021/09/reflecting-on-shake-build-system.html</id>
-        <link href="http://neilmitchell.blogspot.com/2021/09/reflecting-on-shake-build-system.html"/>
-        <updated>2021-11-06T08:03:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hundreds of ancient Maya sites hidden under Mexico reveal a mysterious blueprint]]></title>
-        <id>https://www.sciencealert.com/hundreds-of-ancient-maya-sites-hidden-under-mexico-reveal-a-mysterious-blueprint</id>
-        <link href="https://www.sciencealert.com/hundreds-of-ancient-maya-sites-hidden-under-mexico-reveal-a-mysterious-blueprint"/>
-        <updated>2021-11-06T07:57:33.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why nuclear fusion yields more energy than fission]]></title>
-        <id>https://www.physlink.com/education/askexperts/ae534.cfm</id>
-        <link href="https://www.physlink.com/education/askexperts/ae534.cfm"/>
-        <updated>2021-11-06T04:45:55.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[It's Been 9 Years Since Valve Rolled Out The Steam Linux Beta]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Steam-Linux-9-Years-Since-Beta</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Steam-Linux-9-Years-Since-Beta"/>
@@ -243,16 +330,6 @@
         <summary type="html"><![CDATA[Today marks nine years already since Valve began rolling out their Steam Linux beta client after a very exciting summer. While the initial Steam on Linux excitement phased out a bit after Steam Machines didn't materialize, as we approach a decade with Steam on Linux it's easily as exciting as ever thanks to Steam Play / Proton for allowing massive amounts of Windows games to run on Linux and the imminent release of the Steam Deck that has fueled renewed interest around Linux gaming...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMP Has Irreparably Damaged Publishers’ Trust in Google-Led Initiatives]]></title>
-        <id>https://wptavern.com/amp-has-irreparably-damaged-publishers-trust-in-google-led-initiatives</id>
-        <link href="https://wptavern.com/amp-has-irreparably-damaged-publishers-trust-in-google-led-initiatives"/>
-        <updated>2021-11-06T03:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -286,26 +363,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Reflect and Proxy APIs in JavaScript]]></title>
-        <id>https://reflect.run/articles/reflection-at-reflect/</id>
-        <link href="https://reflect.run/articles/reflection-at-reflect/"/>
-        <updated>2021-11-05T19:44:11.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why AI lags behind the human brain in computational power]]></title>
-        <id>https://nautil.us/blog/why-ai-lags-behind-the-human-brain-in-computational-power</id>
-        <link href="https://nautil.us/blog/why-ai-lags-behind-the-human-brain-in-computational-power"/>
-        <updated>2021-11-05T19:23:12.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ryabitsev: lore+lei: part 1, getting started]]></title>
         <id>https://lwn.net/Articles/875239/rss</id>
         <link href="https://lwn.net/Articles/875239/rss"/>
@@ -336,16 +393,6 @@ kernel mailing lists.
         <summary type="html"><![CDATA[Published yesterday was the Core i5 12600K / Core i9 12900K Linux review looking at the exciting performance uplift provided by Alder Lake. One of the areas only talked about briefly in yesterday's article were the UHD Graphics 770 found with these new desktop processors, due to time constraints with only having a few days so far for carrying out tests. Today the initial batch of UHD Graphics 770 / ADL-S GT1 Linux graphics/gaming benchmarks have wrapped up to show how the Intel graphics performance compares to prior generation Rocket Lake as well as AMD's Ryzen 7 5700G.]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Selective Unit Testing – Costs and Benefits (2009)]]></title>
-        <id>https://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-benefits/</id>
-        <link href="https://blog.stevensanderson.com/2009/11/04/selective-unit-testing-costs-and-benefits/"/>
-        <updated>2021-11-05T15:18:21.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -417,16 +464,6 @@ some experience of working in the online advertising industry.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: My wife is pregnant; naturally I made a baby-name app to prepare]]></title>
-        <id>https://nomdebebe.app/</id>
-        <link href="https://nomdebebe.app/"/>
-        <updated>2021-11-05T13:19:22.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LXQt 1.0 Released For Lightweight Qt5 Desktop]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=LXQt-1.0-Released</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=LXQt-1.0-Released"/>
@@ -447,10 +484,10 @@ some experience of working in the online advertising industry.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple’s $13k operating system (2013)]]></title>
-        <id>https://www.cnet.com/news/the-untold-story-behind-apples-13000-operating-system/</id>
-        <link href="https://www.cnet.com/news/the-untold-story-behind-apples-13000-operating-system/"/>
-        <updated>2021-11-05T11:58:14.000Z</updated>
+        <title type="html"><![CDATA[A 1958 UNIVAC airline reservation system]]></title>
+        <id>https://philip.greenspun.com/blog/2021/11/04/a-1958-univac-airline-reservation-system/</id>
+        <link href="https://philip.greenspun.com/blog/2021/11/04/a-1958-univac-airline-reservation-system/"/>
+        <updated>2021-11-05T10:47:19.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -487,6 +524,26 @@ some experience of working in the online advertising industry.
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ada and X Window System Integration (1992) [pdf]]]></title>
+        <id>https://apps.dtic.mil/sti/pdfs/ADA246667.pdf</id>
+        <link href="https://apps.dtic.mil/sti/pdfs/ADA246667.pdf"/>
+        <updated>2021-11-05T05:04:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fetch the Chopping Knife: on Elizabethan True Crime]]></title>
+        <id>https://www.lrb.co.uk/the-paper/v43/n21/charles-nicholl/fetch-the-chopping-knife</id>
+        <link href="https://www.lrb.co.uk/the-paper/v43/n21/charles-nicholl/fetch-the-chopping-knife"/>
+        <updated>2021-11-05T04:33:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wayland 1.20 Alpha Released With Upstreamed FreeBSD Support, Autotools Nuked]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Wayland-1.20-Alpha</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Wayland-1.20-Alpha"/>
@@ -518,16 +575,6 @@ in April, but evidently a lot of sites have not updated.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spectrograms – audio signal processing for machine learning]]></title>
-        <id>https://medium.com/@trismegistus13/spectrograms-or-how-i-learned-to-stop-worrying-and-love-audio-signal-processing-for-machine-d28c022ca5ca</id>
-        <link href="https://medium.com/@trismegistus13/spectrograms-or-how-i-learned-to-stop-worrying-and-love-audio-signal-processing-for-machine-d28c022ca5ca"/>
-        <updated>2021-11-05T00:11:00.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ObservabilityCON 2021: What to know before you go!]]></title>
         <id>https://grafana.com/blog/2021/11/05/observabilitycon-2021-what-to-know-before-you-go/</id>
         <link href="https://grafana.com/blog/2021/11/05/observabilitycon-2021-what-to-know-before-you-go/"/>
@@ -549,16 +596,6 @@ The ObservabilityCON event page will be your go-to destination for viewing sessi
         <summary type="html"><![CDATA[While Intel Alder Lake is dominating today's news cycle, Intel and Microsoft also announced today that they have brought oneAPI Level Zero and Intel OpenCL support to Windows Subsystem for Linux (WSL2) while employing Intel graphics hardware acceleration...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I lost my fear of flying (2011)]]></title>
-        <id>https://fsgworkinprogress.com/2011/01/16/mario-vargas-llosa-how-i-lost-my-fear-of-flying/</id>
-        <link href="https://fsgworkinprogress.com/2011/01/16/mario-vargas-llosa-how-i-lost-my-fear-of-flying/"/>
-        <updated>2021-11-04T20:37:30.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -588,16 +625,6 @@ Time will tell whether it's better to reside in kernel-space like ksmbd or in us
 There are two graphs that show some impressive results for Samba.]]></summary>
         <author>
             <name>jake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What happens to used electric car batteries?]]></title>
-        <id>https://www.wired.com/story/cars-going-electric-what-happens-used-batteries/</id>
-        <link href="https://www.wired.com/story/cars-going-electric-what-happens-used-batteries/"/>
-        <updated>2021-11-04T17:46:26.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -740,10 +767,10 @@ features.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Math of Hunting Lions]]></title>
-        <id>https://www.gwern.net/notes/Lions</id>
-        <link href="https://www.gwern.net/notes/Lions"/>
-        <updated>2021-11-04T12:05:07.000Z</updated>
+        <title type="html"><![CDATA[Canonic Browser: open-source QML Browser]]></title>
+        <id>https://www.canonic.com/</id>
+        <link href="https://www.canonic.com/"/>
+        <updated>2021-11-04T11:30:01.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -757,6 +784,16 @@ features.]]></summary>
         <summary type="html"><![CDATA[Facebook's BOLT project for optimizing the performance out of compiled binaries is nearing the point of being added to LLVM's official source tree with its mono repository...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[After a part of his brain was removed, guitarist Pat Martino got his groove back]]></title>
+        <id>https://nautil.us/issue/20/creativity/brain-damage-saved-his-music</id>
+        <link href="https://nautil.us/issue/20/creativity/brain-damage-saved-his-music"/>
+        <updated>2021-11-04T10:20:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -927,26 +964,6 @@ What do I mean by “a packet of death”? A software bug where the network stac
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Steam Beta Adds VA-API Acceleration For Remote Play]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Steam-Beta-VA-API-Remote-Play</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Steam-Beta-VA-API-Remote-Play"/>
-        <updated>2021-11-03T10:07:48.000Z</updated>
-        <summary type="html"><![CDATA[For those enjoying Steam Remote Play in-home streaming functionality, the latest Steam client beta now supports making use of the Video Acceleration API for encoding...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More ASRock & ASUS Motherboards Will Have Working Sensors With Linux 5.16]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-HWMON</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-HWMON"/>
-        <updated>2021-11-03T09:33:06.000Z</updated>
-        <summary type="html"><![CDATA[The hardware monitoring "HWMON" subsystem updates have landed in the Linux 5.16 kernel and with this comes sensor support for some additional ASRock and ASUS motherboards...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grafana 8.2.3 released with medium severity security fix: CVE-2021-41174 Grafana XSS]]></title>
         <id>https://grafana.com/blog/2021/11/03/grafana-8.2.3-released-with-medium-severity-security-fix-cve-2021-41174-grafana-xss/</id>
         <link href="https://grafana.com/blog/2021/11/03/grafana-8.2.3-released-with-medium-severity-security-fix-cve-2021-41174-grafana-xss/"/>
@@ -1017,27 +1034,6 @@ important fixes and users should upgrade.]]></summary>
         <summary type="html"><![CDATA[Two years ago, we introduced Amazon SageMaker Studio, the industry’s first fully integrated development environment (IDE) for machine learning (ML). Amazon SageMaker Studio provides a single, web-based visual interface where you can perform all ML development steps, improving data science team productivity by up to 10 times Many data scientists love the R project, an […]]]></summary>
         <author>
             <name>Channy Yun</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firefox 94.0 and Firefox ESR 91.3.0]]></title>
-        <id>https://lwn.net/Articles/874832/rss</id>
-        <link href="https://lwn.net/Articles/874832/rss"/>
-        <updated>2021-11-02T17:34:40.000Z</updated>
-        <summary type="html"><![CDATA[Firefox 94.0 has been
-released. Linux users should see improved
-WebGL performance and reduced power consumption for many workloads. The
-about:unloads
-page shows the user information about open tabs and allows them to release
-system resources by unloading tabs without closing them.  Site
-Isolation provides better protection against side-channel attacks. See
-the announcement for more new features in this release.
-
-Firefox ESR
-91.3 is also available, with various stability, functionality,  and security
-fixes.]]></summary>
-        <author>
-            <name>ris</name>
         </author>
     </entry>
     <entry>
