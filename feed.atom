@@ -1,15 +1,85 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-08T00:00:36.762Z</id>
+    <id>urn:2021-11-08T08:00:39.273Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-08T00:00:36.762Z</updated>
+    <updated>2021-11-08T08:00:39.273Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Porting Mass Effect’s Pinnacle Station DLC Forward 11 Years]]></title>
+        <title type="html"><![CDATA[Beeper (YC S21) is hiring a senior Android engineer]]></title>
+        <id>https://beeper.notion.site/Senior-Android-Engineer-Beeper-ef7007ef879942e2a4c0492ec52021f0</id>
+        <link href="https://beeper.notion.site/Senior-Android-Engineer-Beeper-ef7007ef879942e2a4c0492ec52021f0"/>
+        <updated>2021-11-08T07:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Playstation 5 root keys obtained]]></title>
+        <id>https://twitter.com/fail0verflow/status/1457526453105569793</id>
+        <link href="https://twitter.com/fail0verflow/status/1457526453105569793"/>
+        <updated>2021-11-08T06:59:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raspberry Pi Compute Module 4 Supported By Mainline Linux 5.16]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Raspberry-Pi-CM4-Linux-5.16</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Raspberry-Pi-CM4-Linux-5.16"/>
+        <updated>2021-11-08T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Linux 5.16 is an action-packed kernel with a ton of exciting additions and improvements. Adding to the growing list of changes to look forward to with v5.16 is mainline support for the Raspberry Pi Compute Module 4...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Telegram Ad Platform]]></title>
+        <id>https://promote.telegram.org/</id>
+        <link href="https://promote.telegram.org/"/>
+        <updated>2021-11-08T04:33:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pilot Says Too Many Jumpers Outside Led to King Air Spin]]></title>
+        <id>https://www.avweb.com/aviation-news/pilot-says-skydive-king-air-spun-after-c-of-g-exceeded/</id>
+        <link href="https://www.avweb.com/aviation-news/pilot-says-skydive-king-air-spun-after-c-of-g-exceeded/"/>
+        <updated>2021-11-08T02:21:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Porting Pinnacle Station forward 11 years]]></title>
         <id>https://www.me3tweaks.com/blog/modding/porting-pinnacle-station-forward-11-years/</id>
         <link href="https://www.me3tweaks.com/blog/modding/porting-pinnacle-station-forward-11-years/"/>
         <updated>2021-11-07T23:24:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Writing a Clojure highlighter from scratch]]></title>
+        <id>https://blog.michielborkent.nl/writing-clojure-highlighter.html</id>
+        <link href="https://blog.michielborkent.nl/writing-clojure-highlighter.html"/>
+        <updated>2021-11-07T23:07:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Hewell, a travel app powered by WikiData]]></title>
+        <id>https://hewellapp.com/</id>
+        <link href="https://hewellapp.com/"/>
+        <updated>2021-11-07T22:31:13.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -20,56 +90,6 @@
         <id>https://castel.dev/post/lecture-notes-1/</id>
         <link href="https://castel.dev/post/lecture-notes-1/"/>
         <updated>2021-11-07T21:32:36.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fly.io (YC W20) Is Hiring Rust Developers]]></title>
-        <id>https://fly.io/blog/fly-io-is-hiring-rust-developers/</id>
-        <link href="https://fly.io/blog/fly-io-is-hiring-rust-developers/"/>
-        <updated>2021-11-07T21:00:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A look at power on the new M1 Max]]></title>
-        <id>https://nyaa.sh/a-look-at-power-on-the-new-m1-max-part-1/</id>
-        <link href="https://nyaa.sh/a-look-at-power-on-the-new-m1-max-part-1/"/>
-        <updated>2021-11-07T20:53:25.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Epitaph for a Bronx Accent]]></title>
-        <id>https://www.tabletmag.com/sections/community/articles/epitaph-for-a-bronx-accent</id>
-        <link href="https://www.tabletmag.com/sections/community/articles/epitaph-for-a-bronx-accent"/>
-        <updated>2021-11-07T20:46:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falsehoods programmers believe about names – with examples (2018)]]></title>
-        <id>https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/</id>
-        <link href="https://shinesolutions.com/2018/01/08/falsehoods-programmers-believe-about-names-with-examples/"/>
-        <updated>2021-11-07T20:45:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why is Tcl syntax so weird (2013)]]></title>
-        <id>https://wiki.tcl-lang.org/page/Why+is+TCL+syntax+so+weird</id>
-        <link href="https://wiki.tcl-lang.org/page/Why+is+TCL+syntax+so+weird"/>
-        <updated>2021-11-07T20:44:35.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -96,7 +116,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Your users will do what you make easy (in language design)]]></title>
+        <title type="html"><![CDATA[Your users will do what you make easy]]></title>
         <id>https://c3.handmade.network/blog/p/8208-when_making_things_easy_is_bad</id>
         <link href="https://c3.handmade.network/blog/p/8208-when_making_things_easy_is_bad"/>
         <updated>2021-11-07T19:53:22.000Z</updated>
@@ -136,20 +156,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Melancholy of Subculture Society]]></title>
+        <title type="html"><![CDATA[The Melancholy of Subculture Society (2009)]]></title>
         <id>https://www.gwern.net/The-Melancholy-of-Subculture-Society</id>
         <link href="https://www.gwern.net/The-Melancholy-of-Subculture-Society"/>
         <updated>2021-11-07T19:28:11.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Distrod – WSL2 Distros with Systemd; Arch, Gentoo and More with Systemd]]></title>
-        <id>https://github.com/nullpo-head/wsl-distrod</id>
-        <link href="https://github.com/nullpo-head/wsl-distrod"/>
-        <updated>2021-11-07T19:22:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -166,16 +176,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The return of the turbo button]]></title>
-        <id>https://www.theregister.com/2021/11/05/turbo_button/</id>
-        <link href="https://www.theregister.com/2021/11/05/turbo_button/"/>
-        <updated>2021-11-07T18:31:43.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Don’t do interviews, do discussions]]></title>
         <id>https://thinkingthrough.substack.com/p/dont-do-interviews-do-discussions</id>
         <link href="https://thinkingthrough.substack.com/p/dont-do-interviews-do-discussions"/>
@@ -186,20 +186,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Designing better file organization around tags, not hierarchies]]></title>
+        <title type="html"><![CDATA[Designing better file organization around tags, not hierarchies (2017)]]></title>
         <id>https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies</id>
         <link href="https://www.nayuki.io/page/designing-better-file-organization-around-tags-not-hierarchies"/>
         <updated>2021-11-07T18:01:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Segmentors vs Integrators: Google’s work-life-balance research]]></title>
-        <id>https://rework.withgoogle.com/blog/googles-work-life-balance-segmentors-v-integrators/</id>
-        <link href="https://rework.withgoogle.com/blog/googles-work-life-balance-segmentors-v-integrators/"/>
-        <updated>2021-11-07T17:55:29.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -268,16 +258,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GPT-3 is no longer the only game in town]]></title>
-        <id>https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game</id>
-        <link href="https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game"/>
-        <updated>2021-11-07T14:53:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Arch Linux Installer Updated With Btrfs Subvolumes Support, Reworked Partitioning]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Arch-Linux-Archinstall-2.3-rc1</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Arch-Linux-Archinstall-2.3-rc1"/>
@@ -295,6 +275,16 @@
         <summary type="html"><![CDATA[Released this week was Rav1e 0.5 as the newest feature release for this Rust-written AV1 video encoder backed by Xiph.Org and self-proclaimed to be the world's "fastest and safest" AV1 encoder...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Avoid the Time Wars]]></title>
+        <id>https://jmossbridge.medium.com/how-to-avoid-the-time-wars-4d35d023f137</id>
+        <link href="https://jmossbridge.medium.com/how-to-avoid-the-time-wars-4d35d023f137"/>
+        <updated>2021-11-07T12:38:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -339,10 +329,10 @@ Another great post, this one on a long term effort to reduce the cost and improv
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spiders are much smarter than you think]]></title>
-        <id>https://knowablemagazine.org/article/mind/2021/are-spiders-intelligent</id>
-        <link href="https://knowablemagazine.org/article/mind/2021/are-spiders-intelligent"/>
-        <updated>2021-11-07T09:22:11.000Z</updated>
+        <title type="html"><![CDATA[A quantum walk down Wall Street]]></title>
+        <id>https://www.economist.com/finance-and-economics/2021/11/06/a-quantum-walk-down-wall-street</id>
+        <link href="https://www.economist.com/finance-and-economics/2021/11/06/a-quantum-walk-down-wall-street"/>
+        <updated>2021-11-07T07:02:40.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -356,6 +346,16 @@ Another great post, this one on a long term effort to reduce the cost and improv
         <summary type="html"><![CDATA[System76's Pop!_OS Linux distribution already has their own "COSMIC" desktop that is based on GNOME, but moving ahead they are working on their own Rust-written desktop that is not based on GNOME or any existing desktop environment...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A comprehensive guide to ‘go generate’]]></title>
+        <id>https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate/</id>
+        <link href="https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate/"/>
+        <updated>2021-11-06T20:35:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -406,7 +406,7 @@ important fixes.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Why Physical Objects Degrade over Time]]></title>
+        <title type="html"><![CDATA[UV light and mildew: why physical objects degrade over time]]></title>
         <id>https://tedium.co/2021/11/05/why-physical-objects-decay/</id>
         <link href="https://tedium.co/2021/11/05/why-physical-objects-decay/"/>
         <updated>2021-11-06T10:54:37.000Z</updated>
@@ -443,6 +443,26 @@ important fixes.]]></summary>
         <summary type="html"><![CDATA[KDE developers began November working on yet more Plasma Wayland session fixes and other enhancements to their open-source desktop environment...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Search for Alien Tech]]></title>
+        <id>https://aeon.co/essays/technosignatures-are-a-sea-change-in-the-search-for-alien-life</id>
+        <link href="https://aeon.co/essays/technosignatures-are-a-sea-change-in-the-search-for-alien-life"/>
+        <updated>2021-11-06T07:37:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Goiânia Accident (1987)]]></title>
+        <id>https://en.wikipedia.org/wiki/Goi%C3%A2nia_accident</id>
+        <link href="https://en.wikipedia.org/wiki/Goi%C3%A2nia_accident"/>
+        <updated>2021-11-06T04:42:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -607,10 +627,10 @@ some experience of working in the online advertising industry.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[All-in-one quantum key distribution system makes its debut]]></title>
-        <id>https://physicsworld.com/a/all-in-one-quantum-key-distribution-system-makes-its-debut/</id>
-        <link href="https://physicsworld.com/a/all-in-one-quantum-key-distribution-system-makes-its-debut/"/>
-        <updated>2021-11-05T11:35:41.000Z</updated>
+        <title type="html"><![CDATA[Faking Twitter unfurling to phish you]]></title>
+        <id>https://harrydenley.com/faking-twitter-unfurling/</id>
+        <link href="https://harrydenley.com/faking-twitter-unfurling/"/>
+        <updated>2021-11-05T12:17:03.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -637,7 +657,7 @@ some experience of working in the online advertising industry.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scripting Languages of the Future]]></title>
+        <title type="html"><![CDATA[Scripting languages of the future]]></title>
         <id>https://www.jntrnr.com/scripting-languages-of-the-future/</id>
         <link href="https://www.jntrnr.com/scripting-languages-of-the-future/"/>
         <updated>2021-11-05T09:46:47.000Z</updated>
@@ -657,7 +677,7 @@ some experience of working in the online advertising industry.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A situational awareness system to make seafaring safer, one vessel at a time]]></title>
+        <title type="html"><![CDATA[Groke: A situational awareness system to make seafaring safer]]></title>
         <id>https://aqworks.com/en/work/groke/</id>
         <link href="https://aqworks.com/en/work/groke/"/>
         <updated>2021-11-05T07:53:18.000Z</updated>
@@ -671,16 +691,6 @@ some experience of working in the online advertising industry.
         <id>https://www.architecturaldigest.com/story/european-town-built-resemble-lego-blocks</id>
         <link href="https://www.architecturaldigest.com/story/european-town-built-resemble-lego-blocks"/>
         <updated>2021-11-05T05:28:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[POSSE: Publish on your own site, syndicate elsewhere]]></title>
-        <id>https://indieweb.org/POSSE</id>
-        <link href="https://indieweb.org/POSSE"/>
-        <updated>2021-11-05T05:13:09.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -957,16 +967,6 @@ features.]]></summary>
         <summary type="html"><![CDATA[The LWN.net Weekly Edition for November 4, 2021 is available.]]></summary>
         <author>
             <name>corbet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.16 Sound Ready To Play On AMD VanGogh + Yellow Carp, Continues USB Low-Latency]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-Sound-Improvements</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-Sound-Improvements"/>
-        <updated>2021-11-03T22:29:06.000Z</updated>
-        <summary type="html"><![CDATA[The Linux sound subsystem is seeing some useful and significant additions with the Linux 5.16 kernel...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
