@@ -1,15 +1,127 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-10T00:00:41.186Z</id>
+    <id>urn:2021-11-10T08:00:46.114Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-10T00:00:41.186Z</updated>
+    <updated>2021-11-10T08:00:46.114Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Compass Pathways' Phase IIb psilocybin trial shows reduced depression symptoms]]></title>
-        <id>https://endpts.com/compass-pathways-phase-iib-psilocybin-trial-shows-reduced-depression-symptoms/</id>
-        <link href="https://endpts.com/compass-pathways-phase-iib-psilocybin-trial-shows-reduced-depression-symptoms/"/>
-        <updated>2021-11-09T23:50:48.000Z</updated>
+        <title type="html"><![CDATA[Samba 4.15.2, 4.14.10, 4.13.14 security releases available]]></title>
+        <id>https://lwn.net/Articles/875565/rss</id>
+        <link href="https://lwn.net/Articles/875565/rss"/>
+        <updated>2021-11-10T07:47:24.000Z</updated>
+        <summary type="html"><![CDATA[There is a set of new Samba releases out there.  They fix a long and
+intimidating list of security issues and seem worth upgrading to for any
+but the most protected of Samba servers.]]></summary>
+        <author>
+            <name>corbet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google sends anti-regulation propaganda to small businesses using Google Maps]]></title>
+        <id>https://arstechnica.com/gadgets/2021/11/google-sends-anti-regulation-propaganda-to-small-businesses-using-google-maps/</id>
+        <link href="https://arstechnica.com/gadgets/2021/11/google-sends-anti-regulation-propaganda-to-small-businesses-using-google-maps/"/>
+        <updated>2021-11-10T07:29:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Standard (YC S17) Is Hiring SREs and Rust Infra Engineers, US and Europe]]></title>
+        <id>https://careers.standard.ai/</id>
+        <link href="https://careers.standard.ai/"/>
+        <updated>2021-11-10T07:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rows.com: Yahoo Pipes on Spreadsheets]]></title>
+        <id>https://rows.com/</id>
+        <link href="https://rows.com/"/>
+        <updated>2021-11-10T05:45:48.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PyGaze – open-source eye-tracking software and more]]></title>
+        <id>https://www.pygaze.org/</id>
+        <link href="https://www.pygaze.org/"/>
+        <updated>2021-11-10T05:32:22.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will the climate crisis force America to reconsider nuclear power?]]></title>
+        <id>https://www.economist.com/united-states/will-the-climate-crisis-force-america-to-reconsider-nuclear-power/21806194</id>
+        <link href="https://www.economist.com/united-states/will-the-climate-crisis-force-america-to-reconsider-nuclear-power/21806194"/>
+        <updated>2021-11-10T04:57:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Costs of Requiring Accounts]]></title>
+        <id>https://mako.cc/copyrighteous/the-hidden-costs-of-requiring-accounts</id>
+        <link href="https://mako.cc/copyrighteous/the-hidden-costs-of-requiring-accounts"/>
+        <updated>2021-11-10T04:07:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Invisible JavaScript Backdoor]]></title>
+        <id>https://certitude.consulting/blog/en/invisible-backdoor/</id>
+        <link href="https://certitude.consulting/blog/en/invisible-backdoor/"/>
+        <updated>2021-11-10T04:04:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A no-go fantasy: writing Go in Ruby with Ruby Next]]></title>
+        <id>https://evilmartians.com/chronicles/a-no-go-fantasy-writing-go-in-ruby-with-ruby-next</id>
+        <link href="https://evilmartians.com/chronicles/a-no-go-fantasy-writing-go-in-ruby-with-ruby-next"/>
+        <updated>2021-11-10T03:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Judge orders Apple to allow external payment options for App Store]]></title>
+        <id>https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules</id>
+        <link href="https://www.theverge.com/2021/11/9/22773082/epic-apple-fortnite-lawsuit-ruling-injunction-stay-app-store-anti-steering-rules"/>
+        <updated>2021-11-10T01:53:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Python needs to be paused during profiling – but Ruby doesn't always]]></title>
+        <id>https://www.benfrederickson.com/why-python-needs-paused-during-profiling/</id>
+        <link href="https://www.benfrederickson.com/why-python-needs-paused-during-profiling/"/>
+        <updated>2021-11-10T01:33:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Question We’ve Stopped Asking About Teen-Agers and Social Media]]></title>
+        <id>https://www.newyorker.com/culture/office-space/the-question-weve-stopped-asking-about-teen-agers-and-social-media</id>
+        <link href="https://www.newyorker.com/culture/office-space/the-question-weve-stopped-asking-about-teen-agers-and-social-media"/>
+        <updated>2021-11-10T00:42:21.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -23,26 +135,6 @@
         <summary type="html"><![CDATA[HP announced today that select upcoming HP workstations will begin seeing Windows Subsystem for Linux (WSL2) pre-installed...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intel Optimizes Facebook DLRM, 8x Speedup (Deep Learning Recommendation Model)]]></title>
-        <id>https://sigopt.com/blog/optimize-the-deep-learning-recommendation-model-with-intelligent-experimentation/</id>
-        <link href="https://sigopt.com/blog/optimize-the-deep-learning-recommendation-model-with-intelligent-experimentation/"/>
-        <updated>2021-11-09T23:10:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity is buying Peter Jackson’s Weta Digital for $1.6B]]></title>
-        <id>https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/</id>
-        <link href="https://techcrunch.com/2021/11/09/unity-is-buying-peter-jacksons-weta-digital-for-over-1-6b/"/>
-        <updated>2021-11-09T21:20:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -60,26 +152,6 @@
         <id>https://christine.website/talks/surreal-horror-pam-2021-11-09</id>
         <link href="https://christine.website/talks/surreal-horror-pam-2021-11-09"/>
         <updated>2021-11-09T21:13:37.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Relationship Hero (YC S17) Is Hiring Sales Associates – Full Time Remote]]></title>
-        <id>https://relationshiphero.com/careers?role=salesAssociate</id>
-        <link href="https://relationshiphero.com/careers?role=salesAssociate"/>
-        <updated>2021-11-09T21:00:14.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A search for Planet 9 in the IRAS data]]></title>
-        <id>https://arxiv.org/abs/2111.03831</id>
-        <link href="https://arxiv.org/abs/2111.03831"/>
-        <updated>2021-11-09T20:41:12.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -156,16 +228,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The U.S. Treasury is buying private app data to target and investigate people]]></title>
-        <id>https://theintercept.com/2021/11/04/treasury-surveillance-location-data-babel-street/</id>
-        <link href="https://theintercept.com/2021/11/04/treasury-surveillance-location-data-babel-street/"/>
-        <updated>2021-11-09T18:41:20.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Concurrency in Julia]]></title>
         <id>https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/</id>
         <link href="https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/"/>
@@ -235,26 +297,6 @@ migration".]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Node-RED: How an open-source tool is establishing itself in Industrial IoT]]></title>
-        <id>https://docs.umh.app/docs/concepts/node-red-in-industrial-iot/</id>
-        <link href="https://docs.umh.app/docs/concepts/node-red-in-industrial-iot/"/>
-        <updated>2021-11-09T16:32:55.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twitter Blue is now available in the US and NZ]]></title>
-        <id>https://blog.twitter.com/en_us/topics/product/2021/twitter-smarter--twitter-harder-with-twitter-blue</id>
-        <link href="https://blog.twitter.com/en_us/topics/product/2021/twitter-smarter--twitter-harder-with-twitter-blue"/>
-        <updated>2021-11-09T16:32:00.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Service mesh 102: Envoy configuration]]></title>
         <id>https://www.cncf.io/?p=65570</id>
         <link href="https://www.cncf.io/blog/2021/11/09/service-mesh-102-envoy-configuration/"/>
@@ -275,16 +317,6 @@ migration".]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Opening this article voids warranty]]></title>
-        <id>https://magazine.scienceforthepeople.org/vol24-2-dont-be-evil/opening-this-article-voids-warranty/</id>
-        <link href="https://magazine.scienceforthepeople.org/vol24-2-dont-be-evil/opening-this-article-voids-warranty/"/>
-        <updated>2021-11-09T15:50:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Security updates for Tuesday]]></title>
         <id>https://lwn.net/Articles/875531/rss</id>
         <link href="https://lwn.net/Articles/875531/rss"/>
@@ -295,40 +327,20 @@ migration".]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ancient secrets of computer vision]]></title>
-        <id>https://pjreddie.com/courses/computer-vision/</id>
-        <link href="https://pjreddie.com/courses/computer-vision/"/>
-        <updated>2021-11-09T15:04:36.000Z</updated>
+        <title type="html"><![CDATA[The Polarization Spiral]]></title>
+        <id>https://www.persuasion.community/p/haidt-and-lukianoff-the-polarization</id>
+        <link href="https://www.persuasion.community/p/haidt-and-lukianoff-the-polarization"/>
+        <updated>2021-11-09T13:51:54.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AnimeGANv2: Convert Face Portraits into Anime]]></title>
-        <id>https://huggingface.co/spaces/akhaliq/AnimeGANv2</id>
-        <link href="https://huggingface.co/spaces/akhaliq/AnimeGANv2"/>
-        <updated>2021-11-09T14:34:56.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I built a no-BS recipe search engine]]></title>
-        <id>https://stovetop.app</id>
-        <link href="https://stovetop.app"/>
-        <updated>2021-11-09T13:41:59.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Review of Open Source Color Blindness Simulations]]></title>
-        <id>https://daltonlens.org/opensource-cvd-simulation/</id>
-        <link href="https://daltonlens.org/opensource-cvd-simulation/"/>
-        <updated>2021-11-09T13:12:50.000Z</updated>
+        <title type="html"><![CDATA[“This project will only take 2 hours”]]></title>
+        <id>https://web.eecs.utk.edu/~azh/blog/thisprojectwillonlytake.html</id>
+        <link href="https://web.eecs.utk.edu/~azh/blog/thisprojectwillonlytake.html"/>
+        <updated>2021-11-09T13:06:05.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -342,16 +354,6 @@ migration".]]></summary>
         <summary type="html"><![CDATA[Over the past months, we’ve been tracking and analyzing the activity of the Meris botnet.]]></summary>
         <author>
             <name>Vivek Ganti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[$ sudo rm -rf / === NPM install]]></title>
-        <id>https://ghuntley.com/sudo-rm-rf/</id>
-        <link href="https://ghuntley.com/sudo-rm-rf/"/>
-        <updated>2021-11-09T12:17:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -395,16 +397,6 @@ migration".]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pyjion – A Python JIT Compiler]]></title>
-        <id>https://www.trypyjion.com/</id>
-        <link href="https://www.trypyjion.com/"/>
-        <updated>2021-11-09T09:42:47.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NVIDIA Announces Jetson AGX Orin With Ampere GPU + 12 x Arm Cortex-A78AE]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-Jetson-AGX-Orin</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-Jetson-AGX-Orin"/>
@@ -412,6 +404,16 @@ migration".]]></summary>
         <summary type="html"><![CDATA[NVIDIA used their virtual GTC event to announce Jetson AGX Orin as the latest addition to their Jetson family. With Jetson AGX Orin they are advertising it as "the world's smallest, most powerful and energy-efficient AI supercomputer" for small form factor and low-power environments like robotics and edge computing applications...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kite Turbines]]></title>
+        <id>https://windswept-and-interesting.co.uk/</id>
+        <link href="https://windswept-and-interesting.co.uk/"/>
+        <updated>2021-11-09T07:57:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -473,6 +475,16 @@ One of the most exciting announcements made during the keynote is the beta previ
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DARPA has caught a Gremlin drone in midair]]></title>
+        <id>https://www.defensenews.com/industry/techwatch/2021/11/08/darpa-has-caught-a-gremlin-drone-in-midair-can-it-grab-four-in-a-half-hour/</id>
+        <link href="https://www.defensenews.com/industry/techwatch/2021/11/08/darpa-has-caught-a-gremlin-drone-in-midair-can-it-grab-four-in-a-half-hour/"/>
+        <updated>2021-11-08T23:20:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Linux 5.16 Improves Laptop Support For System76 & HP Omen, Better AMD S0ix]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-Platform-x86</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-Platform-x86"/>
@@ -500,6 +512,16 @@ Then the bulk of the new features are all network related with peer network rela
 And lastly, on the clustering front, it’s now possible to better control what servers will be receiving new workloads.]]></summary>
         <author>
             <name>ris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wooden bird bought for £75 revealed to be Anne Boleyn’s]]></title>
+        <id>https://www.theguardian.com/culture/2021/nov/07/wooden-bird-bought-for-75-revealed-to-be-anne-boleyns-and-is-now-worth-200000</id>
+        <link href="https://www.theguardian.com/culture/2021/nov/07/wooden-bird-bought-for-75-revealed-to-be-anne-boleyns-and-is-now-worth-200000"/>
+        <updated>2021-11-08T17:12:34.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -545,16 +567,6 @@ process, support for AMX has found its way into the upcoming 5.16 kernel.
 Using it will, naturally, require some changes by application developers.]]></summary>
         <author>
             <name>corbet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remote work will break the US monopoly on global talent]]></title>
-        <id>https://devonzuegel.com/post/remote-work-will-break-the-us-monopoly-on-talent</id>
-        <link href="https://devonzuegel.com/post/remote-work-will-break-the-us-monopoly-on-talent"/>
-        <updated>2021-11-08T16:05:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -628,10 +640,10 @@ Using it will, naturally, require some changes by application developers.]]></su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Way Out of the Fly-Bottle: Wittgenstein’s “Tractatus” at 100]]></title>
-        <id>https://lareviewofbooks.org/article/the-way-out-of-the-fly-bottle-wittgensteins-tractatus-at-100/</id>
-        <link href="https://lareviewofbooks.org/article/the-way-out-of-the-fly-bottle-wittgensteins-tractatus-at-100/"/>
-        <updated>2021-11-08T05:56:47.000Z</updated>
+        <title type="html"><![CDATA[A rare look at a Korean portraiture tradition]]></title>
+        <id>https://hyperallergic.com/686159/a-rare-look-at-a-korean-portraiture-tradition/</id>
+        <link href="https://hyperallergic.com/686159/a-rare-look-at-a-korean-portraiture-tradition/"/>
+        <updated>2021-11-08T06:42:38.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -648,10 +660,10 @@ Using it will, naturally, require some changes by application developers.]]></su
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Reflections on Trusting ‘Trustlessness’ in the Era of “Crypto”/Blockchains [pdf]]]></title>
-        <id>https://www.cs.umd.edu/~gasarch/BLOGPAPERS/cbit-4-2.pdf</id>
-        <link href="https://www.cs.umd.edu/~gasarch/BLOGPAPERS/cbit-4-2.pdf"/>
-        <updated>2021-11-08T03:40:44.000Z</updated>
+        <title type="html"><![CDATA[Binary Reversing Methodologies]]></title>
+        <id>https://justintaft.com/blog/2021/11/07/binary-reversing-methodologies</id>
+        <link href="https://justintaft.com/blog/2021/11/07/binary-reversing-methodologies"/>
+        <updated>2021-11-08T02:09:27.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -1131,16 +1143,6 @@ internal kernel code, but relatively few ground-breaking new
 features.]]></summary>
         <author>
             <name>corbet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Security updates for Thursday]]></title>
-        <id>https://lwn.net/Articles/875106/rss</id>
-        <link href="https://lwn.net/Articles/875106/rss"/>
-        <updated>2021-11-04T14:17:47.000Z</updated>
-        <summary type="html"><![CDATA[Security updates have been issued by Fedora (ansible, chromium, kernel, mupdf, python-PyMuPDF, rust, and zathura-pdf-mupdf), openSUSE (qemu and webkit2gtk3), Red Hat (firefox and kpatch-patch), Scientific Linux (firefox), SUSE (qemu, tomcat, and webkit2gtk3), and Ubuntu (firefox and thunderbird).]]></summary>
-        <author>
-            <name>jake</name>
         </author>
     </entry>
     <entry>
@@ -1756,22 +1758,6 @@ Chore: Dependency updates
 Thank you: @hirdot]]></summary>
         <author>
             <name>Release notes from osmosfeed</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scaling indexing and search - Algolia New Search Architecture Part 2]]></title>
-        <id>426227:4867632:36382651</id>
-        <link href="http://feedproxy.google.com/~r/HighScalability/~3/gtx53_Rz7Zs/scaling-indexing-and-search-algolia-new-search-architecture.html"/>
-        <updated>2021-10-11T17:22:48.000Z</updated>
-        <summary type="html"><![CDATA[What would a totally new search engine architecture look like? Who better than Julien Lemoine, Co-founder & CTO of Algolia, to describe what the future of search will look like. This is the second article in a series. Here's Part 1.
-
-Search engines need to support fast scaling for both Read and Write operations. Rapid scaling is essential in most use cases. For example, adding a vendor in a marketplace generates a spike of indexing operations (Write), and a marketing campaign generates a spike of queries (Read). In most use cases, both Read and Write operations scale but not at the exact same moment. The architecture needs to handle efficiently all these situations as the scaling of Read and Write operations varies over time in most use cases.
-
-Until now, search engines were scaling with Read and Write operations colocated on the same VMs. This scaling method brings drawbacks, such asWrite operations unnecessarily hurting the Read performance and using a significant amount of duplicated CPU at indexing. This article explains those drawbacks and introduces a new way to scale more quickly and efficiently by splitting Read and Write operations.
-
-1. Anatomy of an index]]></summary>
-        <author>
-            <name>Todd Hoff</name>
         </author>
     </entry>
 </feed>
