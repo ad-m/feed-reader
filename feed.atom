@@ -1,10 +1,90 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-12T00:00:45.622Z</id>
+    <id>urn:2021-11-12T08:00:50.191Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-12T00:00:45.622Z</updated>
+    <updated>2021-11-12T08:00:50.191Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Finley (YC W21) is hiring engineers to rethink capital markets]]></title>
+        <id>https://www.finleycms.com/careers/</id>
+        <link href="https://www.finleycms.com/careers/"/>
+        <updated>2021-11-12T07:00:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google reorg moves AR, VR, Starline and Area 120 into new ‘Labs’ team]]></title>
+        <id>https://techcrunch.com/2021/11/11/google-reorg-moves-ar-vr-starline-and-area-120-into-new-labs-team-reporting-directly-to-sundar-pichai/</id>
+        <link href="https://techcrunch.com/2021/11/11/google-reorg-moves-ar-vr-starline-and-area-120-into-new-labs-team-reporting-directly-to-sundar-pichai/"/>
+        <updated>2021-11-12T05:45:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zink OpenGL-On-Vulkan Can Finally Render glxgears With Great Speed]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Zink-glxgears-Fast</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Zink-glxgears-Fast"/>
+        <updated>2021-11-12T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[While the Zink OpenGL-on-Vulkan code within Mesa is close to OpenGL 4.6 conformant and running many OpenGL games at good performance, it's taken until now to see good performance out of the glxgears benchmark...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Useful sed scripts and patterns for day to day usage]]></title>
+        <id>https://github.com/adrianscheff/useful-sed</id>
+        <link href="https://github.com/adrianscheff/useful-sed"/>
+        <updated>2021-11-12T04:07:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amazon abandons package bin at apartment building, refuses to retrieve it]]></title>
+        <id>https://www.cambridgeday.com/2021/11/11/with-30-packages-dumped-in-the-wrong-lobby-resident-tried-harder-to-correct-it-than-amazon/</id>
+        <link href="https://www.cambridgeday.com/2021/11/11/with-30-packages-dumped-in-the-wrong-lobby-resident-tried-harder-to-correct-it-than-amazon/"/>
+        <updated>2021-11-12T03:14:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New – EC2 Instances (G5) with Nvidia A10G Tensor Core GPUs]]></title>
+        <id>https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/</id>
+        <link href="https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/"/>
+        <updated>2021-11-12T02:27:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Async Cancellation]]></title>
+        <id>https://blog.yoshuawuyts.com/async-cancellation-1/</id>
+        <link href="https://blog.yoshuawuyts.com/async-cancellation-1/"/>
+        <updated>2021-11-12T01:32:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New – EC2 Instances (G5) with NVIDIA A10G Tensor Core GPUs]]></title>
+        <id>11ddd41744e4e62813603bd93b2207ce7d47f95a</id>
+        <link href="https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/"/>
+        <updated>2021-11-12T01:25:14.000Z</updated>
+        <summary type="html"><![CDATA[Two years ago I told you about the then-new G4 instances, which featured up to eight NVIDIA T4 Tensor Core GPUs. These instances were designed to give you cost-effective GPU power for machine learning inference and graphics-intensive applications. Today I am happy to tell you about the new G5 instances, which feature up to eight […]]]></summary>
+        <author>
+            <name>Jeff Barr</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DAMON-Based Memory Reclamation Merged For Linux 5.16]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=DAMON-Reclamation-Linux-5.16</id>
@@ -13,16 +93,6 @@
         <summary type="html"><![CDATA[Following Amazon's DAMON being merged in Linux 5.15 as a data monitoring access framework, being merged for Linux 5.16 is an addition building on top of that for memory reclamation when experiencing system RAM pressure...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lightsail Containers: An Easy Way to Run Your Containers in the Cloud (2020)]]></title>
-        <id>https://aws.amazon.com/blogs/aws/lightsail-containers-an-easy-way-to-run-your-containers-in-the-cloud/</id>
-        <link href="https://aws.amazon.com/blogs/aws/lightsail-containers-an-easy-way-to-run-your-containers-in-the-cloud/"/>
-        <updated>2021-11-11T22:58:52.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -40,26 +110,6 @@
         <id>https://nuclearsecrecy.com/nukemap/?&amp;kt=1000&amp;lat=38.8946925&amp;lng=-77.0218993&amp;hob_psi=5&amp;hob_ft=10245&amp;ff=50&amp;psi=20,5,1&amp;zm=11</id>
         <link href="https://nuclearsecrecy.com/nukemap/?&amp;kt=1000&amp;lat=38.8946925&amp;lng=-77.0218993&amp;hob_psi=5&amp;hob_ft=10245&amp;ff=50&amp;psi=20,5,1&amp;zm=11"/>
         <updated>2021-11-11T22:17:13.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CareRev (YC S16) hiring engineers to transform the future of work in healthcare]]></title>
-        <id>https://grnh.se/072b12f63us</id>
-        <link href="https://grnh.se/072b12f63us"/>
-        <updated>2021-11-11T21:00:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Breakdown of data on homeless populations across the U.S.]]></title>
-        <id>https://dynomight.net/homeless-crisis/</id>
-        <link href="https://dynomight.net/homeless-crisis/"/>
-        <updated>2021-11-11T20:11:53.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -96,16 +146,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Querying AWS at scale across APIs, regions, and accounts]]></title>
-        <id>https://aws.amazon.com/blogs/opensource/querying-aws-at-scale-across-apis-regions-and-accounts/</id>
-        <link href="https://aws.amazon.com/blogs/opensource/querying-aws-at-scale-across-apis-regions-and-accounts/"/>
-        <updated>2021-11-11T18:44:11.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[PipeWire 0.3.40 Released With Better JACK Compatibility]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=PipeWire-0.3.40-Released</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=PipeWire-0.3.40-Released"/>
@@ -120,36 +160,6 @@
         <id>https://lists.play.date/w/C1CCc0cxLPvgKc6tC8jVmg</id>
         <link href="https://lists.play.date/w/C1CCc0cxLPvgKc6tC8jVmg"/>
         <updated>2021-11-11T18:24:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copy This Book. An artist’s guide to copyright]]></title>
-        <id>https://copy-this-book.eu/</id>
-        <link href="https://copy-this-book.eu/"/>
-        <updated>2021-11-11T17:32:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How trains could replace planes in Europe]]></title>
-        <id>https://www.economist.com/europe/2021/11/11/how-trains-could-replace-planes-in-europe</id>
-        <link href="https://www.economist.com/europe/2021/11/11/how-trains-could-replace-planes-in-europe"/>
-        <updated>2021-11-11T17:23:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faculty reflect on two decades of rapid expansion]]></title>
-        <id>https://yaledailynews.com/blog/2021/11/10/reluctance-on-the-part-of-its-leadership-to-lead-yales-administration-increases-by-nearly-50-percent/</id>
-        <link href="https://yaledailynews.com/blog/2021/11/10/reluctance-on-the-part-of-its-leadership-to-lead-yales-administration-increases-by-nearly-50-percent/"/>
-        <updated>2021-11-11T17:10:36.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -344,16 +354,6 @@ Generics will be one of our focuses for 2022. The initial release in Go 1.18 is 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[An Engineer's View of Venture Capitalists (2001)]]></title>
-        <id>https://spectrum.ieee.org/an-engineers-view-of-venture-capitalists</id>
-        <link href="https://spectrum.ieee.org/an-engineers-view-of-venture-capitalists"/>
-        <updated>2021-11-11T13:39:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Security updates for Thursday]]></title>
         <id>https://lwn.net/Articles/875813/rss</id>
         <link href="https://lwn.net/Articles/875813/rss"/>
@@ -361,16 +361,6 @@ Generics will be one of our focuses for 2022. The initial release in Go 1.18 is 
         <summary type="html"><![CDATA[Security updates have been issued by Debian (icinga2, libxstream-java, ruby-kaminari, and salt), Fedora (awscli, cacti, cacti-spine, python-boto3, python-botocore, radeontop, and rust), Mageia (firefox, libesmtp, libzapojit, sssd, and thunderbird), openSUSE (samba and samba and ldb), SUSE (firefox, pcre, qemu, samba, and samba and ldb), and Ubuntu (firejail, linux-bluefield, linux-gke-5.4, linux-oracle, linux-oracle-5.4, linux-oem-5.10, linux-oem-5.14, and python-py).]]></summary>
         <author>
             <name>jake</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Privacy and uniqueness of neighborhoods in social networks]]></title>
-        <id>https://www.nature.com/articles/s41598-021-94283-5</id>
-        <link href="https://www.nature.com/articles/s41598-021-94283-5"/>
-        <updated>2021-11-11T11:15:33.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -414,16 +404,6 @@ Generics will be one of our focuses for 2022. The initial release in Go 1.18 is 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Serial-position effect]]></title>
-        <id>https://en.wikipedia.org/wiki/Serial-position_effect</id>
-        <link href="https://en.wikipedia.org/wiki/Serial-position_effect"/>
-        <updated>2021-11-11T01:33:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[$] LWN.net Weekly Edition for November 11, 2021]]></title>
         <id>https://lwn.net/Articles/875075/rss</id>
         <link href="https://lwn.net/Articles/875075/rss"/>
@@ -454,10 +434,30 @@ Generics will be one of our focuses for 2022. The initial release in Go 1.18 is 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The origins of cannabis smoking: evidence from the first millennium BCE (2019)]]></title>
+        <id>https://www.science.org/doi/10.1126/sciadv.aaw1391</id>
+        <link href="https://www.science.org/doi/10.1126/sciadv.aaw1391"/>
+        <updated>2021-11-10T23:12:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[David Graeber’s Possible Worlds]]></title>
         <id>https://nymag.com/intelligencer/2021/11/david-graeber-dawn-of-everything.html</id>
         <link href="https://nymag.com/intelligencer/2021/11/david-graeber-dawn-of-everything.html"/>
         <updated>2021-11-10T21:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pretty inline symbolic mathematics in Org-mode]]></title>
+        <id>https://a.skh.am/2021/11/10/org-babel-sympy-latex.html</id>
+        <link href="https://a.skh.am/2021/11/10/org-babel-sympy-latex.html"/>
+        <updated>2021-11-10T21:23:05.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -531,6 +531,26 @@ reasons to consider their addition to the language.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[But What's Up with That ¥?]]></title>
+        <id>https://twitter.com/UINT_MIN/status/1458309391711551489</id>
+        <link href="https://twitter.com/UINT_MIN/status/1458309391711551489"/>
+        <updated>2021-11-10T16:58:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scattered thoughts on why I waste my own time]]></title>
+        <id>https://mbuffett.com/posts/wasting_time/</id>
+        <link href="https://mbuffett.com/posts/wasting_time/"/>
+        <updated>2021-11-10T16:18:15.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vitess: Why write a new planner]]></title>
         <id>https://www.cncf.io/?p=65580</id>
         <link href="https://www.cncf.io/blog/2021/11/10/why-write-a-new-planner/"/>
@@ -558,6 +578,16 @@ reasons to consider their addition to the language.]]></summary>
         <summary type="html"><![CDATA[Security updates have been issued by Debian (openjdk-8 and samba), Fedora (community-mysql, firefox, and vim), openSUSE (binutils, kernel, and tinyxml), Red Hat (annobin, autotrace, babel, bind, binutils, bluez, compat-exiv2-026, container-tools:2.0, container-tools:3.0, container-tools:rhel8, cups, curl, dnf, dnsmasq, edk2, exiv2, file, file-roller, firefox, gcc, gcc-toolset-10-annobin, gcc-toolset-10-binutils, gcc-toolset-10-gcc, gcc-toolset-11-annobin, gcc-toolset-11-binutils, gcc-toolset-11-gcc, glib2, glibc, GNOME, gnutls and nettle, go-toolset:rhel8, grafana, graphviz, grilo, httpd:2.4, jasper, java-17-openjdk, json-c, kernel, kernel-rt, kexec-tools, kpatch-patch, lasso, libgcrypt, libjpeg-turbo, libsepol, libsolv, libssh, libtiff, libwebp, libX11, linuxptp, lua, mingw-glib2, mutt, ncurses, NetworkManager, openjpeg2, openssh, openssl, pcre, pcs, php:7.4, python-jinja2, python-lxml, python-pillow, python-pip, python-psutil, python27:2.7, python3, python36:3.6, python38:3.8 and python38-devel:3.8, python39:3.9 and python39-devel:3.9, qt5, resource-agents, rpm, rust-toolset:rhel8, spamassassin, sqlite, squid:4, tcpdump, tpm2-tools, vim, virt:rhel and virt-devel:rhel, and zziplib), and SUSE (binutils and kernel).]]></summary>
         <author>
             <name>ris</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elizabeth Minkel on fanfiction and culture]]></title>
+        <id>https://thebrowser.com/notes/elizabeth-minkel/</id>
+        <link href="https://thebrowser.com/notes/elizabeth-minkel/"/>
+        <updated>2021-11-10T15:28:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -653,26 +683,6 @@ but the most protected of Samba servers.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Scroll: Extensible Alternative to Markdown]]></title>
-        <id>https://scroll.pub/</id>
-        <link href="https://scroll.pub/"/>
-        <updated>2021-11-10T05:42:22.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experiencing History in Assassin’s Creed]]></title>
-        <id>https://www.laphamsquarterly.org/roundtable/its-time-some-game-theory</id>
-        <link href="https://www.laphamsquarterly.org/roundtable/its-time-some-game-theory"/>
-        <updated>2021-11-10T03:00:07.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grafana Tempo 1.2 released: New features make monitoring traces 2x more efficient]]></title>
         <id>https://grafana.com/blog/2021/11/10/grafana-tempo-1.2-released-new-features-make-monitoring-traces-2x-more-efficient/</id>
         <link href="https://grafana.com/blog/2021/11/10/grafana-tempo-1.2-released-new-features-make-monitoring-traces-2x-more-efficient/"/>
@@ -739,6 +749,16 @@ Today, Loki groups incoming logs into blocks and when they reach a specific …]
         <summary type="html"><![CDATA[Xen para-virtualized guests booting on the Linux 5.16 kernel should see noticeably quicker boot times...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SLO alerting for mortals]]></title>
+        <id>https://ervinbarta.com/2021/10/19/slo-alerting-for-mortals/</id>
+        <link href="https://ervinbarta.com/2021/10/19/slo-alerting-for-mortals/"/>
+        <updated>2021-11-09T18:21:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -936,16 +956,6 @@ Then the bulk of the new features are all network related with peer network rela
 And lastly, on the clustering front, it’s now possible to better control what servers will be receiving new workloads.]]></summary>
         <author>
             <name>ris</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD Announces Milan-X 3D V-Cache CPUs, Azure Prepares For Great Upgrade]]></title>
-        <id>https://www.phoronix.com/vr.php?view=30671</id>
-        <link href="https://www.phoronix.com/vr.php?view=30671"/>
-        <updated>2021-11-08T17:00:01.000Z</updated>
-        <summary type="html"><![CDATA[AMD this morning hosted their Accelerated Data Center Premiere virtual event where they introduced Milan-X as well as the Instinct MI200. With Milan-X there is now 3D V-Cache introduced for the current generation and still-very-impressive EPYC 7003 "Milan" processors. I can personally attest to Milan-X being very exciting for HPC workloads and beyond with impressive gains to performance.]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
