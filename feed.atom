@@ -1,22 +1,144 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-14T00:00:47.988Z</id>
+    <id>urn:2021-11-14T08:00:31.051Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-14T00:00:47.988Z</updated>
+    <updated>2021-11-14T08:00:31.051Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[CBT Harmed Me: The Interview That the New York Times Erased]]></title>
-        <id>https://disabilityvisibilityproject.com/2021/11/11/how-cbt-harmed-me-the-interview-that-the-new-york-times-erased/</id>
-        <link href="https://disabilityvisibilityproject.com/2021/11/11/how-cbt-harmed-me-the-interview-that-the-new-york-times-erased/"/>
-        <updated>2021-11-13T22:53:47.000Z</updated>
+        <title type="html"><![CDATA[DevOps’ish 243: Bellwethers, changes at Red Hat, Kubernetes 2021 Steering Committee Election Results, Monstrosity Email, Bitbucket’s move to AWS is complete, and more]]></title>
+        <id>https://kill-the-newsletter.com/alternates/8iqyjr40yqwln0sf.html</id>
+        <link href="https://kill-the-newsletter.com/alternates/8iqyjr40yqwln0sf.html"/>
+        <updated>2021-11-14T07:16:12.000Z</updated>
+        <summary type="html"><![CDATA[* { font-family: sans-serif !important; }
+        
+    
+
+    
+        /* Box sizing. Gets decent support. */
+        
+        *,
+        *:after,
+        *:before {
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+        /* Prevents small text resizing. */
+        
+        * {
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+        }
+        /* Basic reset. Removes default spacing around emails in various clients.  */
+        
+        html,
+        body,
+        .document {
+            width: 100% !important;
+            height: 100% !important;
+            margin: 0;
+            padding: 0;
+        }
+        /* Improves text rendering when supported. */
+        
+        b…]]></summary>
+        <author>
+            <name>DevOps'ish</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nasally-Injected Brain Drug Can Help Treat Depression in 20 Minutes]]></title>
+        <id>https://interestingengineering.com/nasally-injected-brain-drug-can-help-treat-depression-in-20-minutes</id>
+        <link href="https://interestingengineering.com/nasally-injected-brain-drug-can-help-treat-depression-in-20-minutes"/>
+        <updated>2021-11-14T07:03:07.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hoax Email Blast Abused Poor Coding in FBI Website]]></title>
+        <title type="html"><![CDATA[PhotoRoom (YC S20) Is Hiring a Head of Computer Vision (Paris, Remote ± 1h)]]></title>
+        <id>https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a</id>
+        <link href="https://jobs.lever.co/photoroom/bdb26827-1c9b-404a-8c3a-d2abd744dc0a"/>
+        <updated>2021-11-14T07:00:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Who the hell writes “2” into my stack? (2016)]]></title>
+        <id>https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2</id>
+        <link href="https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2"/>
+        <updated>2021-11-14T06:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3-D printing new houses in a Mexican village]]></title>
+        <id>https://www.nytimes.com/2021/09/28/business/3D-printing-homes.html</id>
+        <link href="https://www.nytimes.com/2021/09/28/business/3D-printing-homes.html"/>
+        <updated>2021-11-14T04:35:59.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0xA000 Font Family – A tile mastered font-family]]></title>
+        <id>https://pippin.gimp.org/0xA000/</id>
+        <link href="https://pippin.gimp.org/0xA000/"/>
+        <updated>2021-11-14T02:16:43.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Modernized Zstd Merged Into Linux 5.16 For Much Greater Performance]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Zstd-Updated-For-Linux-5.16</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Zstd-Updated-For-Linux-5.16"/>
+        <updated>2021-11-14T01:16:36.000Z</updated>
+        <summary type="html"><![CDATA[While Zstd is used in various areas of the Linux kernel for data compression from transparent file-system compression with the likes of Btrfs to allowing kernel modules be compressed with this Zstandard algorithm, the in-kernel code had fallen years outdated. Finally with Linux 5.16 that Zstd in-kernel implementation is now being brought up to modern standards and delivering better performance too...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. states file updated antitrust complaint against Google]]></title>
+        <id>https://www.reuters.com/world/us/us-states-file-updated-antitrust-complaint-against-alphabets-google-2021-11-13/</id>
+        <link href="https://www.reuters.com/world/us/us-states-file-updated-antitrust-complaint-against-alphabets-google-2021-11-13/"/>
+        <updated>2021-11-14T00:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Richard ‘Lowtax’ Kyanka, founder of Something Awful, has died]]></title>
+        <id>https://www.vice.com/en/article/v7dmqb/richard-lowtax-kyanka-founder-of-something-awful-is-dead-at-45</id>
+        <link href="https://www.vice.com/en/article/v7dmqb/richard-lowtax-kyanka-founder-of-something-awful-is-dead-at-45"/>
+        <updated>2021-11-13T23:19:58.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Delia Derbyshire: An audiological chronology (2013)]]></title>
+        <id>http://delia-derbyshire.net/</id>
+        <link href="http://delia-derbyshire.net/"/>
+        <updated>2021-11-13T22:57:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hoax email blast abused poor coding in FBI website]]></title>
         <id>https://krebsonsecurity.com/2021/11/hoax-email-blast-abused-poor-coding-in-fbi-website/</id>
         <link href="https://krebsonsecurity.com/2021/11/hoax-email-blast-abused-poor-coding-in-fbi-website/"/>
         <updated>2021-11-13T22:47:42.000Z</updated>
@@ -26,7 +148,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Study finds a striking difference between neurons of humans and other mammals]]></title>
+        <title type="html"><![CDATA[Study finds a difference between neurons of humans and other mammals]]></title>
         <id>https://news.mit.edu/2021/neurons-humans-mammals-1110</id>
         <link href="https://news.mit.edu/2021/neurons-humans-mammals-1110"/>
         <updated>2021-11-13T22:41:06.000Z</updated>
@@ -36,9 +158,9 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Atomic ‘avocado’ could change the way we navigate]]></title>
-        <id>https://asiatimes.com/2021/11/atomic-avocado-could-change-the-way-we-navigate/</id>
-        <link href="https://asiatimes.com/2021/11/atomic-avocado-could-change-the-way-we-navigate/"/>
+        <title type="html"><![CDATA[Vaccum-chamber quantum sensor device could allow GPS-free navigation]]></title>
+        <id>https://breakingdefense.com/2021/11/sandias-atomic-avocado-could-allow-gps-free-pnt/</id>
+        <link href="https://breakingdefense.com/2021/11/sandias-atomic-avocado-could-allow-gps-free-pnt/"/>
         <updated>2021-11-13T22:31:59.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
@@ -66,30 +188,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ask HN: Advice for moving on from a failed startup?]]></title>
-        <id>https://news.ycombinator.com/item?id=29213305</id>
-        <link href="https://news.ycombinator.com/item?id=29213305"/>
-        <updated>2021-11-13T21:26:19.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In a ‘learning trap’ experiment, adults leap conclusions while children explore]]></title>
+        <title type="html"><![CDATA[In ‘learning trap’ experiment, adults leap to conclusions while children explore]]></title>
         <id>https://www.wsj.com/articles/why-children-learn-better-than-adults-11636033185</id>
         <link href="https://www.wsj.com/articles/why-children-learn-better-than-adults-11636033185"/>
         <updated>2021-11-13T21:14:11.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Substack (YC W18) is hiring engineering managers to build the future of writing]]></title>
-        <id>https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7</id>
-        <link href="https://jobs.lever.co/substackinc/ae724ae2-7882-4ac6-ab70-699327f8f2e7"/>
-        <updated>2021-11-13T21:00:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -176,26 +278,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Marvin – A grumpy Slackbot who doesn't like your ideas]]></title>
-        <id>https://github.com/keltrycroft/marvin</id>
-        <link href="https://github.com/keltrycroft/marvin"/>
-        <updated>2021-11-13T14:52:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In the 17th century, Leibniz dreamed of a machine that could calculate ideas]]></title>
-        <id>https://spectrum.ieee.org/in-the-17th-century-leibniz-dreamed-of-a-machine-that-could-calculate-ideas</id>
-        <link href="https://spectrum.ieee.org/in-the-17th-century-leibniz-dreamed-of-a-machine-that-could-calculate-ideas"/>
-        <updated>2021-11-13T14:49:12.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cloudflare blocks an almost 2 Tbps multi-vector DDoS attack]]></title>
         <id>618fcab94524da02a9c2384c</id>
         <link href="https://blog.cloudflare.com/cloudflare-blocks-an-almost-2-tbps-multi-vector-ddos-attack/"/>
@@ -216,40 +298,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Chemists discover new way to harness energy from ammonia]]></title>
-        <id>https://phys.org/news/2021-11-chemists-harness-energy-ammonia.html</id>
-        <link href="https://phys.org/news/2021-11-chemists-harness-energy-ammonia.html"/>
-        <updated>2021-11-13T13:14:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Restic – Backups Done Right]]></title>
         <id>https://restic.net/</id>
         <link href="https://restic.net/"/>
         <updated>2021-11-13T13:04:37.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Life is too short to depend on unstable software]]></title>
-        <id>https://blog.sidebits.tech/life-is-too-short-to-depend-on-unstable-software/</id>
-        <link href="https://blog.sidebits.tech/life-is-too-short-to-depend-on-unstable-software/"/>
-        <updated>2021-11-13T12:39:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Relative Bookmarks Browser Extension]]></title>
-        <id>https://github.com/duiker101/relative_bookmarks</id>
-        <link href="https://github.com/duiker101/relative_bookmarks"/>
-        <updated>2021-11-13T11:37:06.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -296,20 +348,30 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The weirdest bug I've ever encountered]]></title>
-        <id>https://mental-reverb.com/blog.php?id=29</id>
-        <link href="https://mental-reverb.com/blog.php?id=29"/>
-        <updated>2021-11-13T03:53:59.000Z</updated>
+        <title type="html"><![CDATA[Recreating the soundscape of Iron Age Somerset [video]]]></title>
+        <id>https://www.youtube.com/watch?v=8OQxzfvau8U</id>
+        <link href="https://www.youtube.com/watch?v=8OQxzfvau8U"/>
+        <updated>2021-11-13T05:27:58.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sound of the 2C33: The Famicom Disk System]]></title>
-        <id>https://nicole.express/2021/music-for-the-whole-family.html</id>
-        <link href="https://nicole.express/2021/music-for-the-whole-family.html"/>
-        <updated>2021-11-13T03:42:18.000Z</updated>
+        <title type="html"><![CDATA[Great Auk]]></title>
+        <id>https://en.wikipedia.org/wiki/Great_auk</id>
+        <link href="https://en.wikipedia.org/wiki/Great_auk"/>
+        <updated>2021-11-13T05:10:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The weirdest bug I've ever encountered]]></title>
+        <id>https://mental-reverb.com/blog.php?id=29</id>
+        <link href="https://mental-reverb.com/blog.php?id=29"/>
+        <updated>2021-11-13T03:53:59.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -366,6 +428,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show HN: Plain Org – A new org mode app for iOS]]></title>
+        <id>https://apps.apple.com/us/app/plain-org/id1578965002</id>
+        <link href="https://apps.apple.com/us/app/plain-org/id1578965002"/>
+        <updated>2021-11-12T20:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Windows 11 Better Than Linux Right Now For Intel Alder Lake Performance]]></title>
         <id>https://www.phoronix.com/vr.php?view=30684</id>
         <link href="https://www.phoronix.com/vr.php?view=30684"/>
@@ -373,16 +445,6 @@
         <summary type="html"><![CDATA[While we are used to running AMD and Intel benchmarks between Microsoft Windows and Linux while most often finding that our favorite open-source operating systems normally lead the race from desktops through HEDT and server platforms, when it comes to the Core i9 12900K "Alder Lake" that is currently not the case. Going into this round of Windows vs. Linux testing quite curious given some Intel hybrid architecture oddities we have been seeing under Linux, indeed when hitting Windows 11 and an assortment of Linux distributions with benchmarks we were left disappointed. Not only did Windows 11 come out faster overall, but related is now Linux also had much higher run-to-run variance due to the mix of P and E cores with Thread Director not making the wisest choices under Linux.]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Minolta X1 (2007)]]></title>
-        <id>http://www.rokkorfiles.com/XK.html</id>
-        <link href="http://www.rokkorfiles.com/XK.html"/>
-        <updated>2021-11-12T19:42:20.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -466,16 +528,6 @@ of important fixes, but, as usual, users should upgrade.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gin, television, and social surplus, or, “looking for the mouse” (2008)]]></title>
-        <id>https://gist.github.com/jm3/6724931</id>
-        <link href="https://gist.github.com/jm3/6724931"/>
-        <updated>2021-11-12T13:15:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Five Great (free!) Ways to Get Started With Cloudflare]]></title>
         <id>618d3ffd4524da02a9c23687</id>
         <link href="https://blog.cloudflare.com/five-free-ways-to-get-started-with-cloudflare/"/>
@@ -540,6 +592,16 @@ of important fixes, but, as usual, users should upgrade.]]></summary>
         <id>https://steveblank.com/2021/11/11/when-there-seems-to-be-no-way-out-customer-discovery-for-your-head/</id>
         <link href="https://steveblank.com/2021/11/11/when-there-seems-to-be-no-way-out-customer-discovery-for-your-head/"/>
         <updated>2021-11-12T04:21:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How I Use Notion]]></title>
+        <id>https://reasonabledeviations.com/2021/09/18/how-i-use-notion/</id>
+        <link href="https://reasonabledeviations.com/2021/09/18/how-i-use-notion/"/>
+        <updated>2021-11-12T01:38:32.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -778,16 +840,6 @@ Generics will be one of our focuses for 2022. The initial release in Go 1.18 is 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The strong and weak forces of architecture]]></title>
-        <id>https://martinfowler.com/articles/strong-weak-arch.html</id>
-        <link href="https://martinfowler.com/articles/strong-weak-arch.html"/>
-        <updated>2021-11-10T20:40:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Google Makes Some Major Changes To Summer of Code 2022 - No Longer Limited To Students]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GSoC-2022-Changes</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GSoC-2022-Changes"/>
@@ -870,16 +922,6 @@ reasons to consider their addition to the language.]]></summary>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenZFS-3.0-Plus-Windows-Work"/>
         <updated>2021-11-10T14:28:15.000Z</updated>
         <summary type="html"><![CDATA[The annual OpenZFS Developer Summit wrapped up yesterday with interesting talks on this open-source, cross-platform ZFS file-system implementation...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sailfish OS 4.3 Released With Better Android App Support]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Sailfish-OS-4.3-Released</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Sailfish-OS-4.3-Released"/>
-        <updated>2021-11-10T14:09:38.000Z</updated>
-        <summary type="html"><![CDATA[For fans of Jolla's Linux-based smartphone platform, Sailfish OS 4.3 "Suomenlinna" is out today...]]></summary>
         <author>
             <name>Phoronix</name>
         </author>
