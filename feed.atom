@@ -1,10 +1,180 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-14T16:00:40.534Z</id>
+    <id>urn:2021-11-15T00:00:58.268Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-14T16:00:40.534Z</updated>
+    <updated>2021-11-15T00:00:58.269Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Modern JavaScript has made the web worse]]></title>
+        <id>https://www.chaseaucoin.com/posts/why-npm-has-made-the-web-worse/?=ver=8e60f8174786794b7efe72ef69ff9ac2</id>
+        <link href="https://www.chaseaucoin.com/posts/why-npm-has-made-the-web-worse/?=ver=8e60f8174786794b7efe72ef69ff9ac2"/>
+        <updated>2021-11-14T22:52:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.16-rc1 Released With Intel AMX, FUTEX2, Folios & A Lot More]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-rc1</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-rc1"/>
+        <updated>2021-11-14T22:30:16.000Z</updated>
+        <summary type="html"><![CDATA[Linus Torvalds has released Linux 5.16-rc1 in moving past the exciting merge window and onto bug fixing for this next version of the Linux kernel...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: PickBetterPack – Discover similar pkgs from package.json dependencies]]></title>
+        <id>https://pickbetterpack.com/</id>
+        <link href="https://pickbetterpack.com/"/>
+        <updated>2021-11-14T22:08:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Avenue (YC W21) is hiring full-stack engineers in NYC (TypeScript, Node, React)]]></title>
+        <id>http://jobs.ashbyhq.com/avenue</id>
+        <link href="http://jobs.ashbyhq.com/avenue"/>
+        <updated>2021-11-14T21:00:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why disaster happens at the edges: An introduction to queue theory]]></title>
+        <id>https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/</id>
+        <link href="https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/"/>
+        <updated>2021-11-14T20:27:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YAML: It's Time to Move On]]></title>
+        <id>https://nestedtext.org/en/latest/alternatives.html#yaml</id>
+        <link href="https://nestedtext.org/en/latest/alternatives.html#yaml"/>
+        <updated>2021-11-14T20:25:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[From zero to hero: contributing to open source (2017)]]></title>
+        <id>https://miparnisariblog.wordpress.com/2017/10/31/contributing-to-open-source/</id>
+        <link href="https://miparnisariblog.wordpress.com/2017/10/31/contributing-to-open-source/"/>
+        <updated>2021-11-14T19:44:06.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Conceptarium]]></title>
+        <id>https://paulbricman.com/thoughtware/conceptarium</id>
+        <link href="https://paulbricman.com/thoughtware/conceptarium"/>
+        <updated>2021-11-14T18:54:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yann LeCun’s 2021 Deep Learning Course at CDS free and fully online]]></title>
+        <id>https://cds.nyu.edu/deep-learning/</id>
+        <link href="https://cds.nyu.edu/deep-learning/"/>
+        <updated>2021-11-14T17:04:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.16's New Cluster Scheduling Is Causing Regression, Further Hurting Alder Lake]]></title>
+        <id>https://www.phoronix.com/vr.php?view=30686</id>
+        <link href="https://www.phoronix.com/vr.php?view=30686"/>
+        <updated>2021-11-14T17:02:17.000Z</updated>
+        <summary type="html"><![CDATA[Linux 5.16-rc1 is coming out later today and already I'm seeing some fallout in the new kernel's performance... In particular, bad news for Alder Lake that is already seeing the Linux performance trailing Windows 11 seemingly due to the lack of Thread Director integration right now in the kernel and any other missing optimizations around Intel's hybrid architecture. A new feature of Linux 5.16 is unfortunately having unintended regressions for Alder Lake with at least the flagship Core i9 12900K. Here are the results from the latest kernel bisecting that uncovered this latest upstream slowdown.]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: I built a jigsaw puzzle website]]></title>
+        <id>https://puzzlepanda.com</id>
+        <link href="https://puzzlepanda.com"/>
+        <updated>2021-11-14T16:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Journal of Functional Programming moving to open access]]></title>
+        <id>https://www.cambridge.org/core/blog/2021/11/11/journal-of-functional-programming-moving-to-open-access/</id>
+        <link href="https://www.cambridge.org/core/blog/2021/11/11/journal-of-functional-programming-moving-to-open-access/"/>
+        <updated>2021-11-14T16:31:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The bullet effects in Terminator 2 weren’t CGI]]></title>
+        <id>https://hackaday.com/2021/11/14/those-bullet-effects-in-terminator-2-werent-cgi/</id>
+        <link href="https://hackaday.com/2021/11/14/those-bullet-effects-in-terminator-2-werent-cgi/"/>
+        <updated>2021-11-14T16:25:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Easylang – An easy online programming language and development environment]]></title>
+        <id>https://easylang.online/</id>
+        <link href="https://easylang.online/"/>
+        <updated>2021-11-14T16:21:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Colorado 'solar garden' is a farm under solar panels]]></title>
+        <id>https://www.npr.org/2021/11/14/1054942590/solar-energy-colorado-garden-farm-land</id>
+        <link href="https://www.npr.org/2021/11/14/1054942590/solar-energy-colorado-garden-farm-land"/>
+        <updated>2021-11-14T15:55:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[U.S. sets goal to drive down cost of removing CO2 from atmosphere]]></title>
+        <id>https://www.reuters.com/business/cop/us-sets-goal-drive-down-cost-removing-co2-atmosphere-2021-11-05/</id>
+        <link href="https://www.reuters.com/business/cop/us-sets-goal-drive-down-cost-removing-co2-atmosphere-2021-11-05/"/>
+        <updated>2021-11-14T15:39:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Luna is a Clojure domain specific language that translates to regex]]></title>
+        <id>https://github.com/AbhinavOmprakash/luna</id>
+        <link href="https://github.com/AbhinavOmprakash/luna"/>
+        <updated>2021-11-14T15:30:41.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show HN: Windows 2000 on Docker]]></title>
         <id>https://github.com/hectorm/docker-qemu-win2000</id>
@@ -16,17 +186,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Monte Carlo Methods or Why It's a Bad Idea to Go to the Casino]]></title>
-        <id>https://easylang.online/apps/tutorial_monte_carlo_methods.html</id>
-        <link href="https://easylang.online/apps/tutorial_monte_carlo_methods.html"/>
-        <updated>2021-11-14T15:02:44.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Facebook Employees Are Now More Willing to Leave, Tech Recruiters Say]]></title>
+        <title type="html"><![CDATA[Facebook employees are now more willing to leave, tech recruiters say]]></title>
         <id>https://www.businessinsider.com/facebook-employees-are-more-willing-to-leave-exodus-recruiters-say-2021-11</id>
         <link href="https://www.businessinsider.com/facebook-employees-are-more-willing-to-leave-exodus-recruiters-say-2021-11"/>
         <updated>2021-11-14T15:00:23.000Z</updated>
@@ -46,17 +206,7 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix released a horror movie written by a bot and it's spectacular]]></title>
-        <id>https://www.cnet.com/news/netflix-released-a-horror-movie-written-by-a-bot-and-its-spectacular/</id>
-        <link href="https://www.cnet.com/news/netflix-released-a-horror-movie-written-by-a-bot-and-its-spectacular/"/>
-        <updated>2021-11-14T14:26:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wild Bidding Wars Erupt at Used-Tractor Auctions Across the U.S.]]></title>
+        <title type="html"><![CDATA[Wild bidding wars erupt at used-tractor auctions across the U.S.]]></title>
         <id>https://www.bloomberg.com/news/articles/2021-11-13/deere-strike-ignites-bidding-wars-for-used-tractors</id>
         <link href="https://www.bloomberg.com/news/articles/2021-11-13/deere-strike-ignites-bidding-wars-for-used-tractors"/>
         <updated>2021-11-14T14:17:04.000Z</updated>
@@ -66,30 +216,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Apple Buying Ads via Google for Subscription Apps to Capture App’s Revenue]]></title>
+        <title type="html"><![CDATA[Apple buying Google ads for high-value subscription apps]]></title>
         <id>https://www.forbes.com/sites/johnkoetsier/2021/11/12/apple-quietly-buying-ads-via-google-for-high-value-subscription-apps-to-capture-app-publisher-revenue/</id>
         <link href="https://www.forbes.com/sites/johnkoetsier/2021/11/12/apple-quietly-buying-ads-via-google-for-high-value-subscription-apps-to-capture-app-publisher-revenue/"/>
         <updated>2021-11-14T14:16:37.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ask HN: Looking for a Book on Algorithms and Data Structures]]></title>
-        <id>https://news.ycombinator.com/item?id=29217252</id>
-        <link href="https://news.ycombinator.com/item?id=29217252"/>
-        <updated>2021-11-14T14:12:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flowchart: How should I run containers on AWS?]]></title>
-        <id>https://www.vladionescu.me/../../posts/flowchart-how-should-i-run-containers-on-aws-2021/</id>
-        <link href="https://www.vladionescu.me/../../posts/flowchart-how-should-i-run-containers-on-aws-2021/"/>
-        <updated>2021-11-14T14:02:13.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -120,16 +250,6 @@
         <id>https://www.kcl.ac.uk/news/do-it-yourself-artificial-pancreas-given-approval-by-team-of-experts</id>
         <link href="https://www.kcl.ac.uk/news/do-it-yourself-artificial-pancreas-given-approval-by-team-of-experts"/>
         <updated>2021-11-14T12:09:17.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OneSignal (YC S11) is hiring engineers to work on messaging: Push, SMS, & Email]]></title>
-        <id>https://onesignal.com/careers</id>
-        <link href="https://onesignal.com/careers"/>
-        <updated>2021-11-14T12:01:12.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -198,36 +318,6 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Accretion disk images guide theories on planet formation]]></title>
-        <id>https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/</id>
-        <link href="https://www.quantamagazine.org/scientists-debate-if-cosmic-pebbles-create-rocky-planets-like-earth-20211103/"/>
-        <updated>2021-11-14T08:49:59.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple isn’t patching all the security holes in older versions of macOS]]></title>
-        <id>https://arstechnica.com/gadgets/2021/11/psa-apple-isnt-actually-patching-all-the-security-holes-in-older-versions-of-macos/</id>
-        <link href="https://arstechnica.com/gadgets/2021/11/psa-apple-isnt-actually-patching-all-the-security-holes-in-older-versions-of-macos/"/>
-        <updated>2021-11-14T08:17:06.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Concept of the Ruliad]]></title>
-        <id>https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/</id>
-        <link href="https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/"/>
-        <updated>2021-11-14T07:35:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DevOps’ish 243: Bellwethers, changes at Red Hat, Kubernetes 2021 Steering Committee Election Results, Monstrosity Email, Bitbucket’s move to AWS is complete, and more]]></title>
         <id>https://kill-the-newsletter.com/alternates/8iqyjr40yqwln0sf.html</id>
         <link href="https://kill-the-newsletter.com/alternates/8iqyjr40yqwln0sf.html"/>
@@ -270,30 +360,10 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Debugging memory corruption: who the hell writes “2” into my stack? (2016)]]></title>
-        <id>https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2</id>
-        <link href="https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2"/>
-        <updated>2021-11-14T06:24:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3-D printing new houses in a Mexican village]]></title>
-        <id>https://www.nytimes.com/2021/09/28/business/3D-printing-homes.html</id>
-        <link href="https://www.nytimes.com/2021/09/28/business/3D-printing-homes.html"/>
-        <updated>2021-11-14T04:35:59.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[0xA000 Font Family – A tile mastered font-family]]></title>
-        <id>https://pippin.gimp.org/0xA000/</id>
-        <link href="https://pippin.gimp.org/0xA000/"/>
-        <updated>2021-11-14T02:16:43.000Z</updated>
+        <title type="html"><![CDATA[The Gambler Wife: new books about Dostoevsky]]></title>
+        <id>https://www.the-tls.co.uk/articles/fyodor-dostoevsky-200-russia-book-review-an-wilson/</id>
+        <link href="https://www.the-tls.co.uk/articles/fyodor-dostoevsky-200-russia-book-review-an-wilson/"/>
+        <updated>2021-11-14T06:53:46.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -310,26 +380,6 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[U.S. states file updated antitrust complaint against Google]]></title>
-        <id>https://www.reuters.com/world/us/us-states-file-updated-antitrust-complaint-against-alphabets-google-2021-11-13/</id>
-        <link href="https://www.reuters.com/world/us/us-states-file-updated-antitrust-complaint-against-alphabets-google-2021-11-13/"/>
-        <updated>2021-11-14T00:15:27.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hoax email blast abused poor coding in FBI website]]></title>
-        <id>https://krebsonsecurity.com/2021/11/hoax-email-blast-abused-poor-coding-in-fbi-website/</id>
-        <link href="https://krebsonsecurity.com/2021/11/hoax-email-blast-abused-poor-coding-in-fbi-website/"/>
-        <updated>2021-11-13T22:47:42.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Microsoft Has More SMB3/CIFS Enhancements For Linux 5.16, Including For Performance]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=More-SMB3-Client-Linux-5.16</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=More-SMB3-Client-Linux-5.16"/>
@@ -337,16 +387,6 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         <summary type="html"><![CDATA[Another batch of SMB3/CIFS client changes were submitted and merged today for the Linux 5.16 merge window. Plus the KSMBD changes were also merged today for that in-kernel SMB3 file server...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The case of the 500-mile email (2002)]]></title>
-        <id>https://www.ibiblio.org/harris/500milemail.html</id>
-        <link href="https://www.ibiblio.org/harris/500milemail.html"/>
-        <updated>2021-11-13T20:50:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -390,20 +430,30 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data-Oriented Architecture (2020)]]></title>
-        <id>https://blog.eyas.sh/2020/03/data-oriented-architecture/</id>
-        <link href="https://blog.eyas.sh/2020/03/data-oriented-architecture/"/>
-        <updated>2021-11-13T12:41:47.000Z</updated>
+        <title type="html"><![CDATA[Dramatica: A Theory of Story [pdf]]]></title>
+        <id>https://dramatica.com/resources/assets/dramatica-theory-book.pdf</id>
+        <link href="https://dramatica.com/resources/assets/dramatica-theory-book.pdf"/>
+        <updated>2021-11-13T13:08:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Do something different for a week]]></title>
-        <id>https://blog.sidebits.tech/do-something-different-for-a-week/</id>
-        <link href="https://blog.sidebits.tech/do-something-different-for-a-week/"/>
-        <updated>2021-11-13T11:48:39.000Z</updated>
+        <title type="html"><![CDATA[Seagate Creates an NVMe Hard Disk Drive]]></title>
+        <id>https://www.pcmag.com/news/seagate-creates-an-nvme-hard-disk-drive</id>
+        <link href="https://www.pcmag.com/news/seagate-creates-an-nvme-hard-disk-drive"/>
+        <updated>2021-11-13T12:56:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data-Oriented Architecture (2020)]]></title>
+        <id>https://blog.eyas.sh/2020/03/data-oriented-architecture/</id>
+        <link href="https://blog.eyas.sh/2020/03/data-oriented-architecture/"/>
+        <updated>2021-11-13T12:41:47.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -420,6 +470,16 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[New mineral davemaoite discovered inside a diamond from Earth's mantle]]></title>
+        <id>https://www.newscientist.com/article/2296899-new-mineral-davemaoite-discovered-inside-a-diamond-from-earths-mantle/</id>
+        <link href="https://www.newscientist.com/article/2296899-new-mineral-davemaoite-discovered-inside-a-diamond-from-earths-mantle/"/>
+        <updated>2021-11-13T11:14:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KDE Lands More Plasma Wayland Fixes, Other Enhancements For Plasma 5.24]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=KDE-Wayland-More-Fixes-November</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=KDE-Wayland-More-Fixes-November"/>
@@ -430,40 +490,10 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Embedding the F# Compiler]]></title>
-        <id>https://queil.net/2021/05/embedding-fsharp-compiler/</id>
-        <link href="https://queil.net/2021/05/embedding-fsharp-compiler/"/>
-        <updated>2021-11-13T08:20:36.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mathematicians Find Structure in Biased Polynomials]]></title>
-        <id>https://www.quantamagazine.org/mathematicians-find-structure-in-biased-polynomials-20211109/</id>
-        <link href="https://www.quantamagazine.org/mathematicians-find-structure-in-biased-polynomials-20211109/"/>
-        <updated>2021-11-13T07:38:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Kingsway Basic License]]></title>
-        <id>https://writing.kemitchell.com/2021/11/13/Kingsway.html</id>
-        <link href="https://writing.kemitchell.com/2021/11/13/Kingsway.html"/>
-        <updated>2021-11-13T06:32:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Recreating the soundscape of Iron Age Somerset [video]]]></title>
-        <id>https://www.youtube.com/watch?v=8OQxzfvau8U</id>
-        <link href="https://www.youtube.com/watch?v=8OQxzfvau8U"/>
-        <updated>2021-11-13T05:27:58.000Z</updated>
+        <title type="html"><![CDATA[“Metadata of the metadata” informs product design without allowing backdoors]]></title>
+        <id>https://www.wired.com/story/encrypted-messaging-privacy-security-metadata/</id>
+        <link href="https://www.wired.com/story/encrypted-messaging-privacy-security-metadata/"/>
+        <updated>2021-11-12T23:53:56.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -610,16 +640,6 @@ of important fixes, but, as usual, users should upgrade.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[How to Improve Mental Health for Software Developers]]></title>
-        <id>https://techcrunch.com/2021/11/11/5-ways-to-improve-mental-health-for-software-developers/</id>
-        <link href="https://techcrunch.com/2021/11/11/5-ways-to-improve-mental-health-for-software-developers/"/>
-        <updated>2021-11-12T12:43:24.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Faster Ceph With Linux 5.16 Now That Async Dirops Have Been Flipped On]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-Ceph</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-Ceph"/>
@@ -630,10 +650,10 @@ of important fixes, but, as usual, users should upgrade.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Red Snapper Filet Might Have Been Caught by Drug Runners]]></title>
-        <id>https://www.texasmonthly.com/news-politics/red-snapper-poaching-gulf/</id>
-        <link href="https://www.texasmonthly.com/news-politics/red-snapper-poaching-gulf/"/>
-        <updated>2021-11-12T12:01:19.000Z</updated>
+        <title type="html"><![CDATA[Bayesian Optimization Book]]></title>
+        <id>https://bayesoptbook.com//</id>
+        <link href="https://bayesoptbook.com//"/>
+        <updated>2021-11-12T10:28:27.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -647,6 +667,16 @@ of important fixes, but, as usual, users should upgrade.]]></summary>
         <summary type="html"><![CDATA[Red Hat's David Airlie has been working on early support for Vulkan Video API support with Mesa's Radeon "RADV" driver while the past week he spent time working on similar treatment for Intel's open-source "ANV" Vulkan driver and also resurrecting some unfinished VA-API video acceleration code he was working on for the Intel Crocus Gallium3D driver...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Optical storage – the future of long term data preservation (2015) [pdf]]]></title>
+        <id>https://www.snia.org/sites/default/orig/DSI2015/presentations/ColdStorage/DougFerguson_Optical_Storage_Future%20Long_Term_Data.pdf</id>
+        <link href="https://www.snia.org/sites/default/orig/DSI2015/presentations/ColdStorage/DougFerguson_Optical_Storage_Future%20Long_Term_Data.pdf"/>
+        <updated>2021-11-12T09:44:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -667,16 +697,6 @@ of important fixes, but, as usual, users should upgrade.]]></summary>
         <summary type="html"><![CDATA[While the Zink OpenGL-on-Vulkan code within Mesa is close to OpenGL 4.6 conformant and running many OpenGL games at good performance, it's taken until now to see good performance out of the glxgears benchmark...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Use Notion]]></title>
-        <id>https://reasonabledeviations.com/2021/09/18/how-i-use-notion/</id>
-        <link href="https://reasonabledeviations.com/2021/09/18/how-i-use-notion/"/>
-        <updated>2021-11-12T01:38:32.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -889,26 +909,6 @@ Generics will be one of our focuses for 2022. The initial release in Go 1.18 is 
         <summary type="html"><![CDATA[I am excited to announce the immediate availability of AWS Resilience Hub, a new AWS service designed to help you define, track, and manage the resilience of your applications. You are building and managing resilient applications to serve your customers. Building distributed systems is hard; maintaining them in an operational state is even harder. The […]]]></summary>
         <author>
             <name>Sébastien Stormacq</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coreboot 4.15 Released With New System76 Laptops, More ASUS Motherboards]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Coreboot-4.15</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Coreboot-4.15"/>
-        <updated>2021-11-10T23:26:30.000Z</updated>
-        <summary type="html"><![CDATA[Coreboot 4.15 was tagged today as the latest advertised version of this open-source firmware implementation for systems. With this new version are 21 additional laptops and motherboards supported...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Framework Laptop Is Great For A Linux-Friendly, Upgradeable/Modular Laptop]]></title>
-        <id>https://www.phoronix.com/vr.php?view=30680</id>
-        <link href="https://www.phoronix.com/vr.php?view=30680"/>
-        <updated>2021-11-10T21:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While many Linux users were excited years ago around EOMA68 and in part the possibility of an open, upgradeable laptop design, it has yet to ship and looking like it never will -- not to mention being very outdated specifications by today's standards. Entirely unrelated to that prior upgradeable hardware effort but continuing in similar goals is The Framework Laptop. The Framework Laptop is a thin, upgradeable notebook that is Linux-friendly and allows the user to easily upgrade their own components. I was testing The Framework Laptop for a while and from the hardware perspective is a very nice device and running well under Linux.]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
