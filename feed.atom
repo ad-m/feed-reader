@@ -1,15 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-15T00:00:58.268Z</id>
+    <id>urn:2021-11-15T08:00:51.436Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-15T00:00:58.269Z</updated>
+    <updated>2021-11-15T08:00:51.436Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Modern JavaScript has made the web worse]]></title>
-        <id>https://www.chaseaucoin.com/posts/why-npm-has-made-the-web-worse/?=ver=8e60f8174786794b7efe72ef69ff9ac2</id>
-        <link href="https://www.chaseaucoin.com/posts/why-npm-has-made-the-web-worse/?=ver=8e60f8174786794b7efe72ef69ff9ac2"/>
-        <updated>2021-11-14T22:52:54.000Z</updated>
+        <title type="html"><![CDATA[Kernel prepatch 5.16-rc1]]></title>
+        <id>https://lwn.net/Articles/876072/rss</id>
+        <link href="https://lwn.net/Articles/876072/rss"/>
+        <updated>2021-11-15T07:15:50.000Z</updated>
+        <summary type="html"><![CDATA[The 5.16-rc1 kernel prepatch is out and the
+merge window is closed for this cycle.
+
+
+	Anyway, it's not a huge release, although it's also not a
+	remarkably small one like 5.15 was (ok, "remarkably small" is
+	relative, when even such small releases have 10k+
+	commits).. There's a bit of everything in here, and you can look to
+	the appended mergelog for some kind of flavor, but I guess the
+	folio work is worth mentioning, since it's an unusually core thing
+	that we don't tend to see most releases.]]></summary>
+        <author>
+            <name>corbet</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Terra (YC W21) Is Hiring a Sales Engineer in London]]></title>
+        <id>https://www.ycombinator.com/companies/terra/jobs/CoiffSb-sales-engineer</id>
+        <link href="https://www.ycombinator.com/companies/terra/jobs/CoiffSb-sales-engineer"/>
+        <updated>2021-11-15T07:01:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Direct file transfer via browser with no server involvement]]></title>
+        <id>http://cend.me/</id>
+        <link href="http://cend.me/"/>
+        <updated>2021-11-15T05:56:45.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JP Morgan Chase Bank, or Why Not to Whitelist Operating System User Agents]]></title>
+        <id>https://www.neelc.org/posts/chase-how-not-to-design-a-website/</id>
+        <link href="https://www.neelc.org/posts/chase-how-not-to-design-a-website/"/>
+        <updated>2021-11-15T05:49:24.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Rise and Fall of Commercial Smalltalk]]></title>
+        <id>http://www.wirfs-brock.com/allen/posts/914</id>
+        <link href="http://www.wirfs-brock.com/allen/posts/914"/>
+        <updated>2021-11-15T04:57:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Xerox scanners/photocopiers randomly alter numbers in scanned documents (2013)]]></title>
+        <id>https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning</id>
+        <link href="https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning"/>
+        <updated>2021-11-15T04:47:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why did modern humans take so long to settle in Europe?]]></title>
+        <id>https://www.theguardian.com/science/2021/nov/14/try-try-and-try-again-why-did-modern-humans-take-so-long-to-settle-in-europe</id>
+        <link href="https://www.theguardian.com/science/2021/nov/14/try-try-and-try-again-why-did-modern-humans-take-so-long-to-settle-in-europe"/>
+        <updated>2021-11-15T03:48:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shirley Cards]]></title>
+        <id>https://99percentinvisible.org/episode/shirley-cards/</id>
+        <link href="https://99percentinvisible.org/episode/shirley-cards/"/>
+        <updated>2021-11-15T03:29:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Corded headphones are making an unexpected return]]></title>
+        <id>https://www.wsj.com/articles/are-airpods-out-why-cool-kids-are-wearing-wired-headphones-11636753407</id>
+        <link href="https://www.wsj.com/articles/are-airpods-out-why-cool-kids-are-wearing-wired-headphones-11636753407"/>
+        <updated>2021-11-15T03:05:38.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I write a parenting advice column (or how I became famous in my neighborhood)]]></title>
+        <id>https://tedgioia.substack.com/p/i-write-a-parenting-advice-column</id>
+        <link href="https://tedgioia.substack.com/p/i-write-a-parenting-advice-column"/>
+        <updated>2021-11-15T02:53:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Create a Hex Tile Grid Map in Excel]]></title>
+        <id>https://simplexct.com/how-to-create-a-hex-tile-grid-map-in-excel</id>
+        <link href="https://simplexct.com/how-to-create-a-hex-tile-grid-map-in-excel"/>
+        <updated>2021-11-15T02:46:55.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The 50th anniversary of the launch of the Intel 4004]]></title>
+        <id>https://www.wsj.com/articles/the-chip-that-changed-the-world-microprocessor-computing-transistor-breakthrough-intel-11636903999</id>
+        <link href="https://www.wsj.com/articles/the-chip-that-changed-the-world-microprocessor-computing-transistor-breakthrough-intel-11636903999"/>
+        <updated>2021-11-15T00:27:31.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -26,40 +146,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: PickBetterPack – Discover similar pkgs from package.json dependencies]]></title>
-        <id>https://pickbetterpack.com/</id>
-        <link href="https://pickbetterpack.com/"/>
-        <updated>2021-11-14T22:08:13.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avenue (YC W21) is hiring full-stack engineers in NYC (TypeScript, Node, React)]]></title>
-        <id>http://jobs.ashbyhq.com/avenue</id>
-        <link href="http://jobs.ashbyhq.com/avenue"/>
-        <updated>2021-11-14T21:00:28.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why disaster happens at the edges: An introduction to queue theory]]></title>
         <id>https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/</id>
         <link href="https://thenewstack.io/an-introduction-to-queue-theory-why-disaster-happens-at-the-edges/"/>
         <updated>2021-11-14T20:27:02.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YAML: It's Time to Move On]]></title>
-        <id>https://nestedtext.org/en/latest/alternatives.html#yaml</id>
-        <link href="https://nestedtext.org/en/latest/alternatives.html#yaml"/>
-        <updated>2021-11-14T20:25:11.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -76,20 +166,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conceptarium]]></title>
-        <id>https://paulbricman.com/thoughtware/conceptarium</id>
-        <link href="https://paulbricman.com/thoughtware/conceptarium"/>
-        <updated>2021-11-14T18:54:21.000Z</updated>
+        <title type="html"><![CDATA[California plans to turn the screws on NIMBY cities]]></title>
+        <id>https://fullstackeconomics.com/how-california-plans-to-turn-the-screws-on-nimby-cities/</id>
+        <link href="https://fullstackeconomics.com/how-california-plans-to-turn-the-screws-on-nimby-cities/"/>
+        <updated>2021-11-14T18:02:49.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Yann LeCun’s 2021 Deep Learning Course at CDS free and fully online]]></title>
-        <id>https://cds.nyu.edu/deep-learning/</id>
-        <link href="https://cds.nyu.edu/deep-learning/"/>
-        <updated>2021-11-14T17:04:44.000Z</updated>
+        <title type="html"><![CDATA[Will real estate ever be normal again?]]></title>
+        <id>https://www.nytimes.com/2021/11/12/magazine/real-estate-pandemic.html</id>
+        <link href="https://www.nytimes.com/2021/11/12/magazine/real-estate-pandemic.html"/>
+        <updated>2021-11-14T17:50:32.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -106,40 +196,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: I built a jigsaw puzzle website]]></title>
-        <id>https://puzzlepanda.com</id>
-        <link href="https://puzzlepanda.com"/>
-        <updated>2021-11-14T16:51:56.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Journal of Functional Programming moving to open access]]></title>
-        <id>https://www.cambridge.org/core/blog/2021/11/11/journal-of-functional-programming-moving-to-open-access/</id>
-        <link href="https://www.cambridge.org/core/blog/2021/11/11/journal-of-functional-programming-moving-to-open-access/"/>
-        <updated>2021-11-14T16:31:55.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The bullet effects in Terminator 2 weren’t CGI]]></title>
         <id>https://hackaday.com/2021/11/14/those-bullet-effects-in-terminator-2-werent-cgi/</id>
         <link href="https://hackaday.com/2021/11/14/those-bullet-effects-in-terminator-2-werent-cgi/"/>
         <updated>2021-11-14T16:25:16.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easylang – An easy online programming language and development environment]]></title>
-        <id>https://easylang.online/</id>
-        <link href="https://easylang.online/"/>
-        <updated>2021-11-14T16:21:02.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -160,16 +220,6 @@
         <id>https://www.reuters.com/business/cop/us-sets-goal-drive-down-cost-removing-co2-atmosphere-2021-11-05/</id>
         <link href="https://www.reuters.com/business/cop/us-sets-goal-drive-down-cost-removing-co2-atmosphere-2021-11-05/"/>
         <updated>2021-11-14T15:39:33.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: Luna is a Clojure domain specific language that translates to regex]]></title>
-        <id>https://github.com/AbhinavOmprakash/luna</id>
-        <link href="https://github.com/AbhinavOmprakash/luna"/>
-        <updated>2021-11-14T15:30:41.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -206,36 +256,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wild bidding wars erupt at used-tractor auctions across the U.S.]]></title>
-        <id>https://www.bloomberg.com/news/articles/2021-11-13/deere-strike-ignites-bidding-wars-for-used-tractors</id>
-        <link href="https://www.bloomberg.com/news/articles/2021-11-13/deere-strike-ignites-bidding-wars-for-used-tractors"/>
-        <updated>2021-11-14T14:17:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Apple buying Google ads for high-value subscription apps]]></title>
-        <id>https://www.forbes.com/sites/johnkoetsier/2021/11/12/apple-quietly-buying-ads-via-google-for-high-value-subscription-apps-to-capture-app-publisher-revenue/</id>
-        <link href="https://www.forbes.com/sites/johnkoetsier/2021/11/12/apple-quietly-buying-ads-via-google-for-high-value-subscription-apps-to-capture-app-publisher-revenue/"/>
-        <updated>2021-11-14T14:16:37.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Capturing and Archiving MiniDV Tapes on macOS]]></title>
-        <id>https://leolabs.org/blog/capture-minidv-on-macos/</id>
-        <link href="https://leolabs.org/blog/capture-minidv-on-macos/"/>
-        <updated>2021-11-14T14:01:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Welcome to Full Stack Week]]></title>
         <id>618ab403015c6002aaf4467c</id>
         <link href="https://blog.cloudflare.com/full-stack-week-2021/"/>
@@ -246,10 +266,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Open-source automated insulin delivery system given approval by team of experts]]></title>
-        <id>https://www.kcl.ac.uk/news/do-it-yourself-artificial-pancreas-given-approval-by-team-of-experts</id>
-        <link href="https://www.kcl.ac.uk/news/do-it-yourself-artificial-pancreas-given-approval-by-team-of-experts"/>
-        <updated>2021-11-14T12:09:17.000Z</updated>
+        <title type="html"><![CDATA[Radial analysis and scaling of urban land use]]></title>
+        <id>https://www.nature.com/articles/s41598-021-01477-y</id>
+        <link href="https://www.nature.com/articles/s41598-021-01477-y"/>
+        <updated>2021-11-14T12:57:44.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -263,6 +283,16 @@
         <summary type="html"><![CDATA[Intel, Amazon AWS, IBM, Qualcomm, and UIUC researchers have been collaborating over a proposed "Tensor LLVM Extensions" (TLX) to make this open-source compiler infrastructure more suitable for targeting AI accelerators and other emerging classes of hardware...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why you can't solve knowledge problems with information tools alone]]></title>
+        <id>http://www.nickmilton.com/2021/11/why-you-cant-solve-knowledge-problems.html</id>
+        <link href="http://www.nickmilton.com/2021/11/why-you-cant-solve-knowledge-problems.html"/>
+        <updated>2021-11-14T11:15:16.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -318,6 +348,16 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Untold History of AI: Algorithmic Bias Was Born in the 1980s]]></title>
+        <id>https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias</id>
+        <link href="https://spectrum.ieee.org/untold-history-of-ai-the-birth-of-machine-bias"/>
+        <updated>2021-11-14T09:47:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DevOps’ish 243: Bellwethers, changes at Red Hat, Kubernetes 2021 Steering Committee Election Results, Monstrosity Email, Bitbucket’s move to AWS is complete, and more]]></title>
         <id>https://kill-the-newsletter.com/alternates/8iqyjr40yqwln0sf.html</id>
         <link href="https://kill-the-newsletter.com/alternates/8iqyjr40yqwln0sf.html"/>
@@ -364,6 +404,16 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         <id>https://www.the-tls.co.uk/articles/fyodor-dostoevsky-200-russia-book-review-an-wilson/</id>
         <link href="https://www.the-tls.co.uk/articles/fyodor-dostoevsky-200-russia-book-review-an-wilson/"/>
         <updated>2021-11-14T06:53:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Mind’s Body Problem]]></title>
+        <id>https://www.nybooks.com/articles/2021/12/02/the-minds-body-problem/</id>
+        <link href="https://www.nybooks.com/articles/2021/12/02/the-minds-body-problem/"/>
+        <updated>2021-11-14T06:34:53.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -430,30 +480,10 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dramatica: A Theory of Story [pdf]]]></title>
-        <id>https://dramatica.com/resources/assets/dramatica-theory-book.pdf</id>
-        <link href="https://dramatica.com/resources/assets/dramatica-theory-book.pdf"/>
-        <updated>2021-11-13T13:08:41.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Seagate Creates an NVMe Hard Disk Drive]]></title>
         <id>https://www.pcmag.com/news/seagate-creates-an-nvme-hard-disk-drive</id>
         <link href="https://www.pcmag.com/news/seagate-creates-an-nvme-hard-disk-drive"/>
         <updated>2021-11-13T12:56:50.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data-Oriented Architecture (2020)]]></title>
-        <id>https://blog.eyas.sh/2020/03/data-oriented-architecture/</id>
-        <link href="https://blog.eyas.sh/2020/03/data-oriented-architecture/"/>
-        <updated>2021-11-13T12:41:47.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -487,16 +517,6 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         <summary type="html"><![CDATA[Like clockwork KDE developer Nate Graham is out with his weekly development summary each Saturday highlighting the accomplishments of this free software desktop project...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“Metadata of the metadata” informs product design without allowing backdoors]]></title>
-        <id>https://www.wired.com/story/encrypted-messaging-privacy-security-metadata/</id>
-        <link href="https://www.wired.com/story/encrypted-messaging-privacy-security-metadata/"/>
-        <updated>2021-11-12T23:53:56.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -594,6 +614,16 @@ Large projects including systemd and curl are already using ClusterFuzzLite duri
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Journey to the Edge of Reason: The life of Kurt Gödel]]></title>
+        <id>https://www.the-tls.co.uk/articles/journey-to-the-edge-of-reason-kurt-godel-stephen-budianksy-book-review-cheryl-misak/</id>
+        <link href="https://www.the-tls.co.uk/articles/journey-to-the-edge-of-reason-kurt-godel-stephen-budianksy-book-review-cheryl-misak/"/>
+        <updated>2021-11-12T17:43:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[$] Some upcoming memory-management patches]]></title>
         <id>https://lwn.net/Articles/875587/rss</id>
         <link href="https://lwn.net/Articles/875587/rss"/>
@@ -667,16 +697,6 @@ of important fixes, but, as usual, users should upgrade.]]></summary>
         <summary type="html"><![CDATA[Red Hat's David Airlie has been working on early support for Vulkan Video API support with Mesa's Radeon "RADV" driver while the past week he spent time working on similar treatment for Intel's open-source "ANV" Vulkan driver and also resurrecting some unfinished VA-API video acceleration code he was working on for the Intel Crocus Gallium3D driver...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optical storage – the future of long term data preservation (2015) [pdf]]]></title>
-        <id>https://www.snia.org/sites/default/orig/DSI2015/presentations/ColdStorage/DougFerguson_Optical_Storage_Future%20Long_Term_Data.pdf</id>
-        <link href="https://www.snia.org/sites/default/orig/DSI2015/presentations/ColdStorage/DougFerguson_Optical_Storage_Future%20Long_Term_Data.pdf"/>
-        <updated>2021-11-12T09:44:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -1144,21 +1164,6 @@ And lastly, on the clustering front, it’s now possible to better control what 
         <summary type="html"><![CDATA[We launched the Canada (Central) Region in 2016 and added a third Availability Zone in 2020. Since that launch, tens of thousands of AWS customers have used AWS services in Canada to accelerate innovation, increase agility, and to drive cost savings. This includes enterprises such as Air Canada, BMO Financial Group, NHL, Porter Airlines, and […]]]></summary>
         <author>
             <name>Jeff Barr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[$] Intel AMX support in 5.16]]></title>
-        <id>https://lwn.net/Articles/874846/rss</id>
-        <link href="https://lwn.net/Articles/874846/rss"/>
-        <updated>2021-11-08T16:25:34.000Z</updated>
-        <summary type="html"><![CDATA[The x86 instruction set is large, but that doesn't mean it can't get bigger
-yet.  Upcoming Intel processors will feature a new set of instructions
-under the name of "Advanced Matrix Extensions" (AMX) that can be used to
-operate on matrix data.  After a somewhat bumpy development
-process, support for AMX has found its way into the upcoming 5.16 kernel.
-Using it will, naturally, require some changes by application developers.]]></summary>
-        <author>
-            <name>corbet</name>
         </author>
     </entry>
     <entry>
