@@ -1,25 +1,355 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-16T08:01:15.156Z</id>
+    <id>urn:2021-11-16T16:05:56.373Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-16T08:01:15.156Z</updated>
+    <updated>2021-11-16T16:05:56.373Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Alloy 6 First Impressions]]></title>
-        <id>https://buttondown.email/hillelwayne/archive/alloy-6-first-impressions/</id>
-        <link href="https://buttondown.email/hillelwayne/archive/alloy-6-first-impressions/"/>
-        <updated>2021-11-16T05:17:52.000Z</updated>
+        <title type="html"><![CDATA[Prometheus announces an Agent to address a new range of use cases]]></title>
+        <id>https://www.cncf.io/?p=65672</id>
+        <link href="https://www.cncf.io/blog/2021/11/16/prometheus-announces-an-agent-to-address-a-new-range-of-use-cases/"/>
+        <updated>2021-11-16T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Project post by Prometheus maintainers Prometheus, the leading open source monitoring solution hosted by CNCF, has announced today a new operating mode: the Prometheus Agent. This new way of working enables new...]]></summary>
+        <author>
+            <name>Jessie</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About the Urgency of Building Web3]]></title>
+        <id>https://timdaub.github.io/2021/11/16/the-urgency-of-building-web3/</id>
+        <link href="https://timdaub.github.io/2021/11/16/the-urgency-of-building-web3/"/>
+        <updated>2021-11-16T15:55:23.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[To set new tab as blank in MS Edge you need to enroll device in MDM]]></title>
-        <id>https://den.dev/blog/edge-blank-new-tab/</id>
-        <link href="https://den.dev/blog/edge-blank-new-tab/"/>
-        <updated>2021-11-16T05:04:20.000Z</updated>
+        <title type="html"><![CDATA[NPM – "is-even", 160k weekly downloads]]></title>
+        <id>https://www.npmjs.com/package/is-even</id>
+        <link href="https://www.npmjs.com/package/is-even"/>
+        <updated>2021-11-16T15:54:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Scrcpy v1.20]]></title>
+        <id>https://github.com/Genymobile/scrcpy/releases/tag/v1.20</id>
+        <link href="https://github.com/Genymobile/scrcpy/releases/tag/v1.20"/>
+        <updated>2021-11-16T14:59:02.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teapot: Type-Safe 3D Spreadsheet]]></title>
+        <id>https://www.syntax-k.de/projekte/teapot/</id>
+        <link href="https://www.syntax-k.de/projekte/teapot/"/>
+        <updated>2021-11-16T14:50:18.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lttng: An open-source alternative to eBPF]]></title>
+        <id>https://lttng.org/</id>
+        <link href="https://lttng.org/"/>
+        <updated>2021-11-16T14:43:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YouTube Dislikes Viewer]]></title>
+        <id>https://github.com/pgamerx/yt-dislikes-viewer</id>
+        <link href="https://github.com/pgamerx/yt-dislikes-viewer"/>
+        <updated>2021-11-16T14:41:52.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Releases Open-Source Image Scaling SDK With Cross-Platform GPU Support]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-Image-Scaling-SDK</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-Image-Scaling-SDK"/>
+        <updated>2021-11-16T14:30:44.000Z</updated>
+        <summary type="html"><![CDATA[Along with introducing DLSS 2.3 today, NVIDIA is making public an open-source Image Scaling SDK with promised cross-platform GPU support...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PlanetScale is now generally available]]></title>
+        <id>https://planetscale.com/blog/ga</id>
+        <link href="https://planetscale.com/blog/ga"/>
+        <updated>2021-11-16T14:23:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decentralized Woo Hoo]]></title>
+        <id>https://www.stephendiehl.com/blog/decentralized-woo.html</id>
+        <link href="https://www.stephendiehl.com/blog/decentralized-woo.html"/>
+        <updated>2021-11-16T14:19:57.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux 5.17 To Boast A Big TCP Performance Optimization]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-TCP-Optimization</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.17-TCP-Optimization"/>
+        <updated>2021-11-16T14:19:36.000Z</updated>
+        <summary type="html"><![CDATA[While the Linux 5.16 merge window just ended and that kernel won't be out until the tail end of the calendar year, already for Linux 5.17 new material is beginning to accumulate in the respective subsystem development trees... One set of changes merged this morning from Google can provide a sizable performance win around TCP performance in the datacenter...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fannie Mae, Freddie Mac to Back Home Loans of Nearly $1M as Prices Soar]]></title>
+        <id>https://www.wsj.com/articles/fannie-mae-freddie-mac-to-back-home-loans-of-nearly-1-million-as-prices-soar-11637071380</id>
+        <link href="https://www.wsj.com/articles/fannie-mae-freddie-mac-to-back-home-loans-of-nearly-1-million-as-prices-soar-11637071380"/>
+        <updated>2021-11-16T14:10:44.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD Releases ROCm AOMP 14.0 Compiler - Switches To New "amd-stg-open" Branch]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Releases-AOMP-14.0</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-Releases-AOMP-14.0"/>
+        <updated>2021-11-16T14:00:02.000Z</updated>
+        <summary type="html"><![CDATA[AMD released AOMP 14.0 during SC21 week as the newest version of their LLVM/Clang-based compiler providing OpenMP GPU offload support for Radeon graphics processors...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wrangler 2.0 — a new developer experience for Cloudflare Workers]]></title>
+        <id>619289548d789002a97b63fe</id>
+        <link href="https://blog.cloudflare.com/wrangler-v2-beta/"/>
+        <updated>2021-11-16T13:59:22.000Z</updated>
+        <summary type="html"><![CDATA[We're excited to announce the second-generation of our developer tooling for Cloudflare Workers. It’s a new developer experience that’s out-of-the-box, lightning fast, and can even run Workers on a local machine. (Yes!)]]></summary>
+        <author>
+            <name>Ashcon Partovi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Developer Spotlight: James Ross, Nodecraft]]></title>
+        <id>6193ac49d6d2a702a97d3da5</id>
+        <link href="https://blog.cloudflare.com/developer-spotlight-nodecraft/"/>
+        <updated>2021-11-16T13:58:49.000Z</updated>
+        <summary type="html"><![CDATA[Nodecraft allows gamers to host dedicated servers for their favorite games. James Ross is the Chief Technology Officer for Nodecraft and has advocated for Cloudflare — particularly Cloudflare Workers —  within the company.]]></summary>
+        <author>
+            <name>Kristian Freeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automatically generating types for Cloudflare Workers]]></title>
+        <id>6193a867d6d2a702a97d3d5f</id>
+        <link href="https://blog.cloudflare.com/automatically-generated-types/"/>
+        <updated>2021-11-16T13:58:45.000Z</updated>
+        <summary type="html"><![CDATA[Every time the Workers runtime code is built, a script runs over the public APIs and generates the Rust and TypeScript types as well as a JSON file containing an intermediate representation of the static types. The types are sent to the appropriate repositories and the JSON file is uploaded as well.]]></summary>
+        <author>
+            <name>Brendan Coll</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JavaScript modules are now supported on Cloudflare Workers]]></title>
+        <id>6193a267d6d2a702a97d3d0f</id>
+        <link href="https://blog.cloudflare.com/workers-javascript-modules/"/>
+        <updated>2021-11-16T13:58:42.000Z</updated>
+        <summary type="html"><![CDATA[Now you can use JavaScript modules, also known as ECMAScript or “ES” modules, on Cloudflare Workers. This replaces the old “addEventListener” syntax with a new “import” and “export” semantics that makes it really easy to write reusable, modular code.]]></summary>
+        <author>
+            <name>Ashcon Partovi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing Services: Build Composable, Distributed Applications on Cloudflare Workers]]></title>
+        <id>61939bfdd6d2a702a97d3cb6</id>
+        <link href="https://blog.cloudflare.com/introducing-worker-services/"/>
+        <updated>2021-11-16T13:58:40.000Z</updated>
+        <summary type="html"><![CDATA[We’re excited to announce Services, the new way to build composable, distributed applications on Cloudflare Workers. Learn how Services can replace the traditional “microservice architecture” with an alternative, zero-cost abstraction model.]]></summary>
+        <author>
+            <name>Ashcon Partovi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What’s holding open banking back?]]></title>
+        <id>https://sifted.eu/articles/open-banking-back-nordigen-api/</id>
+        <link href="https://sifted.eu/articles/open-banking-back-nordigen-api/"/>
+        <updated>2021-11-16T13:34:11.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sign in with Matrix]]></title>
+        <id>https://github.com/mishushakov/signin-with-matrix</id>
+        <link href="https://github.com/mishushakov/signin-with-matrix"/>
+        <updated>2021-11-16T13:16:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Open Collective Plans ‘Exit to Community’]]></title>
+        <id>https://blog.opencollective.com/exit-to-community/</id>
+        <link href="https://blog.opencollective.com/exit-to-community/"/>
+        <updated>2021-11-16T12:50:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Goodbye, Clean Code (2020)]]></title>
+        <id>https://overreacted.io/goodbye-clean-code/</id>
+        <link href="https://overreacted.io/goodbye-clean-code/"/>
+        <updated>2021-11-16T12:44:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Greenfield – The In-Browser Wayland Compositor]]></title>
+        <id>https://github.com/udevbe/greenfield</id>
+        <link href="https://github.com/udevbe/greenfield"/>
+        <updated>2021-11-16T12:33:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hackerrank DMCA Notice]]></title>
+        <id>https://github.com/github/dmca/blob/master/2021/11/2021-11-12-hackerrank.md</id>
+        <link href="https://github.com/github/dmca/blob/master/2021/11/2021-11-12-hackerrank.md"/>
+        <updated>2021-11-16T12:04:13.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hera (YC S21) is hiring a front-end engineer – $60K-$90K andequity – Remote UTC+-3]]></title>
+        <id>https://www.ycombinator.com/companies/hera/jobs/tyUzKGd-frontend-engineer</id>
+        <link href="https://www.ycombinator.com/companies/hera/jobs/tyUzKGd-frontend-engineer"/>
+        <updated>2021-11-16T12:00:35.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Red Hat's Stratis Storage 3.0 Released With Many Improvements]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Stratis-Storage-3.0</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Stratis-Storage-3.0"/>
+        <updated>2021-11-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[For over four years now Red Hat has been working on Stratis as their new Linux storage solution. As an alternative to shifting to newer file-systems like Btrfs or the controversial OpenZFS, Stratis has been about offering similar advanced Linux storage features while building atop LVM, DeviceMapper and XFS all while using the modern Rust programming language. Stratis Storage 3.0 is now available as the latest work on this front...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZX Spectrum developer Bernie Drummond has died]]></title>
+        <id>https://www.gamedeveloper.com/design/obituary-zx-spectrum-developer-Bernie-Drummond-has-died</id>
+        <link href="https://www.gamedeveloper.com/design/obituary-zx-spectrum-developer-Bernie-Drummond-has-died"/>
+        <updated>2021-11-16T10:40:51.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multicore OCaml: October 2021]]></title>
+        <id>https://discuss.ocaml.org/t/multicore-ocaml-october-2021/8822</id>
+        <link href="https://discuss.ocaml.org/t/multicore-ocaml-october-2021/8822"/>
+        <updated>2021-11-16T10:31:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Proof-Of-Concept Work Brings systemd To Ubuntu WSL]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=PoC-Ubuntu-WSL2-systemd</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=PoC-Ubuntu-WSL2-systemd"/>
+        <updated>2021-11-16T10:24:07.000Z</updated>
+        <summary type="html"><![CDATA[Currently when running Linux distributions within Microsoft's Windows Subsystem for Linux (WSL), systemd isn't used but that could soon be changing at least for Ubuntu...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Vulkan Extension Proposed To Help In Emulating AMD's Old Mantle API]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=VK_MESA_rect_list-RFC</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=VK_MESA_rect_list-RFC"/>
+        <updated>2021-11-16T09:57:45.000Z</updated>
+        <summary type="html"><![CDATA[Besides the efforts out there for implementing the likes of Direct3D, OpenCL, and OpenGL on top of Vulkan, there does still exist the hobbyist project for implementing AMD's Mantle API atop Vulkan for which the Khronos API was originally based. A new Vulkan extension is now being proposed to help in that Mantle-on-Vulkan effort...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1632 by Eric Flint (2000)]]></title>
+        <id>http://www.baen.com/chapters/0671578499/0671578499.htm</id>
+        <link href="http://www.baen.com/chapters/0671578499/0671578499.htm"/>
+        <updated>2021-11-16T09:48:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GCC 12 Moves On To Fixing Bugs - Now In "Stage 3" Development]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-12-Enters-Stage-3</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-12-Enters-Stage-3"/>
+        <updated>2021-11-16T09:37:00.000Z</updated>
+        <summary type="html"><![CDATA[As expected GCC 12 has now entered its "stage 3" development phase where the free software developers involved will focus on bug fixing rather than landing shiny new features...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Caffeine, minimum viable back end for prototyping]]></title>
+        <id>https://github.com/rehacktive/caffeine</id>
+        <link href="https://github.com/rehacktive/caffeine"/>
+        <updated>2021-11-16T09:25:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Letting users tick (select) a ‘none’ checkbox]]></title>
+        <id>https://designnotes.blog.gov.uk/2021/11/15/letting-users-tick-a-none-checkbox/</id>
+        <link href="https://designnotes.blog.gov.uk/2021/11/15/letting-users-tick-a-none-checkbox/"/>
+        <updated>2021-11-16T08:15:50.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some notes on using esbuild]]></title>
+        <id>https://jvns.ca/blog/2021/11/15/esbuild-vue/</id>
+        <link href="https://jvns.ca/blog/2021/11/15/esbuild-vue/"/>
+        <updated>2021-11-16T07:50:13.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -46,60 +376,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Rainforest Rebellion: Mass Clear-Cutting in Congo]]></title>
-        <id>https://www.spiegel.de/international/rainforest-rebellion-mass-clear-cutting-in-congo-a-634618e3-2d65-4d99-b70b-9298302af6dd</id>
-        <link href="https://www.spiegel.de/international/rainforest-rebellion-mass-clear-cutting-in-congo-a-634618e3-2d65-4d99-b70b-9298302af6dd"/>
-        <updated>2021-11-16T04:47:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[It's Not All In Your Head]]></title>
         <id>https://www.firstthings.com/article/2021/12/its-not-all-in-your-head</id>
         <link href="https://www.firstthings.com/article/2021/12/its-not-all-in-your-head"/>
         <updated>2021-11-16T04:07:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Divorce does funny things]]></title>
-        <id>https://www.theparisreview.org/blog/2021/11/09/divorce-does-funny-things/</id>
-        <link href="https://www.theparisreview.org/blog/2021/11/09/divorce-does-funny-things/"/>
-        <updated>2021-11-16T04:06:08.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How 12th-century Genoese merchants invented the idea of risk]]></title>
-        <id>https://psyche.co/ideas/how-12th-century-genoese-merchants-invented-the-idea-of-risk</id>
-        <link href="https://psyche.co/ideas/how-12th-century-genoese-merchants-invented-the-idea-of-risk"/>
-        <updated>2021-11-16T04:02:26.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Java Virtual Threads Preview]]></title>
-        <id>https://openjdk.java.net/jeps/8277131</id>
-        <link href="https://openjdk.java.net/jeps/8277131"/>
-        <updated>2021-11-16T03:21:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The moon blew up without warning and for no apparent reason]]></title>
-        <id>https://jasmcole.com/2017/09/20/the-moon-blew-up-without-warning-and-for-no-apparent-reason/</id>
-        <link href="https://jasmcole.com/2017/09/20/the-moon-blew-up-without-warning-and-for-no-apparent-reason/"/>
-        <updated>2021-11-16T02:41:04.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -116,16 +396,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Etleap (YC W13) Is Hiring Software Engineers – Integrations]]></title>
-        <id>https://etleap.com/jobs/#software-engineer-integrations</id>
-        <link href="https://etleap.com/jobs/#software-engineer-integrations"/>
-        <updated>2021-11-16T01:00:45.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FreeBSD Improving Boot Times, Adds Hole-Punching, Better Linux Binary Compatibility]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=FreeBSD-Q3-Status-2021</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=FreeBSD-Q3-Status-2021"/>
@@ -136,73 +406,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Appflowy – open-source Notion Alternative]]></title>
-        <id>https://www.appflowy.io</id>
-        <link href="https://www.appflowy.io"/>
-        <updated>2021-11-16T00:11:43.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
+        <title type="html"><![CDATA[Why we created a Prometheus Agent mode from the Grafana Agent]]></title>
+        <id>https://grafana.com/blog/2021/11/16/why-we-created-a-prometheus-agent-mode-from-the-grafana-agent/</id>
+        <link href="https://grafana.com/blog/2021/11/16/why-we-created-a-prometheus-agent-mode-from-the-grafana-agent/"/>
+        <updated>2021-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[On 2021-10-29, initial support for Prometheus Agent was merged, and it is slated for inclusion in Prometheus v2.32!
+This feature has a bit of a lengthy history to it: 
+On 2020-03-18, we announced Grafana Agent, a subset of Prometheus that didn’t need the TSDB for sending metrics with remote write.
+On 2020-12-17, Prometheus Team held a dev summit where they agreed to cover Grafana Agent-like functionality in the official Prometheus project. 
+On 2021-01-27, I published a proposal for how we could do this by moving Grafana Agent code upstream. 
+On 2021-05-05, the initial PR to move Grafana Agent code upstream was opened. 
+On 2021-10-29, that PR was merged into Prometheus’s main branch. 
+It took a little while to get to where we are today, but I’m thrilled that we were able to use the Grafana …]]></summary>
         <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blender 3.0 takes support for AMD GPUs to the next level]]></title>
-        <id>https://gpuopen.com/blender-cycles-amd-gpu/</id>
-        <link href="https://gpuopen.com/blender-cycles-amd-gpu/"/>
-        <updated>2021-11-15T23:57:55.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I made a no-code tool to create animated technical papers]]></title>
-        <id>https://textframe.app/examples/bitcoin</id>
-        <link href="https://textframe.app/examples/bitcoin"/>
-        <updated>2021-11-15T23:54:02.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ergonomics of the Symbolics Lisp Machine (2014)]]></title>
-        <id>http://lispm.de/symbolics-lisp-machine-ergonomics</id>
-        <link href="http://lispm.de/symbolics-lisp-machine-ergonomics"/>
-        <updated>2021-11-15T23:10:12.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Air cargo is suddenly affordable relative to ocean shipping]]></title>
-        <id>https://www.freightwaves.com/news/why-is-air-cargo-suddenly-more-affordable-compared-to-ocean-shipping</id>
-        <link href="https://www.freightwaves.com/news/why-is-air-cargo-suddenly-more-affordable-compared-to-ocean-shipping"/>
-        <updated>2021-11-15T22:38:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Space debris forces astronauts on space station to take shelter in return ships]]></title>
-        <id>https://www.space.com/space-debris-astronauts-shelter-november-2021</id>
-        <link href="https://www.space.com/space-debris-astronauts-shelter-november-2021"/>
-        <updated>2021-11-15T22:08:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Processing billions of events in real time]]></title>
-        <id>https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-</id>
-        <link href="https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/processing-billions-of-events-in-real-time-at-twitter-"/>
-        <updated>2021-11-15T22:06:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
+            <name>Grafana Labs Blog on Grafana Labs</name>
         </author>
     </entry>
     <entry>
@@ -240,26 +457,6 @@ this release:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[OKRs masquerade as strategy]]></title>
-        <id>https://rogermartin.medium.com/stop-letting-okrs-masquerade-as-strategy-a57fc2cea915</id>
-        <link href="https://rogermartin.medium.com/stop-letting-okrs-masquerade-as-strategy-a57fc2cea915"/>
-        <updated>2021-11-15T20:01:12.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: OpenAPI fuzzer – fuzzing APIs based on OpenAPI specification]]></title>
-        <id>https://github.com/matusf/openapi-fuzzer</id>
-        <link href="https://github.com/matusf/openapi-fuzzer"/>
-        <updated>2021-11-15T19:50:09.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[LWJGL 3.3 Released For This Popular Java Library - OpenCL 3.0 Added, New Bindings]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=LWJGL-3.3-Released</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=LWJGL-3.3-Released"/>
@@ -267,16 +464,6 @@ this release:
         <summary type="html"><![CDATA[The Lightweight Java Game Library "LWJGL" has seen its first release in more than two years for this library that provides bindings for a number of different native APIs. With not seeing a release since before the pandemic, there is a lot in store with today's LWJGL 3.3 release...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The AMD “Aldebaran” GPU that won exascale]]></title>
-        <id>https://www.nextplatform.com/2021/11/09/the-aldebaran-amd-gpu-that-won-exascale/</id>
-        <link href="https://www.nextplatform.com/2021/11/09/the-aldebaran-amd-gpu-that-won-exascale/"/>
-        <updated>2021-11-15T19:29:38.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -300,20 +487,20 @@ this release:
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: Mako – a full Bitcoin implementation in C]]></title>
-        <id>https://github.com/chjj/mako</id>
-        <link href="https://github.com/chjj/mako"/>
-        <updated>2021-11-15T17:40:47.000Z</updated>
+        <title type="html"><![CDATA[How I helped build a profitable MVP over a weekend]]></title>
+        <id>https://mzrn.sh/2021/11/14/how-i-helped-build-a-profitable-mvp-over-a-weekend</id>
+        <link href="https://mzrn.sh/2021/11/14/how-i-helped-build-a-profitable-mvp-over-a-weekend"/>
+        <updated>2021-11-15T18:12:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Blacksmith – Rowhammer bit flips on all DRAM devices today despite mitigations]]></title>
-        <id>https://comsec.ethz.ch/research/dram/blacksmith/</id>
-        <link href="https://comsec.ethz.ch/research/dram/blacksmith/"/>
-        <updated>2021-11-15T16:27:28.000Z</updated>
+        <title type="html"><![CDATA[Interactive Gradient Descent Demo]]></title>
+        <id>https://blog.skz.dev/gradient-descent</id>
+        <link href="https://blog.skz.dev/gradient-descent"/>
+        <updated>2021-11-15T17:55:51.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -333,16 +520,6 @@ the patch mix in the latter part of the merge window tended more toward
 fixes, but there were a number other changes as well.]]></summary>
         <author>
             <name>corbet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[An open access book on scientific visualization using Python and Matplotlib]]></title>
-        <id>https://github.com/rougier/scientific-visualization-book</id>
-        <link href="https://github.com/rougier/scientific-visualization-book"/>
-        <updated>2021-11-15T16:17:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -464,16 +641,6 @@ fixes, but there were a number other changes as well.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Launch HN: Metaplane (YC W20) – Datadog for Data]]></title>
-        <id>https://news.ycombinator.com/item?id=29226864</id>
-        <link href="https://news.ycombinator.com/item?id=29226864"/>
-        <updated>2021-11-15T13:05:56.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Intel's Linux Graphics Driver To Allow Runtime Power Management Auto-Suspend By Default]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-i915-pm_runtime_allow</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-i915-pm_runtime_allow"/>
@@ -524,10 +691,20 @@ merge window is closed for this cycle.
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Griswold Cast Iron – History, Value, Identify Guide]]></title>
-        <id>https://thepan-handler.com/griswold-cast-iron/</id>
-        <link href="https://thepan-handler.com/griswold-cast-iron/"/>
-        <updated>2021-11-15T03:13:19.000Z</updated>
+        <title type="html"><![CDATA[When Did Computer Science Theory Get So Hard?]]></title>
+        <id>http://blog.computationalcomplexity.org/2021/11/when-did-computer-science-theory-get-so.html</id>
+        <link href="http://blog.computationalcomplexity.org/2021/11/when-did-computer-science-theory-get-so.html"/>
+        <updated>2021-11-15T05:08:40.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Office 2000 is Good to Go]]></title>
+        <id>https://hardcoresoftware.learningbyshipping.com/p/055-office-2000-is-good-to-go</id>
+        <link href="https://hardcoresoftware.learningbyshipping.com/p/055-office-2000-is-good-to-go"/>
+        <updated>2021-11-15T00:51:43.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -548,26 +725,6 @@ Summary
 On Nov. 2, during an internal security audit, we discovered that when the fine-grained access control beta feature is enabled and there is more than one organization in the Grafana instance, Grafana 8.0 introduced a mechanism which allowed users with the Organization Admin role to list, add, remove, and updat…]]></summary>
         <author>
             <name>Grafana Labs Blog on Grafana Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C# 10 new feature CallerArgumentExpression]]></title>
-        <id>https://weblogs.asp.net/dixin/csharp-10-new-feature-callerargumentexpression-argument-check-and-more</id>
-        <link href="https://weblogs.asp.net/dixin/csharp-10-new-feature-callerargumentexpression-argument-check-and-more"/>
-        <updated>2021-11-14T23:24:52.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Indian Railways Works Manual (2000) [pdf]]]></title>
-        <id>https://www.iricen.gov.in/iricen/Works_Manuals/IRWM%20CS%20UPTO%2010.pdf</id>
-        <link href="https://www.iricen.gov.in/iricen/Works_Manuals/IRWM%20CS%20UPTO%2010.pdf"/>
-        <updated>2021-11-14T23:00:15.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -653,16 +810,6 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Richest Little Isle (1982)]]></title>
-        <id>https://www.nytimes.com/1982/03/07/magazine/world-s-richest-little-isle.html</id>
-        <link href="https://www.nytimes.com/1982/03/07/magazine/world-s-richest-little-isle.html"/>
-        <updated>2021-11-14T10:29:05.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mesa's Turnip Driver For Qualcomm Adreno GPUs Now Exposes Vulkan 1.2]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-TURNIP-Vulkan-1.2</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Mesa-TURNIP-Vulkan-1.2"/>
@@ -670,6 +817,16 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         <summary type="html"><![CDATA[Mesa's open-source "Turnip" driver that provides Vulkan support for Qualcomm Adreno graphics hardware and complementary to the Freedreno Gallium3D driver can now handle Vulkan 1.2...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenGL Machine Learning on Low-End Hardware]]></title>
+        <id>https://hackaday.com/2021/11/13/opengl-machine-learning-runs-on-low-end-hardware/</id>
+        <link href="https://hackaday.com/2021/11/13/opengl-machine-learning-runs-on-low-end-hardware/"/>
+        <updated>2021-11-14T09:58:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -712,16 +869,6 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         b…]]></summary>
         <author>
             <name>DevOps'ish</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I ended up liking GNOME with the loss of one hand]]></title>
-        <id>https://dataswamp.org/~solene/2021-11-10-how-I-ended-liking-gnome.html</id>
-        <link href="https://dataswamp.org/~solene/2021-11-10-how-I-ended-liking-gnome.html"/>
-        <updated>2021-11-14T04:01:52.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -805,16 +952,6 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Valve Shares New Steam Deck Details, Proton Update Available For Testing]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Valve-Steamworks-Steam-Deck</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Valve-Steamworks-Steam-Deck"/>
-        <updated>2021-11-12T23:13:24.000Z</updated>
-        <summary type="html"><![CDATA[Valve today hosted the much anticipated Steam Deck Development Livestream where they and their partners at AMD talked more about the forthcoming Steam Deck's hardware and software...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Meet the latest AWS Heroes – November 2021]]></title>
         <id>97d2f389c7c961dc211c93272540ec3cec3578c2</id>
         <link href="https://aws.amazon.com/blogs/aws/meet-the-latest-aws-heroes-november-2021/"/>
@@ -825,16 +962,6 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intel Posts Linux Graphics Driver Patches For Raptor Lake - Same As Alder Lake]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Raptor-Lake-Graphics</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Raptor-Lake-Graphics"/>
-        <updated>2021-11-12T21:37:18.000Z</updated>
-        <summary type="html"><![CDATA[When writing this morning about intel "Raptor Lake" Linux enablement to begin, I didn't expect that to bear fruit so quickly in just a matter of hours... As predicted, that Linux bring-up for the Alder Lake successor is beginning now -- and doing so at full-speed with the initial Raptor Lake S (RPL-S) graphics support being posted...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Fixing Recent Validation Vulnerabilities in OctoRPKI]]></title>
         <id>618ed02d4524da02a9c23801</id>
         <link href="https://blog.cloudflare.com/fixing-recent-validation-vulnerabilities-in-octorpki/"/>
@@ -842,46 +969,6 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         <summary type="html"><![CDATA[A number of vulnerabilities in Resource Public Key Infrastructure (RPKI) validation software were disclosed in a recent NCSC advisory, discovered by researchers from the University of Twente.]]></summary>
         <author>
             <name>David Haynes</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Radeon Software 21.40.1 Linux Driver Unifies ROCm, Uses New Driver Distribution Model]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Radeon-Software-21.40.1-Linux</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Radeon-Software-21.40.1-Linux"/>
-        <updated>2021-11-12T20:52:33.000Z</updated>
-        <summary type="html"><![CDATA[AMD this week quietly released Radeon Software for Linux 21.40.1 as a fundamentally big update for this packaged driver stack targeting enterprise Linux distributions...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Windows 11 Better Than Linux Right Now For Intel Alder Lake Performance]]></title>
-        <id>https://www.phoronix.com/vr.php?view=30684</id>
-        <link href="https://www.phoronix.com/vr.php?view=30684"/>
-        <updated>2021-11-12T20:00:00.000Z</updated>
-        <summary type="html"><![CDATA[While we are used to running AMD and Intel benchmarks between Microsoft Windows and Linux while most often finding that our favorite open-source operating systems normally lead the race from desktops through HEDT and server platforms, when it comes to the Core i9 12900K "Alder Lake" that is currently not the case. Going into this round of Windows vs. Linux testing quite curious given some Intel hybrid architecture oddities we have been seeing under Linux, indeed when hitting Windows 11 and an assortment of Linux distributions with benchmarks we were left disappointed. Not only did Windows 11 come out faster overall, but related is now Linux also had much higher run-to-run variance due to the mix of P and E cores with Thread Director not making the wisest choices under Linux.]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Experimental Mesa Zink Code Managing To Run Wayland's Weston Compositor]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Zink-Running-Weston</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Zink-Running-Weston"/>
-        <updated>2021-11-12T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Following Mesa's Zink OpenGL-on-Vulkan translation driver finally running "glxgears" in a correct and performant manner, the newest milestone achieved by lead Zink developer Mike Blumenkrantz is managing to run Wayland's Weston compositor...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux To Start Seeing Enablement Patches For Intel "Raptor Lake"]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Raptor-Lake-Linux-Start</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-Raptor-Lake-Linux-Start"/>
-        <updated>2021-11-12T18:55:00.000Z</updated>
-        <summary type="html"><![CDATA[Following today's inaugural patch, over the coming weeks we are expected to see Intel Raptor Lake patches beginning to make it out onto the public kernel mailing list for review...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -952,16 +1039,6 @@ of important fixes, but, as usual, users should upgrade.]]></summary>
         <summary type="html"><![CDATA[New to Cloudflare and don’t know where to begin? Here are five things you can do to get started with Cloudflare right now...]]></summary>
         <author>
             <name>John Engates</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Faster Ceph With Linux 5.16 Now That Async Dirops Have Been Flipped On]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-Ceph</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-Ceph"/>
-        <updated>2021-11-12T12:04:22.000Z</updated>
-        <summary type="html"><![CDATA[The Ceph open-source distributed storage system can now enjoy better performance out-of-the-box with Linux 5.16...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1205,16 +1282,6 @@ Today, Loki groups incoming logs into blocks and when they reach a specific …]
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Satyen Desai: Why I joined Cloudflare and why I am helping Cloudflare grow in Southeast Asia and Korea]]></title>
-        <id>61891cc01a6fe202ab7b1014</id>
-        <link href="https://blog.cloudflare.com/satyen-desai-why-i-joined-cloudflare-and-why-i-am-helping-cloudflare-grow-in-southeast-asia-and-korea/"/>
-        <updated>2021-11-09T01:00:24.000Z</updated>
-        <summary type="html"><![CDATA[I am excited to announce that I have joined Cloudflare as the Head of Southeast Asia and Korea (SEAK) region to help build a better Internet and to expand Cloudflare’s growing customer, partner and local teams across all the countries in SEAK.]]></summary>
-        <author>
-            <name>Satyen Desai</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Announcing Grafana OnCall, the easiest way to do on-call management]]></title>
         <id>https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/</id>
         <link href="https://grafana.com/blog/2021/11/09/announcing-grafana-oncall/"/>
@@ -1280,16 +1347,6 @@ One of the most exciting announcements made during the keynote is the beta previ
         <summary type="html"><![CDATA[Guest post originally published on Magalix’s blog by Andrew Zola Kubernetes is a leader in container orchestration. According to Statista, as much as 46% of respondents in a recent survey stated that they...]]></summary>
         <author>
             <name>Jessie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sizing Up Post-Quantum Signatures]]></title>
-        <id>61893a7a015c6002aaf445a6</id>
-        <link href="https://blog.cloudflare.com/sizing-up-post-quantum-signatures/"/>
-        <updated>2021-11-08T15:39:18.000Z</updated>
-        <summary type="html"><![CDATA[How much room does TLS have for the big post-quantum signatures? We had a look: it’s tight.]]></summary>
-        <author>
-            <name>Bas Westerbaan</name>
         </author>
     </entry>
     <entry>
@@ -1378,16 +1435,6 @@ Another great post, this one on a long term effort to reduce the cost and improv
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[When students go back to school mobile usage goes down]]></title>
-        <id>6185202b1a6fe202ab7b0ec9</id>
-        <link href="https://blog.cloudflare.com/when-students-go-back-to-school-mobile-usage-goes-down/"/>
-        <updated>2021-11-05T13:01:17.000Z</updated>
-        <summary type="html"><![CDATA[September is the “get back to school” month for many. Looking at our data there’s a global trend: mobile traffic lost importance (compared with desktop traffic) in September 2021 compared to August.]]></summary>
-        <author>
-            <name>João Tomé</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ObservabilityCON 2021: What to know before you go!]]></title>
         <id>https://grafana.com/blog/2021/11/05/observabilitycon-2021-what-to-know-before-you-go/</id>
         <link href="https://grafana.com/blog/2021/11/05/observabilitycon-2021-what-to-know-before-you-go/"/>
@@ -1416,55 +1463,6 @@ The ObservabilityCON event page will be your go-to destination for viewing sessi
                                                                                               96                                                                               table { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }             .mj-outlook-group-fix { width:100% !important; }             .block-grid-outlook .button-container a {background: transparent !important;}                 …]]></summary>
         <author>
             <name>Infrastructure as a Newsletter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emissary-ingress now officially supported by top service mesh projects Linkerd and Istio]]></title>
-        <id>https://www.cncf.io/?p=65554</id>
-        <link href="https://www.cncf.io/blog/2021/11/04/emissary-ingress-now-officially-supported-by-top-service-mesh-projects-linkerd-and-istio/"/>
-        <updated>2021-11-04T15:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Project guest post by the Emissary-ingress project maintainers Cloud Native Computing Foundation (CNCF) incubating project Emissary-ingress, an open source ingress controller and API gateway for Kubernetes, announces official support by major service...]]></summary>
-        <author>
-            <name>Jessie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DDoS Attack Trends for Q3 2021]]></title>
-        <id>618123bd3d6e9c02a9439710</id>
-        <link href="https://blog.cloudflare.com/ddos-attack-trends-for-2021-q3/"/>
-        <updated>2021-11-04T12:58:40.000Z</updated>
-        <summary type="html"><![CDATA[In Q3, 2021 we saw and mitigated record-setting HTTP DDoS attacks, terabit-strong network layer attacks, one of the largest botnets ever deployed (Meris), and more recently, ransom attacks on Voice-over-IP (VoIP) service providers.]]></summary>
-        <author>
-            <name>Vivek Ganti</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The tale of a single register value]]></title>
-        <id>618270043d6e9c02a9439a2a</id>
-        <link href="https://blog.cloudflare.com/the-tale-of-a-single-register-value/"/>
-        <updated>2021-11-03T14:37:10.000Z</updated>
-        <summary type="html"><![CDATA[It’s not every day that you get to debug what may well be a packet of death. It was certainly the first time for me.
-What do I mean by “a packet of death”? A software bug where the network stack crashes in reaction to a single received network packet, taking down the whole operating system with it.]]></summary>
-        <author>
-            <name>Jakub Sitnicki</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grafana 8.2.3 released with medium severity security fix: CVE-2021-41174 Grafana XSS]]></title>
-        <id>https://grafana.com/blog/2021/11/03/grafana-8.2.3-released-with-medium-severity-security-fix-cve-2021-41174-grafana-xss/</id>
-        <link href="https://grafana.com/blog/2021/11/03/grafana-8.2.3-released-with-medium-severity-security-fix-cve-2021-41174-grafana-xss/"/>
-        <updated>2021-11-03T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today we are releasing Grafana 8.2.3. This patch release includes an important security fix for an issue that affects all Grafana versions from 8.0.0-beta1.
-Grafana Cloud instances have already been patched, and an audit did not find any usage of this attack vector. Grafana Enterprise customers were provided with updated binaries under embargo.
-CVE-2021-41174 Grafana XSS
-Summary
-CVSS Score: 6.9
-CVSS: 3.0/AV:N/AC:H/PR:N/UI:R/S:C/C:L/I:H/A:N/E:U/RL:O/RC:R/CR:L/MAV:N/MAC:H/MPR:N/MUI:R/MS:C/MC:N/MI:H/MA:L
-We received a security report to security@grafana.com on 2021-10-22 about an XSS vulnerability in Grafana. It was later identified as affecting Grafana versions from 8.0.0-beta1 to 8.2.2. CVE-2021-41174 has been assigned to this vulnerability.
-Impact
-If an attacker is able to convince a victi…]]></summary>
-        <author>
-            <name>Grafana Labs Blog on Grafana Labs</name>
         </author>
     </entry>
     <entry>
