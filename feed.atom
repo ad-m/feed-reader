@@ -1,45 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-17T00:00:33.453Z</id>
+    <id>urn:2021-11-17T08:00:48.700Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-17T00:00:33.453Z</updated>
+    <updated>2021-11-17T08:00:48.700Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Is Vaccine Efficacy a Statistical Illusion]]></title>
-        <id>http://probabilityandlaw.blogspot.com/2021/11/is-vaccine-efficacy-statistical-illusion.html</id>
-        <link href="http://probabilityandlaw.blogspot.com/2021/11/is-vaccine-efficacy-statistical-illusion.html"/>
-        <updated>2021-11-16T23:44:46.000Z</updated>
+        <title type="html"><![CDATA[The Burnout Society by Byung-Chul Han]]></title>
+        <id>https://apposition.substack.com/p/the-burnout-society</id>
+        <link href="https://apposition.substack.com/p/the-burnout-society"/>
+        <updated>2021-11-17T06:25:06.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Considering a Sphere]]></title>
-        <id>https://www.solipsys.co.uk/new/ConsideringASphere.html?UK16HN</id>
-        <link href="https://www.solipsys.co.uk/new/ConsideringASphere.html?UK16HN"/>
-        <updated>2021-11-16T23:24:10.000Z</updated>
+        <title type="html"><![CDATA[The OBS project has accused Streamlabs of copying their name and trademark]]></title>
+        <id>https://twitter.com/OBSProject/status/1460782968633499651</id>
+        <link href="https://twitter.com/OBSProject/status/1460782968633499651"/>
+        <updated>2021-11-17T06:20:52.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Show HN: US-BR, a fork of US-intl for brazilian / portuguese programmers]]></title>
-        <id>https://news.ycombinator.com/item?id=29247357</id>
-        <link href="https://news.ycombinator.com/item?id=29247357"/>
-        <updated>2021-11-16T23:01:33.000Z</updated>
+        <title type="html"><![CDATA[Ivermectin: Much More Than You Wanted to Know]]></title>
+        <id>https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted</id>
+        <link href="https://astralcodexten.substack.com/p/ivermectin-much-more-than-you-wanted"/>
+        <updated>2021-11-17T06:01:11.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The California Life of Czesław Miłosz]]></title>
-        <id>https://lareviewofbooks.org/article/a-home-in-the-neon-heat-of-nature-a-new-biography-of-czeslaw-milosz/</id>
-        <link href="https://lareviewofbooks.org/article/a-home-in-the-neon-heat-of-nature-a-new-biography-of-czeslaw-milosz/"/>
-        <updated>2021-11-16T22:14:24.000Z</updated>
+        <title type="html"><![CDATA[Consumption of coffee and tea and risk of developing stroke and dementia]]></title>
+        <id>https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003830</id>
+        <link href="https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003830"/>
+        <updated>2021-11-17T05:51:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Proposes "Page Table Check" For Fighting Some Types Of Linux Memory Corruption]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Page-Table-Check-RFC</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Page-Table-Check-RFC"/>
+        <updated>2021-11-17T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Last week Google engineers uncovered a reference count underflow issue affecting all Linux kernels going back to v4.14 in 2017. This issue led to memory leaking from one process to another and only uncovered by accident. To address this class of memory corruption issues moving forward, Google is proposing a new "Page Table Check" feature moving forward...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Truth Shall Make You Free: Catholicism and the CIA]]></title>
+        <id>https://lareviewofbooks.org/article/the-truth-shall-make-you-free-catholicism-and-the-cia/</id>
+        <link href="https://lareviewofbooks.org/article/the-truth-shall-make-you-free-catholicism-and-the-cia/"/>
+        <updated>2021-11-17T03:19:23.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[.plan]]></title>
+        <id>https://plan.cat</id>
+        <link href="https://plan.cat"/>
+        <updated>2021-11-17T01:19:03.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -66,7 +96,7 @@ Trojan Source has highlighted.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Netflix now sharing worldwide top10 viewing data with export options]]></title>
+        <title type="html"><![CDATA[Weekly Top 10 lists of the most-watched TV and films]]></title>
         <id>https://top10.netflix.com/?</id>
         <link href="https://top10.netflix.com/?"/>
         <updated>2021-11-16T21:19:57.000Z</updated>
@@ -126,10 +156,20 @@ Trojan Source has highlighted.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Automatically generating types for Cloudflare Workers]]></title>
-        <id>https://blog.cloudflare.com/automatically-generated-types/</id>
-        <link href="https://blog.cloudflare.com/automatically-generated-types/"/>
-        <updated>2021-11-16T20:43:25.000Z</updated>
+        <title type="html"><![CDATA[What really happened at the Millennium Tower?]]></title>
+        <id>https://practical.engineering/blog/2021/11/10/what-really-happened-at-the-millennium-tower</id>
+        <link href="https://practical.engineering/blog/2021/11/10/what-really-happened-at-the-millennium-tower"/>
+        <updated>2021-11-16T20:43:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hopepunk, optimism, purity, and futures of hard work]]></title>
+        <id>https://beforewegoblog.com/purity-and-futures-of-hard-work-by-ada-palmer/</id>
+        <link href="https://beforewegoblog.com/purity-and-futures-of-hard-work-by-ada-palmer/"/>
+        <updated>2021-11-16T20:41:42.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -146,7 +186,7 @@ Trojan Source has highlighted.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Security issues related to the NPM registry]]></title>
+        <title type="html"><![CDATA[Security issue related to the NPM registry]]></title>
         <id>https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/#security-issues-related-to-the-npm-registry</id>
         <link href="https://github.blog/2021-11-15-githubs-commitment-to-npm-ecosystem-security/#security-issues-related-to-the-npm-registry"/>
         <updated>2021-11-16T19:13:00.000Z</updated>
@@ -170,16 +210,6 @@ Trojan Source has highlighted.]]></summary>
         <id>https://www.nro.gov/FOIA/Major-NRO-Programs-and-Projects/EOI-Documents/</id>
         <link href="https://www.nro.gov/FOIA/Major-NRO-Programs-and-Projects/EOI-Documents/"/>
         <updated>2021-11-16T18:50:40.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM unveils 127-qubit quantum processor]]></title>
-        <id>https://newsroom.ibm.com/2021-11-16-IBM-Unveils-Breakthrough-127-Qubit-Quantum-Processor</id>
-        <link href="https://newsroom.ibm.com/2021-11-16-IBM-Unveils-Breakthrough-127-Qubit-Quantum-Processor"/>
-        <updated>2021-11-16T18:46:32.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -276,10 +306,10 @@ Trojan Source has highlighted.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Video game play is positively correlated with well-being]]></title>
-        <id>https://psyarxiv.com/qrjza/</id>
-        <link href="https://psyarxiv.com/qrjza/"/>
-        <updated>2021-11-16T15:04:12.000Z</updated>
+        <title type="html"><![CDATA[Harmonic Coloring: A method for assigning colors to musical pitches]]></title>
+        <id>http://www.musanim.com/HarmonicColoring/</id>
+        <link href="http://www.musanim.com/HarmonicColoring/"/>
+        <updated>2021-11-16T15:11:37.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -293,16 +323,6 @@ Trojan Source has highlighted.]]></summary>
         <summary type="html"><![CDATA[Along with introducing DLSS 2.3 today, NVIDIA is making public an open-source Image Scaling SDK with promised cross-platform GPU support...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PlanetScale is now generally available]]></title>
-        <id>https://planetscale.com/blog/ga</id>
-        <link href="https://planetscale.com/blog/ga"/>
-        <updated>2021-11-16T14:23:23.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -386,10 +406,10 @@ Trojan Source has highlighted.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I hate password rules]]></title>
-        <id>https://www.schneier.com/blog/archives/2021/11/why-i-hate-password-rules.html</id>
-        <link href="https://www.schneier.com/blog/archives/2021/11/why-i-hate-password-rules.html"/>
-        <updated>2021-11-16T12:03:29.000Z</updated>
+        <title type="html"><![CDATA[Ghost Protocols]]></title>
+        <id>https://www.ribbonfarm.com/2021/11/03/ghost-protocols/</id>
+        <link href="https://www.ribbonfarm.com/2021/11/03/ghost-protocols/"/>
+        <updated>2021-11-16T12:31:13.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -403,6 +423,16 @@ Trojan Source has highlighted.]]></summary>
         <summary type="html"><![CDATA[For over four years now Red Hat has been working on Stratis as their new Linux storage solution. As an alternative to shifting to newer file-systems like Btrfs or the controversial OpenZFS, Stratis has been about offering similar advanced Linux storage features while building atop LVM, DeviceMapper and XFS all while using the modern Rust programming language. Stratis Storage 3.0 is now available as the latest work on this front...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why Emacs: Redux]]></title>
+        <id>https://batsov.com/articles/2021/11/16/why-emacs-redux/</id>
+        <link href="https://batsov.com/articles/2021/11/16/why-emacs-redux/"/>
+        <updated>2021-11-16T11:45:27.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -436,10 +466,20 @@ Trojan Source has highlighted.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Letting users tick a ‘none’ checkbox]]></title>
-        <id>https://designnotes.blog.gov.uk/2021/11/15/letting-users-tick-a-none-checkbox/</id>
-        <link href="https://designnotes.blog.gov.uk/2021/11/15/letting-users-tick-a-none-checkbox/"/>
-        <updated>2021-11-16T08:15:50.000Z</updated>
+        <title type="html"><![CDATA[T-Wand: beating Lucene in less than 600 lines of code]]></title>
+        <id>https://yyhh.org/blog/2021/11/t-wand-beat-lucene-in-less-than-600-lines-of-code/</id>
+        <link href="https://yyhh.org/blog/2021/11/t-wand-beat-lucene-in-less-than-600-lines-of-code/"/>
+        <updated>2021-11-16T06:48:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write a Computer Emulator]]></title>
+        <id>https://fms.komkon.org/EMUL8/HOWTO.html</id>
+        <link href="https://fms.komkon.org/EMUL8/HOWTO.html"/>
+        <updated>2021-11-16T05:55:42.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -544,16 +584,6 @@ this release:
         <summary type="html"><![CDATA[Git 2.34 is out today as the newest feature update to this widely-used, distributed version control system...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I helped build a profitable MVP over a weekend]]></title>
-        <id>https://mzrn.sh/2021/11/14/how-i-helped-build-a-profitable-mvp-over-a-weekend</id>
-        <link href="https://mzrn.sh/2021/11/14/how-i-helped-build-a-profitable-mvp-over-a-weekend"/>
-        <updated>2021-11-15T18:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -731,16 +761,6 @@ fixes, but there were a number other changes as well.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The benefits of not belonging]]></title>
-        <id>https://hardfork.substack.com/p/the-perpetual-outsider-the-big-benefits</id>
-        <link href="https://hardfork.substack.com/p/the-perpetual-outsider-the-big-benefits"/>
-        <updated>2021-11-15T10:13:32.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GCC Patches Pending For RISC-V's Scalar Cryptography Extension]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=RISC-V-Scalar-Crypto-GCC</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=RISC-V-Scalar-Crypto-GCC"/>
@@ -768,16 +788,6 @@ merge window is closed for this cycle.
 	that we don't tend to see most releases.]]></summary>
         <author>
             <name>corbet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Office 2000 is good to go]]></title>
-        <id>https://hardcoresoftware.learningbyshipping.com/p/055-office-2000-is-good-to-go</id>
-        <link href="https://hardcoresoftware.learningbyshipping.com/p/055-office-2000-is-good-to-go"/>
-        <updated>2021-11-15T00:51:43.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -979,16 +989,6 @@ https://sudolabs.com/blog/how-we-automatized-our-release-process-into-jus…]]><
         <summary type="html"><![CDATA[Earlier this week, Cloudflare automatically detected and mitigated a DDoS attack that peaked just below 2 Tbps — the largest we’ve seen to date.]]></summary>
         <author>
             <name>Omer Yoachimik</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Linux 5.16 To Support AMD SEV/SEV-ES Intra-Host Live Migration]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-AMD-SEV-ES-Intra</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-5.16-AMD-SEV-ES-Intra"/>
-        <updated>2021-11-13T14:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Last week was the main set of Kernel-based Virtual Machine (KVM) changes for Linux 5.16 that introduced RISC-V hypervisor support and AMD PSF control bit support, among other changes. A second set of KVM changes were sent out on Friday that is headlined by having AMD SEV/SEV-ES intra-host migration support...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1753,23 +1753,6 @@ https://loft.…]]></summary>
         <summary type="html"><![CDATA[Back in 2019 I told you about AWS Data Exchange and showed you how to Find, Subscribe To, and Use Data Products. Today, you can choose from over 3600 data products in ten categories: In my introductory post I showed you how could subscribe to data products and then download the data sets into an […]]]></summary>
         <author>
             <name>Jeff Barr</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DigitalOcean’s virtual conference is coming soon!]]></title>
-        <id>https://kill-the-newsletter.com/alternates/501bez6024bk6qnv.html</id>
-        <link href="https://kill-the-newsletter.com/alternates/501bez6024bk6qnv.html"/>
-        <updated>2021-10-18T17:33:32.000Z</updated>
-        <summary type="html"><![CDATA[DigitalOcean’s virtual conference is coming soon!
-
-
-
-
-
-#outlook a { padding:0; }           body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }           table { border-spacing:0;}           img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }           p { display:block;margin:13px 0; }
-                                                                                              96                                                                               table { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }             .mj-outlook-group-fix { width:100% !important; }             .block-grid-outlook .button-container a {background: transparent !important;}                …]]></summary>
-        <author>
-            <name>Infrastructure as a Newsletter</name>
         </author>
     </entry>
 </feed>
