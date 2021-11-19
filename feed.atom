@@ -1,15 +1,275 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-19T08:01:03.710Z</id>
+    <id>urn:2021-11-19T16:05:51.926Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-19T08:01:03.710Z</updated>
+    <updated>2021-11-19T16:05:51.926Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Stacker (YC S20) Is Hiring Across Engineering]]></title>
-        <id>https://www.stackerhq.com/careers#job-listing</id>
-        <link href="https://www.stackerhq.com/careers#job-listing"/>
-        <updated>2021-11-19T07:00:42.000Z</updated>
+        <title type="html"><![CDATA[Adults who microdose psychedelics report lower levels of depression and anxiety [pdf]]]></title>
+        <id>https://www.nature.com/articles/s41598-021-01811-4.pdf</id>
+        <link href="https://www.nature.com/articles/s41598-021-01811-4.pdf"/>
+        <updated>2021-11-19T15:36:08.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Show HN: Pony is a messenger for mindful correspondence. It delivers once a day]]></title>
+        <id>https://www.ponymessenger.com</id>
+        <link href="https://www.ponymessenger.com"/>
+        <updated>2021-11-19T15:32:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tech journalism is less diverse than tech (2020)]]></title>
+        <id>https://oonwoye.com/2020/07/31/tech-journalism-is-less-diverse-than-tech/</id>
+        <link href="https://oonwoye.com/2020/07/31/tech-journalism-is-less-diverse-than-tech/"/>
+        <updated>2021-11-19T14:44:33.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chomsky: Ending Climate Change “Has to Come from Mass Popular Action,” Not Pols]]></title>
+        <id>https://jacobinmag.com/2021/11/noam-chomsky-climate-change-afghanistan-anarchism-china</id>
+        <link href="https://jacobinmag.com/2021/11/noam-chomsky-climate-change-afghanistan-anarchism-china"/>
+        <updated>2021-11-19T14:43:36.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Marriott refused to host Uyghur conference, citing “political neutrality”]]></title>
+        <id>https://www.axios.com/marriott-uyghur-conference-d6deb429-9b5e-4759-ba10-98d59e81be12.html</id>
+        <link href="https://www.axios.com/marriott-uyghur-conference-d6deb429-9b5e-4759-ba10-98d59e81be12.html"/>
+        <updated>2021-11-19T14:43:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Security updates for Friday]]></title>
+        <id>https://lwn.net/Articles/876528/rss</id>
+        <link href="https://lwn.net/Articles/876528/rss"/>
+        <updated>2021-11-19T14:29:58.000Z</updated>
+        <summary type="html"><![CDATA[Security updates have been issued by Arch Linux (chromium, grafana, kubectl-ingress-nginx, and opera), Debian (netkit-rsh and salt), Fedora (freeipa and samba), Mageia (opensc, python-django-filter, qt4, tinyxml, and transfig), openSUSE (opera and transfig), Red Hat (devtoolset-11-annobin, devtoolset-11-binutils, and llvm-toolset:rhel8), SUSE (php72 and php74), and Ubuntu (mailman and thunderbird).]]></summary>
+        <author>
+            <name>jake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Premature Blogging Death Notice]]></title>
+        <id>https://onemanandhisblog.com/2021/10/premature-blogging-death-notice/</id>
+        <link href="https://onemanandhisblog.com/2021/10/premature-blogging-death-notice/"/>
+        <updated>2021-11-19T14:13:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Swedish study finds discrimination against men in female-dominated occupations]]></title>
+        <id>https://www.psypost.org/2021/05/swedish-study-suggests-hiring-discrimination-is-primarily-a-problem-for-men-in-female-dominated-occupations-60699</id>
+        <link href="https://www.psypost.org/2021/05/swedish-study-suggests-hiring-discrimination-is-primarily-a-problem-for-men-in-female-dominated-occupations-60699"/>
+        <updated>2021-11-19T14:10:19.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Announcing native support for Stripe’s JavaScript SDK in Cloudflare Workers]]></title>
+        <id>619788c8b92da3001140b4fd</id>
+        <link href="https://blog.cloudflare.com/announcing-stripe-support-in-workers/"/>
+        <updated>2021-11-19T13:59:58.000Z</updated>
+        <summary type="html"><![CDATA[Handling payments inside your apps is crucial to building a business online. For many developers, the leading choice for handling payments is Stripe.]]></summary>
+        <author>
+            <name>Kristian Freeman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Stream Player customizations to boost your video experience]]></title>
+        <id>61979dbeb92da3001140b607</id>
+        <link href="https://blog.cloudflare.com/stream-player-customizations-to-boost-your-video-experience/"/>
+        <updated>2021-11-19T13:59:30.000Z</updated>
+        <summary type="html"><![CDATA[Today, we are extending the Stream Player vision with a series of new customization options to help you deliver the best end-user experience.]]></summary>
+        <author>
+            <name>Kevin Kipp</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Launching a Startup on Cloudflare Workers]]></title>
+        <id>61979b33b92da3001140b5c8</id>
+        <link href="https://blog.cloudflare.com/developer-spotlight-tejas-metha-cclip/"/>
+        <updated>2021-11-19T13:59:27.000Z</updated>
+        <summary type="html"><![CDATA[One of the most exciting things about serverless is not that you can now build everything in serverless, but that it becomes really easy to connect multiple managed services. Tejas Mehta built cClip by connecting services like RevenueCat, Stripe and Firebase into a fully fledged product.]]></summary>
+        <author>
+            <name>Erwin van der Koogh</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[An Open-Source CMS on the Cloudflare Stack: Introductory Post]]></title>
+        <id>619798fdb92da3001140b581</id>
+        <link href="https://blog.cloudflare.com/production-saas-intro/"/>
+        <updated>2021-11-19T13:59:24.000Z</updated>
+        <summary type="html"><![CDATA[We are developing an example feature-complete SaaS application that will be built entirely on the Cloudflare stack.]]></summary>
+        <author>
+            <name>Luke Edwards</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build your next video application on Cloudflare]]></title>
+        <id>6197968ab92da3001140b53c</id>
+        <link href="https://blog.cloudflare.com/build-video-applications-cloudflare/"/>
+        <updated>2021-11-19T13:59:21.000Z</updated>
+        <summary type="html"><![CDATA[Today, we’re going to build a video application inspired by Cloudflare TV. We’ll have user authentication and the ability for administrators to upload recorded videos or livestream new content. Think about being able to build your own YouTube or Twitch using Cloudflare services!]]></summary>
+        <author>
+            <name>Jonathan Kuperman</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crypto group loses bid to buy US Constitution copy]]></title>
+        <id>https://www.theblockcrypto.com/linked/124872/crypto-group-loses-bid-to-buy-rare-us-constitution-copy-in-record-breaking-sothebys-auction</id>
+        <link href="https://www.theblockcrypto.com/linked/124872/crypto-group-loses-bid-to-buy-rare-us-constitution-copy-in-record-breaking-sothebys-auction"/>
+        <updated>2021-11-19T13:57:14.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Linux ITMT Patch Fixes Intel "Alder Lake" Hybrid Handling For Some Systems]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Patch-ITMT-OC-ADL</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Linux-Patch-ITMT-OC-ADL"/>
+        <updated>2021-11-19T13:48:11.000Z</updated>
+        <summary type="html"><![CDATA[There is a patch pending that improves the Linux kernel's dealing with the hybrid P and E cores found with Intel's new Alder Lake processors that will benefit some systems/motherboards...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[In-orbit demonstration of an iodine electric propulsion system]]></title>
+        <id>https://www.nature.com/articles/s41586-021-04015-y</id>
+        <link href="https://www.nature.com/articles/s41586-021-04015-y"/>
+        <updated>2021-11-19T13:35:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pangea Aerospace successfully hot fire tests the first MethaLox aerospike engine]]></title>
+        <id>https://www.satellite-evolution.com/post/pangea-aerospace-successfully-hot-fire-tests-the-first-methalox-aerospike-engine-in-the-world</id>
+        <link href="https://www.satellite-evolution.com/post/pangea-aerospace-successfully-hot-fire-tests-the-first-methalox-aerospike-engine-in-the-world"/>
+        <updated>2021-11-19T13:09:05.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elfshaker: 400 GiB to 100 MiB, with 1s access time]]></title>
+        <id>https://github.com/elfshaker/elfshaker</id>
+        <link href="https://github.com/elfshaker/elfshaker"/>
+        <updated>2021-11-19T12:41:56.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The price of individualism has proved to be the loss of privacy]]></title>
+        <id>https://www.noemamag.com/surveillance-capitalism-vs-the-surveillance-state/</id>
+        <link href="https://www.noemamag.com/surveillance-capitalism-vs-the-surveillance-state/"/>
+        <updated>2021-11-19T12:05:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jitx (YC S18) is hiring senior developers to automate circuit board design]]></title>
+        <id>https://jobs.lever.co/jitxinc/6241d90f-03a1-40d0-8703-63c92fac5846</id>
+        <link href="https://jobs.lever.co/jitxinc/6241d90f-03a1-40d0-8703-63c92fac5846"/>
+        <updated>2021-11-19T12:00:01.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Updated AMD P-State Driver Posted For Improving Linux Power Efficiency]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-P-State-v4</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=AMD-P-State-v4"/>
+        <updated>2021-11-19T11:55:20.000Z</updated>
+        <summary type="html"><![CDATA[A fourth iteration of the AMD P-State CPU frequency scaling driver patches for Linux have been sent out for review and testing...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Effekt – A research language with effect handlers and lightweight polymorphism]]></title>
+        <id>https://effekt-lang.org/</id>
+        <link href="https://effekt-lang.org/"/>
+        <updated>2021-11-19T10:50:03.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FWUPD 1.7.2 Released With Fixes, Faster & Smaller Daemon]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=FWUPD-1.7.2-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=FWUPD-1.7.2-Released"/>
+        <updated>2021-11-19T10:48:41.000Z</updated>
+        <summary type="html"><![CDATA[FWUPD 1.7.2 is out as the latest release of this leading open-source solution for handling firmware updates under Linux for devices from motherboard UEFI to peripheral firmware...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenCL 3.0.10 Brings A Handful Of New Extensions]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenCL-3.0.10-Released</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=OpenCL-3.0.10-Released"/>
+        <updated>2021-11-19T10:25:00.000Z</updated>
+        <summary type="html"><![CDATA[OpenCL 3.0.10 has been tagged as the newest revision to the OpenCL 3.0 API...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tasking developers with creating detailed estimates is a waste of time (2020)]]></title>
+        <id>https://iism.org/article/is-tasking-developers-with-creating-detailed-estimates-a-waste-of-company-money-42</id>
+        <link href="https://iism.org/article/is-tasking-developers-with-creating-detailed-estimates-a-waste-of-company-money-42"/>
+        <updated>2021-11-19T10:20:54.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Ransomware Reporting Rules for US Financial Institutions]]></title>
+        <id>https://www.cpomagazine.com/cyber-security/new-ransomware-reporting-rules-for-us-financial-institutions-proposed-bill-would-require-government-permission-for-payments-over-100000/</id>
+        <link href="https://www.cpomagazine.com/cyber-security/new-ransomware-reporting-rules-for-us-financial-institutions-proposed-bill-would-require-government-permission-for-payments-over-100000/"/>
+        <updated>2021-11-19T08:09:46.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Spiral Staircase Myth (2020)]]></title>
+        <id>https://triskeleheritage.triskelepublishing.com/mediaeval-mythbusting-blog-2-the-man-who-invented-the-spiral-staircase-myth/</id>
+        <link href="https://triskeleheritage.triskelepublishing.com/mediaeval-mythbusting-blog-2-the-man-who-invented-the-spiral-staircase-myth/"/>
+        <updated>2021-11-19T07:59:52.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -26,50 +286,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[IPv4 unicast extensions project – adding 419M new IPs to the world]]></title>
-        <id>https://github.com/schoen/unicast-extensions</id>
-        <link href="https://github.com/schoen/unicast-extensions"/>
-        <updated>2021-11-19T04:29:04.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[80386DX ISA single board microcomputer]]></title>
         <id>https://alexandrugroza.ro/microelectronics/system-design/isa-80386dx-sbmc/index.html</id>
         <link href="https://alexandrugroza.ro/microelectronics/system-design/isa-80386dx-sbmc/index.html"/>
         <updated>2021-11-19T04:27:20.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google SAPI: Generate sandboxes for C/C++ libraries automatically]]></title>
-        <id>https://github.com/google/sandboxed-api</id>
-        <link href="https://github.com/google/sandboxed-api"/>
-        <updated>2021-11-19T03:37:53.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes on ConstitutionDAO]]></title>
-        <id>https://every.to/divinations/notes-on-constitutiondao</id>
-        <link href="https://every.to/divinations/notes-on-constitutiondao"/>
-        <updated>2021-11-19T03:21:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duff’s Device in 2021]]></title>
-        <id>https://belaycpp.com/2021/11/18/duffs-device-in-2021/</id>
-        <link href="https://belaycpp.com/2021/11/18/duffs-device-in-2021/"/>
-        <updated>2021-11-19T01:54:30.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -116,23 +336,16 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Acquisition of chess knowledge in AlphaZero]]></title>
-        <id>https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero</id>
-        <link href="https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero"/>
-        <updated>2021-11-18T23:34:42.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
+        <title type="html"><![CDATA[A 3-step guide to troubleshooting and visualizing Kubernetes with Grafana Cloud]]></title>
+        <id>https://grafana.com/blog/2021/11/19/a-3-step-guide-to-troubleshooting-and-visualizing-kubernetes-with-grafana-cloud/</id>
+        <link href="https://grafana.com/blog/2021/11/19/a-3-step-guide-to-troubleshooting-and-visualizing-kubernetes-with-grafana-cloud/"/>
+        <updated>2021-11-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Back in May, we announced the Kubernetes integration to help users easily monitor and alert on core Kubernetes cluster metrics using the Grafana Agent, our lightweight observability data collector optimized for sending metric, log, and trace data to Grafana Cloud. Since then, we’ve made some improvements to help our customers go even further. 
+This guide will show how easy it is to use Grafana Cloud to troubleshoot and alert on your Kubernetes cluster and highlight all of the new features you should check out if you’re already using the k8s integration. 
+Step 1: Get the Kubernetes integration in Grafana Cloud
+Setting up the integration is fast and easy. From the Grafana Cloud homepage UI, click on the lightning bolt integrations icon on the menu bar and select ‘Walkthrough’ under the Onboa…]]></summary>
         <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show HN: I made a drag and drop website builder that works on mobile]]></title>
-        <id>https://straw.page</id>
-        <link href="https://straw.page"/>
-        <updated>2021-11-18T21:35:05.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
+            <name>Grafana Labs Blog on Grafana Labs</name>
         </author>
     </entry>
     <entry>
@@ -146,10 +359,20 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notes on Web3]]></title>
-        <id>https://society.robinsloan.com/archive/notes-on-web3/</id>
-        <link href="https://society.robinsloan.com/archive/notes-on-web3/"/>
-        <updated>2021-11-18T21:19:22.000Z</updated>
+        <title type="html"><![CDATA[Slime]]></title>
+        <id>https://granta.com/slime/</id>
+        <link href="https://granta.com/slime/"/>
+        <updated>2021-11-18T20:20:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Greedy Doctor Problem]]></title>
+        <id>https://universalprior.substack.com/p/the-greedy-doctor-problem</id>
+        <link href="https://universalprior.substack.com/p/the-greedy-doctor-problem"/>
+        <updated>2021-11-18T20:20:29.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -166,26 +389,6 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Solar-driven water splitting at 13.8% solar-to-hydrogen efficiency]]></title>
-        <id>https://pubs.acs.org/doi/10.1021/acssuschemeng.1c03565</id>
-        <link href="https://pubs.acs.org/doi/10.1021/acssuschemeng.1c03565"/>
-        <updated>2021-11-18T19:50:37.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open-Source Plastic Scanner]]></title>
-        <id>https://plasticscanner.com/</id>
-        <link href="https://plasticscanner.com/"/>
-        <updated>2021-11-18T19:49:51.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Chrome 97 Beta Released With WebTransport API, HDR Media Queries]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Chrome-97-Beta</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Chrome-97-Beta"/>
@@ -193,16 +396,6 @@
         <summary type="html"><![CDATA[With Chrome 96 released, Google has now promoted Chrome 97 to beta as the next iteration of their web browser...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TensorFlow Graph Neural Networks]]></title>
-        <id>https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html</id>
-        <link href="https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html"/>
-        <updated>2021-11-18T18:33:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -223,16 +416,6 @@ be handled.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Things you are allowed to do, academic edition]]></title>
-        <id>https://bastian.rieck.me/blog/posts/2021/things/</id>
-        <link href="https://bastian.rieck.me/blog/posts/2021/things/"/>
-        <updated>2021-11-18T17:25:39.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Two more stable kernels]]></title>
         <id>https://lwn.net/Articles/876425/rss</id>
         <link href="https://lwn.net/Articles/876425/rss"/>
@@ -250,16 +433,6 @@ Update: 5.15.3 was also released.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dialogue Tags: An Empirical Study]]></title>
-        <id>https://elliottslaughter.com/2020/06/dialogue-tags</id>
-        <link href="https://elliottslaughter.com/2020/06/dialogue-tags"/>
-        <updated>2021-11-18T17:03:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kubernetes and Cloud Native Essentials Training and KCNA Certification Now Available]]></title>
         <id>https://www.cncf.io/?p=65793</id>
         <link href="https://www.cncf.io/announcements/2021/11/18/kubernetes-and-cloud-native-essentials-training-and-kcna-certification-now-available/"/>
@@ -267,36 +440,6 @@ Update: 5.15.3 was also released.]]></summary>
         <summary type="html"><![CDATA[New training course from CNCF and The Linux Foundation provides basic knowledge of Kubernetes and cloud native architectures and helps prepare for new entry-level certification SAN FRANCISCO – November 18, 2021 –...]]></summary>
         <author>
             <name>Jessie</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nona – A German Search Engine]]></title>
-        <id>https://www.nona.de/</id>
-        <link href="https://www.nona.de/"/>
-        <updated>2021-11-18T16:43:10.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spy camera detection using smartphone time-of-flight sensors]]></title>
-        <id>https://dl.acm.org/doi/10.1145/3485730.3485941</id>
-        <link href="https://dl.acm.org/doi/10.1145/3485730.3485941"/>
-        <updated>2021-11-18T16:21:00.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joy.js – make happy little programs (2017)]]></title>
-        <id>https://ncase.me/joy/#examples</id>
-        <link href="https://ncase.me/joy/#examples"/>
-        <updated>2021-11-18T16:15:29.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -417,16 +560,6 @@ Update: 5.15.3 was also released.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Think Different – Think Users]]></title>
-        <id>https://foundersatwork.posthaven.com/think-different-think-users</id>
-        <link href="https://foundersatwork.posthaven.com/think-different-think-users"/>
-        <updated>2021-11-18T13:07:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Nouveau Lights Up The NVIDIA RTX 3060 GPU Open-Source Support]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Nouveau-NVIDIA-GA106</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Nouveau-NVIDIA-GA106"/>
@@ -444,26 +577,6 @@ Update: 5.15.3 was also released.]]></summary>
         <summary type="html"><![CDATA[Last month I reported on activity around Straight Line Speculation "SLS" mitigation for x86_64 CPUs, similar to the work carried out by Arm last year on their SLS vulnerability. That work on the x86 (x86_64 inclusive) side has now been merged to GCC 12 Git and a kernel patch is expected to come shortly that will flip it on as the latest CPU security protection...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Elicit]]></title>
-        <id>https://elicit.org</id>
-        <link href="https://elicit.org"/>
-        <updated>2021-11-18T05:50:12.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer of ’59:  the practical side of the 1559 papal conclave]]></title>
-        <id>https://www.historytoday.com/archive/review/summer-59</id>
-        <link href="https://www.historytoday.com/archive/review/summer-59"/>
-        <updated>2021-11-18T05:32:09.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -508,6 +621,16 @@ The simple, scalable deployment introduces two new targets, `read` and `write`, 
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Debugging a Linux network stack crash via a single register value]]></title>
+        <id>https://blog.cloudflare.com/the-tale-of-a-single-register-value/?a</id>
+        <link href="https://blog.cloudflare.com/the-tale-of-a-single-register-value/?a"/>
+        <updated>2021-11-17T23:54:00.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NVIDIA 470.62.12 Vulkan Beta Driver For Linux Updates Video Support]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-470.62.12-Beta-Linux</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=NVIDIA-470.62.12-Beta-Linux"/>
@@ -518,10 +641,10 @@ The simple, scalable deployment introduces two new targets, `read` and `write`, 
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Debugging a weird 'file not found' error]]></title>
-        <id>https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/</id>
-        <link href="https://jvns.ca/blog/2021/11/17/debugging-a-weird--file-not-found--error/"/>
-        <updated>2021-11-17T21:20:12.000Z</updated>
+        <title type="html"><![CDATA[Practical machine learning to estimate traffic flow in San Juan, Puerto Rico]]></title>
+        <id>https://santurcesoftware.com/machine-learning-san-juan-traffic</id>
+        <link href="https://santurcesoftware.com/machine-learning-san-juan-traffic"/>
+        <updated>2021-11-17T22:10:06.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -535,6 +658,16 @@ The simple, scalable deployment introduces two new targets, `read` and `write`, 
         <summary type="html"><![CDATA[Mesa 21.3 is now out as the latest quarterly feature release to this collection of open-source graphics drivers...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Andrew Hunter Murray on dystopias]]></title>
+        <id>https://thebrowser.com/notes/andrew-hunter-murray/</id>
+        <link href="https://thebrowser.com/notes/andrew-hunter-murray/"/>
+        <updated>2021-11-17T20:54:21.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -587,10 +720,10 @@ networks in order to more efficiently communicate among groups.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I analyzed SaaS billing dark patterns]]></title>
-        <id>https://quolum.com/blog/saas/i-analyzed-saas-billing-dark-patterns/</id>
-        <link href="https://quolum.com/blog/saas/i-analyzed-saas-billing-dark-patterns/"/>
-        <updated>2021-11-17T16:48:45.000Z</updated>
+        <title type="html"><![CDATA[New and improved Linux Random Number Generator ready for testing]]></title>
+        <id>https://portswigger.net/daily-swig/secure-development-new-and-improved-linux-random-number-generator-ready-for-testing</id>
+        <link href="https://portswigger.net/daily-swig/secure-development-new-and-improved-linux-random-number-generator-ready-for-testing"/>
+        <updated>2021-11-17T18:01:37.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -877,66 +1010,6 @@ Trojan Source has highlighted.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[wrangler 2.0 — a new developer experience for Cloudflare Workers]]></title>
-        <id>619289548d789002a97b63fe</id>
-        <link href="https://blog.cloudflare.com/wrangler-v2-beta/"/>
-        <updated>2021-11-16T13:59:22.000Z</updated>
-        <summary type="html"><![CDATA[We're excited to announce the second-generation of our developer tooling for Cloudflare Workers. It’s a new developer experience that’s out-of-the-box, lightning fast, and can even run Workers on a local machine. (Yes!)]]></summary>
-        <author>
-            <name>Ashcon Partovi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Developer Spotlight: James Ross, Nodecraft]]></title>
-        <id>6193ac49d6d2a702a97d3da5</id>
-        <link href="https://blog.cloudflare.com/developer-spotlight-nodecraft/"/>
-        <updated>2021-11-16T13:58:49.000Z</updated>
-        <summary type="html"><![CDATA[Nodecraft allows gamers to host dedicated servers for their favorite games. James Ross is the Chief Technology Officer for Nodecraft and has advocated for Cloudflare — particularly Cloudflare Workers —  within the company.]]></summary>
-        <author>
-            <name>Kristian Freeman</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Automatically generating types for Cloudflare Workers]]></title>
-        <id>6193a867d6d2a702a97d3d5f</id>
-        <link href="https://blog.cloudflare.com/automatically-generated-types/"/>
-        <updated>2021-11-16T13:58:45.000Z</updated>
-        <summary type="html"><![CDATA[Every time the Workers runtime code is built, a script runs over the public APIs and generates the Rust and TypeScript types as well as a JSON file containing an intermediate representation of the static types. The types are sent to the appropriate repositories and the JSON file is uploaded as well.]]></summary>
-        <author>
-            <name>Brendan Coll</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JavaScript modules are now supported on Cloudflare Workers]]></title>
-        <id>6193a267d6d2a702a97d3d0f</id>
-        <link href="https://blog.cloudflare.com/workers-javascript-modules/"/>
-        <updated>2021-11-16T13:58:42.000Z</updated>
-        <summary type="html"><![CDATA[Now you can use JavaScript modules, also known as ECMAScript or “ES” modules, on Cloudflare Workers. This replaces the old “addEventListener” syntax with a new “import” and “export” semantics that makes it really easy to write reusable, modular code.]]></summary>
-        <author>
-            <name>Ashcon Partovi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Introducing Services: Build Composable, Distributed Applications on Cloudflare Workers]]></title>
-        <id>61939bfdd6d2a702a97d3cb6</id>
-        <link href="https://blog.cloudflare.com/introducing-worker-services/"/>
-        <updated>2021-11-16T13:58:40.000Z</updated>
-        <summary type="html"><![CDATA[We’re excited to announce Services, the new way to build composable, distributed applications on Cloudflare Workers. Learn how Services can replace the traditional “microservice architecture” with an alternative, zero-cost abstraction model.]]></summary>
-        <author>
-            <name>Ashcon Partovi</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intrepid robot is the Wall-E of the deep sea]]></title>
-        <id>https://www.wired.com/story/this-intrepid-robot-is-the-wall-e-of-the-deep-sea/</id>
-        <link href="https://www.wired.com/story/this-intrepid-robot-is-the-wall-e-of-the-deep-sea/"/>
-        <updated>2021-11-16T13:11:42.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Red Hat's Stratis Storage 3.0 Released With Many Improvements]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Stratis-Storage-3.0</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Stratis-Storage-3.0"/>
@@ -977,46 +1050,6 @@ Trojan Source has highlighted.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A concept that took hold in the ’70s haunted everything from seat belts to masks]]></title>
-        <id>https://slate.com/technology/2021/11/risk-compensation-debunked-masks-rapid-tests-vaccines-safety.html</id>
-        <link href="https://slate.com/technology/2021/11/risk-compensation-debunked-masks-rapid-tests-vaccines-safety.html"/>
-        <updated>2021-11-16T09:39:07.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GCC 12 Moves On To Fixing Bugs - Now In "Stage 3" Development]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-12-Enters-Stage-3</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-12-Enters-Stage-3"/>
-        <updated>2021-11-16T09:37:00.000Z</updated>
-        <summary type="html"><![CDATA[As expected GCC 12 has now entered its "stage 3" development phase where the free software developers involved will focus on bug fixing rather than landing shiny new features...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Freedreno Gallium3D Lands Basic Support For "Clover" OpenCL]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Freedreno-Basic-Clover</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Freedreno-Basic-Clover"/>
-        <updated>2021-11-16T05:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Mesa 22.0 development code now has basic support in the Freedreno Gallium3D driver for OpenCL powered by the Clover state tracker...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FreeBSD Improving Boot Times, Adds Hole-Punching, Better Linux Binary Compatibility]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=FreeBSD-Q3-Status-2021</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=FreeBSD-Q3-Status-2021"/>
-        <updated>2021-11-16T00:30:27.000Z</updated>
-        <summary type="html"><![CDATA[The FreeBSD project has published their latest quarterly status report highlighting the work achieved on this open-source BSD operating system. Even with the pandemic and limitations on physical events, the FreeBSD developers continue making significant progress on their goals and technology road-map...]]></summary>
-        <author>
-            <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Why we created a Prometheus Agent mode from the Grafana Agent]]></title>
         <id>https://grafana.com/blog/2021/11/16/why-we-created-a-prometheus-agent-mode-from-the-grafana-agent/</id>
         <link href="https://grafana.com/blog/2021/11/16/why-we-created-a-prometheus-agent-mode-from-the-grafana-agent/"/>
@@ -1031,16 +1064,6 @@ On 2021-10-29, that PR was merged into Prometheus’s main branch. 
 It took a little while to get to where we are today, but I’m thrilled that we were able to use the Grafana …]]></summary>
         <author>
             <name>Grafana Labs Blog on Grafana Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fedora Drafts Plans For Retiring ARMv7 Support]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-37-Drop-ARMv7</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Fedora-37-Drop-ARMv7"/>
-        <updated>2021-11-15T20:16:01.000Z</updated>
-        <summary type="html"><![CDATA[It's crazy to think it has already been ten years since Arm disclosed ARMv8 with 64-bit support. Given the success of ARMv8 (and Armv9 now on the way) and there not being much in the way of useful ARMv7 hardware in recent years and the like, Fedora has drafted plans for retiring its ARMv7 support...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1267,21 +1290,6 @@ Large projects including systemd and curl are already using ClusterFuzzLite duri
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[$] Some upcoming memory-management patches]]></title>
-        <id>https://lwn.net/Articles/875587/rss</id>
-        <link href="https://lwn.net/Articles/875587/rss"/>
-        <updated>2021-11-12T15:23:22.000Z</updated>
-        <summary type="html"><![CDATA[The memory-management subsystem remains one of the most complex parts of
-the kernel, with an ongoing reliance on various heuristics for
-performance.  It is thus not surprising that developers continue to try to
-improve its functionality.  A number of memory-management patches are
-currently in circulation; read on for a look at the freeing of page-table
-pages, kvmalloc() flags, memory clearing, and NUMA "home nodes".]]></summary>
-        <author>
-            <name>corbet</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New – EC2 Instances (G5) with NVIDIA A10G Tensor Core GPUs]]></title>
         <id>11ddd41744e4e62813603bd93b2207ce7d47f95a</id>
         <link href="https://aws.amazon.com/blogs/aws/new-ec2-instances-g5-with-nvidia-a10g-tensor-core-gpus/"/>
@@ -1412,19 +1420,6 @@ The Grafana Enterprise Stack now comprises:
 Grafana Enterprise Traces, just announced as our newest addition to the Grafana Enterprise Stack, GET is a scalable, secure, self-managed tracing service.
 Grafana Enterprise, an enhanced version of Grafana that includes enterprise features, support, and plugins for data sources for other commercial tools such as Splunk, New Relic, MongoDB, ServiceNow, Oracle, and Snowflake. 
 Grafana Enterprise Metrics, an infinitely sca…]]></summary>
-        <author>
-            <name>Grafana Labs Blog on Grafana Labs</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ObservabilityCON 2021: Your guide to the newest announcements from Grafana Labs]]></title>
-        <id>https://grafana.com/blog/2021/11/09/observabilitycon-announcements/</id>
-        <link href="https://grafana.com/blog/2021/11/09/observabilitycon-announcements/"/>
-        <updated>2021-11-09T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[This morning during the ObservabilityCON keynote, we announced some of the exciting projects and feature enhancements we’ve been working on for our customers and community. 
-And it doesn’t end there. Throughout the week, we’ll continue to unveil new features, go deeper with live demos, and share our plans to shape the future of observability. With so many new announcements and features to check out, we want to make sure you know where to get more details about these developments. Here is your guide to all of the newest announcements from Grafana Labs.
-Grafana OnCall for better on-call management
-One of the most exciting announcements made during the keynote is the beta preview for Grafana OnCall, an easy-to-use on-call management tool available in Grafana Cloud. Born from Grafana Labs’ rec…]]></summary>
         <author>
             <name>Grafana Labs Blog on Grafana Labs</name>
         </author>
