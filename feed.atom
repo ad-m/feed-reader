@@ -1,45 +1,125 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2021-11-19T00:01:07.006Z</id>
+    <id>urn:2021-11-19T08:01:03.710Z</id>
     <title>osmos::feed</title>
-    <updated>2021-11-19T00:01:07.007Z</updated>
+    <updated>2021-11-19T08:01:03.710Z</updated>
     <generator>osmosfeed 1.11.3</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
-        <title type="html"><![CDATA[Acquisition of Chess Knowledge in AlphaZero]]></title>
+        <title type="html"><![CDATA[Stacker (YC S20) Is Hiring Across Engineering]]></title>
+        <id>https://www.stackerhq.com/careers#job-listing</id>
+        <link href="https://www.stackerhq.com/careers#job-listing"/>
+        <updated>2021-11-19T07:00:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fragment of lost 12th-century epic poem found in another book’s binding]]></title>
+        <id>https://www.theguardian.com/books/2021/nov/18/fragment-of-lost-12th-century-epic-poem-found-in-another-books-binding</id>
+        <link href="https://www.theguardian.com/books/2021/nov/18/fragment-of-lost-12th-century-epic-poem-found-in-another-books-binding"/>
+        <updated>2021-11-19T05:48:17.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPv4 unicast extensions project – adding 419M new IPs to the world]]></title>
+        <id>https://github.com/schoen/unicast-extensions</id>
+        <link href="https://github.com/schoen/unicast-extensions"/>
+        <updated>2021-11-19T04:29:04.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[80386DX ISA single board microcomputer]]></title>
+        <id>https://alexandrugroza.ro/microelectronics/system-design/isa-80386dx-sbmc/index.html</id>
+        <link href="https://alexandrugroza.ro/microelectronics/system-design/isa-80386dx-sbmc/index.html"/>
+        <updated>2021-11-19T04:27:20.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google SAPI: Generate sandboxes for C/C++ libraries automatically]]></title>
+        <id>https://github.com/google/sandboxed-api</id>
+        <link href="https://github.com/google/sandboxed-api"/>
+        <updated>2021-11-19T03:37:53.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notes on ConstitutionDAO]]></title>
+        <id>https://every.to/divinations/notes-on-constitutiondao</id>
+        <link href="https://every.to/divinations/notes-on-constitutiondao"/>
+        <updated>2021-11-19T03:21:10.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Duff’s Device in 2021]]></title>
+        <id>https://belaycpp.com/2021/11/18/duffs-device-in-2021/</id>
+        <link href="https://belaycpp.com/2021/11/18/duffs-device-in-2021/"/>
+        <updated>2021-11-19T01:54:30.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google Play permitting alternative billing systems for users in South Korea]]></title>
+        <id>https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-en.html</id>
+        <link href="https://developers-kr.googleblog.com/2021/11/enabling-alternative-billing-in-korea-en.html"/>
+        <updated>2021-11-19T01:49:28.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where is Ruby Headed in 2021?]]></title>
+        <id>https://bignerdranch.com/blog/where-is-ruby-headed-in-2021/</id>
+        <link href="https://bignerdranch.com/blog/where-is-ruby-headed-in-2021/"/>
+        <updated>2021-11-19T01:15:25.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HomeBrew Computers Web-Ring]]></title>
+        <id>https://www.homebrewcpuring.org/</id>
+        <link href="https://www.homebrewcpuring.org/"/>
+        <updated>2021-11-19T01:01:39.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Intel Releases ControlFlag 1.0 For AI-Driven Detection Of Bugs Within C Code]]></title>
+        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-ControlFlag-1.0</id>
+        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Intel-ControlFlag-1.0"/>
+        <updated>2021-11-19T00:02:04.000Z</updated>
+        <summary type="html"><![CDATA[Intel last month open-sourced "ControlFlag" for finding bugs within source code by using AI with training off more than a reported one billion lines of code. Intel has said they have successfully been using it within their software from applications down to firmware. The new milestone today is ControlFlag 1.0 being released...]]></summary>
+        <author>
+            <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acquisition of chess knowledge in AlphaZero]]></title>
         <id>https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero</id>
         <link href="https://en.chessbase.com/post/acquisition-of-chess-knowledge-in-alphazero"/>
         <updated>2021-11-18T23:34:42.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upcoming German Government Coalition Agrees on Legalizing Cannabis]]></title>
-        <id>https://www.spiegel.de/politik/deutschland/ampel-parteien-einigen-sich-auf-legalisierung-von-cannabis-a-216b328b-5746-4eb8-afe6-034ea7a05269</id>
-        <link href="https://www.spiegel.de/politik/deutschland/ampel-parteien-einigen-sich-auf-legalisierung-von-cannabis-a-216b328b-5746-4eb8-afe6-034ea7a05269"/>
-        <updated>2021-11-18T21:52:23.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Save the planet Program in C, avoid Python, Perl]]></title>
-        <id>https://www.cnx-software.com/2021/11/18/save-the-planet-program-in-c-avoid-python-perl/</id>
-        <link href="https://www.cnx-software.com/2021/11/18/save-the-planet-program-in-c-avoid-python-perl/"/>
-        <updated>2021-11-18T21:47:07.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Futurists have their heads in the clouds]]></title>
-        <id>https://erikhoel.substack.com/p/futurists-have-their-heads-in-the</id>
-        <link href="https://erikhoel.substack.com/p/futurists-have-their-heads-in-the"/>
-        <updated>2021-11-18T21:40:37.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -70,26 +150,6 @@
         <id>https://society.robinsloan.com/archive/notes-on-web3/</id>
         <link href="https://society.robinsloan.com/archive/notes-on-web3/"/>
         <updated>2021-11-18T21:19:22.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motion (YC W20) is hiring engineers to build the future of time management]]></title>
-        <id>https://www.usemotion.com/careers</id>
-        <link href="https://www.usemotion.com/careers"/>
-        <updated>2021-11-18T21:01:00.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MOOC on Mobile Robotics using ROS 2 and your own affordable robot]]></title>
-        <id>https://blog.hadabot.com/learn-ros2-mobile-robotics-mooc-with-hadabot-robot-kit.html</id>
-        <link href="https://blog.hadabot.com/learn-ros2-mobile-robotics-mooc-with-hadabot-robot-kit.html"/>
-        <updated>2021-11-18T20:44:15.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -136,30 +196,10 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Vials labeled ‘smallpox’ are found in Pennsylvania laboratory]]></title>
-        <id>https://www.nytimes.com/2021/11/18/us/smallpox-vials-pennsylvania.html</id>
-        <link href="https://www.nytimes.com/2021/11/18/us/smallpox-vials-pennsylvania.html"/>
-        <updated>2021-11-18T18:58:59.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[TensorFlow Graph Neural Networks]]></title>
         <id>https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html</id>
         <link href="https://blog.tensorflow.org/2021/11/introducing-tensorflow-gnn.html"/>
         <updated>2021-11-18T18:33:18.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Candy CORN: analyzing the CORONA concrete crosses myth (2020)]]></title>
-        <id>https://www.thespacereview.com/article/4094/1</id>
-        <link href="https://www.thespacereview.com/article/4094/1"/>
-        <updated>2021-11-18T18:00:02.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -193,16 +233,6 @@ be handled.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[A physicist studied Ben Franklin’s clever tricks to foil currency counterfeiters]]></title>
-        <id>https://arstechnica.com/science/2021/11/history-detective-using-physics-to-track-currency-fraud-forgery-through-history/</id>
-        <link href="https://arstechnica.com/science/2021/11/history-detective-using-physics-to-track-currency-fraud-forgery-through-history/"/>
-        <updated>2021-11-18T17:16:48.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Two more stable kernels]]></title>
         <id>https://lwn.net/Articles/876425/rss</id>
         <link href="https://lwn.net/Articles/876425/rss"/>
@@ -217,6 +247,16 @@ kernels released contain important fixes and users should upgrade.
 Update: 5.15.3 was also released.]]></summary>
         <author>
             <name>jake</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dialogue Tags: An Empirical Study]]></title>
+        <id>https://elliottslaughter.com/2020/06/dialogue-tags</id>
+        <link href="https://elliottslaughter.com/2020/06/dialogue-tags"/>
+        <updated>2021-11-18T17:03:29.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -284,56 +324,6 @@ Update: 5.15.3 was also released.]]></summary>
                                                                                               96                                                                               table { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }             .mj-outlook-group-fix { width:100% !important; }             .block-grid-outlook .button-container a {background: transparent !important;}                …]]></summary>
         <author>
             <name>Infrastructure as a Newsletter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consider LibreSSL as default OpenSSL provider again]]></title>
-        <id>https://gitlab.alpinelinux.org/alpine/tsc/-/issues/28</id>
-        <link href="https://gitlab.alpinelinux.org/alpine/tsc/-/issues/28"/>
-        <updated>2021-11-18T14:38:31.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backdooring Rust crates for fun and profit]]></title>
-        <id>https://kerkour.com/rust-crate-backdoor/</id>
-        <link href="https://kerkour.com/rust-crate-backdoor/"/>
-        <updated>2021-11-18T14:29:03.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How we protect our most sensitive secrets from the most determined attackers]]></title>
-        <id>https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets/</id>
-        <link href="https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets/"/>
-        <updated>2021-11-18T14:28:46.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OpenAI’s API now available with no waitlist]]></title>
-        <id>https://openai.com/blog/api-no-waitlist/</id>
-        <link href="https://openai.com/blog/api-no-waitlist/"/>
-        <updated>2021-11-18T14:19:36.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Launch HN: Accord (YC W20) – Repeatable sales and onboarding for B2B startups]]></title>
-        <id>https://news.ycombinator.com/item?id=29265591</id>
-        <link href="https://news.ycombinator.com/item?id=29265591"/>
-        <updated>2021-11-18T14:15:58.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -427,10 +417,10 @@ Update: 5.15.3 was also released.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Demystifying OpenZFS 2.0]]></title>
-        <id>https://klarasystems.com/articles/demystifying-openzfs-2-0/</id>
-        <link href="https://klarasystems.com/articles/demystifying-openzfs-2-0/"/>
-        <updated>2021-11-18T12:57:47.000Z</updated>
+        <title type="html"><![CDATA[Think Different – Think Users]]></title>
+        <id>https://foundersatwork.posthaven.com/think-different-think-users</id>
+        <link href="https://foundersatwork.posthaven.com/think-different-think-users"/>
+        <updated>2021-11-18T13:07:57.000Z</updated>
         <summary type="html"><![CDATA[Comments]]></summary>
         <author>
             <name>Hacker News</name>
@@ -447,26 +437,6 @@ Update: 5.15.3 was also released.]]></summary>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[What does microblogging give you that forums didn't?]]></title>
-        <id>https://cybre.space/@tindall/107276933803596360</id>
-        <link href="https://cybre.space/@tindall/107276933803596360"/>
-        <updated>2021-11-18T11:49:01.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Megaprocessor – A micro-processor built large (2016)]]></title>
-        <id>https://www.megaprocessor.com/</id>
-        <link href="https://www.megaprocessor.com/"/>
-        <updated>2021-11-18T11:14:53.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Linux Prepares Straight Line Speculation "SLS" Mitigation For x86/x86_64 CPUs]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-12-Lands-SLS-Mitigation</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-12-Lands-SLS-Mitigation"/>
@@ -474,6 +444,26 @@ Update: 5.15.3 was also released.]]></summary>
         <summary type="html"><![CDATA[Last month I reported on activity around Straight Line Speculation "SLS" mitigation for x86_64 CPUs, similar to the work carried out by Arm last year on their SLS vulnerability. That work on the x86 (x86_64 inclusive) side has now been merged to GCC 12 Git and a kernel patch is expected to come shortly that will flip it on as the latest CPU security protection...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elicit]]></title>
+        <id>https://elicit.org</id>
+        <link href="https://elicit.org"/>
+        <updated>2021-11-18T05:50:12.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer of ’59:  the practical side of the 1559 papal conclave]]></title>
+        <id>https://www.historytoday.com/archive/review/summer-59</id>
+        <link href="https://www.historytoday.com/archive/review/summer-59"/>
+        <updated>2021-11-18T05:32:09.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -937,6 +927,16 @@ Trojan Source has highlighted.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Intrepid robot is the Wall-E of the deep sea]]></title>
+        <id>https://www.wired.com/story/this-intrepid-robot-is-the-wall-e-of-the-deep-sea/</id>
+        <link href="https://www.wired.com/story/this-intrepid-robot-is-the-wall-e-of-the-deep-sea/"/>
+        <updated>2021-11-16T13:11:42.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Red Hat's Stratis Storage 3.0 Released With Many Improvements]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=Stratis-Storage-3.0</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Stratis-Storage-3.0"/>
@@ -944,6 +944,16 @@ Trojan Source has highlighted.]]></summary>
         <summary type="html"><![CDATA[For over four years now Red Hat has been working on Stratis as their new Linux storage solution. As an alternative to shifting to newer file-systems like Btrfs or the controversial OpenZFS, Stratis has been about offering similar advanced Linux storage features while building atop LVM, DeviceMapper and XFS all while using the modern Rust programming language. Stratis Storage 3.0 is now available as the latest work on this front...]]></summary>
         <author>
             <name>Phoronix</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cracking the Adventure Time Cipher (2016)]]></title>
+        <id>https://aaronrandall.com/blog/cracking-the-adventure-time-cipher/</id>
+        <link href="https://aaronrandall.com/blog/cracking-the-adventure-time-cipher/"/>
+        <updated>2021-11-16T10:33:37.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -967,6 +977,16 @@ Trojan Source has highlighted.]]></summary>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A concept that took hold in the ’70s haunted everything from seat belts to masks]]></title>
+        <id>https://slate.com/technology/2021/11/risk-compensation-debunked-masks-rapid-tests-vaccines-safety.html</id>
+        <link href="https://slate.com/technology/2021/11/risk-compensation-debunked-masks-rapid-tests-vaccines-safety.html"/>
+        <updated>2021-11-16T09:39:07.000Z</updated>
+        <summary type="html"><![CDATA[Comments]]></summary>
+        <author>
+            <name>Hacker News</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[GCC 12 Moves On To Fixing Bugs - Now In "Stage 3" Development]]></title>
         <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-12-Enters-Stage-3</id>
         <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=GCC-12-Enters-Stage-3"/>
@@ -984,16 +1004,6 @@ Trojan Source has highlighted.]]></summary>
         <summary type="html"><![CDATA[Mesa 22.0 development code now has basic support in the Freedreno Gallium3D driver for OpenCL powered by the Clover state tracker...]]></summary>
         <author>
             <name>Phoronix</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPC Buffer Sizes]]></title>
-        <id>https://www.netmeister.org/blog/ipcbufs.html</id>
-        <link href="https://www.netmeister.org/blog/ipcbufs.html"/>
-        <updated>2021-11-16T04:51:57.000Z</updated>
-        <summary type="html"><![CDATA[Comments]]></summary>
-        <author>
-            <name>Hacker News</name>
         </author>
     </entry>
     <entry>
@@ -1055,16 +1065,6 @@ this release:
 	results from previous merges.]]></summary>
         <author>
             <name>corbet</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LWJGL 3.3 Released For This Popular Java Library - OpenCL 3.0 Added, New Bindings]]></title>
-        <id>https://www.phoronix.com/scan.php?page=news_item&amp;px=LWJGL-3.3-Released</id>
-        <link href="https://www.phoronix.com/scan.php?page=news_item&amp;px=LWJGL-3.3-Released"/>
-        <updated>2021-11-15T19:30:00.000Z</updated>
-        <summary type="html"><![CDATA[The Lightweight Java Game Library "LWJGL" has seen its first release in more than two years for this library that provides bindings for a number of different native APIs. With not seeing a release since before the pandemic, there is a lot in store with today's LWJGL 3.3 release...]]></summary>
-        <author>
-            <name>Phoronix</name>
         </author>
     </entry>
     <entry>
@@ -1779,16 +1779,6 @@ https://loft.…]]></summary>
                                                                                               96                                                                               table { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }             .mj-outlook-group-fix { width:100% !important; }             .block-grid-outlook .button-container a {background: transparent !important;}                 …]]></summary>
         <author>
             <name>Infrastructure as a Newsletter</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Computer Vision at the Edge with AWS Panorama]]></title>
-        <id>bb64b081a33e0e139a0be82e2486b897d168e908</id>
-        <link href="https://aws.amazon.com/blogs/aws/computer-vision-at-the-edge-with-aws-panorama/"/>
-        <updated>2021-10-20T17:57:42.000Z</updated>
-        <summary type="html"><![CDATA[Today, the AWS Panorama Appliance is generally available to all of you. The AWS Panorama Appliance is a computer vision (CV) appliance designed to be deployed on your network to analyze images provided by your on-premises cameras. Every week, I read about new and innovative use cases for computer vision. Some customers are using CV […]]]></summary>
-        <author>
-            <name>Sébastien Stormacq</name>
         </author>
     </entry>
 </feed>
